@@ -1,0 +1,34 @@
+{
+  "id": 3374,
+  "metadata": {
+    "volume": {
+      "id": 61
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The story of Zamzam"
+        },
+        "ar": {
+          "text": "باب قِصَّةِ زَمْزَمَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ أَسْلَمُ وَغِفَارُ وَشَىْءٌ مِنْ مُزَيْنَةَ وَجُهَيْنَةَ ـ أَوْ قَالَ شَىْءٌ مِنْ جُهَيْنَةَ أَوْ مُزَيْنَةَ ـ خَيْرٌ عِنْدَ اللَّهِ ـ أَوْ قَالَ ـ يَوْمَ الْقِيَامَةِ مِنْ أَسَدٍ وَتَمِيمٍ وَهَوَازِنَ وَغَطَفَانَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: Pejgamberi (s.a.v.s.) ka thënë: \"Fiset Eslem, Gifari dhe disa njerëz nga Muzina dhe Xhuhejna (apo ka thënë: disa njerëz nga Xhuhejna ose Muzina) janë më të mirë tek Allahu (apo ka thënë: në Ditën e Kiametit) sesa fiset Esed, Temim, Heuazin dhe Gatafan.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Hurairah (ra):",
+      "text": "The Prophet (ﷺ) said, (The people of) Aslam, Ghifar and some people of Muzaina and Juhaina or said (some people of Juhaina or Muzaina) are better with Allah or said (on the Day of resurrection) than the tribe of Asad, Tamim, Hawazin and Ghatafan."
+    }
+  }
+}

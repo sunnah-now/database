@@ -1,0 +1,34 @@
+{
+  "id": 1526,
+  "metadata": {
+    "volume": {
+      "id": 25
+    },
+    "chapter": {
+      "id": 41,
+      "language": {
+        "en": {
+          "text": "From where to leave Makkah"
+        },
+        "ar": {
+          "text": "باب مِنْ أَيْنَ يَخْرُجُ مِنْ مَكَّةَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الْوَهَّابِ، حَدَّثَنَا حَاتِمٌ، عَنْ هِشَامٍ، عَنْ عُرْوَةَ، دَخَلَ النَّبِيُّ صلى الله عليه وسلم عَامَ الْفَتْحِ مِنْ كَدَاءٍ مِنْ أَعْلَى مَكَّةَ‏.‏ وَكَانَ عُرْوَةُ أَكْثَرَ مَا يَدْخُلُ مِنْ كَدَاءٍ وَكَانَ أَقْرَبَهُمَا إِلَى مَنْزِلِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Urue: Pejgamberi (s.a.v.s.) hyri në Mekë në vitin e çlirimit nga ana e Kadësë, që ndodhet në pjesën e sipërme të Mekës. Urue shpesh hynte nga Kada, pasi ishte më afër vendbanimit të tij."
+    },
+    "en": {
+      "narrator": "Narrated Hisham:",
+      "text": "`Urwa said, \"The Prophet (ﷺ) entered Mecca in the year of the conquest of Mecca from the side of Kada' which is at the higher part of Mecca.\" `Urwa often entered from Kada' which was nearer of the two to his dwelling place."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2048,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "What is said about markets"
+        },
+        "ar": {
+          "text": "باب مَا ذُكِرَ فِي الأَسْوَاقِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا أَبُو ضَمْرَةَ، حَدَّثَنَا مُوسَى، عَنْ نَافِعٍ، حَدَّثَنَا ابْنُ عُمَرَ، أَنَّهُمْ كَانُوا يَشْتَرُونَ الطَّعَامَ مِنَ الرُّكْبَانِ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم فَيَبْعَثُ عَلَيْهِمْ مَنْ يَمْنَعُهُمْ أَنْ يَبِيعُوهُ حَيْثُ اشْتَرَوْهُ، حَتَّى يَنْقُلُوهُ حَيْثُ يُبَاعُ الطَّعَامُ‏.‏ قَالَ وَحَدَّثَنَا ابْنُ عُمَرَ ـ رضى الله عنهما ـ قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم أَنْ يُبَاعَ الطَّعَامُ إِذَا اشْتَرَاهُ حَتَّى يَسْتَوْفِيَهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: Njerëzit blinin ushqim nga karvanët në kohën e Pejgamberit (s.a.v.s.). Ai i ndalonte ata që ta shitnin atë në të njëjtin vend ku e kishin blerë, derisa ta dërgonin në tregun ku shitej ushqimi. Ibn Omeri tha se Pejgamberi (s.a.v.s.) gjithashtu e ndaloi rishitjen e ushqimit nga blerësi derisa ai ta marrë atë në dorëzim të plotë me masë të saktë."
+    },
+    "en": {
+      "narrator": "Narrated Nafi`:",
+      "text": "Ibn `Umar told us that the people used to buy food from the caravans in the lifetime of the Prophet. The Prophet (ﷺ) used to forbid them to sell it at the very place where they had purchased it (but they were to wait) till they carried it to the market where foodstuff was sold. Ibn `Umar said, 'The Prophet (ﷺ) also forbade the reselling of foodstuff by somebody who had bought it unless he had received it with exact full measure.'"
+    }
+  }
+}

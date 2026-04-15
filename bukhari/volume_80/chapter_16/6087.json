@@ -1,0 +1,34 @@
+{
+  "id": 6087,
+  "metadata": {
+    "volume": {
+      "id": 80
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "What to say when one gets up in the morning"
+        },
+        "ar": {
+          "text": "باب مَا يَقُولُ إِذَا أَصْبَحَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ حُذَيْفَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَرَادَ أَنْ يَنَامَ قَالَ ‏\"‏ بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا ‏\"‏‏.‏ وَإِذَا اسْتَيْقَظَ مِنْ مَنَامِهِ قَالَ ‏\"‏ الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Hudhejfe: Kurdoherë që Pejgamberi (s.a.v.s.) dëshironte të binte në shtrat për të fjetur, ai thoshte: \"Bismika Allahumme emutu ve ahja (Me emrin Tënd, o Allah, vdes dhe jetoj)\". Kurse kur zgjohej nga gjumi, thoshte: \"El-hamdu lil-lahil-ledhi ahjana ba'de ma ematena ve ilejhin-nushur (I gjithë falënderimi i takon Allahut, i Cili na ringjalli pasi na dha vdekjen dhe tek Ai është rikthimi)\"."
+    },
+    "en": {
+      "narrator": "Narrated Hudhaifa:",
+      "text": "Whenever the Prophet (ﷺ) intended to go to bed, he would recite: \"Bismika Allahumma amutu wa ahya (With Your name, O Allah, I die and I live).\" And when he woke up from his sleep, he would say: \"Al-hamdu lil-lahil-ladhi ahyana ba'da ma amatana; wa ilaihi an-nushur (All the Praises are for Allah Who has made us alive after He made us die (sleep) and unto Him is the Resurrection). \""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2566,
+  "metadata": {
+    "volume": {
+      "id": 52
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "The defendant has to take an oath wherever it becomes legally compulsory"
+        },
+        "ar": {
+          "text": "باب يَحْلِفُ الْمُدَّعَى عَلَيْهِ حَيْثُمَا وَجَبَتْ عَلَيْهِ الْيَمِينُ، وَلاَ يُصْرَفُ مِنْ مَوْضِعٍ إِلَى غَيْرِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنِ ابْنِ مَسْعُودٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ حَلَفَ عَلَى يَمِينٍ لِيَقْتَطِعَ بِهَا مَالاً لَقِيَ اللَّهَ وَهْوَ عَلَيْهِ غَضْبَانُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Mes'udi: Pejgamberi (s.a.v.s.) ka thënë: \"Kushdo që bën një betim të rremë për të përvetësuar pasurinë e tjetrit, do ta takojë Allahun dhe Ai do të jetë i zemëruar me të.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn Mas`ud:",
+      "text": "The Prophet (ﷺ) said, \"Whoever takes a (false) oath in order to grab (others) property, then Allah will be angry with him when he will meet Him.\""
+    }
+  }
+}

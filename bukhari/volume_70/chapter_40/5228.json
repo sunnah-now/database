@@ -1,0 +1,34 @@
+{
+  "id": 5228,
+  "metadata": {
+    "volume": {
+      "id": 70
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ زَكَرِيَّاءَ، عَنْ عَاصِمٍ، عَنْ أَبِي عُثْمَانَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَسَمَ النَّبِيُّ صلى الله عليه وسلم بَيْنَنَا تَمْرًا فَأَصَابَنِي مِنْهُ خَمْسٌ أَرْبَعُ تَمَرَاتٍ وَحَشَفَةٌ، ثُمَّ رَأَيْتُ الْحَشَفَةَ هِيَ أَشَدُّهُنَّ لِضِرْسِي‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: Pejgamberi (s.a.v.s.) ndau hurma mes nesh dhe pjesa ime ishte pesë hurma; katër prej tyre ishin të mira, ndërsa njëra ishte 'hashafa' (hurmë e tharë dhe e fishkur). Vura re se ajo ishte më e forta për dhëmbët e mi."
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) distributed dates among us, and my share was five dates, four of which were good, and one was a ,Hashafa, and I found the Hashafa the hardest for my teeth."
+    }
+  }
+}

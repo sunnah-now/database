@@ -1,0 +1,34 @@
+{
+  "id": 1300,
+  "metadata": {
+    "volume": {
+      "id": 23
+    },
+    "chapter": {
+      "id": 73,
+      "language": {
+        "en": {
+          "text": "The burial of two or three men in one grave"
+        },
+        "ar": {
+          "text": "باب دَفْنِ الرَّجُلَيْنِ وَالثَّلاَثَةِ فِي قَبْرٍ وَاحِدٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سَعِيدُ بْنُ سُلَيْمَانَ، حَدَّثَنَا اللَّيْثُ، حَدَّثَنَا ابْنُ شِهَابٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ كَعْبٍ، أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ أَخْبَرَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَجْمَعُ بَيْنَ الرَّجُلَيْنِ مِنْ قَتْلَى أُحُدٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xhabir bin Abdullahu: Pejgamberi (s.a.v.s.) i varroste bashkë çdo dy dëshmorë të Uhudit në një varr të vetëm."
+    },
+    "en": {
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "The Prophet (ﷺ) buried every two martyrs in of Uhud in one grave."
+    }
+  }
+}

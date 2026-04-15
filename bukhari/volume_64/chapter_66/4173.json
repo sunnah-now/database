@@ -1,0 +1,34 @@
+{
+  "id": 4173,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 66,
+      "language": {
+        "en": {
+          "text": "The Hajj in which Abu Bakr led the people"
+        },
+        "ar": {
+          "text": "باب حَجُّ أَبِي بَكْرٍ بِالنَّاسِ فِي سَنَةِ تِسْعٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَبُو الرَّبِيعِ، حَدَّثَنَا فُلَيْحٌ، عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ أَبَا بَكْرٍ الصِّدِّيقَ ـ رضى الله عنه ـ بَعَثَهُ فِي الْحَجَّةِ الَّتِي أَمَّرَهُ النَّبِيُّ صلى الله عليه وسلم قَبْلَ حَجَّةِ الْوَدَاعِ يَوْمَ النَّحْرِ فِي رَهْطٍ يُؤَذِّنُ فِي النَّاسِ لاَ يَحُجُّ بَعْدَ الْعَامِ مُشْرِكٌ وَلاَ يَطُوفُ بِالْبَيْتِ عُرْيَانٌ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: Gjatë Haxhit në të cilin Pejgamberi (s.a.v.s.) e kishte caktuar Ebu Bekër es-Siddikun si udhëheqës të Haxhit, para Haxhit të Lamtumirës, në ditën e Kurbanit, Ebu Bekri e dërgoi atë së bashku me një grup njerëzish për t'u shpallur njerëzve: \"Asnjë idhujtar nuk lejohet të kryejë Haxhin pas këtij viti dhe askush nuk lejohet të bëjë Tevaf rreth Qabes i zhveshur.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "That during the Hajj in which the Prophet (ﷺ) had made Abu Bakr As Siddiq as chief of the, Hajj before the Hajj-ul-Wida,' on the day of Nahr, Abu Bakr sent him along with a group of persons to announce to the people. \"No pagan is permitted to perform Hajj after this year, and nobody is permitted to perform the Tawaf of the Ka`ba naked.\""
+    }
+  }
+}

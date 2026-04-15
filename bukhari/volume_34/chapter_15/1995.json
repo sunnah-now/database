@@ -1,0 +1,34 @@
+{
+  "id": 1995,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 15,
+      "language": {
+        "en": {
+          "text": "The earnings of a person and his manual labour"
+        },
+        "ar": {
+          "text": "باب كَسْبِ الرَّجُلِ وَعَمَلِهِ بِيَدِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ لَمَّا اسْتُخْلِفَ أَبُو بَكْرٍ الصِّدِّيقُ قَالَ لَقَدْ عَلِمَ قَوْمِي أَنَّ حِرْفَتِي لَمْ تَكُنْ تَعْجِزُ عَنْ مَئُونَةِ أَهْلِي، وَشُغِلْتُ بِأَمْرِ الْمُسْلِمِينَ، فَسَيَأْكُلُ آلُ أَبِي بَكْرٍ مِنْ هَذَا الْمَالِ وَيَحْتَرِفُ لِلْمُسْلِمِينَ فِيهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Aishja (r.a.): Kur Ebu Bekër es-Siddiku u zgjodh halife, ai tha: \"Populli im e di se profesioni im nuk ka qenë i pamjaftueshëm për të siguruar jetesën e familjes sime. Mirëpo, meqenëse do të jem i angazhuar me çështjet e muslimanëve, familja e Ebu Bekrit do të ushqehet nga kjo pasuri, ndërsa unë do të ushtroj profesionin e shërbimit ndaj muslimanëve.\""
+    },
+    "en": {
+      "narrator": "Narrated `Aisha:",
+      "text": "When Abu Bakr As-Siddiq was chosen Caliph, he said, \"My people know that my profession was not incapable of providing substance to my family. And as I will be busy serving the Muslim nation, my family will eat from the National Treasury of Muslims, and I will practice the profession of serving the Muslims.\""
+    }
+  }
+}

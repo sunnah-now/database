@@ -1,0 +1,34 @@
+{
+  "id": 999,
+  "metadata": {
+    "volume": {
+      "id": 15
+    },
+    "chapter": {
+      "id": 19,
+      "language": {
+        "en": {
+          "text": "To offer the Istisqa' prayer at the Musalla"
+        },
+        "ar": {
+          "text": "باب الاِسْتِسْقَاءِ فِي الْمُصَلَّى"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، سَمِعَ عَبَّادَ بْنَ تَمِيمٍ، عَنْ عَمِّهِ، قَالَ خَرَجَ النَّبِيُّ صلى الله عليه وسلم إِلَى الْمُصَلَّى يَسْتَسْقِي، وَاسْتَقْبَلَ الْقِبْلَةَ فَصَلَّى رَكْعَتَيْنِ، وَقَلَبَ رِدَاءَهُ‏.‏ قَالَ سُفْيَانُ فَأَخْبَرَنِي الْمَسْعُودِيُّ عَنْ أَبِي بَكْرٍ قَالَ جَعَلَ الْيَمِينَ عَلَى الشِّمَالِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Zejdi: Pejgamberi (s.a.v.s.) doli në Musalla për të falur namazin e kërkimit të shiut (Istiska), u kthye nga Kibla, i fali dy rekate dhe e ktheu rrobën e tij. Transmeton Ebu Bekri: Pejgamberi (s.a.v.s.) e vendosi anën e djathtë të rrobës së tij në anën e majtë."
+    },
+    "en": {
+      "narrator": "Narrated `Abbad bin Tamim from his uncle who said:",
+      "text": "\"The Prophet (ﷺ) went out to the Musalla to offer the Istisqa' prayer, faced the Qibla and offered a two rak`at prayer and turned his cloak inside out.\" Narrated Abu Bakr, \"The Prophet (ﷺ) put the right side of his cloak on his left side.\""
+    }
+  }
+}

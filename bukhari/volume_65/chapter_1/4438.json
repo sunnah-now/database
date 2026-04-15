@@ -1,0 +1,34 @@
+{
+  "id": 4438,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَقَالَ عَبْدُ اللَّهِ بْنُ بَرَّادٍ حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، قَالَ أَمَرَ اللَّهُ نَبِيَّهُ صلى الله عليه وسلم أَنْ يَأْخُذَ الْعَفْوَ مِنْ أَخْلاَقِ النَّاسِ‏.‏ أَوْ كَمَا قَالَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin ez-Zubejri: Allahu e urdhëroi Pejgamberin e Tij (s.a.v.s.) që t'ua falë njerëzve sjelljet e tyre të këqija."
+    },
+    "en": {
+      "narrator": "`Abdullah bin Az-Zubair said:",
+      "text": "Allah ordered His Prophet to forgive the people their misbehavior (towards him)."
+    }
+  }
+}

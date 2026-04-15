@@ -1,0 +1,34 @@
+{
+  "id": 746,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 98,
+      "language": {
+        "en": {
+          "text": "The recitation of the Qur'an in the Magrib prayer"
+        },
+        "ar": {
+          "text": "باب الْقِرَاءَةِ فِي الْمَغْرِبِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ مَرْوَانَ بْنِ الْحَكَمِ، قَالَ قَالَ لِي زَيْدُ بْنُ ثَابِتٍ مَا لَكَ تَقْرَأُ فِي الْمَغْرِبِ بِقِصَارٍ، وَقَدْ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقْرَأُ بِطُولِ الطُّولَيَيْنِ"
+    },
+    "al": {
+      "text": "Transmeton Zejd bin Thabiti: \"Pse lexon sure shumë të shkurtra në namazin e akshamit, ndërkohë që unë e kam dëgjuar Pejgamberin (s.a.v.s.) duke lexuar më të gjatën prej dy sureve më të gjata?\""
+    },
+    "en": {
+      "narrator": "Narrated Marwan bin Al-Hakam:",
+      "text": "Zaid bin Thabit said to me, \"Why do you recite very short Suras in the Maghrib prayer while I heard the Prophet (ﷺ) reciting the longer of the two long Suras?\""
+    }
+  }
+}

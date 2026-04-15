@@ -1,0 +1,34 @@
+{
+  "id": 1409,
+  "metadata": {
+    "volume": {
+      "id": 24
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "The Zakat of cows"
+        },
+        "ar": {
+          "text": "باب زَكَاةِ الْبَقَرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ الْمَازِنِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لَيْسَ فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ مِنَ التَّمْرِ صَدَقَةٌ، وَلَيْسَ فِيمَا دُونَ خَمْسِ أَوَاقٍ مِنَ الْوَرِقِ صَدَقَةٌ، وَلَيْسَ فِيمَا دُونَ خَمْسِ ذَوْدٍ مِنَ الإِبِلِ صَدَقَةٌ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Said el-Hudriu: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Nuk ka zekat për më pak se pesë evsuk (masë) hurma, nuk ka zekat për më pak se pesë evkije (masë) argjend dhe nuk ka zekat për më pak se pesë deve.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Allah's Messenger (ﷺ) said, \"No Zakat is imposed on less than five Awsuq of dates; no Zakat is imposed on less than five Awaq of silver, and no Zakat is imposed on less than five camels.\""
+    }
+  }
+}

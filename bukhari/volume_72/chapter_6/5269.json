@@ -1,0 +1,34 @@
+{
+  "id": 5269,
+  "metadata": {
+    "volume": {
+      "id": 72
+    },
+    "chapter": {
+      "id": 6,
+      "language": {
+        "en": {
+          "text": "A (pet) dog"
+        },
+        "ar": {
+          "text": "باب مَنِ اقْتَنَى كَلْبًا لَيْسَ بِكَلْبِ صَيْدٍ أَوْ مَاشِيَةٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ، قَالَ سَمِعْتُ سَالِمًا، يَقُولُ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ، يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنِ اقْتَنَى كَلْبًا إِلاَّ كَلْبٌ ضَارٍ لِصَيْدٍ أَوْ كَلْبَ مَاشِيَةٍ، فَإِنَّهُ يَنْقُصُ مِنْ أَجْرِهِ كُلَّ يَوْمٍ قِيرَاطَانِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah ibn Omari: E kam dëgjuar Pejgamberin (s.a.v.s.) duke thënë: \"Kushdo që mban një qen, i cili nuk është as për gjueti e as për ruajtjen e bagëtive, shpërblimi i tij do të pakësohet me dy kirate çdo ditë.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "I heard the Prophet (ﷺ) saying, \"If someone keeps a dog neither for hunting, nor for guarding livestock, the reward (for his good deeds) will be reduced by two Qirats per day.\""
+    }
+  }
+}

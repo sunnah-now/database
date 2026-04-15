@@ -1,0 +1,34 @@
+{
+  "id": 1166,
+  "metadata": {
+    "volume": {
+      "id": 21
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Clapping [during the Salat] is permissible only for the women"
+        },
+        "ar": {
+          "text": "باب التَّصْفِيقُ لِلنِّسَاءِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ التَّسْبِيحُ لِلرِّجَالِ وَالتَّصْفِيقُ لِلنِّسَاءِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: Pejgamberi (s.a.v.s.) ka thënë: \"Tesbiu (thënia 'SubhanAllah') është për burrat, ndërsa duartrokitja është për gratë.\" (Nëse ndodh diçka gjatë namazit, burrat mund të tërheqin vëmendjen e imamit duke thënë \"SubhanAllah\", ndërsa gratë duke rrahur shuplakat)."
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"The saying 'Sub Han Allah' is for men and clapping is for women.\" (If something happens in the prayer, the men can invite the attention of the Imam by saying \"Sub Han Allah\". And women, by clapping their hands)."
+    }
+  }
+}

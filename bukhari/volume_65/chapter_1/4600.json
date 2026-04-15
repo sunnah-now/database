@@ -1,0 +1,34 @@
+{
+  "id": 4600,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنِ الْعَوَّامِ، قَالَ سَأَلْتُ مُجَاهِدًا عَنِ السَّجْدَةِ، فِي ص قَالَ سُئِلَ ابْنُ عَبَّاسٍ فَقَالَ ‏{‏أُولَئِكَ الَّذِينَ هَدَى اللَّهُ فَبِهُدَاهُمُ اقْتَدِهْ‏}‏‏.‏ وَكَانَ ابْنُ عَبَّاسٍ يَسْجُدُ فِيهَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Ai u pyet lidhur me sexhden në suren Sad dhe tha: \"Ata janë të cilët Allahu i ka udhëzuar, prandaj ndiqe udhëzimin e tyre.\" (6:90). Ibn Abbasi bënte sexhde gjatë leximit të kësaj sureje."
+    },
+    "en": {
+      "narrator": "Narrated Al-Awwam:",
+      "text": "I asked Muhajid regarding the prostration in Surat Sa`d. He said, \"Ibn `Abbas was asked the same question and he said, 'Those are they (the prophets) whom Allah had Guided. So follow their guidance.\" (6.90) Ibn `Abbas used to perform a prostration (on reading this Sura)."
+    }
+  }
+}

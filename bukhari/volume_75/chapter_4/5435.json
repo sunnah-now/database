@@ -1,0 +1,34 @@
+{
+  "id": 5435,
+  "metadata": {
+    "volume": {
+      "id": 75
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "It is compulsory to visit the sick"
+        },
+        "ar": {
+          "text": "باب وُجُوبِ عِيَادَةِ الْمَرِيضِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَطْعِمُوا الْجَائِعَ، وَعُودُوا الْمَرِيضَ، وَفُكُّوا الْعَانِيَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Musa el-Esh'ariu: Pejgamberi (s.a.v.s.) ka thënë: \"Ushqejeni të uriturin, vizitojeni të sëmurin dhe lironi robërit.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Muisa Al-Ash`ari:",
+      "text": "The Prophet (ﷺ) said, \"Feed the hungry, visit the sick, and set free the captives.\""
+    }
+  }
+}

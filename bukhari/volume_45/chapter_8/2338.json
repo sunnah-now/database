@@ -1,0 +1,34 @@
+{
+  "id": 2338,
+  "metadata": {
+    "volume": {
+      "id": 45
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "No animal may be milked without the permission of its owner"
+        },
+        "ar": {
+          "text": "باب لاَ تُحْتَلَبُ مَاشِيَةُ أَحَدٍ بِغَيْرِ إِذْنٍهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَحْلُبَنَّ أَحَدٌ مَاشِيَةَ امْرِئٍ بِغَيْرِ إِذْنِهِ، أَيُحِبُّ أَحَدُكُمْ أَنْ تُؤْتَى مَشْرُبَتُهُ فَتُكْسَرَ خِزَانَتُهُ، فَيُنْتَقَلَ طَعَامُهُ فَإِنَّمَا تَخْزُنُ لَهُمْ ضُرُوعُ مَوَاشِيهِمْ أَطْعِمَاتِهِمْ، فَلاَ يَحْلُبَنَّ أَحَدٌ مَاشِيَةَ أَحَدٍ إِلاَّ بِإِذْنِهِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah ibn Omari se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Askush të mos mjelë bagëtinë e tjetrit pa lejen e pronarit të saj. A dëshiron ndonjëri prej jush që dikush të vijë te depoja e tij, t'ia thyejë arkën e t'ia marrë ushqimin? Vërtet, gjirinjtë e bagëtive të tyre janë depot ku ruhet ushqimi i tyre, prandaj asnjëri të mos mjelë bagëtinë e tjetrit pa lejen e pronarit të saj.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Allah's Messenger (ﷺ) said, \"An animal should not be milked without the permission of its owner. Does any of you like that somebody comes to his store and breaks his container and takes away his food? The udders of the animals are the stores of their owners where their provision is kept, so nobody should milk the animals of somebody else, without the permission of its owner.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3306,
+  "metadata": {
+    "volume": {
+      "id": 60
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The advent (descent) of 'Isa (Jesus), son of Maryam (Mary) alayhis-salam"
+        },
+        "ar": {
+          "text": "باب نُزُولُ عِيسَى ابْنِ مَرْيَمَ عليهما السلام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، عَنْ نَافِعٍ، مَوْلَى أَبِي قَتَادَةَ الأَنْصَارِيِّ أَنَّ أَبَا هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ كَيْفَ أَنْتُمْ إِذَا نَزَلَ ابْنُ مَرْيَمَ فِيكُمْ وَإِمَامُكُمْ مِنْكُمْ ‏\"‏‏.‏ تَابَعَهُ عُقَيْلٌ وَالأَوْزَاعِيُّ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Si do të jetë gjendja juaj kur të zbresë mes jush biri i Merjemes dhe imami juaj të jetë prej jush?\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said \"How will you be when the son of Mary (i.e. Jesus) descends amongst you and your imam is among you.\""
+    }
+  }
+}

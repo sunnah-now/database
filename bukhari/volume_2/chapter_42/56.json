@@ -1,0 +1,34 @@
+{
+  "id": 56,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "The statement of the Prophet (saws): Religion is An-Nasihah (to be sincere and true) to Allah, to His Messenger (Muhammad (saws)), to the Muslim rulers, and to all the Muslims"
+        },
+        "ar": {
+          "text": "بَابُ قَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الدِّينُ النَّصِيحَةُ لِلَّهِ وَلِرَسُولِهِ وَلأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ»"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْحَكَمُ بْنُ نَافِعٍ قَالَ أَخْبَرَنَا شُعَيْبٌ عَنْ الزُّهْرِيِّ قَالَ حَدَّثَنِي عَامِرُ بْنُ سَعْدٍ عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ أَنَّهُ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ \"إِنَّكَ لَنْ تُنْفِقَ نَفَقَةً تَبْتَغِي بِهَا وَجْهَ اللَّهِ إِلَّا أُجِرْتَ عَلَيْهَا حَتَّى مَا تَجْعَلُ فِي فَمِ امْرَأَتِكَ\""
+    },
+    "al": {
+      "text": "Transmeton Sa'd ibn Ebi Vekasi: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Ti nuk do të shpenzosh asgjë për hir të Allahut, e që të mos shpërblehesh për të, madje edhe për kafshatën që e vë në gojën e gruas sate.\""
+    },
+    "en": {
+      "narrator": "Narrated Sa'd bin Abi Waqqas:",
+      "text": "Allah's Messenger (ﷺ) said, \"You will be rewarded for whatever you spend for Allah's sake even if it were a morsel which you put in your wife's mouth.\""
+    }
+  }
+}

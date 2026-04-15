@@ -1,0 +1,34 @@
+{
+  "id": 2662,
+  "metadata": {
+    "volume": {
+      "id": 55
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "The foundation of an endowment for building a mosque"
+        },
+        "ar": {
+          "text": "باب وَقْفِ الأَرْضِ لِلْمَسْجِدِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ، حَدَّثَنَا عَبْدُ الصَّمَدِ، قَالَ سَمِعْتُ أَبِي، حَدَّثَنَا أَبُو التَّيَّاحِ، قَالَ حَدَّثَنِي أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ لَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ أَمَرَ بِالْمَسْجِدِ وَقَالَ ‏ \"‏ يَا بَنِي النَّجَّارِ ثَامِنُونِي بِحَائِطِكُمْ هَذَا ‏\"‏‏.‏ قَالُوا لاَ وَاللَّهِ لاَ نَطْلُبُ ثَمَنَهُ إِلاَّ إِلَى اللَّهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes ibn Maliku: Kur i Dërguari i Allahut (s.a.v.s.) erdhi në Medine, urdhëroi që të ndërtohej një xhami dhe tha: \"O Beni en-Nexh-xhar! Më caktoni një çmim për këtë kopshtin tuaj.\" Ata u përgjigjën: \"Pasha Allahun, ne nuk do të kërkojmë çmim për të përveçse prej Allahut.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "When Allah's Messenger (ﷺ) came to Medina, he ordered that a mosque be built. He said, \"O Bani An- Najjar! Suggest me a price for the garden of yours.\" They replied, \"By Allah, we will not ask its price except from Allah.\""
+    }
+  }
+}

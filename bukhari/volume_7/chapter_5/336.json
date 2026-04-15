@@ -1,0 +1,34 @@
+{
+  "id": 336,
+  "metadata": {
+    "volume": {
+      "id": 7
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Tayammum is for the hands and the face"
+        },
+        "ar": {
+          "text": "باب التَّيَمُّمُ لِلْوَجْهِ وَالْكَفَّيْنِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ ذَرٍّ، عَنِ ابْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبْزَى، عَنْ أَبِيهِ، أَنَّهُ شَهِدَ عُمَرَ وَقَالَ لَهُ عَمَّارٌ كُنَّا فِي سَرِيَّةٍ فَأَجْنَبْنَا، وَقَالَ تَفَلَ فِيهِمَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ammari: Derisa ishte në shoqërinë e Omerit, Ammari i tha atij: \"Ishim në një ekspeditë ushtarake dhe u bëmë xhunubë, pastaj u fryva duarve të mia (pasi i godita në dhe për tejemum) dhe u fala.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdur Rahman bin Abza:",
+      "text": "that while he was in the company of `Umar, `Ammar said to `Umar, \"We were in a detachment and became Junub and I blew the dust off my hands (performed the rolling over the earth and prayed.)\""
+    }
+  }
+}

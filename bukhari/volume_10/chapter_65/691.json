@@ -1,0 +1,34 @@
+{
+  "id": 691,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 65,
+      "language": {
+        "en": {
+          "text": "Whoever cuts short As-Salat (the prayer) on hearing the cries of a child."
+        },
+        "ar": {
+          "text": "باب مَنْ أَخَفَّ الصَّلاَةَ عِنْدَ بُكَاءِ الصَّبِيِّ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، قَالَ حَدَّثَنَا شَرِيكُ بْنُ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ مَا صَلَّيْتُ وَرَاءَ إِمَامٍ قَطُّ أَخَفَّ صَلاَةً وَلاَ أَتَمَّ مِنَ النَّبِيِّ صلى الله عليه وسلم، وَإِنْ كَانَ لَيَسْمَعُ بُكَاءَ الصَّبِيِّ فَيُخَفِّفُ مَخَافَةَ أَنْ تُفْتَنَ أُمُّهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes b. Maliku: Nuk jam falur asnjëherë pas ndonjë imami në një namaz më të lehtë dhe më të plotë sesa pas Pejgamberit (s.a.v.s.). Ai e shkurtonte namazin sa herë që dëgjonte të qarët e një fëmije, nga frika se mos e sprovonte nënën e tij."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "I never prayed behind any Imam a prayer lighter and more perfect than that behind the Prophet (ﷺ) and he used to cut short the prayer whenever he heard the cries of a child lest he should put the child's mother to trial."
+    }
+  }
+}

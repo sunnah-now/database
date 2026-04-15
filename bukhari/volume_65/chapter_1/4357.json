@@ -1,0 +1,34 @@
+{
+  "id": 4357,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ ـ أُرَاهُ قَالَ ـ حَدَّثَنَا أَبُو بَكْرٍ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي الضُّحَى، عَنِ ابْنِ عَبَّاسٍ، ‏{‏حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ‏}‏ قَالَهَا إِبْرَاهِيمُ عَلَيْهِ السَّلاَمُ حِينَ أُلْقِيَ فِي النَّارِ، وَقَالَهَا مُحَمَّدٌ صلى الله عليه وسلم حِينَ قَالُوا ‏{‏إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: \"Na mjafton Allahu, Ai është mbrojtësi më i mirë\", këtë e ka thënë Ibrahimi (a.s.) kur u hodh në zjarr; gjithashtu e ka thënë edhe Muhamedi (s.a.v.s.) kur njerëzit u thanë: \"Njerëzit janë tubuar kundër jush, andaj frikësohuni atyre\", por kjo vetëm ua shtoi atyre imanin dhe thanë: \"Na mjafton Allahu, Ai është mbrojtësi më i mirë\"."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "'Allah is Sufficient for us and He Is the Best Disposer of affairs,\" was said by Abraham when he was thrown into the fire; and it was said by Muhammad when they (i.e. hypocrites) said, \"A great army is gathering against you, therefore, fear them,\" but it only increased their faith and they said: \"Allah is Sufficient for us, and He is the Best Disposer (of affairs, for us).\" (3.173)"
+    }
+  }
+}

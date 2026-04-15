@@ -1,0 +1,34 @@
+{
+  "id": 4210,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 77,
+      "language": {
+        "en": {
+          "text": "Hajjat-ul-Wada"
+        },
+        "ar": {
+          "text": "باب حَجَّةُ الْوَدَاعِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو إِسْحَاقَ، قَالَ حَدَّثَنِي زَيْدُ بْنُ أَرْقَمَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم غَزَا تِسْعَ عَشْرَةَ غَزْوَةً، وَأَنَّهُ حَجَّ بَعْدَ مَا هَاجَرَ حَجَّةً وَاحِدَةً لَمْ يَحُجَّ بَعْدَهَا حَجَّةَ الْوَدَاعِ‏.‏ قَالَ أَبُو إِسْحَاقَ وَبِمَكَّةَ أُخْرَى‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Zejd bin Erkami: Pejgamberi (s.a.v.s.) mori pjesë në nëntëmbëdhjetë beteja dhe kreu vetëm një Haxh pasi bëri hixhret, e nuk kreu asnjë Haxh tjetër pas tij; ky ishte Haxhi i Lamtumirës. Ebu Is'haku tha: \"Ai kishte kryer edhe një tjetër (haxh) derisa ishte në Mekë.\""
+    },
+    "en": {
+      "narrator": "Narrated Zaid bin Arqam:",
+      "text": "The Prophet (ﷺ) fought nineteen Ghazwas and performed only one Hajj after he migrated (to Medina), and did not perform another Hajj after it, and that was Hajj-ul-Wada`,' Abu 'Is-haq said, \"He performed when he was in Mecca.\""
+    }
+  }
+}

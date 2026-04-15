@@ -1,0 +1,34 @@
+{
+  "id": 2740,
+  "metadata": {
+    "volume": {
+      "id": 56
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "To name a horse and a donkey"
+        },
+        "ar": {
+          "text": "باب اسْمِ الْفَرَسِ وَالْحِمَارِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ، حَدَّثَنَا مَعْنُ بْنُ عِيسَى، حَدَّثَنَا أُبَىُّ بْنُ عَبَّاسِ بْنِ سَهْلٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ كَانَ لِلنَّبِيِّ صلى الله عليه وسلم فِي حَائِطِنَا فَرَسٌ يُقَالُ لَهُ اللُّحَيْفُ‏.‏ قَالَ أَبُو عَبْد اللَّهِ وَقَالَ بَعْضُهُمُ اللُّخَيْفُ"
+    },
+    "al": {
+      "text": "Transmeton Sehli: Në kopshtin tonë ishte një kalë që i përkiste Pejgamberit (s.a.v.s.), i cili quhej El-Luhejf (ose El-Lehif)."
+    },
+    "en": {
+      "narrator": "Narrated Sahl:",
+      "text": "In our garden there was a horse belonging to the Prophet (ﷺ) called Al-Luhaif or Al-Lakhif."
+    }
+  }
+}

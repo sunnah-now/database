@@ -1,0 +1,34 @@
+{
+  "id": 2145,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 105,
+      "language": {
+        "en": {
+          "text": "Trade of alcoholic drinks is illegal"
+        },
+        "ar": {
+          "text": "باب تَحْرِيمِ التِّجَارَةِ فِي الْخَمْرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسْلِمٌ، حَدَّثَنَا شُعْبَةُ، عَنِ الأَعْمَشِ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ لَمَّا نَزَلَتْ آيَاتُ سُورَةِ الْبَقَرَةِ عَنْ آخِرِهَا خَرَجَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏ \"‏ حُرِّمَتِ التِّجَارَةُ فِي الْخَمْرِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Aishja: Kur u shpallën ajetet e fundit të sures el-Bekare, Pejgamberi (s.a.v.s.) doli në xhami dhe tha: \"Tregtia e alkoolit është bërë e ndaluar.\""
+    },
+    "en": {
+      "narrator": "Narrated `Aisha:",
+      "text": "When the last verses of Surat-al-Baqara were revealed, the Prophet (ﷺ) went out (of his house to the Mosque) and said, \"The trade of alcohol has become illegal.\""
+    }
+  }
+}

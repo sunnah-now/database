@@ -1,0 +1,34 @@
+{
+  "id": 32,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The signs of a hypocrite"
+        },
+        "ar": {
+          "text": "باب عَلاَمَةِ الْمُنَافِقِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ حَدَّثَنَا شُعْبَةُ، ح‏.‏ قَالَ وَحَدَّثَنِي بِشْرٌ، قَالَ حَدَّثَنَا مُحَمَّدٌ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ لَمَّا نَزَلَتِ ‏{‏الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ‏}‏ قَالَ أَصْحَابُ رَسُولِ اللَّهِ صلى الله عليه وسلم أَيُّنَا لَمْ يَظْلِمْ فَأَنْزَلَ اللَّهُ ‏{‏إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ‏}‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullahu: Kur u shpall ajeti: \"Ata që besojnë dhe nuk e përziejnë besimin e tyre me padrejtësi\", shokët e të Dërguarit të Allahut (s.a.v.s.) pyetën: \"Kush prej nesh nuk ka bërë padrejtësi?\" Atëherë Allahu shpalli: \"Vërtet, shirku është një padrejtësi e madhe.\""
+    },
+    "en": {
+      "narrator": "Narrated 'Abdullah:",
+      "text": "When the following Verse was revealed: \"It is those who believe and confuse not their belief with wrong (worshipping others besides Allah.)\" (6:83), the companions of Allah's Messenger (ﷺ) asked, \"Who is amongst us who had not done injustice (wrong)?\" Allah revealed: \"No doubt, joining others in worship with Allah is a great injustice (wrong) indeed.\" (31.13)"
+    }
+  }
+}

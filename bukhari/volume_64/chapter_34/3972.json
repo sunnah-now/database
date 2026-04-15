@@ -1,0 +1,34 @@
+{
+  "id": 3972,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The narration of Al-Ifk"
+        },
+        "ar": {
+          "text": "باب حَدِيثُ الإِفْكِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي يَحْيَى، حَدَّثَنَا وَكِيعٌ، عَنْ نَافِعِ بْنِ عُمَرَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ كَانَتْ تَقْرَأُ ‏{‏إِذْ تَلِقُونَهُ بِأَلْسِنَتِكُمْ‏}‏ وَتَقُولُ الْوَلْقُ الْكَذِبُ‏.‏ قَالَ ابْنُ أَبِي مُلَيْكَةَ وَكَانَتْ أَعْلَمَ مِنْ غَيْرِهَا بِذَلِكَ لأَنَّهُ نَزَلَ فِيهَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Aishja: Ajo e lexonte këtë ajet: \"Idh telikunehu bi-elsinetikum\" (Kur ju e thonit atë me gjuhët tuaja) dhe thoshte se \"El-Welk\" do të thotë \"gënjeshtër\". Ibn Ebi Mulejke ka thënë se ajo kishte më shumë dije se kushdo tjetër rreth këtij ajeti, pasi ai u shpall për të."
+    },
+    "en": {
+      "narrator": "Narrated Ibn Abi Malaika:",
+      "text": "`Aisha used to recite this Verse:-- 'Ida taliqunahu bi-alsinatikum' (24.15) \"(As you tell lie with your tongues.)\" and used to say \"Al-Walaq\" means \"telling of a lie. \"She knew this Verse more than anybody else as it was revealed about her."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5943,
+  "metadata": {
+    "volume": {
+      "id": 78
+    },
+    "chapter": {
+      "id": 99,
+      "language": {
+        "en": {
+          "text": "Calling the people by their father's name"
+        },
+        "ar": {
+          "text": "باب مَا يُدْعَى النَّاسُ بِآبَائِهِمْ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الْغَادِرَ يُنْصَبُ لَهُ لِوَاءٌ يَوْمَ الْقِيَامَةِ، فَيُقَالُ هَذِهِ غَدْرَةُ فُلاَنِ بْنِ فُلاَنٍ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibën Omari se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Për çdo tradhtar do të ngrihet një flamur në Ditën e Kiametit dhe do të shpallet: 'Kjo është tradhtia e filanit, të birit të filanit'.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Allah's Messenger (ﷺ) said, \"A flag will be fixed on the Day of Resurrection for every betrayer, and it will be announced (publicly in front of everybody), 'This is the betrayal (perfidy) so-and-so, the son of soand- so.\""
+    }
+  }
+}

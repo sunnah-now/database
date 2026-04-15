@@ -1,0 +1,34 @@
+{
+  "id": 5374,
+  "metadata": {
+    "volume": {
+      "id": 74
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "Alcoholic drinks prepared from honey"
+        },
+        "ar": {
+          "text": "باب الْخَمْرُ مِنَ الْعَسَلِ وَهْوَ الْبِتْعُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَعَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي أَنَسُ بْنُ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تَنْتَبِذُوا فِي الدُّبَّاءِ، وَلاَ فِي الْمُزَفَّتِ ‏\"‏‏.‏ وَكَانَ أَبُو هُرَيْرَةَ يُلْحِقُ مَعَهَا الْحَنْتَمَ وَالنَّقِيرَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes ibn Maliku se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Mos përgatitni pije në kunguj të tharë (ed-Dubba) dhe as në enë të lyera me katran (el-Muzaffat).\" Ndërsa Ebu Hurejra u shtonte këtyre edhe enët prej balte (el-Hantam) dhe ato të gdhendura nga trungu i pemës (en-Naqir)."
+    },
+    "en": {
+      "narrator": "Anas bin Malik said:",
+      "text": "Allah's Messenger (ﷺ) said, \"Do not make drinks in Ad-Dubba' nor in Al-Muzaffat. Abu Huraira used to add to them Al-Hantam and An-Naqir."
+    }
+  }
+}

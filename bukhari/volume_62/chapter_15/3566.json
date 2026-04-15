@@ -1,0 +1,34 @@
+{
+  "id": 3566,
+  "metadata": {
+    "volume": {
+      "id": 62
+    },
+    "chapter": {
+      "id": 15,
+      "language": {
+        "en": {
+          "text": "The merits of Sa'd bin Abi Waqqas Az-Zuhri رضي الله عنهما"
+        },
+        "ar": {
+          "text": "بَابُ مَنَاقِبُ سَعْدِ بْنِ أَبِي وَقَّاصٍ الزُّهْرِيِّ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا ابْنُ أَبِي زَائِدَةَ، حَدَّثَنَا هَاشِمُ بْنُ هَاشِمِ بْنِ عُتْبَةَ بْنِ أَبِي وَقَّاصٍ، قَالَ سَمِعْتُ سَعِيدَ بْنَ الْمُسَيَّبِ، يَقُولُ سَمِعْتُ سَعْدَ بْنَ أَبِي وَقَّاصٍ، يَقُولُ مَا أَسْلَمَ أَحَدٌ إِلاَّ فِي الْيَوْمِ الَّذِي أَسْلَمْتُ فِيهِ، وَلَقَدْ مَكَثْتُ سَبْعَةَ أَيَّامٍ وَإِنِّي لَثُلُثُ الإِسْلاَمِ‏.‏ تَابَعَهُ أَبُو أُسَامَةَ حَدَّثَنَا هَاشِمٌ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Sa'd bin Ebi Vakkasi: Askush nuk e ka pranuar Islamin para ditës kur e pranova unë, dhe pa dyshim, kam qëndruar shtatë ditë duke qenë një e treta e muslimanëve të atëhershëm."
+    },
+    "en": {
+      "narrator": "Narrated Sa`d bin Abi Waqqas:",
+      "text": "No man embraced Islam before the day on which I embraced Islam, and no doubt, I remained for seven days as one third of the then extant Muslims."
+    }
+  }
+}

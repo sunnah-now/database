@@ -1,0 +1,34 @@
+{
+  "id": 4593,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا عَوْفٌ، عَنِ الْحَسَنِ، وَمُحَمَّدٍ، وَخِلاَسٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ مُوسَى كَانَ رَجُلاً حَيِيًّا، وَذَلِكَ قَوْلُهُ تَعَالَى ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَكُونُوا كَالَّذِينَ آذَوْا مُوسَى فَبَرَّأَهُ اللَّهُ مِمَّا قَالُوا وَكَانَ عِنْدَ اللَّهِ وَجِيهًا‏}‏‏\"‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: I dërguari i Allahut (s.a.v.s.) ka thënë: \"Musai ishte një burrë i turpshëm, dhe kjo është domethënia e fjalës së Allahut të Lartësuar: 'O ju që keni besuar! Mos u bëni si ata që e lënduan Musain, por Allahu e shpalli atë të pafajshëm nga ajo që thoshin ata, dhe ai te Allahu ishte i nderuar.'\" (33:69)"
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"Moses was a shy man, and that is what the Statement of Allah means: 'O you who believe Be not like those who annoyed Moses, but Allah proved his innocence of that which they alleged and he was honorable in Allah's Sight.' (33.69)"
+    }
+  }
+}

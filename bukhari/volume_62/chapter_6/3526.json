@@ -1,0 +1,34 @@
+{
+  "id": 3526,
+  "metadata": {
+    "volume": {
+      "id": 62
+    },
+    "chapter": {
+      "id": 6,
+      "language": {
+        "en": {
+          "text": "The merits of 'Umar bin Al-Khattab رضي الله عنه"
+        },
+        "ar": {
+          "text": "باب مَنَاقِبُ عُمَرَ بْنِ الْخَطَّابِ أَبِي حَفْصٍ الْقُرَشِيِّ الْعَدَوِيِّ رَضِيَ اللَّهُ عَنْهُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، حَدَّثَنَا قَيْسٌ، قَالَ قَالَ عَبْدُ اللَّهِ مَا زِلْنَا أَعِزَّةً مُنْذُ أَسْلَمَ عُمَرُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullahu: Ne kemi qenë të fuqishëm që kur Omeri e pranoi Islamin."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah:",
+      "text": "We have been powerful since `Umar embraced Islam."
+    }
+  }
+}

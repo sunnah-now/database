@@ -1,0 +1,34 @@
+{
+  "id": 2032,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "For what perios to confirm or cancel the bargain?"
+        },
+        "ar": {
+          "text": "باب كَمْ يَجُوزُ الْخِيَارُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا صَدَقَةُ، أَخْبَرَنَا عَبْدُ الْوَهَّابِ، قَالَ سَمِعْتُ يَحْيَى، قَالَ سَمِعْتُ نَافِعًا، عَنِ ابْنِ عُمَرَ، رضى الله عنهما عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الْمُتَبَايِعَيْنِ بِالْخِيَارِ فِي بَيْعِهِمَا، مَا لَمْ يَتَفَرَّقَا، أَوْ يَكُونُ الْبَيْعُ خِيَارًا ‏\"‏‏.‏ قَالَ نَافِعٌ وَكَانَ ابْنُ عُمَرَ إِذَا اشْتَرَى شَيْئًا يُعْجِبُهُ فَارَقَ صَاحِبَهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Umari se Pejgamberi (s.a.v.s.) ka thënë: \"Blerësi dhe shitësi kanë të drejtën e zgjedhjes në shitblerjen e tyre përderisa nuk janë ndarë nga njëri-tjetri, ose nëse shitblerja është kryer me kushtin e zgjedhjes.\" Nafiu tha: \"Kur Ibn Umari blinte diçka që i pëlqente, ai largohej shpejt nga shitësi.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "The Prophet (ﷺ) said, \"The buyer and the seller have the option to cancel or confirm the bargain before they separate from each other or if the sale is optional.\" Nafi` said, \"Ibn `Umar used to separate quickly from the seller if he had bought a thing which he liked.\""
+    }
+  }
+}

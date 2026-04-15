@@ -1,0 +1,34 @@
+{
+  "id": 1509,
+  "metadata": {
+    "volume": {
+      "id": 25
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "Hajj-at-Tamattu', Hajj-al-Qiran, and Hajj-al-Ifrad"
+        },
+        "ar": {
+          "text": "باب التَّمَتُّعِ وَالإِقْرَانِ وَالإِفْرَادِ بِالْحَجِّ وَفَسْخِ الْحَجِّ لِمَنْ لَمْ يَكُنْ مَعَهُ هَدْى"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، عَنْ مَرْوَانَ بْنِ الْحَكَمِ، قَالَ شَهِدْتُ عُثْمَانَ وَعَلِيًّا ـ رضى الله عنهما ـ وَعُثْمَانُ يَنْهَى عَنِ الْمُتْعَةِ وَأَنْ يُجْمَعَ بَيْنَهُمَا‏.‏ فَلَمَّا رَأَى عَلِيٌّ، أَهَلَّ بِهِمَا لَبَّيْكَ بِعُمْرَةٍ وَحَجَّةٍ قَالَ مَا كُنْتُ لأَدَعَ سُنَّةَ النَّبِيِّ صلى الله عليه وسلم لِقَوْلِ أَحَدٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Meruan bin el-Hakemi: I pashë Uthmanin dhe Aliun. Uthmani i ndalonte njerëzit nga Haxhi Temetu dhe Haxhi Kiran (bashkimi i tyre), ndërsa kur Aliu e pa këtë, hyri në ihram për Umre dhe Haxh së bashku duke thënë: \"Lebbejk për Umre dhe Haxh,\" dhe tha: \"Nuk do ta lija sunetin e Pejgamberit (s.a.v.s.) për fjalën e askujt.\""
+    },
+    "en": {
+      "narrator": "Narrated Marwan bin Al-Hakam:",
+      "text": "I saw `Uthman and `Ali. `Uthman used to forbid people to perform Hajj-at-Tamattu` and Hajj-al- Qiran (Hajj and `Umra together), and when `Ali saw (this act of `Uthman), he assumed Ihram for Hajj and `Umra together saying, \"Lubbaik for `Umra and Hajj,\" and said, \"I will not leave the tradition of the Prophet (ﷺ) on the saying of somebody.\""
+    }
+  }
+}

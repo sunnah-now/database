@@ -1,0 +1,34 @@
+{
+  "id": 4410,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ نَزَلَ تَحْرِيمُ الْخَمْرِ وَإِنَّ فِي الْمَدِينَةِ يَوْمَئِذٍ لَخَمْسَةَ أَشْرِبَةٍ، مَا فِيهَا شَرَابُ الْعِنَبِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: Ndalimi i pijeve alkoolike u shpall kur në Medine kishte pesë lloje pijesh, asnjëra prej të cilave nuk prodhohej nga rrushi."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "(The Verse of) prohibiting alcoholic drinks was revealed when there were in Medina five kinds of (alcoholic) drinks none of which was produced from grapes."
+    }
+  }
+}

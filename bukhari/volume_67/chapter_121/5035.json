@@ -1,0 +1,34 @@
+{
+  "id": 5035,
+  "metadata": {
+    "volume": {
+      "id": 67
+    },
+    "chapter": {
+      "id": 121,
+      "language": {
+        "en": {
+          "text": "If a man is away for a long time, he should not enter his house at night."
+        },
+        "ar": {
+          "text": "باب لاَ يَطْرُقْ أَهْلَهُ لَيْلاً إِذَا أَطَالَ الْغَيْبَةَ مَخَافَةَ، أَنْ يُخَوِّنَهُمْ أَوْ يَلْتَمِسَ عَثَرَاتِهِمْ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا عَاصِمُ بْنُ سُلَيْمَانَ، عَنِ الشَّعْبِيِّ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا أَطَالَ أَحَدُكُمُ الْغَيْبَةَ فَلاَ يَطْرُقْ أَهْلَهُ لَيْلاً ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xhabir bin Abdullahu: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Kur ndonjëri prej jush mungon për një kohë të gjatë nga shtëpia, të mos kthehet te familja e tij natën.\""
+    },
+    "en": {
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Allah's Messenger (ﷺ) said, \"When anyone of you is away from his house for a long time, he should not return to his family at night.\""
+    }
+  }
+}

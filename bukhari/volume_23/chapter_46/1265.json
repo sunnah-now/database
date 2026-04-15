@@ -1,0 +1,34 @@
+{
+  "id": 1265,
+  "metadata": {
+    "volume": {
+      "id": 23
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "Standing for the funeral procession"
+        },
+        "ar": {
+          "text": "باب الْقِيَامِ لِلْجَنَازَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنْ عَامِرِ بْنِ رَبِيعَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا رَأَيْتُمُ الْجَنَازَةَ فَقُومُوا حَتَّى تُخَلِّفَكُمْ ‏\"‏‏.‏ قَالَ سُفْيَانُ قَالَ الزُّهْرِيُّ أَخْبَرَنِي سَالِمٌ عَنْ أَبِيهِ قَالَ أَخْبَرَنَا عَامِرُ بْنُ رَبِيعَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ زَادَ الْحُمَيْدِيُّ ‏\"‏ حَتَّى تُخَلِّفَكُمْ أَوْ تُوضَعَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Amir bin Rabia se Pejgamberi (s.a.v.s.) ka thënë: \"Kur ta shihni një xhenaze, ngrihuni në këmbë derisa ajo t'ju kalojë.\" El-Humejdi ka shtuar: \"Derisa t'ju lërë pas ose të vendoset në tokë.\""
+    },
+    "en": {
+      "narrator": "Narrated 'Amir bin Rabi`a:",
+      "text": "The Prophet (ﷺ) said, \"Whenever you see a funeral procession, stand up till the procession goes ahead of you.\" Al-Humaidi added, \"Till the coffin leaves you behind or is put down.\""
+    }
+  }
+}

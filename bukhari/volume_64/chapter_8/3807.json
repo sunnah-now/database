@@ -1,0 +1,34 @@
+{
+  "id": 3807,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The killing of Abu Jahl"
+        },
+        "ar": {
+          "text": "باب قَتْلِ أَبِي جَهْلٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي أَحْمَدُ بْنُ سَعِيدٍ أَبُو عَبْدِ اللَّهِ، حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ يُوسُفَ، عَنْ أَبِيهِ، عَنْ أَبِي إِسْحَاقَ، سَأَلَ رَجُلٌ الْبَرَاءَ وَأَنَا أَسْمَعُ، قَالَ أَشَهِدَ عَلِيٌّ بَدْرًا قَالَ بَارَزَ وَظَاهَرَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton El-Berai: Një burrë e pyeti atë, ndërsa unë po dëgjoja: \"A mori pjesë Aliu në Bedër?\" Ai u përgjigj: \"Po, ai madje doli në dyluftim dhe kishte veshur dy parë parzmore.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu 'Is-haq:",
+      "text": "A man asked Al-Bara' and I was listening, \"Did `Ali take part in (the battle of) Badr?\" Al-Bara' said, \"(Yes). he even met (his enemies) in a duel and was clad in two armors (one over the other)."
+    }
+  }
+}

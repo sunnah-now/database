@@ -1,0 +1,34 @@
+{
+  "id": 6404,
+  "metadata": {
+    "volume": {
+      "id": 83
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "\"Do not swear by your fathers\""
+        },
+        "ar": {
+          "text": "باب لاَ تَحْلِفُوا بِآبَائِكُمْ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَدْرَكَ عُمَرَ بْنَ الْخَطَّابِ وَهْوَ يَسِيرُ فِي رَكْبٍ يَحْلِفُ بِأَبِيهِ فَقَالَ ‏ \"‏ أَلاَ إِنَّ اللَّهَ يَنْهَاكُمْ أَنْ تَحْلِفُوا بِآبَائِكُمْ، مَنْ كَانَ حَالِفًا فَلْيَحْلِفْ بِاللَّهِ، أَوْ لِيَصْمُتْ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah ibn Omer: I Dërguari i Allahut (s.a.v.s.) e takoi Omer ibn el-Hatabin derisa ai po udhëtonte me një grup kalorësish dhe po betohej në babanë e tij. Pejgamberi (s.a.v.s.) tha: \"Vini re! Allahu ju ndalon të betoheni në baballarët tuaj. Kushdo që dëshiron të betohet, le të betohet në Allahun ose le të heshtë.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Allah's Messenger (ﷺ) met `Umar bin Al-Khattab while the latter was going with a group of camel-riders, and he was swearing by his father. The Prophet (ﷺ) said, \"Lo! Allah forbids you to swear by your fathers, so whoever has to take an oath, he should swear by Allah or keep quiet.\""
+    }
+  }
+}

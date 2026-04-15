@@ -1,0 +1,34 @@
+{
+  "id": 1004,
+  "metadata": {
+    "volume": {
+      "id": 15
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "What should be said (or what to say) if it rains"
+        },
+        "ar": {
+          "text": "باب مَا يُقَالُ إِذَا أَمْطَرَتْ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدٌ ـ هُوَ ابْنُ مُقَاتِلٍ أَبُو الْحَسَنِ الْمَرْوَزِيُّ ـ قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا رَأَى الْمَطَرَ قَالَ ‏ \"‏ صَيِّبًا نَافِعًا ‏\"‏‏.‏ تَابَعَهُ الْقَاسِمُ بْنُ يَحْيَى عَنْ عُبَيْدِ اللَّهِ‏.‏ وَرَوَاهُ الأَوْزَاعِيُّ وَعُقَيْلٌ عَنْ نَافِعٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ajsheja: Kurdoherë që i Dërguari i Allahut (s.a.v.s.) shihte shiun, thoshte: \"O Allah! Bëje këtë shi të bollshëm e të dobishëm.\""
+    },
+    "en": {
+      "narrator": "Narrated Aisha:",
+      "text": "Whenever Allah's Messenger (ﷺ) saw the rain, he used to say, \"O Allah! Let it be a strong fruitful rain.\""
+    }
+  }
+}

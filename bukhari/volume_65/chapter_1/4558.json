@@ -1,0 +1,34 @@
+{
+  "id": 4558,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا مَنْصُورٌ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ سَأَلْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ عَنْ قَوْلِهِ تَعَالَى ‏{‏فَجَزَاؤُهُ جَهَنَّمُ‏}‏ قَالَ لاَ تَوْبَةَ لَهُ‏.‏ وَعَنْ قَوْلِهِ جَلَّ ذِكْرُهُ ‏{‏لاَ يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ‏}‏ قَالَ كَانَتْ هَذِهِ فِي الْجَاهِلِيَّةِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Lidhur me fjalën e Allahut të Lartësuar: \"...shpërblimi i tij është Xhehenemi\" (4:93), ai ka thënë: \"Nuk ka pendim për të (vrasësin e besimtarit).\" Ndërsa për fjalën e Tij: \"Dhe ata që nuk lusin zot tjetër bashkë me Allahun...\" (25:68), ai tha: \"Ky ajet ka zbritur për idhujtarët e kohës së Xhahilijetit.\""
+    },
+    "en": {
+      "narrator": "Narrated Sa`id bin Jubair:",
+      "text": "I asked Ibn `Abbas about Allah's saying:-- '.. this reward is Hell Fire.' (4.93) He said, \"No repentance is accepted from him (i.e. the murderer of a believer).\" I asked him regarding the saying of Allah: 'Those who invoke not with Allah any other god.' ...(25.68) He said, \"This Verse was revealed concerning the pagans of the pre-lslamic period.\""
+    }
+  }
+}

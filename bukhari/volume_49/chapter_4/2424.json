@@ -1,0 +1,34 @@
+{
+  "id": 2424,
+  "metadata": {
+    "volume": {
+      "id": 49
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "If one manumits a male slave owned by two persons"
+        },
+        "ar": {
+          "text": "باب إِذَا أَعْتَقَ عَبْدًا بَيْنَ اثْنَيْنِ أَوْ أَمَةً بَيْنَ الشُّرَكَاءِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ أَعْتَقَ نَصِيبًا لَهُ فِي مَمْلُوكٍ أَوْ شِرْكًا لَهُ فِي عَبْدٍ، وَكَانَ لَهُ مِنَ الْمَالِ مَا يَبْلُغُ قِيمَتَهُ بِقِيمَةِ الْعَدْلِ، فَهْوَ عَتِيقٌ ‏\"‏‏.‏ قَالَ نَافِعٌ وَإِلاَّ فَقَدْ عَتَقَ مِنْهُ مَا عَتَقَ‏.‏ قَالَ أَيُّوبُ لاَ أَدْرِي أَشَىْءٌ قَالَهُ نَافِعٌ، أَوْ شَىْءٌ فِي الْحَدِيثِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri (r.a.): Pejgamberi (s.a.v.s.) ka thënë: \"Kushdo që liron pjesën e tij të një skllavi dhe ka pasuri të mjaftueshme që arrin vlerën e plotë (me një çmim të drejtë), atëherë ai është i liruar plotësisht.\" Nafiu shtoi: \"Përndryshe, prej tij është liruar aq sa është liruar.\" Ejubi tha: \"Nuk e di nëse këtë e ka thënë Nafiu apo ishte pjesë e hadithit.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "The Prophet (ﷺ) said, \"He who manumits his share of a slave and has money sufficient to free the remaining portion of that slave's price (justly estimated) then he should manumit him (by giving the rest of his price to the other co-owners).\" Nafi` added, \"Otherwise the slave is partially free.\" Aiyub is not sure whether the last statement was said by Nafi` or it was a part of the Hadith."
+    }
+  }
+}

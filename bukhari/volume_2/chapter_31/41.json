@@ -1,0 +1,34 @@
+{
+  "id": 41,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 31,
+      "language": {
+        "en": {
+          "text": "(What is said regarding the superiority of) a person who embraces Islam sincerely."
+        },
+        "ar": {
+          "text": "باب حُسْنِ إِسْلاَمِ الْمَرْءِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "قَالَ مَالِكٌ أَخْبَرَنِي زَيْدُ بْنُ أَسْلَمَ، أَنَّ عَطَاءَ بْنَ يَسَارٍ، أَخْبَرَهُ أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ أَخْبَرَهُ أَنَّهُ، سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِذَا أَسْلَمَ الْعَبْدُ فَحَسُنَ إِسْلاَمُهُ يُكَفِّرُ اللَّهُ عَنْهُ كُلَّ سَيِّئَةٍ كَانَ زَلَفَهَا، وَكَانَ بَعْدَ ذَلِكَ الْقِصَاصُ، الْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا إِلَى سَبْعِمِائَةِ ضِعْفٍ، وَالسَّيِّئَةُ بِمِثْلِهَا إِلاَّ أَنْ يَتَجَاوَزَ اللَّهُ عَنْهَا ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Seid el-Hudri: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Nëse një person pranon Islamin me sinqeritet, Allahu do t'ia falë të gjitha mëkatet e tij të kaluara. Pas kësaj fillon llogaritja e veprave: shpërblimi për një vepër të mirë do të jetë nga dhjetë deri në shtatëqind fish, ndërsa një vepër e keqe do të shënohet ashtu siç është, përveç nëse Allahu e fal atë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Sa'id Al Khudri:",
+      "text": "Allah's Messenger (ﷺ) said, \"If a person embraces Islam sincerely, then Allah shall forgive all his past sins, and after that starts the settlement of accounts, the reward of his good deeds will be ten times to seven hundred times for each good deed and one evil deed will be recorded as it is unless Allah forgives it.\""
+    }
+  }
+}

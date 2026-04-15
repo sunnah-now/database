@@ -1,0 +1,34 @@
+{
+  "id": 5234,
+  "metadata": {
+    "volume": {
+      "id": 70
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The snake cucumber"
+        },
+        "ar": {
+          "text": "باب الْقِثَّاءِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ جَعْفَرٍ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَأْكُلُ الرُّطَبَ بِالْقِثَّاءِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Xhaferi: E kam parë Pejgamberin (s.a.v.s.) duke ngrënë hurma të freskëta me kastravecë."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin Ja`far:",
+      "text": "I saw the Prophet (ﷺ) eating fresh dates with snake cucumbers."
+    }
+  }
+}

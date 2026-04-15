@@ -1,0 +1,34 @@
+{
+  "id": 3400,
+  "metadata": {
+    "volume": {
+      "id": 61
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "The description of the Prophet (saws)"
+        },
+        "ar": {
+          "text": "باب صِفَةِ النَّبِيِّ صلى الله عليه وسلم"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، قَالَ سَأَلْتُ أَنَسًا هَلْ خَضَبَ النَّبِيُّ صلى الله عليه وسلم قَالَ لاَ، إِنَّمَا كَانَ شَىْءٌ فِي صُدْغَيْهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: E pyeta: \"A i lyente flokët Pejgamberi (s.a.v.s.)?\" Ai u përgjigj: \"Jo, ai kishte vetëm pak thinja në tëmthat e tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Qatada:",
+      "text": "I asked Anas, \"Did the Prophet (ﷺ) use to dye (his) hair?\" He said, \"No, for there were only a few white hairs on his temples.\""
+    }
+  }
+}

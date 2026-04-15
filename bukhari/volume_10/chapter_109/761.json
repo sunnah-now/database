@@ -1,0 +1,34 @@
+{
+  "id": 761,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 109,
+      "language": {
+        "en": {
+          "text": "(In a quiet prayer) if the Imam recites a Verse or so audibly"
+        },
+        "ar": {
+          "text": "باب إِذَا أَسْمَعَ الإِمَامُ الآيَةَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا الأَوْزَاعِيُّ، حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْرَأُ بِأُمِّ الْكِتَابِ وَسُورَةٍ مَعَهَا فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ مِنْ صَلاَةِ الظُّهْرِ وَصَلاَةِ الْعَصْرِ، وَيُسْمِعُنَا الآيَةَ أَحْيَانًا، وَكَانَ يُطِيلُ فِي الرَّكْعَةِ الأُولَى‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Katade: Pejgamberi (s.a.v.s.) lexonte El-Fatihanë bashkë me një sure tjetër në dy rekatet e para të namazit të drekës dhe të ikindisë. Ndonjëherë na e bënte ndonjë ajet të dëgjueshëm dhe e zgjaste rekatin e parë."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin Abi Qatada:",
+      "text": "My father said, \"The Prophet (ﷺ) used to recite Al-Fatiha along with another Sura in the first two rak`at of the Zuhr and `Asr prayers. A verse or so was audible at times and he used to prolong the first rak`a.\""
+    }
+  }
+}

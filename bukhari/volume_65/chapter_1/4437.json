@@ -1,0 +1,34 @@
+{
+  "id": 4437,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى، حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، ‏{‏خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ‏}‏ قَالَ مَا أَنْزَلَ اللَّهُ إِلاَّ فِي أَخْلاَقِ النَّاسِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin ez-Zubejri: (Ajeti) \"Zgjidh faljen dhe urdhëro për të mirën...\" nuk është zbritur nga Allahu përveçse në lidhje me moralin e njerëzve."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin AzZubair:",
+      "text": "(The Verse) \"Hold to forgiveness; command what is right...\" was revealed by Allah except in connection with the character of the people."
+    }
+  }
+}

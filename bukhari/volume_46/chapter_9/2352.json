@@ -1,0 +1,34 @@
+{
+  "id": 2352,
+  "metadata": {
+    "volume": {
+      "id": 46
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "The curse of the oppressed"
+        },
+        "ar": {
+          "text": "باب الاِتِّقَاءِ وَالْحَذَرِ مِنْ دَعْوَةِ الْمَظْلُومِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا زَكَرِيَّاءُ بْنُ إِسْحَاقَ الْمَكِّيُّ، عَنْ يَحْيَى بْنِ عَبْدِ اللَّهِ بْنِ صَيْفِيٍّ، عَنْ أَبِي مَعْبَدٍ، مَوْلَى ابْنِ عَبَّاسٍ عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ مُعَاذًا إِلَى الْيَمَنِ، فَقَالَ ‏ \"‏ اتَّقِ دَعْوَةَ الْمَظْلُومِ، فَإِنَّهَا لَيْسَ بَيْنَهَا وَبَيْنَ اللَّهِ حِجَابٌ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Pejgamberi (s.a.v.s.) e dërgoi Muadhin në Jemen dhe i tha: \"Ruaju lutjes së të shtypurit, sepse vërtet mes saj dhe Allahut nuk ka asnjë pengesë.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "The Prophet (ﷺ) sent Mu`adh to Yemen and said, \"Be afraid, from the curse of the oppressed as there is no screen between his invocation and Allah.\""
+    }
+  }
+}

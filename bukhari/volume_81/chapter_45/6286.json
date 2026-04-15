@@ -1,0 +1,34 @@
+{
+  "id": 6286,
+  "metadata": {
+    "volume": {
+      "id": 81
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The gathering (on the Day of Resurrection)"
+        },
+        "ar": {
+          "text": "باب كَيْفَ الْحَشْرُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَخْطُبُ عَلَى الْمِنْبَرِ يَقُولُ ‏ \"‏ إِنَّكُمْ مُلاَقُو اللَّهِ حُفَاةً عُرَاةً غُرْلاً ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi se e ka dëgjuar të Dërguarin e Allahut (s.a.v.s.) duke mbajtur hytbe në minber, ku tha: \"Ju do ta takoni Allahun të zbathur, të zhveshur dhe të pabërë synet.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "I heard Allah's Messenger (ﷺ) while he was delivering a sermon on a pulpit, saying, \"You will meet Allah barefooted, naked, and uncircumcised.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 8,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Your invocation means your faith"
+        },
+        "ar": {
+          "text": "باب دُعَاؤُكُمْ إِيمَانُكُمْ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، قَالَ أَخْبَرَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ، عَنْ عِكْرِمَةَ بْنِ خَالِدٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالْحَجِّ، وَصَوْمِ رَمَضَانَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri se i Dërguari i Allahut (s.a.v.s.) ka thënë: Islami është ndërtuar mbi pesë (shtylla): 1. Dëshmia se nuk ka zot tjetër që meriton të adhurohet përveç Allahut dhe se Muhamedi është i Dërguari i Allahut (s.a.v.s.). 2. Falja e namazit. 3. Dhënia e zekatit. 4. Kryerja e haxhit. 5. Agjërimi i muajit të Ramazanit."
+    },
+    "en": {
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "Allah's Messenger (ﷺ) said: Islam is based on (the following) five (principles): 1. To testify that none has the right to be worshipped but Allah and Muhammad is Allah's Messenger (ﷺ). 2. To offer the (compulsory congregational) prayers dutifully and perfectly. 3. To pay Zakat (i.e. obligatory charity) . 4. To perform Hajj. (i.e. Pilgrimage to Mecca) 5. To observe fast during the month of Ramadan."
+    }
+  }
+}

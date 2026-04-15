@@ -1,0 +1,34 @@
+{
+  "id": 882,
+  "metadata": {
+    "volume": {
+      "id": 11
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The time for the Jumu'ah (prayer) is due when the sun declines (i.e. just after mid-day)"
+        },
+        "ar": {
+          "text": "باب وَقْتُ الْجُمُعَةِ إِذَا زَالَتِ الشَّمْسُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُرَيْجُ بْنُ النُّعْمَانِ، قَالَ حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ، عَنْ عُثْمَانَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عُثْمَانَ التَّيْمِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، رضى الله عنه أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُصَلِّي الْجُمُعَةَ حِينَ تَمِيلُ الشَّمْسُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Pejgamberi (s.a.v.s.) e falte namazin e xhumasë kur dielli fillonte të anonte (menjëherë pas mesdite)."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet (ﷺ) used to offer the Jumua prayer immediately after midday."
+    }
+  }
+}

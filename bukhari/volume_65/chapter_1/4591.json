@@ -1,0 +1,34 @@
+{
+  "id": 4591,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي سَعِيدُ بْنُ يَحْيَى، حَدَّثَنَا أَبِي، حَدَّثَنَا مِسْعَرٌ، عَنِ الْحَكَمِ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ كَعْبِ بْنِ عُجْرَةَ ـ رضى الله عنه ـ قِيلَ يَا رَسُولَ اللَّهِ، أَمَّا السَّلاَمُ عَلَيْكَ فَقَدْ عَرَفْنَاهُ فَكَيْفَ الصَّلاَةُ قَالَ ‏ \"‏ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ke'b bin Uxhre: Iu tha: \"O i Dërguari i Allahut (s.a.v.s.)! Për sa i përket përshëndetjes ndaj teje, ne tashmë e dimë, por si të dërgojmë salavate mbi ty?\" Ai tha: \"Thuani: O Allah, dërgo salavate mbi Muhamedin dhe mbi familjen e Muhamedit, ashtu siç ke dërguar salavate mbi familjen e Ibrahimit, vërtet Ti je i Lavdëruar dhe i Madhëruar. O Allah, bekoje Muhamedin dhe familjen e Muhamedit, ashtu siç ke bekuar familjen e Ibrahimit, vërtet Ti je i Lavdëruar dhe i Madhëruar.\""
+    },
+    "en": {
+      "narrator": "Narrated Ka`b bin Ujra:",
+      "text": "It was said, \"O Allah's Messenger (ﷺ)! We know how to greet you, but how to invoke Allah for you?\" The Prophet said, \"Say: Allahumma salli ala Muhammadin wa'ala `Ali Muhammaddin, kama sallaita 'ala all Ibrahim, innaka Hamidun Majid.\""
+    }
+  }
+}

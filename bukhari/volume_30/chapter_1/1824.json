@@ -1,0 +1,34 @@
+{
+  "id": 1824,
+  "metadata": {
+    "volume": {
+      "id": 30
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Fasting is obligatory in (the month of) Ramadan"
+        },
+        "ar": {
+          "text": "باب وُجُوبِ صَوْمِ رَمَضَانَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ صَامَ النَّبِيُّ صلى الله عليه وسلم عَاشُورَاءَ، وَأَمَرَ بِصِيَامِهِ‏.‏ فَلَمَّا فُرِضَ رَمَضَانُ تُرِكَ‏.‏ وَكَانَ عَبْدُ اللَّهِ لاَ يَصُومُهُ، إِلاَّ أَنْ يُوَافِقَ صَوْمَهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Umeri: Pejgamberi (s.a.v.s.) e agjëroi ditën e Ashurasë dhe urdhëroi që të agjërohej ajo ditë, por kur agjërimi i muajit të Ramazanit u bë obligim, agjërimi i Ashurasë u la. Abdullahu nuk e agjëronte këtë ditë, përveç nëse ajo përkonte me agjërimin e tij të rregullt."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "The Prophet (ﷺ) observed the fast on the 10th of Muharram ('Ashura), and ordered (Muslims) to fast on that day, but when the fasting of the month of Ramadan was prescribed, the fasting of the 'Ashura' was abandoned. `Abdullah did not use to fast on that day unless it coincided with his routine fasting by chance."
+    }
+  }
+}

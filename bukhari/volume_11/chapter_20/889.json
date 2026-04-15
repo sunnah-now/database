@@ -1,0 +1,34 @@
+{
+  "id": 889,
+  "metadata": {
+    "volume": {
+      "id": 11
+    },
+    "chapter": {
+      "id": 20,
+      "language": {
+        "en": {
+          "text": "A man should not make his brother get up to sit in his place"
+        },
+        "ar": {
+          "text": "باب لاَ يُقِيمُ الرَّجُلُ أَخَاهُ يَوْمَ الْجُمُعَةِ وَيَقْعُدُ فِي مَكَانِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدٌ، قَالَ أَخْبَرَنَا مَخْلَدُ بْنُ يَزِيدَ، قَالَ أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ سَمِعْتُ نَافِعًا، يَقُولُ سَمِعْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ يَقُولُ نَهَى النَّبِيُّ صلى الله عليه وسلم أَنْ يُقِيمَ الرَّجُلُ أَخَاهُ مِنْ مَقْعَدِهِ وَيَجْلِسَ فِيهِ‏.‏ قُلْتُ لِنَافِعٍ الْجُمُعَةَ قَالَ الْجُمُعَةَ وَغَيْرَهَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Umeri (r.a.): Pejgamberi (s.a.v.s.) e ka ndaluar që një person ta ngrejë vëllanë e tij nga vendi i tij për t’u ulur vetë në të. E pyeta Nafiun: \"A vlen kjo vetëm për namazin e xhumasë?\" Ai u përgjigj: \"Për xhumanë dhe për çdo rast tjetër.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn Juraij:",
+      "text": "I heard Nazi' saying, \"Ibn `Umar, said, 'The Prophet (ﷺ) forbade that a man should make another man to get up to sit in his place' \". I said to Nafi`, 'Is it for Jumua prayer only?' He replied, \"For Jumua prayer and any other (prayer).\""
+    }
+  }
+}

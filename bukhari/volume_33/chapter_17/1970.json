@@ -1,0 +1,34 @@
+{
+  "id": 1970,
+  "metadata": {
+    "volume": {
+      "id": 33
+    },
+    "chapter": {
+      "id": 17,
+      "language": {
+        "en": {
+          "text": "I'tikaf in the middle ten days of Ramadan"
+        },
+        "ar": {
+          "text": "باب الاِعْتِكَافِ فِي الْعَشْرِ الأَوْسَطِ مِنْ رَمَضَانَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو بَكْرٍ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَعْتَكِفُ فِي كُلِّ رَمَضَانَ عَشْرَةَ أَيَّامٍ، فَلَمَّا كَانَ الْعَامُ الَّذِي قُبِضَ فِيهِ اعْتَكَفَ عِشْرِينَ يَوْمًا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: Pejgamberi (s.a.v.s.) bënte itikaf çdo Ramazan nga dhjetë ditë, ndërsa në vitin kur ndërroi jetë, ai qëndroi në itikaf njëzet ditë."
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) used to perform I`tikaf every year in the month of Ramadan for ten days, and when it was the year of his death, he stayed in I`tikaf for twenty days."
+    }
+  }
+}

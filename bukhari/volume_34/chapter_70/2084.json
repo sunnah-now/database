@@ -1,0 +1,34 @@
+{
+  "id": 2084,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 70,
+      "language": {
+        "en": {
+          "text": "A town dweller should not buy goods for a desert dweller and charge commission as a broker"
+        },
+        "ar": {
+          "text": "باب لاَ يَبِيعُ حَاضِرٌ لِبَادٍ بِالسَّمْسَرَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُعَاذٌ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ مُحَمَّدٍ، قَالَ أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ نُهِينَا أَنْ يَبِيعَ حَاضِرٌ لِبَادٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Jemi ndaluar që banori i qytetit të shesë mallrat e banorit të shkretëtirës."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "We were forbidden that a town dweller should sell goods of a desert dweller."
+    }
+  }
+}

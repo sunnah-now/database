@@ -1,0 +1,34 @@
+{
+  "id": 740,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 95,
+      "language": {
+        "en": {
+          "text": "Recitation of the Qur'an (Surat Al-Fatiha) is compulsory for the Imam and the followers, at the home and on journey, in all As-Salat (the prayers) whether the recitation is done silently or aloud."
+        },
+        "ar": {
+          "text": "باب وُجُوبِ الْقِرَاءَةِ لِلإِمَامِ وَالْمَأْمُومِ فِي الصَّلَوَاتِ كُلِّهَا فِي الْحَضَرِ وَالسَّفَرِ وَمَا يُجْهَرُ فِيهَا وَمَا يُخَافَتُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ قَالَ سَعْدٌ كُنْتُ أُصَلِّي بِهِمْ صَلاَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم صَلاَتَىِ الْعَشِيِّ لاَ أَخْرِمُ عَنْهَا، أَرْكُدُ فِي الأُولَيَيْنِ وَأَحْذِفُ فِي الأُخْرَيَيْنِ‏.‏ فَقَالَ عُمَرُ ـ رضى الله عنه ـ ذَلِكَ الظَّنُّ بِكَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Sad-i: Unë u falja atyre namazin ashtu siç falej i Dërguari i Allahut (s.a.v.s.) (namazin e drekës dhe të iqindisë), pa mangësuar asgjë prej tij. I zgjasja dy rekatet e para dhe i shkurtoja dy të fundit. Omeri (r.a.) i tha: \"Këtë kemi menduar për ty.\""
+    },
+    "en": {
+      "narrator": "Narrated Jabir bin Samura:",
+      "text": "Sa`d said, \"I used to pray with them a prayer similar to that of Allah's Messenger (ﷺ) (the prayer of Zuhr and `Asr) reducing nothing from them. I used to prolong the first two rak`at and shorten the last two rak`at.\" `Umar said to Sa`d \"This was what we thought about you.\""
+    }
+  }
+}

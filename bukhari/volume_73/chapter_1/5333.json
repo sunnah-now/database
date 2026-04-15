@@ -1,0 +1,34 @@
+{
+  "id": 5333,
+  "metadata": {
+    "volume": {
+      "id": 73
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The legal way of Al-Udhiya"
+        },
+        "ar": {
+          "text": "باب سُنَّةِ الأُضْحِيَّةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ مَنْ ذَبَحَ قَبْلَ الصَّلاَةِ فَإِنَّمَا ذَبَحَ لِنَفْسِهِ، وَمَنْ ذَبَحَ بَعْدَ الصَّلاَةِ فَقَدْ تَمَّ نُسُكُهُ، وَأَصَابَ سُنَّةَ الْمُسْلِمِينَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Pejgamberi (s.a.v.s.) ka thënë: \"Kushdo që ther kurban para namazit, ai vetëm se ka therrë për veten e tij, ndërsa kushdo që ther pas namazit, ai e ka plotësuar adhurimin e tij dhe ka ndjekur sunetin e myslimanëve.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet (ﷺ) said, \"Whoever slaughtered the sacrifice before the prayer, he just slaughtered it for himself, and whoever slaughtered it after the prayer, he slaughtered it at the right time and followed the tradition of the Muslims.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4400,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنْ قَيْسٍ، عَنْ طَارِقِ بْنِ شِهَابٍ، قَالَتِ الْيَهُودُ لِعُمَرَ إِنَّكُمْ تَقْرَءُونَ آيَةً لَوْ نَزَلَتْ فِينَا لاَتَّخَذْنَاهَا عِيدًا‏.‏ فَقَالَ عُمَرُ إِنِّي لأَعْلَمُ حَيْثُ أُنْزِلَتْ، وَأَيْنَ أُنْزِلَتْ، وَأَيْنَ رَسُولُ اللَّهِ صلى الله عليه وسلم حِينَ أُنْزِلَتْ يَوْمَ عَرَفَةَ، وَإِنَّا وَاللَّهِ بِعَرَفَةَ ـ قَالَ سُفْيَانُ وَأَشُكُّ كَانَ يَوْمَ الْجُمُعَةِ أَمْ لاَ – ‏{‏الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Tarik bin Shihabi: Hebrenjtë i thanë Omerit: \"Ju lexoni një ajet që, po të na ishte shpallur ne, do ta kishim marrë ditën e shpalljes së tij si ditë feste.\" Omeri tha: \"Unë e di shumë mirë se kur dhe ku u shpall ai, dhe ku ndodhej i Dërguari i Allahut (s.a.v.s.) kur u shpall. Ai u shpall në ditën e Arafatit dhe, pasha Allahun, unë isha në Arafat.\" Sufjani tha: \"Jam në dyshim nëse ajeti: 'Sot përsosa për ju fenë tuaj', u shpall në ditën e xhuma apo jo.\""
+    },
+    "en": {
+      "narrator": "Narrated Tariq bin Shihab:",
+      "text": "The Jews said to `Umar, \"You (i.e. Muslims) recite a Verse, and had it been revealed to us, we would have taken the day of its revelation as a day of celebration.\" `Umar said, \"I know very well when and where it was revealed, and where Allah's Messenger (ﷺ) was when it was revealed. (It was revealed on) the day of `Arafat (Hajj Day), and by Allah, I was at `Arafat\" Sufyan, a sub-narrator said: I am in doubt whether the Verse:-- \"This day I have perfected your religion for you.\" was revealed on a Friday or not."
+    }
+  }
+}

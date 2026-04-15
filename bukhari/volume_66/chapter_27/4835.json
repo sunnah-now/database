@@ -1,0 +1,34 @@
+{
+  "id": 4835,
+  "metadata": {
+    "volume": {
+      "id": 66
+    },
+    "chapter": {
+      "id": 27,
+      "language": {
+        "en": {
+          "text": "Whoever thinks that there is no harm in saying: Surat Al-Baqarah or Surat so-and-so"
+        },
+        "ar": {
+          "text": "باب مَنْ لَمْ يَرَ بَأْسًا أَنْ يَقُولَ سُورَةُ الْبَقَرَةِ وَسُورَةُ كَذَا وَكَذَا"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ، عَنْ عَلْقَمَةَ، وَعَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ أَبِي مَسْعُودٍ الأَنْصَارِيِّ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ الآيَتَانِ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ مَنْ قَرَأَ بِهِمَا فِي لَيْلَةٍ كَفَتَاهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Mes'ud el-Ensariu se Pejgamberi (s.a.v.s.) ka thënë: \"Kush i lexon dy ajetet e fundit të sures el-Bekare gjatë natës, ato i mjaftojnë atij.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Mas`ud al-Ansari:",
+      "text": "The Prophet (ﷺ) said, \"If one recites the last two verses of Surat al-Baqarah at night, it is sufficient for him (for that night).\""
+    }
+  }
+}

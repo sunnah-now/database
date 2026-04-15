@@ -1,0 +1,34 @@
+{
+  "id": 4633,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ جَابِرٍ، قَالَ كُنَّا يَوْمَ الْحُدَيْبِيَةِ أَلْفًا وَأَرْبَعَمِائَةٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xhabiri: Ne ishim një mijë e katërqind persona në ditën e Hudejbijes."
+    },
+    "en": {
+      "narrator": "Narrated Jabir:",
+      "text": "We were one thousand and four hundred on the Day of Al-Hudaibiya."
+    }
+  }
+}

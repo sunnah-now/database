@@ -1,0 +1,34 @@
+{
+  "id": 2066,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 60,
+      "language": {
+        "en": {
+          "text": "An-Naish"
+        },
+        "ar": {
+          "text": "باب النَّجْشِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنِ النَّجْشِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: I dërguari i Allahut (s.a.v.s.) e ndaloi nexhshin (rritjen artificiale të çmimit)."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Allah's Messenger (ﷺ) forbade Najsh."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5214,
+  "metadata": {
+    "volume": {
+      "id": 70
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "The mention of food"
+        },
+        "ar": {
+          "text": "باب ذِكْرِ الطَّعَامِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا خَالِدٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ فَضْلُ عَائِشَةَ عَلَى النِّسَاءِ كَفَضْلِ الثَّرِيدِ عَلَى سَائِرِ الطَّعَامِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi se Pejgamberi (s.a.v.s.) ka thënë: \"Vlera e Aishes ndaj grave të tjera është si vlera e Tharidit ndaj të gjitha ushqimeve të tjera.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "The Prophet (ﷺ) said, \"The superiority of `Aisha to other ladies is like the superiority of Tharid to other kinds of food.\""
+    }
+  }
+}

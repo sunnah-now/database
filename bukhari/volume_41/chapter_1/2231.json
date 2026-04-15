@@ -1,0 +1,34 @@
+{
+  "id": 2231,
+  "metadata": {
+    "volume": {
+      "id": 41
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Sowing seeds and planting trees"
+        },
+        "ar": {
+          "text": "باب فَضْلِ الزَّرْعِ وَالْغَرْسِ إِذَا أُكِلَ مِنْهُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، ح وَحَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَا مِنْ مُسْلِمٍ يَغْرِسُ غَرْسًا، أَوْ يَزْرَعُ زَرْعًا، فَيَأْكُلُ مِنْهُ طَيْرٌ أَوْ إِنْسَانٌ أَوْ بَهِيمَةٌ، إِلاَّ كَانَ لَهُ بِهِ صَدَقَةٌ ‏\"‏‏.‏ وَقَالَ لَنَا مُسْلِمٌ حَدَّثَنَا أَبَانُ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنَا أَنَسٌ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Nuk ka asnjë musliman që mbjell një fidan ose mbjell një bimë, e prej saj të hajë ndonjë shpend, njeri apo kafshë, e që kjo të mos i llogaritet atij si sadaka.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Allah's Messenger (ﷺ) said, \"There is none amongst the Muslims who plants a tree or sows seeds, and then a bird, or a person or an animal eats from it, but is regarded as a charitable gift for him.\""
+    }
+  }
+}

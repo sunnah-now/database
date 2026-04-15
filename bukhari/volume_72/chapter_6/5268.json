@@ -1,0 +1,34 @@
+{
+  "id": 5268,
+  "metadata": {
+    "volume": {
+      "id": 72
+    },
+    "chapter": {
+      "id": 6,
+      "language": {
+        "en": {
+          "text": "A (pet) dog"
+        },
+        "ar": {
+          "text": "باب مَنِ اقْتَنَى كَلْبًا لَيْسَ بِكَلْبِ صَيْدٍ أَوْ مَاشِيَةٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، قَالَ سَمِعْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنِ اقْتَنَى كَلْبًا لَيْسَ بِكَلْبِ مَاشِيَةٍ أَوْ ضَارِيَةٍ، نَقَصَ كُلَّ يَوْمٍ مِنْ عَمَلِهِ قِيرَاطَانِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: Pejgamberi (s.a.v.s.) ka thënë: \"Kush mban një qen, i cili nuk është as qen i bagëtive e as qen gjuatie, do t’i pakësohen çdo ditë nga dy kiratë prej shpërblimit të veprave të tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "The Prophet (ﷺ) said, \"Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds.\""
+    }
+  }
+}

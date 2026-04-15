@@ -1,0 +1,34 @@
+{
+  "id": 2744,
+  "metadata": {
+    "volume": {
+      "id": 56
+    },
+    "chapter": {
+      "id": 47,
+      "language": {
+        "en": {
+          "text": "What has been said about the evil omen of a horse"
+        },
+        "ar": {
+          "text": "باب مَا يُذْكَرُ مِنْ شُؤْمِ الْفَرَسِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي حَازِمِ بْنِ دِينَارٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنْ كَانَ فِي شَىْءٍ فَفِي الْمَرْأَةِ وَالْفَرَسِ وَالْمَسْكَنِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Sehl bin Sa'd es-Sa'idiu: I dërguari i Allahut (s.a.v.s.) ka thënë: \"Nëse ka ndonjë ogur të keq në diçka, ai është te gruaja, kali dhe shtëpia.\""
+    },
+    "en": {
+      "narrator": "Narrated Sahl bin Sa`d Saidi:",
+      "text": "Allah's Messenger (ﷺ) said \"If there is any evil omen in anything, then it is in the woman, the horse and the house.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3863,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The story of Bani An-Nadir"
+        },
+        "ar": {
+          "text": "باب حَدِيثِ بَنِي النَّضِيرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا مُعْتَمِرٌ، عَنْ أَبِيهِ، سَمِعْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه قَالَ كَانَ الرَّجُلُ يَجْعَلُ لِلنَّبِيِّ صلى الله عليه وسلم النَّخَلاَتِ حَتَّى افْتَتَحَ قُرَيْظَةَ وَالنَّضِيرَ، فَكَانَ بَعْدَ ذَلِكَ يَرُدُّ عَلَيْهِمْ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Disa njerëz i dhuronin Pejgamberit (s.a.v.s.) palma hurmash derisa ai çliroi Banu Kurejdhën dhe Banu Nadirin, pas së cilës ai filloi t'ua kthente përsëri ato atyre."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Some people used to allot some date palm trees to the Prophet (ﷺ) as gift till he conquered Banu Quraiza and Bani An-Nadir, where upon he started returning their date palms to them."
+    }
+  }
+}

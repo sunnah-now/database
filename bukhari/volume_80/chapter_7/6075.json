@@ -1,0 +1,34 @@
+{
+  "id": 6075,
+  "metadata": {
+    "volume": {
+      "id": 80
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "What to say on going to bed"
+        },
+        "ar": {
+          "text": "باب مَا يَقُولُ إِذَا نَامَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الْمَلِكِ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ حُذَيْفَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَوَى إِلَى فِرَاشِهِ قَالَ ‏\"‏ بِاسْمِكَ أَمُوتُ وَأَحْيَا ‏\"‏‏.‏ وَإِذَا قَامَ قَالَ ‏\"‏ الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ ‏\"‏‏.‏ تُنْشِرُهَا: تُخْرِجُهَا."
+    },
+    "al": {
+      "text": "Transmeton Hudhejfe: Kur Pejgamberi (s.a.v.s.) binte në shtratin e tij, thoshte: \"Me emrin Tënd vdes dhe jetoj.\" Ndërsa kur zgjohej, thoshte: \"Falënderimi i takon Allahut, i Cili na ringjalli pasi na bëri të vdesim dhe tek Ai është ringjallja.\""
+    },
+    "en": {
+      "narrator": "Narrated Hudhaifa:",
+      "text": "When the Prophet (ﷺ) went to bed, he would say: \"Bismika amutu wa ahya.\" and when he got up he would say:\" Al-hamdu li l-lahil-ladhi ahyana ba'da ma amatana wa ilaihin-nushur.\""
+    }
+  }
+}

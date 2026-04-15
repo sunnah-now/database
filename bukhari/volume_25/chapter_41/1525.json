@@ -1,0 +1,34 @@
+{
+  "id": 1525,
+  "metadata": {
+    "volume": {
+      "id": 25
+    },
+    "chapter": {
+      "id": 41,
+      "language": {
+        "en": {
+          "text": "From where to leave Makkah"
+        },
+        "ar": {
+          "text": "باب مِنْ أَيْنَ يَخْرُجُ مِنْ مَكَّةَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنَا عَمْرٌو، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ عَامَ الْفَتْحِ مِنْ كَدَاءٍ أَعْلَى مَكَّةَ‏.‏ قَالَ هِشَامٌ وَكَانَ عُرْوَةُ يَدْخُلُ عَلَى كِلْتَيْهِمَا مِنْ كَدَاءٍ وَكُدًا، وَأَكْثَرُ مَا يَدْخُلُ مِنْ كَدَاءٍ، وَكَانَتْ أَقْرَبَهُمَا إِلَى مَنْزِلِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ajsheja: Në vitin e çlirimit të Mekës, Pejgamberi (s.a.v.s.) hyri në Mekë nga Kada-ja, që ndodhet në pjesën e sipërme të saj. (Hishami ka thënë: Urveja hynte në Mekë nga të dyja anët, Kada-ja dhe Kuda-ja, por më shpesh hynte nga Kada-ja, pasi ishte më afër shtëpisë së tij.)"
+    },
+    "en": {
+      "narrator": "Narrated `Aisha:",
+      "text": "In the year of the conquest of Mecca, the Prophet (ﷺ) entered Mecca from Kada' at the higher place of Mecca. (Hisham, a sub-narrator said, \" `Urwa used to enter (Mecca) from both Kada' and Kuda and he often entered through Kada' which was nearer to his dwelling place.)\""
+    }
+  }
+}

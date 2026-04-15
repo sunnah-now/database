@@ -1,0 +1,34 @@
+{
+  "id": 6426,
+  "metadata": {
+    "volume": {
+      "id": 83
+    },
+    "chapter": {
+      "id": 15,
+      "language": {
+        "en": {
+          "text": "If someone does something against his oath due to forgetfulness"
+        },
+        "ar": {
+          "text": "بَابُ إِذَا حَنِثَ نَاسِيًا فِي الأَيْمَانِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنِي عَوْفٌ، عَنْ خِلاَسٍ، وَمُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ مَنْ أَكَلَ نَاسِيًا وَهْوَ صَائِمٌ فَلْيُتِمَّ صَوْمَهُ، فَإِنَّمَا أَطْعَمَهُ اللَّهُ وَسَقَاهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: Pejgamberi (s.a.v.s.) ka thënë: \"Nëse dikush ha harrueshëm ndërsa është me agjërim, le ta plotësojë agjërimin e tij, sepse Allahu e ka ushqyer dhe i ka dhënë të pijë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"If somebody eats something forgetfully while he is fasting, then he should complete his fast, for Allah has made him eat and drink.\""
+    }
+  }
+}

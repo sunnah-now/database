@@ -1,0 +1,34 @@
+{
+  "id": 2396,
+  "metadata": {
+    "volume": {
+      "id": 47
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "To get a joint property evaluated with a price"
+        },
+        "ar": {
+          "text": "باب تَقْوِيمِ الأَشْيَاءِ بَيْنَ الشُّرَكَاءِ بِقِيمَةِ عَدْلٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ أَعْتَقَ شَقِيصًا مِنْ مَمْلُوكِهِ فَعَلَيْهِ خَلاَصُهُ فِي مَالِهِ، فَإِنْ لَمْ يَكُنْ لَهُ مَالٌ قُوِّمَ الْمَمْلُوكُ، قِيمَةَ عَدْلٍ ثُمَّ اسْتُسْعِيَ غَيْرَ مَشْقُوقٍ عَلَيْهِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra se Pejgamberi (s.a.v.s.) ka thënë: \"Kushdo që liron pjesën e tij të një skllavi që e zotëron bashkërisht, ai është i obliguar ta lirojë atë plotësisht nga pasuria e tij. Nëse ai nuk ka pasuri, atëherë skllavit i caktohet një vlerë e drejtë dhe atij i mundësohet të punojë për të fituar vlerën e lirimit të tij, pa u rënduar tej mase.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"Whoever manumits his share of a jointly possessed slave, it is imperative for him to get that slave manumitted completely by paying the remaining price, and if he does not have sufficient money to manumit him, then the price of the slave should be estimated justly, and he is to be allowed to work and earn the amount that will manumit him (without overburdening him)\"."
+    }
+  }
+}

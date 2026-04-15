@@ -1,0 +1,34 @@
+{
+  "id": 2033,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "For what perios to confirm or cancel the bargain?"
+        },
+        "ar": {
+          "text": "باب كَمْ يَجُوزُ الْخِيَارُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَبِي الْخَلِيلِ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنْ حَكِيمِ بْنِ حِزَامٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَفْتَرِقَا ‏\"‏‏.‏ وَزَادَ أَحْمَدُ حَدَّثَنَا بَهْزٌ، قَالَ قَالَ هَمَّامٌ فَذَكَرْتُ ذَلِكَ لأَبِي التَّيَّاحِ فَقَالَ كُنْتُ مَعَ أَبِي الْخَلِيلِ لَمَّا حَدَّثَهُ عَبْدُ اللَّهِ بْنُ الْحَارِثِ بِهَذَا الْحَدِيثِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Hakim bin Hizami (r.a.): Pejgamberi (s.a.v.s.) ka thënë: \"Blerësi dhe shitësi kanë të drejtën e zgjedhjes për të anuluar ose konfirmuar marrëveshjen derisa të mos ndahen.\""
+    },
+    "en": {
+      "narrator": "Narrated Hakim bin Hizam\":",
+      "text": "The Prophet (ﷺ) said, \"The buyer and the seller have the option of canceling or confirming the deal unless they separate.\""
+    }
+  }
+}

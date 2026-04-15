@@ -1,0 +1,34 @@
+{
+  "id": 5942,
+  "metadata": {
+    "volume": {
+      "id": 78
+    },
+    "chapter": {
+      "id": 99,
+      "language": {
+        "en": {
+          "text": "Calling the people by their father's name"
+        },
+        "ar": {
+          "text": "باب مَا يُدْعَى النَّاسُ بِآبَائِهِمْ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْغَادِرُ يُرْفَعُ لَهُ لِوَاءٌ يَوْمَ الْقِيَامَةِ، يُقَالُ هَذِهِ غَدْرَةُ فُلاَنِ بْنِ فُلاَنٍ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibni Omeri se Pejgamberi (s.a.v.s.) ka thënë: \"Për çdo tradhtar do të ngrihet një flamur në Ditën e Kiametit dhe do të shpallet: 'Kjo është tradhtia e filanit, birit të filanit'.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "The Prophet (ﷺ) said, \"For every betrayer (perfidious person), a flag will be raised on the Day of Resurrection, and it will be announced (publicly) 'This is the betrayal (perfidy) of so-and-so, the son of so-and-so.' \""
+    }
+  }
+}

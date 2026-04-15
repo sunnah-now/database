@@ -1,0 +1,34 @@
+{
+  "id": 64,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "What is said regarding the hand to hand exchange (of books of knowledge), and the writing of knowledge by religious scholars to different countries"
+        },
+        "ar": {
+          "text": "باب مَا يُذْكَرُ فِي الْمُنَاوَلَةِ وَكِتَابِ أَهْلِ الْعِلْمِ بِالْعِلْمِ إِلَى الْبُلْدَانِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ، أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ بِكِتَابِهِ رَجُلاً، وَأَمَرَهُ أَنْ يَدْفَعَهُ إِلَى عَظِيمِ الْبَحْرَيْنِ، فَدَفَعَهُ عَظِيمُ الْبَحْرَيْنِ إِلَى كِسْرَى، فَلَمَّا قَرَأَهُ مَزَّقَهُ‏.‏ فَحَسِبْتُ أَنَّ ابْنَ الْمُسَيَّبِ قَالَ فَدَعَا عَلَيْهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يُمَزَّقُوا كُلَّ مُمَزَّقٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: I Dërguari i Allahut (s.a.v.s.) i dërgoi një letër një burri dhe e urdhëroi që t'ia dorëzonte atë sundimtarit të Bahrejnit. Sundimtari i Bahrejnit ia dërgoi atë Kisras, i cili, pasi e lexoi letrën, e grisi atë. (Ibn el-Musajibi përcjell se) I Dërguari i Allahut (s.a.v.s.) u lut kundër tyre që të copëtoheshin tërësisht."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Abbas:",
+      "text": "Once Allah's Messenger (ﷺ) gave a letter to a person and ordered him to go and deliver it to the Governor of Bahrain. (He did so) and the Governor of Bahrain sent it to Chousroes, who read that letter and then tore it to pieces. (The sub-narrator (Ibn Shihab) thinks that Ibn Al-Musaiyab said that Allah's Messenger (ﷺ) invoked Allah against them (saying), \"May Allah tear them into pieces, and disperse them all totally.)\""
+    }
+  }
+}

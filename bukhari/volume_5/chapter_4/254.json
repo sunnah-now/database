@@ -1,0 +1,34 @@
+{
+  "id": 254,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "Pouring water thrice on one's head"
+        },
+        "ar": {
+          "text": "باب مَنْ أَفَاضَ عَلَى رَأْسِهِ ثَلاَثًا"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا زُهَيْرٌ، عَنْ أَبِي إِسْحَاقَ، قَالَ حَدَّثَنِي سُلَيْمَانُ بْنُ صُرَدٍ، قَالَ حَدَّثَنِي جُبَيْرُ بْنُ مُطْعِمٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَمَّا أَنَا فَأُفِيضُ عَلَى رَأْسِي ثَلاَثًا ‏\"‏‏.‏ وَأَشَارَ بِيَدَيْهِ كِلْتَيْهِمَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xhubejr bin Mut'imi se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Sa më përket mua, unë hedh ujë tri herë mbi kokën time.\" Dhe ai bëri me shenjë me të dyja duart e tij."
+    },
+    "en": {
+      "narrator": "Narrated Jubair bin Mut`im:",
+      "text": "Allah's Messenger (ﷺ) said, \"As for me, I pour water three times on my head.\" And he pointed with both his hands."
+    }
+  }
+}

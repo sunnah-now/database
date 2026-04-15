@@ -1,0 +1,34 @@
+{
+  "id": 4399,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، سَمِعْتُ الْبَرَاءَ ـ رضى الله عنه ـ قَالَ آخِرُ سُورَةٍ نَزَلَتْ بَرَاءَةَ، وَآخِرُ آيَةٍ نَزَلَتْ ‏{‏يَسْتَفْتُونَكَ ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton El-Berai: Surja e fundit që u shpall ishte Berae, ndërsa ajeti i fundit që u shpall ishte: \"Kërkojnë prej teje gjykim (fetva). Thuaj: Allahu ju jep gjykimin rreth 'kelales' (personit që nuk lë pasardhës as paraardhës si trashëgimtarë).\" (4:176)"
+    },
+    "en": {
+      "narrator": "Narrated Al-Bara:",
+      "text": "The last Sura that was revealed was Bara'a, and the last Verse that was revealed was: \"They ask you for a legal verdict, Say: Allah's directs (thus) about those who leave no descendants or ascendants as heirs.\" (4.176)"
+    }
+  }
+}

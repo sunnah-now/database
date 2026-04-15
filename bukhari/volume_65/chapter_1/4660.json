@@ -1,0 +1,34 @@
+{
+  "id": 4660,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ سَأَلَ أَهْلُ مَكَّةَ أَنْ يُرِيَهُمْ آيَةً فَأَرَاهُمُ انْشِقَاقَ الْقَمَرِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Banorët e Mekës i kërkuan Profetit (s.a.v.s.) t'u tregonte një shenjë (mrekulli), kështu që ai ua tregoi atyre çarjen e hënës."
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "The people of Mecca asked the Prophet (ﷺ) to show them a sign (miracle). So he showed them (the miracle) of the cleaving of the moon."
+    }
+  }
+}

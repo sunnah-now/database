@@ -1,0 +1,34 @@
+{
+  "id": 745,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 98,
+      "language": {
+        "en": {
+          "text": "The recitation of the Qur'an in the Magrib prayer"
+        },
+        "ar": {
+          "text": "باب الْقِرَاءَةِ فِي الْمَغْرِبِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّهُ قَالَ إِنَّ أُمَّ الْفَضْلِ سَمِعَتْهُ وَهُوَ يَقْرَأُ ‏{‏وَالْمُرْسَلاَتِ عُرْفًا‏}‏ فَقَالَتْ يَا بُنَىَّ وَاللَّهِ لَقَدْ ذَكَّرْتَنِي بِقِرَاءَتِكَ هَذِهِ السُّورَةَ، إِنَّهَا لآخِرُ مَا سَمِعْتُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم يَقْرَأُ بِهَا فِي الْمَغْرِبِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi (r.a.): Umul Fadli e dëgjoi atë duke lexuar suren \"Uel-Murselati urfan\" (77) dhe i tha: \"O biri im! Pasha Allahun, leximi yt i kësaj sureje ma kujtoi atë, sepse kjo ishte surja e fundit që kam dëgjuar nga i Dërguari i Allahut (s.a.v.s.) duke e lexuar në namazin e akshamit.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "(My mother) Umu-l-Fadl heard me reciting \"Wal Mursalati `Urfan\" (77) and said, \"O my son! By Allah, your recitation made me remember that it was the last Sura I heard from Allah's Messenger (ﷺ). He recited it in the Maghrib prayer. \""
+    }
+  }
+}

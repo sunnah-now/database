@@ -1,0 +1,34 @@
+{
+  "id": 2333,
+  "metadata": {
+    "volume": {
+      "id": 45
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "If someone finds a thing in the sea"
+        },
+        "ar": {
+          "text": "باب إِذَا وَجَدَ خَشَبَةً فِي الْبَحْرِ أَوْ سَوْطًا أَوْ نَحْوَهُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَقَالَ اللَّيْثُ حَدَّثَنِي جَعْفَرُ بْنُ رَبِيعَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ هُرْمُزَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ ذَكَرَ رَجُلاً مِنْ بَنِي إِسْرَائِيلَ ـ وَسَاقَ الْحَدِيثَ ـ ‏ \"‏فَخَرَجَ يَنْظُرُ لَعَلَّ مَرْكَبًا قَدْ جَاءَ بِمَالِهِ، فَإِذَا هُوَ بِالْخَشَبَةِ فَأَخَذَهَا لأَهْلِهِ حَطَبًا، فَلَمَّا نَشَرَهَا وَجَدَ الْمَالَ وَالصَّحِيفَةَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: I Dërguari i Allahut (s.a.v.s.) tregoi për një burrë nga Beni Israilët, i cili doli për të parë nëse kishte ardhur ndonjë anije me pasurinë e tij. Papritmas ai gjeti një copë druri dhe e mori për familjen e tij si dru zjarri. Kur e sharroi atë, gjeti brenda saj pasurinë dhe një letër."
+    },
+    "en": {
+      "narrator": "Narrated 'Abdur-Rahman bin Hurmuz:",
+      "text": "Abu Hurairah (ra) said, \"Allah's Messenger (ﷺ) mentioned an Israeli man.\" Abu Hurairah then told the whole narration). (At the end of the narration it was mentioned that the creditor) went out to the sea, hoping that a boat might have brought his money. Suddenly he saw a piece of wood and he took it to his house to use as firewood. When he sawed it, he found his money and a letter in it."
+    }
+  }
+}

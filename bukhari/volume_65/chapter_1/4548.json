@@ -1,0 +1,34 @@
+{
+  "id": 4548,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ عَبْدِ الْمَجِيدِ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنِ الْقَاسِمِ، أَنَّ ابْنَ عَبَّاسٍ ـ رضى الله عنه ـ اسْتَأْذَنَ عَلَى عَائِشَةَ نَحْوَهُ‏.‏ وَلَمْ يَذْكُرْ نِسْيًا مَنْسِيًّا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi: Ai kërkoi leje për të hyrë te Ajsheja. El-Kasimi pastaj e tregoi hadithin e plotë, por nuk e përmendi pjesën: \"Sikur të kisha qenë krejtësisht e harruar dhe e panjohur.\""
+    },
+    "en": {
+      "narrator": "Narrated Al-Qasim:",
+      "text": "Ibn `Abbas asked `Aisha's permission to enter. Al-Qasim then narrated the whole Hadith (as in 277) but did not mention: \"Would that I had been forgotten and out of sight.\""
+    }
+  }
+}

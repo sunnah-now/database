@@ -1,0 +1,34 @@
+{
+  "id": 3551,
+  "metadata": {
+    "volume": {
+      "id": 62
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "The merits of Ja'far bin Abi Talib رضي الله عنه"
+        },
+        "ar": {
+          "text": "بَابُ مَنَاقِبُ جَعْفَرِ بْنِ أَبِي طَالِبٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، عَنِ الشَّعْبِيِّ، أَنَّ ابْنَ عُمَرَ ـ رضى الله عنهما ـ كَانَ إِذَا سَلَّمَ عَلَى ابْنِ جَعْفَرٍ قَالَ السَّلاَمُ عَلَيْكَ يَا ابْنَ ذِي الْجَنَاحَيْنِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Umeri: Sa herë që ai e përshëndeste Ibn Xhaferin, i thoshte: \"Es-selamu alejk (paqja qoftë mbi ty), o biri i atij me dy krahë.\""
+    },
+    "en": {
+      "narrator": "Narrated Ash-Shu`bi:",
+      "text": "Whenever Ibn `Umar greeted Ibn Jafar, he used to say: \"As-salamu-'Alaika (i.e. Peace be on you) O son of Dhu-l-Janahain (son of the two-winged person)."
+    }
+  }
+}

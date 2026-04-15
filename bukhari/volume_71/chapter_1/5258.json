@@ -1,0 +1,34 @@
+{
+  "id": 5258,
+  "metadata": {
+    "volume": {
+      "id": 71
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The naming of a newly born child, Al-'Al-'Aqiqa and its Tahnik"
+        },
+        "ar": {
+          "text": "باب تَسْمِيَةِ الْمَوْلُودِ غَدَاةَ يُولَدُ، لِمَنْ لَمْ يَعُقَّ عَنْهُ، وَتَحْنِيكِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، وَسَاقَ الْحَدِيثَ،‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Ai e tregoi të njëjtin hadith (si më lart)."
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "As above."
+    }
+  }
+}

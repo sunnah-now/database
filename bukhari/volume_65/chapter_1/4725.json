@@ -1,0 +1,34 @@
+{
+  "id": 4725,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَابِسٍ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ قَالَ كُنَّا نَرْفَعُ الْخَشَبَ بِقَصَرٍ ثَلاَثَةَ أَذْرُعٍ أَوْ أَقَلَّ، فَنَرْفَعُهُ لِلشِّتَاءِ فَنُسَمِّيهِ الْقَصَرَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi: Lidhur me ajetin: \"Vërtet, ajo (Xhehenemi) hedh shkëndija si pallate\", ai tha: \"Ne mblidhnim trungje druri, me gjatësi tre krahë ose më pak, për t'i përdorur gjatë dimrit, dhe këto drunj i quanim el-Kasër (trungje).\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "(as regards the explanation of Hadith 454). 'Indeed, it (Hell) throws about sparks (huge) as Forts.' We used to collect wood in the form of logs, three cubits long or shorter. for heating purposes in winter., and we used to call such wood, the Qasr."
+    }
+  }
+}

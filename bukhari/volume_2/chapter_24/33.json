@@ -1,0 +1,34 @@
+{
+  "id": 33,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The signs of a hypocrite"
+        },
+        "ar": {
+          "text": "باب عَلاَمَةِ الْمُنَافِقِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ أَبُو الرَّبِيعِ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا نَافِعُ بْنُ مَالِكِ بْنِ أَبِي عَامِرٍ أَبُو سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ آيَةُ الْمُنَافِقِ ثَلاَثٌ إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre se Pejgamberi (s.a.v.s.) ka thënë: \"Shenjat e munafikut janë tri: kur flet, gënjen; kur jep premtimin, nuk e mban atë; dhe kur i lihet diçka në besim, ai tradhton.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise ). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it.)\""
+    }
+  }
+}

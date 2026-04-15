@@ -1,0 +1,34 @@
+{
+  "id": 3722,
+  "metadata": {
+    "volume": {
+      "id": 63
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The story of Abu Talib"
+        },
+        "ar": {
+          "text": "باب قِصَّةُ أَبِي طَالِبٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا اللَّيْثُ، حَدَّثَنَا ابْنُ الْهَادِ، عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم وَذُكِرَ عِنْدَهُ عَمُّهُ فَقَالَ ‏ \"‏ لَعَلَّهُ تَنْفَعُهُ شَفَاعَتِي يَوْمَ الْقِيَامَةِ، فَيُجْعَلُ فِي ضَحْضَاحٍ مِنَ النَّارِ، يَبْلُغُ كَعْبَيْهِ، يَغْلِي مِنْهُ دِمَاغُهُ ‏\"‏‏.‏ حَدَّثَنَا إِبْرَاهِيمُ بْنُ حَمْزَةَ حَدَّثَنَا ابْنُ أَبِي حَازِمٍ وَالدَّرَاوَرْدِيُّ عَنْ يَزِيدَ بِهَذَا، وَقَالَ تَغْلِي مِنْهُ أُمُّ دِمَاغِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Said el-Hudriu se e ka dëgjuar Pejgamberin (s.a.v.s.), kur u përmend para tij axha i tij, duke thënë: \"Mbase ndërmjetësimi im do t'i bëjë dobi atij në Ditën e Kiametit, kështu që ai të vendoset në një pjesë të cekët të zjarrit që i arrin deri te nyjat e këmbëve, prej së cilës do t'i vlojë truri.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "That he heard the Prophet (ﷺ) when somebody mentioned his uncle (i.e. Abu Talib), saying, \"Perhaps my intercession will be helpful to him on the Day of Resurrection so that he may be put in a shallow fire reaching only up to his ankles. His brain will boil from it.\" Narrated Yazid: (as above, Hadith 224) using the words: \"will make his brain boil.\""
+    }
+  }
+}

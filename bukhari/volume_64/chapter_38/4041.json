@@ -1,0 +1,34 @@
+{
+  "id": 4041,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "Ghazwa of Khaibar"
+        },
+        "ar": {
+          "text": "باب غَزْوَةُ خَيْبَرَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى يَوْمَ خَيْبَرَ عَنْ لُحُومِ الْحُمُرِ الأَهْلِيَّةِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: Në ditën e Hajberit, i Dërguari i Allahut (s.a.v.s.) e ndaloi ngrënien e mishit të gomarëve shtëpiakë."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "On the day of Khaibar, Allah's Messenger (ﷺ) forbade the eating of donkey meat."
+    }
+  }
+}

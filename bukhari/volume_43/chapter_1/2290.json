@@ -1,0 +1,34 @@
+{
+  "id": 2290,
+  "metadata": {
+    "volume": {
+      "id": 43
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Whoever buys a thing on credit"
+        },
+        "ar": {
+          "text": "باب مَنِ اشْتَرَى بِالدَّيْنِ وَلَيْسَ عِنْدَهُ ثَمَنُهُ، أَوْ لَيْسَ بِحَضْرَتِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدٌ، أَخْبَرَنَا جَرِيرٌ، عَنِ الْمُغِيرَةِ، عَنِ الشَّعْبِيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ غَزَوْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ كَيْفَ تَرَى بَعِيرَكَ أَتَبِيعُنِيهِ ‏\"‏‏.‏ قُلْتُ نَعَمْ‏.‏ فَبِعْتُهُ إِيَّاهُ، فَلَمَّا قَدِمَ الْمَدِينَةَ غَدَوْتُ إِلَيْهِ بِالْبَعِيرِ، فَأَعْطَانِي ثَمَنَهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xhabir bin Abdullahu: Kur isha me Pejgamberin (s.a.v.s.) në njërën prej betejave të tij, ai më pyeti: \"Si të duket deveja jote? A do të ma shesësh?\" Iu përgjigja pozitivisht dhe ia shita atë. Kur ai arriti në Medine, ia dërgova devenë në mëngjes dhe ai ma pagoi çmimin e saj."
+    },
+    "en": {
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "While I was in the company of the Prophet (ﷺ) in one of his Ghazawat, he asked, \"What is wrong with your camel? Will you sell it?\" I replied in the affirmative and sold it to him. When he reached Medina, I took the camel to him in the morning and he paid me its price."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 877,
+  "metadata": {
+    "volume": {
+      "id": 11
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا وَرْقَاءُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ ائْذَنُوا لِلنِّسَاءِ بِاللَّيْلِ إِلَى الْمَسَاجِدِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: Pejgamberi (s.a.v.s.) ka thënë: \"Lejojini gratë të shkojnë në xhami natën.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "The Prophet (p.b.u.h) said, \"Allow women to go to the Mosques at night.\""
+    }
+  }
+}

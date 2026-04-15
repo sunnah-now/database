@@ -1,0 +1,34 @@
+{
+  "id": 413,
+  "metadata": {
+    "volume": {
+      "id": 8
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "Preaching of the Imam to the people regarding the proper offering of As-Salat (the prayers) and the mention of the Qiblah (Kabah at Makkah)"
+        },
+        "ar": {
+          "text": "باب عِظَةِ الإِمَامِ النَّاسَ فِي إِتْمَامِ الصَّلاَةِ، وَذِكْرِ الْقِبْلَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى بْنُ صَالِحٍ، قَالَ حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ، عَنْ هِلاَلِ بْنِ عَلِيٍّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ صَلَّى بِنَا النَّبِيُّ صلى الله عليه وسلم صَلاَةً ثُمَّ رَقِيَ الْمِنْبَرَ، فَقَالَ فِي الصَّلاَةِ وَفِي الرُّكُوعِ ‏ \"‏ إِنِّي لأَرَاكُمْ مِنْ وَرَائِي كَمَا أَرَاكُمْ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Pejgamberi (s.a.v.s.) na udhëhoqi në namaz, pastaj u ngjit në minber dhe tha: \"Në namazin tuaj dhe në ruku, unë vërtet ju shoh prapa shpinës sime ashtu siç ju shoh (kur ju kam përpara).\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet (ﷺ) led us in a prayer and then got up on the pulpit and said, \"In your prayer and bowing, I certainly see you from my back as I see you (while looking at you.)\""
+    }
+  }
+}

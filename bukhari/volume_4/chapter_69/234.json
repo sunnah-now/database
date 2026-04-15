@@ -1,0 +1,34 @@
+{
+  "id": 234,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 69,
+      "language": {
+        "en": {
+          "text": "If a dead body or a polluted thing is put on the back of a person offering Salat (prayer), his Salat will not be annulled (rejected by Allah)"
+        },
+        "ar": {
+          "text": "باب إِذَا أُلْقِيَ عَلَى ظَهْرِ الْمُصَلِّي قَذَرٌ أَوْ جِيفَةٌ لَمْ تَفْسُدْ عَلَيْهِ صَلاَتُهُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنَا أَبُو التَّيَّاحِ، يَزِيدُ بْنُ حُمَيْدٍ عَنْ أَنَسٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي قَبْلَ أَنْ يُبْنَى الْمَسْجِدُ فِي مَرَابِضِ الْغَنَمِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Pejgamberi (s.a.v.s.) e falte namazin në vathat e deleve para se të ndërtohej xhamia."
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "Prior to the construction of the mosque, the Prophet (ﷺ) offered the prayers at sheep-folds."
+    }
+  }
+}

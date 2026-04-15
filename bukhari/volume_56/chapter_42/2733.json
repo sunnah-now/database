@@ -1,0 +1,34 @@
+{
+  "id": 2733,
+  "metadata": {
+    "volume": {
+      "id": 56
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "The travelling of two persons together"
+        },
+        "ar": {
+          "text": "باب سَفَرِ الاِثْنَيْنِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا أَبُو شِهَابٍ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ، قَالَ انْصَرَفْتُ مِنْ عِنْدِ النَّبِيِّ صلى الله عليه وسلم، فَقَالَ لَنَا أَنَا وَصَاحِبٌ لِي ‏ \"‏ أَذِّنَا وَأَقِيمَا، وَلْيَؤُمَّكُمَا أَكْبَرُكُمَا ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Malik bin el-Huvejrit: Kur u largova nga Pejgamberi (s.a.v.s.), ai më tha mua dhe një shokut tim: \"Thirrni ezanin dhe ikametin, dhe le t'ju prijë në namaz ai që është më i moshuar prej jush.\""
+    },
+    "en": {
+      "narrator": "Narrated Malik bin Al-Huwairith:",
+      "text": "On my departure from the Prophet (ﷺ) he said to me and to a friend of mine, \"You two, pronounce the Adhan and the Iqama for the prayer and let the elder of you lead the prayer.\""
+    }
+  }
+}

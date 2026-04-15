@@ -1,0 +1,34 @@
+{
+  "id": 710,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 79,
+      "language": {
+        "en": {
+          "text": "The right side of the mosque and the place to the right of the Imam"
+        },
+        "ar": {
+          "text": "باب مَيْمَنَةِ الْمَسْجِدِ وَالإِمَامِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى، حَدَّثَنَا ثَابِتُ بْنُ يَزِيدَ، حَدَّثَنَا عَاصِمٌ، عَنِ الشَّعْبِيِّ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قُمْتُ لَيْلَةً أُصَلِّي عَنْ يَسَارِ النَّبِيِّ صلى الله عليه وسلم فَأَخَذَ بِيَدِي أَوْ بِعَضُدِي حَتَّى أَقَامَنِي عَنْ يَمِينِهِ، وَقَالَ بِيَدِهِ مِنْ وَرَائِي‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Një natë u ngrita të falem në të majtë të Pejgamberit (s.a.v.s.), por ai më kapi për dore ose për krahu derisa më vendosi në të djathtë të tij, duke më drejtuar me dorën e tij nga prapa meje."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "One night I stood to the left of the Prophet (ﷺ) in the prayer but he caught hold of me by the hand or by the shoulder (arm) till he made me stand on his right and beckoned with his hand (for me) to go from behind (him). (Al-Kashmaihani , Fath-ul-Bari)."
+    }
+  }
+}

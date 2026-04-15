@@ -1,0 +1,34 @@
+{
+  "id": 3600,
+  "metadata": {
+    "volume": {
+      "id": 62
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "Narration about Mu'awiya رضي الله عنه"
+        },
+        "ar": {
+          "text": "باب ذِكْرُ مُعَاوِيَةَ رضى الله عنه"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ يُوسُفَ بْنِ أَبِي إِسْحَاقَ، قَالَ حَدَّثَنِي أَبِي، عَنْ أَبِي إِسْحَاقَ، قَالَ حَدَّثَنِي الأَسْوَدُ بْنُ يَزِيدَ، قَالَ سَمِعْتُ أَبَا مُوسَى الأَشْعَرِيَّ ـ رضى الله عنه ـ يَقُولُ قَدِمْتُ أَنَا وَأَخِي مِنَ الْيَمَنِ، فَمَكُثْنَا حِينًا مَا نُرَى إِلاَّ أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ رَجُلٌ مِنْ أَهْلِ بَيْتِ النَّبِيِّ صلى الله عليه وسلم، لِمَا نَرَى مِنْ دُخُولِهِ وَدُخُولِ أُمِّهِ عَلَى النَّبِيِّ صلى الله عليه وسلم‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Musa el-Esh'ariu: Unë dhe vëllai im erdhëm nga Jemeni dhe për një kohë mendonim se Abdullah bin Mesudi ishte anëtar i familjes së Pejgamberit (s.a.v.s.), sepse e shihnim atë dhe nënën e tij duke hyrë shumë shpesh në shtëpinë e Pejgamberit (s.a.v.s.)."
+    },
+    "en": {
+      "narrator": "Narrated Abu Musa Al-Ash`ari:",
+      "text": "My brother and I came from Yemen, and for some time we continued to consider `Abdullah bin Mas`ud as one of the members of the family of the Prophet (ﷺ) because we used to see him and his mother going in the house of the Prophet (ﷺ) very often."
+    }
+  }
+}

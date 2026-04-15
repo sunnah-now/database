@@ -1,0 +1,34 @@
+{
+  "id": 338,
+  "metadata": {
+    "volume": {
+      "id": 7
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Tayammum is for the hands and the face"
+        },
+        "ar": {
+          "text": "باب التَّيَمُّمُ لِلْوَجْهِ وَالْكَفَّيْنِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسْلِمٌ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ ذَرٍّ، عَنِ ابْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ الرَّحْمَنِ، قَالَ شَهِدْتُ عُمَرَ فَقَالَ لَهُ عَمَّارٌ‏.‏ وَسَاقَ الْحَدِيثَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdurrahmani: Isha i pranishëm te Omeri kur Ammari i tha atij... dhe e tregoi hadithin."
+    },
+    "en": {
+      "narrator": "Narrated `Ammar:",
+      "text": "As above."
+    }
+  }
+}

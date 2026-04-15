@@ -1,0 +1,34 @@
+{
+  "id": 1192,
+  "metadata": {
+    "volume": {
+      "id": 22
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "Whoever did not recite Tashah-dud (At-Tahiyyat) after the two prostrations of Sahw"
+        },
+        "ar": {
+          "text": "باب مَنْ لَمْ يَتَشَهَّدْ فِي سَجْدَتَىِ السَّهْوِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، عَنْ سَلَمَةَ بْنِ عَلْقَمَةَ، قَالَ قُلْتُ لِمُحَمَّدٍ فِي سَجْدَتَىِ السَّهْوِ تَشَهُّدٌ قَالَ لَيْسَ فِي حَدِيثِ أَبِي هُرَيْرَةَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Seleme bin Alkame: E pyeta Muhamedin (bin Sirinin) nëse duhet të lexohet Teshehudi pas dy sexhdeve të harresës (sexhdetus-sehv). Ai u përgjigj: \"Kjo nuk përmendet në transmetimin e Ebu Hurejres.\""
+    },
+    "en": {
+      "narrator": "Narrated Salama bin 'Alqama:",
+      "text": "I asked Muhammad (bin Seereen) whether Tashah-hud should be recited after the two prostrations of Sahu. He replied, \"It is not (mentioned) in Abu Huraira's narration . \""
+    }
+  }
+}

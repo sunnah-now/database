@@ -1,0 +1,34 @@
+{
+  "id": 2415,
+  "metadata": {
+    "volume": {
+      "id": 48
+    },
+    "chapter": {
+      "id": 6,
+      "language": {
+        "en": {
+          "text": "Dispute between the mortgagor and mortgagee"
+        },
+        "ar": {
+          "text": "بَابُ إِذَا اخْتَلَفَ الرَّاهِنُ وَالْمُرْتَهِنُ وَنَحْوُهُ فَالْبَيِّنَةُ عَلَى الْمُدَّعِي وَالْيَمِينُ عَلَى الْمُدَّعَى عَلَيْهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا خَلاَّدُ بْنُ يَحْيَى، حَدَّثَنَا نَافِعُ بْنُ عُمَرَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، قَالَ كَتَبْتُ إِلَى ابْنِ عَبَّاسٍ فَكَتَبَ إِلَىَّ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَضَى أَنَّ الْيَمِينَ عَلَى الْمُدَّعَى عَلَيْهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Pejgamberi (s.a.v.s.) ka gjykuar që betimi duhet të jepet nga i padituri."
+    },
+    "en": {
+      "narrator": "Narrated Ibn Abu Mulaika:",
+      "text": "I wrote a letter to Ibn `Abbas and he wrote to me that the Prophet (ﷺ) had given the verdict that the defendant had to take an oath."
+    }
+  }
+}

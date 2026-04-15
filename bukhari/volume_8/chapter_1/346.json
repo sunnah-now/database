@@ -1,0 +1,34 @@
+{
+  "id": 346,
+  "metadata": {
+    "volume": {
+      "id": 8
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "How As-Salat (the Prayer) was prescribed on the night of Al-Isra (miraculous night journey) of the Prophet (pbuh) to Jerusalem (and then to the heavens)"
+        },
+        "ar": {
+          "text": "باب كَيْفَ فُرِضَتِ الصَّلاَةُ فِي الإِسْرَاءِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ، قَالَتْ ‏ \"‏ فَرَضَ اللَّهُ الصَّلاَةَ حِينَ فَرَضَهَا رَكْعَتَيْنِ رَكْعَتَيْنِ فِي الْحَضَرِ وَالسَّفَرِ، فَأُقِرَّتْ صَلاَةُ السَّفَرِ، وَزِيدَ فِي صَلاَةِ الْحَضَرِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ajsheja, nëna e besimtarëve: Allahu e obligoi namazin kur e bëri farz me nga dy reqate, si në vendqëndrim ashtu edhe në udhëtim. Pastaj namazi i udhëtimit mbeti ashtu siç ishte, ndërsa namazi i vendqëndrimit u shtua."
+    },
+    "en": {
+      "narrator": "Narrated `Aisha:",
+      "text": "the mother of believers: Allah enjoined the prayer when He enjoined it, it was two rak`at only (in every prayer) both when in residence or on journey. Then the prayers offered on journey remained the same, but (the rak`at of) the prayers for non-travelers were increased."
+    }
+  }
+}

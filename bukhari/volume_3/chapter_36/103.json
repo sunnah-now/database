@@ -1,0 +1,34 @@
+{
+  "id": 103,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 36,
+      "language": {
+        "en": {
+          "text": "Whoever heard something (but did not understand it) and then asked again till he understood it completely"
+        },
+        "ar": {
+          "text": "باب مَنْ سَمِعَ شَيْئًا، فَرَاجَعَ حَتَّى يَعْرِفَهُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ، قَالَ أَخْبَرَنَا نَافِعُ بْنُ عُمَرَ، قَالَ حَدَّثَنِي ابْنُ أَبِي مُلَيْكَةَ، أَنَّ عَائِشَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم كَانَتْ لاَ تَسْمَعُ شَيْئًا لاَ تَعْرِفُهُ إِلاَّ رَاجَعَتْ فِيهِ حَتَّى تَعْرِفَهُ، وَأَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ حُوسِبَ عُذِّبَ ‏\"‏‏.‏ قَالَتْ عَائِشَةُ فَقُلْتُ أَوَ لَيْسَ يَقُولُ اللَّهُ تَعَالَى ‏{‏فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا‏}‏ قَالَتْ فَقَالَ ‏\"‏ إِنَّمَا ذَلِكَ الْعَرْضُ، وَلَكِنْ مَنْ نُوقِشَ الْحِسَابَ يَهْلِكْ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ajsheja: Ajo nuk dëgjonte asgjë që nuk e kuptonte pa kërkuar sqarim derisa ta kuptonte plotësisht. Pejgamberi (s.a.v.s.) tha: \"Kushdo që thirret në llogari, do të ndëshkohet.\" Unë thashë: \"A nuk thotë Allahu: «Ai do të llogaritet me një llogari të lehtë» (84:8)?\" Pejgamberi (s.a.v.s.) u përgjigj: \"Kjo është vetëm paraqitja e veprave, por kushdo që merret në pyetje hollësisht për llogarinë e tij, do të shkatërrohet.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn Abu Mulaika:",
+      "text": "Whenever `Aisha (the wife of the Prophet) heard anything which she did not understand, she used to ask again till she understood it completely. Aisha said: \"Once the Prophet (ﷺ) said, \"Whoever will be called to account (about his deeds on the Day of Resurrection) will surely be punished.\" I said, \"Doesn't Allah say: \"He surely will receive an easy reckoning.\" (84.8) The Prophet (ﷺ) replied, \"This means only the presentation of the accounts but whoever will be argued about his account, will certainly be ruined.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4440,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا وَرْقَاءُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، ‏{‏إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لاَ يَعْقِلُونَ‏}‏ قَالَ هُمْ نَفَرٌ مِنْ بَنِي عَبْدِ الدَّارِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi: Lidhur me ajetin: \"Vërtet, krijesat më të këqija te Allahu janë ata që janë shurdhë e memecë, të cilët nuk kuptojnë.\" (8:22), ai tha se bëhet fjalë për një grup njerëzish nga fisi Beni Abdid-Dar."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Regarding the Verse: \"Verily! The worst of beasts in the Sight of Allah are the deaf and the dumb---- those who understand not.\" (8.22) (The people referred to here) were some persons from the tribe of Bani `Abd-Addar."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3375,
+  "metadata": {
+    "volume": {
+      "id": 61
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "The story of Zamzam and the ignorance of the Arabs"
+        },
+        "ar": {
+          "text": "باب قِصَّةِ زَمْزَمَ وَجَهْلِ الْعَرَبِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ إِذَا سَرَّكَ أَنْ تَعْلَمَ جَهْلَ الْعَرَبِ فَاقْرَأْ مَا فَوْقَ الثَّلاَثِينَ وَمِائَةٍ فِي سُورَةِ الأَنْعَامِ ‏{‏قَدْ خَسِرَ الَّذِينَ قَتَلُوا أَوْلاَدَهُمْ سَفَهًا بِغَيْرِ عِلْمٍ‏}‏ إِلَى قَوْلِهِ ‏{‏قَدْ ضَلُّوا وَمَا كَانُوا مُهْتَدِينَ‏}‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi: Nëse dëshiron të njohësh injorancën e arabëve, lexo ajetet pas ajetit 130 në suren el-En'am: \"Vërtet kanë humbur ata që kanë vrarë fëmijët e tyre nga marrëzia, pa pasur asnjë dije, dhe kanë ndaluar atë me të cilën i ka furnizuar Allahu, duke shpifur rrejshëm ndaj Allahut. Ata vërtet kanë humbur dhe nuk ishin të udhëzuar.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "If you wish to know about the ignorance of the Arabs, refer to Surat-al-Anam after Verse No. 130:-- Indeed lost are those who have killed their children From folly without knowledge and have forbidden that which Allah has provided for them, inventing a lie against Allah. They have indeed gone astray and were not guided.' (6.14)"
+    }
+  }
+}

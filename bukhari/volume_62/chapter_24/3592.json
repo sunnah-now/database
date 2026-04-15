@@ -1,0 +1,34 @@
+{
+  "id": 3592,
+  "metadata": {
+    "volume": {
+      "id": 62
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "Narrations about Ibn 'Abbas رضي الله عنهما"
+        },
+        "ar": {
+          "text": "باب ذِكْرُ ابْنِ عَبَّاسٍ رضى الله عنهما"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ مُحَمَّدِ بْنِ عُبَيْدٍ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ قَيْسٍ، أَنَّ بِلاَلاً، قَالَ لأَبِي بَكْرٍ إِنْ كُنْتَ إِنَّمَا اشْتَرَيْتَنِي لِنَفْسِكَ فَأَمْسِكْنِي، وَإِنْ كُنْتَ إِنَّمَا اشْتَرَيْتَنِي لِلَّهِ فَدَعْنِي وَعَمَلَ اللَّهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Bilalli: Ai i tha Ebu Bekrit: \"Nëse më ke blerë për veten tënde, atëherë më mbaj; por nëse më ke blerë për hir të Allahut, atëherë më lër për punën e Allahut.\""
+    },
+    "en": {
+      "narrator": "Narrated Qais:",
+      "text": "Bilal said to Abu Bakr, \"If you have bought me for yourself then keep me (for yourself), but if you have bought me for Allah's Sake, then leave me for Allah's Work.\""
+    }
+  }
+}

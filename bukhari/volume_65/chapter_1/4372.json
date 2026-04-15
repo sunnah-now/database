@@ -1,0 +1,34 @@
+{
+  "id": 4372,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، عَنْ وَرْقَاءَ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ الْمَالُ لِلْوَلَدِ، وَكَانَتِ الْوَصِيَّةُ لِلْوَالِدَيْنِ، فَنَسَخَ اللَّهُ مِنْ ذَلِكَ مَا أَحَبَّ، فَجَعَلَ لِلذَّكَرِ مِثْلَ حَظِّ الأُنْثَيَيْنِ، وَجَعَلَ لِلأَبَوَيْنِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسَ وَالثُّلُثَ، وَجَعَلَ لِلْمَرْأَةِ الثُّمُنَ وَالرُّبُعَ، وَلِلزَّوْجِ الشَّطْرَ وَالرُّبُعَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: (Në periudhën paraislame) pasuria u takonte fëmijëve, ndërsa prindërit trashëgonin vetëm përmes testamentit. Pastaj Allahu shfuqizoi nga kjo atë që deshi dhe caktoi që pjesa e mashkullit të jetë sa pjesa e dy femrave; për secilin prind caktoi një të gjashtën ose një të tretën, për gruan një të tetën ose një të katërtën, ndërsa për burrin gjysmën ose një të katërtën."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "(In the Pre-Islamic Period ) the children used to inherit all the property but the parents used to inherit only through a will. So Allah cancelled that which He liked to cancel and put decreed that the share of a son was to be twice the share of a daughter, and for the parents one-sixth for each one of them, or one third, and for the wife one-eighth or one-fourth, and for the husband one-half, or one-fourth."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 825,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 156,
+      "language": {
+        "en": {
+          "text": "The Imam should face the followers after finishing the prayer with Taslim."
+        },
+        "ar": {
+          "text": "باب يَسْتَقْبِلُ الإِمَامُ النَّاسَ إِذَا سَلَّمَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، قَالَ حَدَّثَنَا أَبُو رَجَاءٍ، عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا صَلَّى صَلاَةً أَقْبَلَ عَلَيْنَا بِوَجْهِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Semure bin Xhundubi: Pejgamberi (s.a.v.s.) kthehej me fytyrë nga ne pasi përfundonte namazin."
+    },
+    "en": {
+      "narrator": "Narrated Samura bin Jundub:",
+      "text": "The Prophet (ﷺ) used to face us on completion of the prayer."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5678,
+  "metadata": {
+    "volume": {
+      "id": 77
+    },
+    "chapter": {
+      "id": 68,
+      "language": {
+        "en": {
+          "text": "The curly hair"
+        },
+        "ar": {
+          "text": "باب الْجَعْدِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ عَنْ شَعَرِ، رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ كَانَ شَعَرُ رَسُولِ اللَّهِ صلى الله عليه وسلم رَجِلاً، لَيْسَ بِالسَّبِطِ، وَلاَ الْجَعْدِ، بَيْنَ أُذُنَيْهِ وَعَاتِقِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Flokët e të Dërguarit të Allahut (s.a.v.s.) nuk ishin as krejtësisht të drejtë e as shumë kaçurrelë, por ishin të valëzuar dhe i binin deri mes veshëve dhe supeve të tij."
+    },
+    "en": {
+      "narrator": "Narrated Qatada:",
+      "text": "l asked Anas bin Malik about the hair of Allah's Messenger (ﷺ). He said, \"The hair of Allah's Messenger (ﷺ) was neither much straight, nor much curly, and it used to hang down till between his shoulders and his earlobes."
+    }
+  }
+}

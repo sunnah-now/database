@@ -1,0 +1,34 @@
+{
+  "id": 3456,
+  "metadata": {
+    "volume": {
+      "id": 61
+    },
+    "chapter": {
+      "id": 25,
+      "language": {
+        "en": {
+          "text": "The signs of Prophethood in Islam"
+        },
+        "ar": {
+          "text": "باب عَلاَمَاتِ النُّبُوَّةِ فِي الإِسْلاَمِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْحَكَمُ بْنُ نَافِعٍ، حَدَّثَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تَقُومُ السَّاعَةُ حَتَّى يَقْتَتِلَ فِئَتَانِ دَعْوَاهُمَا وَاحِدَةٌ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Nuk do të ndodhë Kiameti derisa të luftojnë dy grupe mes vete, pretendimet e të cilëve do të jenë të njëjta.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"The Day of (Judgment) will not be established till there is a war between two groups whose claims (or religion) will be the same.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 640,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 35,
+      "language": {
+        "en": {
+          "text": "Two or more than two persons are considered as a group (for the congregational prayers)"
+        },
+        "ar": {
+          "text": "باب اثْنَانِ فَمَا فَوْقَهُمَا جَمَاعَةٌ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ أَبِي قِلاَبَةَ، عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا حَضَرَتِ الصَّلاَةُ فَأَذِّنَا وَأَقِيمَا، ثُمَّ لِيَؤُمَّكُمَا أَكْبَرُكُمَا ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Malik bin el-Huvejrithi se Pejgamberi (s.a.v.s.) ka thënë: \"Kur të vijë koha e namazit, thirrni ezanin dhe ikametin, e pastaj le t'ju prijë në namaz ai që është më i moshuar prej jush.\""
+    },
+    "en": {
+      "narrator": "Narrated Malik bin Huwairith:",
+      "text": "Prophet said (to two persons), \"Whenever the prayer time becomes due, you should pronounce Adhan and then Iqama and the older of you should lead the prayer.\""
+    }
+  }
+}

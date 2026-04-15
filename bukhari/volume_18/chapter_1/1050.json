@@ -1,0 +1,34 @@
+{
+  "id": 1050,
+  "metadata": {
+    "volume": {
+      "id": 18
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "For what period of stay one should offer shortened prayers"
+        },
+        "ar": {
+          "text": "باب مَا جَاءَ فِي التَّقْصِيرِ وَكَمْ يُقِيمُ حَتَّى يَقْصُرَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو مَعْمَرٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ أَنَسًا، يَقُولُ خَرَجْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم مِنَ الْمَدِينَةِ إِلَى مَكَّةَ، فَكَانَ يُصَلِّي رَكْعَتَيْنِ رَكْعَتَيْنِ حَتَّى رَجَعْنَا إِلَى الْمَدِينَةِ‏.‏ قُلْتُ أَقَمْتُمْ بِمَكَّةَ شَيْئًا قَالَ أَقَمْنَا بِهَا عَشْرًا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: \"Udhëtuam bashkë me Pejgamberin (s.a.v.s.) nga Medina për në Mekë dhe ai i falte namazet nga dy rekate derisa u kthyem në Medinë.\" E pyeta: \"A qëndruat ndonjë kohë në Mekë?\" Ai u përgjigj: \"Qëndruam atje dhjetë ditë.\""
+    },
+    "en": {
+      "narrator": "Narrated Yahya bin 'Is-haq:",
+      "text": "I heard Anas saying, \"We traveled with the Prophet (ﷺ) from Medina to Mecca and offered two rak`at (for every prayer) till we returned to Medina.\" I said, \"Did you stay for a while in Mecca?\" He replied, \"We stayed in Mecca for ten days.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1030,
+  "metadata": {
+    "volume": {
+      "id": 16
+    },
+    "chapter": {
+      "id": 15,
+      "language": {
+        "en": {
+          "text": "Invocation during the eclipse"
+        },
+        "ar": {
+          "text": "باب الدُّعَاءِ فِي الْخُسُوفِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ حَدَّثَنَا زَائِدَةُ، قَالَ حَدَّثَنَا زِيَادُ بْنُ عِلاَقَةَ، قَالَ سَمِعْتُ الْمُغِيرَةَ بْنَ شُعْبَةَ، يَقُولُ انْكَسَفَتِ الشَّمْسُ يَوْمَ مَاتَ إِبْرَاهِيمُ، فَقَالَ النَّاسُ انْكَسَفَتْ لِمَوْتِ إِبْرَاهِيمَ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، لاَ يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، فَإِذَا رَأَيْتُمُوهُمَا فَادْعُوا اللَّهَ وَصَلُّوا حَتَّى يَنْجَلِيَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Mugire bin Shube: Ditën kur vdiq Ibrahimi u zu dielli, andaj njerëzit thanë se dielli u zu për shkak të vdekjes së Ibrahimit. I Dërguari i Allahut (s.a.v.s.) tha: \"Vërtet dielli dhe hëna janë dy shenja prej shenjave të Allahut. Ato nuk zihen për vdekjen e askujt e as për jetën e tij. Prandaj, kur t'i shihni ato, lutjuni Allahut dhe falni namaz derisa të kalojë eklipsi.\""
+    },
+    "en": {
+      "narrator": "Narrated Al-Mughira bin Shu`ba:",
+      "text": "On the day of Ibrahim's death, the sun eclipsed and the people said that the eclipse was due to the death of Ibrahim (the son of the Prophet). Allah's Messenger (ﷺ) said, \"The sun and the moon are two signs amongst the signs of Allah. They do not eclipse because of someone's death or life. So when you see them, invoke Allah and pray till the eclipse is clear.\""
+    }
+  }
+}

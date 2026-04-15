@@ -1,0 +1,34 @@
+{
+  "id": 3621,
+  "metadata": {
+    "volume": {
+      "id": 63
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "To love the Ansar is a sign of Faith"
+        },
+        "ar": {
+          "text": "باب حُبُّ الأَنْصَارِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ جَبْرٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ آيَةُ الإِيمَانِ حُبُّ الأَنْصَارِ، وَآيَةُ النِّفَاقِ بُغْضُ الأَنْصَارِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Pejgamberi (s.a.v.s.) ka thënë: \"Shenja e besimit është dashuria ndaj ensarëve, ndërsa shenja e hipokrizisë është urrejtja ndaj ensarëve.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet (ﷺ) said, \"The sign of Belief is to love the Ansar, and the sign of hypocrisy is to hate the Ansar.\""
+    }
+  }
+}

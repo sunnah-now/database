@@ -1,0 +1,34 @@
+{
+  "id": 250,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Taking a bath by a man along with his wife"
+        },
+        "ar": {
+          "text": "باب غُسْلِ الرَّجُلِ مَعَ امْرَأَتِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَالنَّبِيُّ، صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ مِنْ قَدَحٍ يُقَالُ لَهُ الْفَرَقُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Aisha: Unë dhe Pejgamberi (s.a.v.s.) merrnim gusël nga një enë e vetme që quhej 'Farak'."
+    },
+    "en": {
+      "narrator": "Narrated `Aisha:",
+      "text": "The Prophet (ﷺ) and I used to take a bath from a single pot called 'Faraq'."
+    }
+  }
+}

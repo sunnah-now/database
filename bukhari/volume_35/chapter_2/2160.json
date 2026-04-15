@@ -1,0 +1,34 @@
+{
+  "id": 2160,
+  "metadata": {
+    "volume": {
+      "id": 35
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "As-Salam for a known specified weight"
+        },
+        "ar": {
+          "text": "باب السَّلَمِ فِي وَزْنٍ مَعْلُومٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيٌّ، حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي ابْنُ أَبِي نَجِيحٍ، وَقَالَ، ‏ \"‏ فَلْيُسْلِفْ فِي كَيْلٍ مَعْلُومٍ إِلَى أَجَلٍ مَعْلُومٍ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abi Nexhihu: \"Le ta paguajë çmimin paraprakisht për një masë të caktuar dhe për një afat të caktuar.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn Abi Najih:",
+      "text": "as above, saying, \"He should pay the price in advance for a specified measure and for a specified period.\""
+    }
+  }
+}

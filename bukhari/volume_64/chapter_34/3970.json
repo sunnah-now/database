@@ -1,0 +1,34 @@
+{
+  "id": 3970,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The narration of Al-Ifk"
+        },
+        "ar": {
+          "text": "باب حَدِيثُ الإِفْكِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ أَمْلَى عَلَىَّ هِشَامُ بْنُ يُوسُفَ مِنْ حِفْظِهِ أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، قَالَ قَالَ لِي الْوَلِيدُ بْنُ عَبْدِ الْمَلِكِ أَبَلَغَكَ أَنَّ عَلِيًّا، كَانَ فِيمَنْ قَذَفَ عَائِشَةَ قُلْتُ لاَ‏.‏ وَلَكِنْ قَدْ أَخْبَرَنِي رَجُلاَنِ مِنْ قَوْمِكِ أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ وَأَبُو بَكْرِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ أَنَّ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ لَهُمَا كَانَ عَلِيٌّ مُسَلِّمًا فِي شَأْنِهَا‏.‏ فَرَاجَعُوهُ فَلَمْ يَرْجِعْ وَقَالَ مُسَلِّمًا بِلَا شَكٍّ فِيهِ وَعَلَيْهِ كَانَ فِي أَصْلِ الْعَتِيقِ كَذَلِكَ"
+    },
+    "al": {
+      "text": "Transmeton Ez-Zuhriu: El-Velid bin Abdul Meliku më tha: \"A ke dëgjuar se Aliu ishte në mesin e atyre që shpifën ndaj Aishes?\" Unë u përgjigja: \"Jo, por dy burra nga njerëzit e tu, Ebu Seleme bin Abdurrahman dhe Ebu Bekër bin Abdurrahman bin el-Harith, më kanë njoftuar se Aisha u ka thënë atyre se Aliu kishte qëndruar i paanshëm lidhur me çështjen e saj.\""
+    },
+    "en": {
+      "narrator": "Narrated Az-Zuhri:",
+      "text": "Al-Walid bin `Abdul Malik said to me, \"Have you heard that `Ali' was one of those who slandered `Aisha?\" I replied, \"No, but two men from your people (named) Abu Salama bin `Abdur-Rahman and Abu Bakr bin `Abdur-Rahman bin Al-Harith have informed me that Aisha told them that `Ali remained silent about her case.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5897,
+  "metadata": {
+    "volume": {
+      "id": 78
+    },
+    "chapter": {
+      "id": 81,
+      "language": {
+        "en": {
+          "text": "To be cheerful with the people"
+        },
+        "ar": {
+          "text": "باب الاِنْبِسَاطِ إِلَى النَّاسِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا أَبُو التَّيَّاحِ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ يَقُولُ إِنْ كَانَ النَّبِيُّ صلى الله عليه وسلم لَيُخَالِطُنَا حَتَّى يَقُولَ لأَخٍ لِي صَغِيرٍ ‏ \"‏ يَا أَبَا عُمَيْرٍ مَا فَعَلَ النُّغَيْرُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Pejgamberi (s.a.v.s.) shoqërohej aq shumë me ne, saqë i thoshte vëllait tim të vogël: \"O Ebu Umejr! Çfarë bëri nugejri (një lloj shpendi i vogël)?\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet (ﷺ) used to mix with us to the extent that he would say to a younger brother of mine, 'O Aba `Umair! What did the Nughair (a kind of bird) do?\""
+    }
+  }
+}

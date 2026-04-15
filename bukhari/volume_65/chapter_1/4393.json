@@ -1,0 +1,34 @@
+{
+  "id": 4393,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ أَبُو الْحَسَنِ، أَخْبَرَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي يَعْلَى، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏إِنْ كَانَ بِكُمْ أَذًى مِنْ مَطَرٍ أَوْ كُنْتُمْ مَرْضَى‏}‏ قَالَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفِ كَانَ جَرِيحًا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Lidhur me ajetin: \"Nëse keni ndonjë mundim nga shiu ose jeni të sëmurë\" (4:102), ai ka thënë: Ky ajet u shpall për Abdurrahman bin Aufin, i cili ishte i plagosur."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Regarding the Verse: \"Because of the inconvenience of rain or because you are ill.\" (4.102) (It was revealed in connection with) `Abdur-Rahman bin `Auf who was wounded."
+    }
+  }
+}

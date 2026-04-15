@@ -1,0 +1,34 @@
+{
+  "id": 6080,
+  "metadata": {
+    "volume": {
+      "id": 80
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "The invocation by one who wakes up at night"
+        },
+        "ar": {
+          "text": "باب الدُّعَاءِ إِذَا انْتَبَهَ بِاللَّيْلِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا سُفْيَانُ، سَمِعْتُ سُلَيْمَانَ بْنَ أَبِي مُسْلِمٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا قَامَ مِنَ اللَّيْلِ يَتَهَجَّدُ قَالَ ‏ \"‏ اللَّهُمَّ لَكَ الْحَمْدُ، أَنْتَ نُورُ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ، أَنْتَ الْحَقُّ وَوَعْدُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَلِقَاؤُكَ حَقٌّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالسَّاعَةُ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَمُحَمَّدٌ حَقٌّ، اللَّهُمَّ لَكَ أَسْلَمْتُ وَعَلَيْكَ تَوَكَّلْتُ وَبِكَ آمَنْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، وَإِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ، وَمَا أَعْلَنْتُ، أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ لاَ إِلَهَ إِلاَّ أَنْتَ ـ أَوْ ـ لاَ إِلَهَ غَيْرُكَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi: Kur Pejgamberi (s.a.v.s.) ngrihej natën për të falur namazin e natës (tehexhudin), ai thoshte: \"O Allah, Ty të takon falënderimi; Ti je drita e qiejve, e tokës dhe e gjithçkaje që gjendet në to. Ty të takon falënderimi; Ti je Mbajtësi i qiejve, i tokës dhe i gjithçkaje që gjendet në to. Ty të takon falënderimi; Ti je e Vërteta, premtimi Yt është i vërtetë, fjala Jote është e vërtetë, takimi me Ty është i vërtetë, Xheneti është i vërtetë, Zjarri është i vërtetë, Ora e Kiametit është e vërtetë, pejgamberët janë të vërtetë dhe Muhamedi është i vërtetë. O Allah, Ty të jam dorëzuar, te Ti jam mbështetur, Ty të kam besuar, tek Ti jam kthyer me pendim, për Ty kam debatuar dhe tek Ti kam kërkuar gjykim. Më fal mua atë që kam bërë më parë dhe atë që do të bëj më pas, atë që kam bërë fshehurazi dhe atë që kam bërë haptazi. Ti je Ai që sjell para dhe Ti je Ai që lë pas. Nuk ka zot tjetër përveç Teje (ose: Nuk ka zot tjetër përveç Teje).\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "When the Prophet (ﷺ) got up at night to offer the night prayer, he used to say: \"Allahumma laka l-hamdu; Anta nuras-samawati wal ardi wa man fihinna. wa laka l-hamdu; Anta qaiyim as-samawati wal ardi wa man flhinna. Wa lakaI-hamdu; Anta-l-,haqqun, wa wa'daka haqqun, wa qauluka haqqun, wa liqauka haqqun, wal-jannatu haqqun, wannaru haqqun, was-sa atu haqqun, wan-nabiyyuna huqqun, Mahammadun haqqun, Allahumma laka aslamtu, wa Alaika tawakkaltu, wa bika amantu, wa ilaika anabtu, wa bika Khasamtu, wa ilaika hakamtu, faghfirli ma qaddamtu wa ma akh-khartu, wa ma asrartu, wa ma a'lantu. Anta al-muqaddimu, wa anta al-mu-'akhkhiru. La ilaha il-la anta (or La ilaha ghairuka)\""
+    }
+  }
+}

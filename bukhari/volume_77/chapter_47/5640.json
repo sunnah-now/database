@@ -1,0 +1,34 @@
+{
+  "id": 5640,
+  "metadata": {
+    "volume": {
+      "id": 77
+    },
+    "chapter": {
+      "id": 47,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَلْبَسُ خَاتَمًا مِنْ ذَهَبٍ فَنَبَذَهُ فَقَالَ ‏ \"‏ لاَ أَلْبَسُهُ أَبَدًا ‏\"‏‏.‏ فَنَبَذَ النَّاسُ خَوَاتِيمَهُمْ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullahu b. Umeri: I Dërguari i Allahut (s.a.v.s.) mbante një unazë ari, pastaj e hodhi atë dhe tha: \"Nuk do ta mbaj më kurrë.\" Atëherë edhe njerëzit i hodhën unazat e tyre."
+    },
+    "en": {
+      "narrator": "Narrated Abdullah bin `Umar:",
+      "text": "Allah's Messenger (ﷺ) wore a gold ring, then he threw it and said, \"I will never wear it.\" The people also threw their (gold) rings."
+    }
+  }
+}

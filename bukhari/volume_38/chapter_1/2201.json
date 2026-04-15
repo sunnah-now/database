@@ -1,0 +1,34 @@
+{
+  "id": 2201,
+  "metadata": {
+    "volume": {
+      "id": 38
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Al-Hawala (the transference of a debt from one person to another. It is an agreement whereby a debtor is released from a debt by another becoming responsible for it). Can Hawala be rejected by the creditors after accepting it?"
+        },
+        "ar": {
+          "text": "باب فِي الْحَوَالَةِ، وَهَلْ يَرْجِعُ فِي الْحَوَالَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَطْلُ الْغَنِيِّ ظُلْمٌ، فَإِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيٍّ فَلْيَتْبَعْ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: Pejgamberi (s.a.v.s.) ka thënë: \"Vonesa e shlyerjes së borxhit nga një i pasur është padrejtësi. Prandaj, nëse borxhi i ndonjërit prej jush i transferohet një personi me gjendje të mirë financiare, le ta pranojë atë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"Procrastination (delay) in paying debts by a wealthy man is injustice. So, if your debt is transferred from your debtor to a rich debtor, you should agree.\""
+    }
+  }
+}

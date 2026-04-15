@@ -1,0 +1,34 @@
+{
+  "id": 3848,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ حُصَيْنِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ شَدَّادِ بْنِ الْهَادِ اللَّيْثِيَّ، قَالَ رَأَيْتُ رِفَاعَةَ بْنَ رَافِعٍ الأَنْصَارِيَّ، وَكَانَ شَهِدَ بَدْرًا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Shedad: E pashë Rifa'a bin Rafi' El-Ensariun, i cili kishte marrë pjesë në betejën e Bedrit."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin Shaddad bin Al-Had Al-Laithi:",
+      "text": "I saw Rifa`a bin Rafi` Al-Ansari who was a Badr warrior."
+    }
+  }
+}

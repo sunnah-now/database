@@ -1,0 +1,34 @@
+{
+  "id": 5457,
+  "metadata": {
+    "volume": {
+      "id": 75
+    },
+    "chapter": {
+      "id": 19,
+      "language": {
+        "en": {
+          "text": "The patient's wish for death"
+        },
+        "ar": {
+          "text": "باب تَمَنِّي الْمَرِيضِ الْمَوْتَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ مِنْ ضُرٍّ أَصَابَهُ، فَإِنْ كَانَ لاَ بُدَّ فَاعِلاً فَلْيَقُلِ اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرًا لِي، وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِي ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Pejgamberi (s.a.v.s.) ka thënë: \"Asnjëri prej jush të mos e dëshirojë vdekjen për shkak të ndonjë fatkeqësie që e ka goditur atë; por nëse doemos duhet ta bëjë këtë, le të thotë: 'O Allah, më mbaj gjallë përderisa jeta është më e mirë për mua, dhe ma merr shpirtin nëse vdekja është më e mirë për mua!'\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet (ﷺ) said, \"None of you should wish for death because of a calamity befalling him; but if he has to wish for death, he should say: \"O Allah! Keep me alive as long as life is better for me, and let me die if death is better for me.' \""
+    }
+  }
+}

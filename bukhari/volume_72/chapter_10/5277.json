@@ -1,0 +1,34 @@
+{
+  "id": 5277,
+  "metadata": {
+    "volume": {
+      "id": 72
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "What have been said about hunting"
+        },
+        "ar": {
+          "text": "باب مَا جَاءَ فِي التَّصَيُّدِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، قَالَ حَدَّثَنِي هِشَامُ بْنُ زَيْدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ أَنْفَجْنَا أَرْنَبًا بِمَرِّ الظَّهْرَانِ، فَسَعَوْا عَلَيْهَا حَتَّى لَغِبُوا، فَسَعَيْتُ عَلَيْهَا حَتَّى أَخَذْتُهَا، فَجِئْتُ بِهَا إِلَى أَبِي طَلْحَةَ، فَبَعَثَ إِلَى النَّبِيِّ صلى الله عليه وسلم بِوَرِكِهَا وَفَخِذَيْهَا فَقَبِلَهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Ne e trembëm një lepur në Merru az-Zahran dhe njerëzit e ndoqën derisa u lodhën. Unë vrapova pas tij derisa e zura dhe ia solla Ebu Talhas. Ai ia dërgoi kofshët e tij Pejgamberit (s.a.v.s.), i cili i pranoi ato."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "We provoked a rabbit at Marr Az-Zahran till it started jumping. My companions chased it till they got tired. But I alone ran after it and caught it and brought it to Abu Talha. He sent both its legs to the Prophet who accepted them."
+    }
+  }
+}

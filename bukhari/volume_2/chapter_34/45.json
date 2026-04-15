@@ -1,0 +1,34 @@
+{
+  "id": 45,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "To pay Zakat is a part of Islam"
+        },
+        "ar": {
+          "text": "باب الزَّكَاةُ مِنَ الإِسْلاَمِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْحَسَنُ بْنُ الصَّبَّاحِ، سَمِعَ جَعْفَرَ بْنَ عَوْنٍ، حَدَّثَنَا أَبُو الْعُمَيْسِ، أَخْبَرَنَا قَيْسُ بْنُ مُسْلِمٍ، عَنْ طَارِقِ بْنِ شِهَابٍ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، أَنَّ رَجُلاً، مِنَ الْيَهُودِ قَالَ لَهُ يَا أَمِيرَ الْمُؤْمِنِينَ، آيَةٌ فِي كِتَابِكُمْ تَقْرَءُونَهَا لَوْ عَلَيْنَا مَعْشَرَ الْيَهُودِ نَزَلَتْ لاَتَّخَذْنَا ذَلِكَ الْيَوْمَ عِيدًا‏.‏ قَالَ أَىُّ آيَةٍ قَالَ ‏{‏الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِينًا‏}‏‏.‏ قَالَ عُمَرُ قَدْ عَرَفْنَا ذَلِكَ الْيَوْمَ وَالْمَكَانَ الَّذِي نَزَلَتْ فِيهِ عَلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ قَائِمٌ بِعَرَفَةَ يَوْمَ جُمُعَةٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Omer bin el-Hatabi: Një burrë nga hebrenjtë i tha atij: \"O Prijës i Besimtarëve! Ka një ajet në Librin tuaj që ju e lexoni, i cili, sikur të na ishte shpallur neve hebrenjve, atë ditë do ta kishim bërë festë.\" Omeri pyeti: \"Cili ajet është ai?\" Ai u përgjigj: \"{Sot përsosa për ju fenë tuaj, plotësova ndaj jush mirësinë Time dhe zgjodha për ju Islamin fe.}\" Omeri tha: \"Ne e dimë mirë ditën dhe vendin në të cilin ky ajet i është shpallur Pejgamberit (s.a.v.s.); ai ishte duke qëndruar në Arafat, në ditën e xhuma.\""
+    },
+    "en": {
+      "narrator": "Narrated 'Umar bin Al-Khattab:",
+      "text": "Once a Jew said to me, \"O the chief of believers! There is a verse in your Holy Book Which is read by all of you (Muslims), and had it been revealed to us, we would have taken that day (on which it was revealed as a day of celebration.\" 'Umar bin Al-Khattab asked, \"Which is that verse?\" The Jew replied, \"This day I have perfected your religion For you, completed My favor upon you, And have chosen for you Islam as your religion.\" (5:3) 'Umar replied,\"No doubt, we know when and where this verse was revealed to the Prophet. It was Friday and the Prophet (ﷺ) was standing at 'Arafat (i.e. the Day of Hajj)\""
+    }
+  }
+}

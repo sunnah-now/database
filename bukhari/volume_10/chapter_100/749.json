@@ -1,0 +1,34 @@
+{
+  "id": 749,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 100,
+      "language": {
+        "en": {
+          "text": "To recite aloud in the 'Isha' prayer."
+        },
+        "ar": {
+          "text": "باب الْجَهْرِ فِي الْعِشَاءِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيٍّ، قَالَ سَمِعْتُ الْبَرَاءَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ فِي سَفَرٍ فَقَرَأَ فِي الْعِشَاءِ فِي إِحْدَى الرَّكْعَتَيْنِ بِالتِّينِ وَالزَّيْتُونِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton El-Berai: Pejgamberi (s.a.v.s.) ishte në një udhëtim dhe në njërën prej dy rekateve të namazit të jacisë lexoi suren \"Et-Tin\" (Vat-tini ved-zejtuni)."
+    },
+    "en": {
+      "narrator": "Narrated Al-Bara:",
+      "text": "The Prophet (ﷺ) was on a journey and recited in one of the first two rak`at of the `Isha' prayer \"Wa t-teeni wa z-zaitun.\" (95)"
+    }
+  }
+}

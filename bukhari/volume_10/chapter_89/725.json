@@ -1,0 +1,34 @@
+{
+  "id": 725,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 89,
+      "language": {
+        "en": {
+          "text": "What to say after the Takbir"
+        },
+        "ar": {
+          "text": "باب مَا يَقُولُ بَعْدَ التَّكْبِيرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم وَأَبَا بَكْرٍ وَعُمَرَ ـ رضى الله عنهما ـ كَانُوا يَفْتَتِحُونَ الصَّلاَةَ بِ ـ ‏{‏الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Profeti (s.a.v.s.), Ebu Bekri dhe Omeri e fillonin namazin me \"El-hamdu lil-lahi Rabil-alemin\" (Lavdërimi i takon Allahut, Zotit të botëve)."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet, Abu Bakr and `Umar used to start the prayer with \"Al hamdu li l-lahi Rabbi l-`alamin (All praise is but to Allah, Lord of the Worlds)."
+    }
+  }
+}

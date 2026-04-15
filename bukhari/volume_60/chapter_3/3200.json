@@ -1,0 +1,34 @@
+{
+  "id": 3200,
+  "metadata": {
+    "volume": {
+      "id": 60
+    },
+    "chapter": {
+      "id": 3,
+      "language": {
+        "en": {
+          "text": "The Statement of Allah Aza Wajal: \"And indeed We sent Nuh to his people...\""
+        },
+        "ar": {
+          "text": "بَابُ قَوْلِ اللَّهِ عَزَّ وَجَلَّ: {وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَى قَوْمِهِ}"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، سَمِعْتُ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَلاَ أُحَدِّثُكُمْ حَدِيثًا عَنِ الدَّجَّالِ مَا حَدَّثَ بِهِ نَبِيٌّ قَوْمَهُ، إِنَّهُ أَعْوَرُ، وَإِنَّهُ يَجِيءُ مَعَهُ بِمِثَالِ الْجَنَّةِ وَالنَّارِ، فَالَّتِي يَقُولُ إِنَّهَا الْجَنَّةُ‏.‏ هِيَ النَّارُ، وَإِنِّي أُنْذِرُكُمْ كَمَا أَنْذَرَ بِهِ نُوحٌ قَوْمَهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"A t'ju tregoj për Dexhallin diçka që asnjë pejgamber nuk ia ka treguar popullit të tij? Ai është me një sy dhe me vete do të sjellë diçka që i ngjan Xhenetit dhe Zjarrit. Ajo që ai do ta quajë Xhenet, në të vërtetë është Zjarri. Unë ju paralajmëroj kundër tij ashtu siç Nuhi e paralajmëroi popullin e tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"Shall I not tell you about the Dajjal a story of which no prophet told his nation? The Dajjall is one-eyed and will bring with him what will resemble Hell and Paradise, and what he will call Paradise will be actually Hell; so I warn you (against him) as Noah warned his nation against him.\""
+    }
+  }
+}

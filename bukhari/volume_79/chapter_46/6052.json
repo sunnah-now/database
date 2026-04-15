@@ -1,0 +1,34 @@
+{
+  "id": 6052,
+  "metadata": {
+    "volume": {
+      "id": 79
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "Keeping secrets"
+        },
+        "ar": {
+          "text": "باب حِفْظِ السِّرِّ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَبَّاحٍ، حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ سَمِعْتُ أَبِي قَالَ، سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، أَسَرَّ إِلَىَّ النَّبِيُّ صلى الله عليه وسلم سِرًّا فَمَا أَخْبَرْتُ بِهِ أَحَدًا بَعْدَهُ، وَلَقَدْ سَأَلَتْنِي أُمُّ سُلَيْمٍ فَمَا أَخْبَرْتُهَا بِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Pejgamberi (s.a.v.s.) më besoi një fshehtësi, të cilën nuk ia tregova askujt pas tij. Edhe Um Sulejmi më pyeti për të, por unë nuk i tregova as asaj."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet (ﷺ) confided to me a secret which I did not disclose to anybody after him. And Um Sulaim asked me (about that secret) but I did not tell her."
+    }
+  }
+}

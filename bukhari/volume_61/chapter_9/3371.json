@@ -1,0 +1,34 @@
+{
+  "id": 3371,
+  "metadata": {
+    "volume": {
+      "id": 61
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "The story of Khuza'a"
+        },
+        "ar": {
+          "text": "باب قِصَّةُ خُزَاعَةَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي إِسْحَاقُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، أَخْبَرَنَا إِسْرَائِيلُ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ عَمْرُو بْنُ لُحَىِّ بْنِ قَمَعَةَ بْنِ خِنْدِفَ أَبُو خُزَاعَةَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Amr bin Luhej bin Kam'a bin Hindif ishte babai i fisit Huza'a.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"`Amr bin Luhai bin Qam'a bin Khindif was the father of Khuza`a.'"
+    }
+  }
+}

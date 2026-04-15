@@ -1,0 +1,34 @@
+{
+  "id": 3055,
+  "metadata": {
+    "volume": {
+      "id": 58
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The sin of a betrayer"
+        },
+        "ar": {
+          "text": "باب إِثْمِ الْغَادِرِ لِلْبَرِّ وَالْفَاجِرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لِكُلِّ غَادِرٍ لِوَاءٌ يُنْصَبُ لِغَدْرَتِهِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri se Pejgamberi (s.a.v.s.) ka thënë: \"Çdo tradhtar do të ketë një flamur i cili do të ngrihet në Ditën e Kiametit; dukshmëria e flamurit do të jetë e tillë që të tregojë tradhtinë që ai ka kryer.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "The Prophet (ﷺ) said, \"Every betrayer will have a flag which will be fixed on the Day of Resurrection, and the flag's prominence will be made in order to show the betrayal he committed.\""
+    }
+  }
+}

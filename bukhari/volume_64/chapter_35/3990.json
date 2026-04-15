@@ -1,0 +1,34 @@
+{
+  "id": 3990,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 35,
+      "language": {
+        "en": {
+          "text": "The Ghazwa of Al-Hudaibiya"
+        },
+        "ar": {
+          "text": "باب غَزْوَةِ الْحُدَيْبِيَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى، حَدَّثَنَا أَبُو عَوَانَةَ، حَدَّثَنَا طَارِقٌ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِيهِ، أَنَّهُ كَانَ مِمَّنْ بَايَعَ تَحْتَ الشَّجَرَةِ، فَرَجَعْنَا إِلَيْهَا الْعَامَ الْمُقْبِلَ فَعَمِيَتْ عَلَيْنَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Al-Musajibi: Ai ishte në mesin e atyre që i dhanë betimin e besnikërisë Pejgamberit (s.a.v.s.) nën pemë, por vitin pasues kur u kthyem drejt saj, nuk mundëm ta dallonim më atë."
+    },
+    "en": {
+      "narrator": "Narrated Sa`id bin Al-Musaiyab:",
+      "text": "That his father was amongst those who had given the Pledge of allegiance (to the Prophet (ﷺ) ) beneath the Tree, and the next year when they went towards the Tree, they were not able to recognize it."
+    }
+  }
+}

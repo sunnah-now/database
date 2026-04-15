@@ -1,0 +1,34 @@
+{
+  "id": 4767,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنِي عَمْرُو بْنُ مُرَّةَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ أَبُو لَهَبٍ تَبًّا لَكَ أَلِهَذَا جَمَعْتَنَا فَنَزَلَتْ ‏{‏تَبَّتْ يَدَا أَبِي لَهَبٍ‏}‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Ebu Lehebi tha: \"Qofsh i shkatërruar! A për këtë na ke mbledhur?\" Atëherë u shpall: \"Qofshin të shkatërruara duart e Ebu Lehebit\"."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Abu Lahab said, \"May you perish! Is it' for this that you have gathered us?\" So there was revealed:'Perish the hands of Abu Lahab'."
+    }
+  }
+}

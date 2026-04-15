@@ -1,0 +1,34 @@
+{
+  "id": 3841,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسْلِمٌ، حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيٍّ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، سَمِعَ أَبَا مَسْعُودٍ الْبَدْرِيَّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ نَفَقَةُ الرَّجُلِ عَلَى أَهْلِهِ صَدَقَةٌ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Mes'ud el-Bedriu: Pejgamberi (s.a.v.s.) ka thënë: \"Shpenzimi i njeriut për familjen e tij është sadaka.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Masud Al-Badri:",
+      "text": "The Prophet (ﷺ) said, \"A man's spending on his family is a deed of charity.\""
+    }
+  }
+}

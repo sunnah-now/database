@@ -1,0 +1,34 @@
+{
+  "id": 57,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "The statement of the Prophet (saws): Religion is An-Nasihah (to be sincere and true) to Allah, to His Messenger (Muhammad (saws)), to the Muslim rulers, and to all the Muslims"
+        },
+        "ar": {
+          "text": "بَابُ قَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الدِّينُ النَّصِيحَةُ لِلَّهِ وَلِرَسُولِهِ وَلأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ»"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي قَيْسُ بْنُ أَبِي حَازِمٍ، عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ، قَالَ بَايَعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى إِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالنُّصْحِ لِكُلِّ مُسْلِمٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xherir bin Abdullahu: I dhashë besën të Dërguarit të Allahut (s.a.v.s.) për faljen e namazit, dhënien e zeqatit dhe këshillimin e sinqertë për çdo musliman."
+    },
+    "en": {
+      "narrator": "Narrated Jarir bin Abdullah:",
+      "text": "I gave the pledge of allegiance to Allah's Messenger (ﷺ) for the following: 1. offer prayers perfectly 2. pay the Zakat (obligatory charity) 3. and be sincere and true to every Muslim."
+    }
+  }
+}

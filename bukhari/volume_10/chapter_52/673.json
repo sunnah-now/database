@@ -1,0 +1,34 @@
+{
+  "id": 673,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "When should those who are behind the Imam prostrate?"
+        },
+        "ar": {
+          "text": "باب مَتَى يَسْجُدُ مَنْ خَلْفَ الإِمَامِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، نَحْوَهُ بِهَذَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Is'haku: Ngjashëm me këtë."
+    },
+    "en": {
+      "narrator": "Narrated Abu 'Is-haq:",
+      "text": "As above."
+    }
+  }
+}

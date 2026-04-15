@@ -1,0 +1,34 @@
+{
+  "id": 5548,
+  "metadata": {
+    "volume": {
+      "id": 76
+    },
+    "chapter": {
+      "id": 53,
+      "language": {
+        "en": {
+          "text": "No Hama"
+        },
+        "ar": {
+          "text": "باب لاَ هَامَةَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَعَنْ أَبِي سَلَمَةَ، سَمِعَ أَبَا هُرَيْرَةَ، بَعْدُ يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ يُورِدَنَّ مُمْرِضٌ عَلَى مُصِحٍّ ‏\"‏‏.‏ وَأَنْكَرَ أَبُو هُرَيْرَةَ حَدِيثَ الأَوَّلِ قُلْنَا أَلَمْ تُحَدِّثْ أَنَّهُ لاَ عَدْوَى فَرَطَنَ بِالْحَبَشِيَّةِ‏.‏ قَالَ أَبُو سَلَمَةَ فَمَا رَأَيْتُهُ نَسِيَ حَدِيثًا غَيْرَهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: Pejgamberi (s.a.v.s.) ka thënë: \"Kafshët e sëmura nuk duhet të bashkohen me kafshët e shëndosha\" (ose: \"Mos e vendosni të sëmurin bashkë me të shëndoshin\"). Më vonë, Ebu Hurejra e mohoi hadithin e parë (atë që thotë se nuk ka infektim) dhe foli në gjuhën abisinishte. Ebu Seleme ka thënë: \"Nuk e kam parë atë të ketë harruar ndonjë hadith tjetër përveç këtij.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said: The cattle (sheep, cows, camels, etc.) suffering from a disease should not be mixed up with healthy cattle, (or said: \"Do not put a patient with a healthy person ). \" (as a precaution)."
+    }
+  }
+}

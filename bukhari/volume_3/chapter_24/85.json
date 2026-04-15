@@ -1,0 +1,34 @@
+{
+  "id": 85,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "Whoever gave a religious verdict by beckoning or by nodding"
+        },
+        "ar": {
+          "text": "باب مَنْ أَجَابَ الْفُتْيَا بِإِشَارَةِ الْيَدِ وَالرَّأْسِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، قَالَ أَخْبَرَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ، عَنْ سَالِمٍ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ يُقْبَضُ الْعِلْمُ، وَيَظْهَرُ الْجَهْلُ وَالْفِتَنُ، وَيَكْثُرُ الْهَرْجُ ‏\"‏‏.‏ قِيلَ يَا رَسُولَ اللَّهِ وَمَا الْهَرْجُ فَقَالَ هَكَذَا بِيَدِهِ، فَحَرَّفَهَا، كَأَنَّهُ يُرِيدُ الْقَتْلَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: Pejgamberi (s.a.v.s.) ka thënë: \"Dija do të tërhiqet, do të shfaqet injoranca dhe fitnet (trazirat), dhe do të shtohet el-harxhi.\" U pyet: \"O i Dërguari i Allahut, çfarë është el-harxhi?\" Ai bëri shenjë me dorën e tij, duke e lëvizur atë sikur kishte për qëllim vrasjen."
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"(Religious) knowledge will be taken away (by the death of religious scholars) ignorance (in religion) and afflictions will appear; and Harj will increase.\" It was asked, \"What is Harj, O Allah's Messenger (ﷺ)?\" He replied by beckoning with his hand indicating \"killing.\" (Fath-al-Bari Page 192, Vol. 1)"
+    }
+  }
+}

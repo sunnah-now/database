@@ -1,0 +1,34 @@
+{
+  "id": 574,
+  "metadata": {
+    "volume": {
+      "id": 9
+    },
+    "chapter": {
+      "id": 31,
+      "language": {
+        "en": {
+          "text": "One should not try to offer As-Salat (the prayers) just before sunset"
+        },
+        "ar": {
+          "text": "باب لاَ يَتَحَرَّى الصَّلاَةَ قَبْلَ غُرُوبِ الشَّمْسِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، قَالَ حَدَّثَنَا عَبْدَةُ، عَنْ عُبَيْدِ اللَّهِ، عَنْ خُبَيْبٍ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَتَيْنِ بَعْدَ الْفَجْرِ حَتَّى تَطْلُعَ الشَّمْسُ، وَبَعْدَ الْعَصْرِ حَتَّى تَغْرُبَ الشَّمْسُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: I Dërguari i Allahut (s.a.v.s.) i ndaloi dy namaze: faljen pas namazit të sabahut derisa të lindë dielli dhe faljen pas namazit të ikindisë derisa të perëndojë dielli."
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) forbade the offering of two prayers: -1. after the morning prayer till the sunrises. -2. after the `Asr prayer till the sun sets."
+    }
+  }
+}

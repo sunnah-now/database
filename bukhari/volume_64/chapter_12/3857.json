@@ -1,0 +1,34 @@
+{
+  "id": 3857,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَعَنِ الزُّهْرِيِّ، عَنْ مُحَمَّدِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ فِي أُسَارَى بَدْرٍ ‏ \"‏ لَوْ كَانَ الْمُطْعِمُ بْنُ عَدِيٍّ حَيًّا ثُمَّ كَلَّمَنِي فِي هَؤُلاَءِ النَّتْنَى لَتَرَكْتُهُمْ لَهُ ‏\"‏‏.‏ وَقَالَ اللَّيْثُ عَنْ يَحْيَى، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَقَعَتِ الْفِتْنَةُ الأُولَى ـ يَعْنِي مَقْتَلَ عُثْمَانَ ـ فَلَمْ تُبْقِ مِنْ أَصْحَابِ بَدْرٍ أَحَدًا، ثُمَّ وَقَعَتِ الْفِتْنَةُ الثَّانِيَةُ ـ يَعْنِي الْحَرَّةَ ـ فَلَمْ تُبْقِ مِنْ أَصْحَابِ الْحُدَيْبِيَةِ أَحَدًا ثُمَّ وَقَعَتِ الثَّالِثَةُ فَلَمْ تَرْتَفِعْ وَلِلنَّاسِ طَبَاخٌ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xhubajr ibn Mut’im se Pejgamberi (s.a.v.s.) ka thënë për robërit e Bedrit: “Sikur Mut’im ibn Adij të ishte gjallë e pastaj të më kërkonte ndërmjetësim për këta të fëlliqur, do t’i lironte ata për hir të tij.” Transmeton Said ibn el-Musejjib: Kur ndodhi fitneja e parë për shkak të vrasjes së Osmanit, ajo nuk la asnjë nga luftëtarët e Bedrit gjallë. Kur ndodhi fitneja e dytë, domethënë beteja e el-Harrës, ajo nuk la asnjë nga pjesëmarrësit e Hudejbijes gjallë. Pastaj ndodhi fitneja e tretë, e cila nuk u qetësua derisa e shteroi të gjithë fuqinë e njerëzve."
+    },
+    "en": {
+      "narrator": "Narrated Said bin Al-Musaiyab:",
+      "text": "When the first civil strife (in Islam) took place because of the murder of 'Uthman, it left none of the Badr warriors alive. When the second civil strife, that is the battle of Al-Harra, took place, it left none of the Hudaibiya treaty companions alive. Then the third civil strife took place and it did not subside till it had exhausted all the strength of the people."
+    }
+  }
+}

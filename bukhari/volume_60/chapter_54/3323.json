@@ -1,0 +1,34 @@
+{
+  "id": 3323,
+  "metadata": {
+    "volume": {
+      "id": 60
+    },
+    "chapter": {
+      "id": 54,
+      "language": {
+        "en": {
+          "text": ""
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّهُ قَدْ كَانَ فِيمَا مَضَى قَبْلَكُمْ مِنَ الأُمَمِ مُحَدَّثُونَ، وَإِنَّهُ إِنْ كَانَ فِي أُمَّتِي هَذِهِ مِنْهُمْ، فَإِنَّهُ عُمَرُ بْنُ الْخَطَّابِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra se Pejgamberi (s.a.v.s.) ka thënë: \"Në mesin e popujve që ishin para jush ka pasur njerëz të frymëzuar (të cilëve u inspirohej e vërteta), dhe nëse ka ndonjë të tillë në umetin tim, ai është Omer bin el-Hatabi.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"Amongst the people preceding you there used to be 'Muhaddithun' (i.e. persons who can guess things that come true later on, as if those persons have been inspired by a divine power), and if there are any such persons amongst my followers, it is `Umar bin Al-Khattab.\""
+    }
+  }
+}

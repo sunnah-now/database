@@ -1,0 +1,34 @@
+{
+  "id": 4458,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا ابْنُ عُيَيْنَةَ، عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّهُ قَالَ حِينَ وَقَعَ بَيْنَهُ وَبَيْنَ ابْنِ الزُّبَيْرِ قُلْتُ أَبُوهُ الزُّبَيْرُ، وَأُمُّهُ أَسْمَاءُ، وَخَالَتُهُ عَائِشَةُ، وَجَدُّهُ أَبُو بَكْرٍ، وَجَدَّتُهُ صَفِيَّةُ‏.‏ فَقُلْتُ لِسُفْيَانَ إِسْنَادُهُ‏.‏ فَقَالَ حَدَّثَنَا، فَشَغَلَهُ إِنْسَانٌ وَلَمْ يَقُلِ ابْنُ جُرَيْجٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Kur ndodhi mosmarrëveshja mes tij dhe Ibn ez-Zubajrit, i thashë (Ibn Abbasit): \"(Përse nuk ia jep besëlidhjen atij kur) babai i tij është ez-Zubajri, nëna e tij është Esmaja, tezja e tij është Aisha, gjyshi i tij nga nëna është Ebu Bekri dhe gjyshja e tij është Safija?\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn Abi Mulaika:",
+      "text": "When there happened the disagreement between Ibn Az-Zubair and Ibn `Abbas, I said (to the latter), \"(Why don't you take the oath of allegiance to him as) his father is Az-Zubair, and his mother is Asma,' and his aunt is `Aisha, and his maternal grandfather is Abu Bakr, and his grandmother is Safiya?\""
+    }
+  }
+}

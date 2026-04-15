@@ -1,0 +1,34 @@
+{
+  "id": 5428,
+  "metadata": {
+    "volume": {
+      "id": 75
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Sickness is expiation for sins"
+        },
+        "ar": {
+          "text": "بَابُ مَا جَاءَ فِي كَفَّارَةِ الْمَرَضِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو، حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَلْحَلَةَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، وَعَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلاَ وَصَبٍ وَلاَ هَمٍّ وَلاَ حُزْنٍ وَلاَ أَذًى وَلاَ غَمٍّ حَتَّى الشَّوْكَةِ يُشَاكُهَا، إِلاَّ كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmetojnë Ebu Seid el-Hudriu dhe Ebu Hurejra se Pejgamberi (s.a.v.s.) ka thënë: \"Nuk e godet muslimanin asnjë lodhje, asnjë sëmundje, asnjë brengë, asnjë pikëllim, asnjë lëndim e asnjë shqetësim, madje as shpimi i një gjëmbi, e që Allahu të mos ia shlyejë me të disa nga gjynahet e tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Sa`id Al-Khudri and Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick he receives from a thorn, but that Allah expiates some of his sins for that.\""
+    }
+  }
+}

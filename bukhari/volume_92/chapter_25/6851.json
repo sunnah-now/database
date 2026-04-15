@@ -1,0 +1,34 @@
+{
+  "id": 6851,
+  "metadata": {
+    "volume": {
+      "id": 92
+    },
+    "chapter": {
+      "id": 25,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنَا مَعْبَدٌ، سَمِعْتُ حَارِثَةَ بْنَ وَهْبٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ تَصَدَّقُوا، فَسَيَأْتِي عَلَى النَّاسِ زَمَانٌ يَمْشِي الرَّجُلُ بِصَدَقَتِهِ، فَلاَ يَجِدُ مَنْ يَقْبَلُهَا ‏\"‏‏.‏ قَالَ مُسَدَّدٌ حَارِثَةُ أَخُو عُبَيْدِ اللَّهِ بْنِ عُمَرَ لأُمِّهِ‏ قَالَهُ أَبُو عَبْدِ اللَّهِ."
+    },
+    "al": {
+      "text": "Transmeton Harithe bin Vehbi: E kam dëgjuar të Dërguarin e Allahut (s.a.v.s.) duke thënë: \"Jepni sadaka, sepse do të vijë një kohë për njerëzit kur njeriu do të shkojë me sadakanë e tij prej një vendi në tjetrin, por nuk do të gjejë askënd që ta pranojë atë.\""
+    },
+    "en": {
+      "narrator": "Narrated Haritha bin Wahb:",
+      "text": "I heard Allah's Messenger (ﷺ) saying, \"Give in charity because there will come a time on the people when a person will go out with his alms from place to place but will not find anybody to accept it.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5633,
+  "metadata": {
+    "volume": {
+      "id": 77
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "The red tent of leather"
+        },
+        "ar": {
+          "text": "باب الْقُبَّةِ الْحَمْرَاءِ مِنْ أَدَمٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ، ح وَقَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ قَالَ أَرْسَلَ النَّبِيُّ صلى الله عليه وسلم إِلَى الأَنْصَارِ، وَجَمَعَهُمْ فِي قُبَّةٍ مِنْ أَدَمٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes ibn Maliku: Pejgamberi (s.a.v.s.) i thirri Ensarët dhe i mblodhi ata në një tendë prej lëkure."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet (ﷺ) called for the Ansar and gathered them in a leather tent."
+    }
+  }
+}

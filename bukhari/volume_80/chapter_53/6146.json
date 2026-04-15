@@ -1,0 +1,34 @@
+{
+  "id": 6146,
+  "metadata": {
+    "volume": {
+      "id": 80
+    },
+    "chapter": {
+      "id": 53,
+      "language": {
+        "en": {
+          "text": "Invocation for a bridegroom"
+        },
+        "ar": {
+          "text": "باب الدُّعَاءِ لِلْمُتَزَوِّجِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا قَفَلَ مِنْ غَزْوٍ أَوْ حَجٍّ أَوْ عُمْرَةٍ يُكَبِّرُ عَلَى كُلِّ شَرَفٍ مِنَ الأَرْضِ ثَلاَثَ تَكْبِيرَاتٍ، ثُمَّ يَقُولُ ‏ \"‏ لاَ إِلَهَ إِلاَّ اللَّهُ، وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهْوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ، آيِبُونَ تَائِبُونَ، عَابِدُونَ لِرَبِّنَا، حَامِدُونَ، صَدَقَ اللَّهُ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الأَحْزَابَ وَحْدَهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Umeri: Sa herë që i Dërguari i Allahut (s.a.v.s.) kthehej nga ndonjë betejë, Haxhi apo Umreja, ai thoshte \"Allahu Ekber\" tri herë në çdo lartësi të tokës, e pastaj thoshte: \"Nuk ka zot tjetër përveç Allahut, Një i Vetëm dhe pa ortak. Atij i takon sundimi dhe Atij i takon lavdërimi. Ai është i Plotfuqishëm mbi çdo gjë. Jemi kthyes, pendues, adhurues dhe Zotit tonë falënderues. Allahu e përmbushi premtimin e Tij, e ndihmoi robin e Tij dhe i mposhti i Vetëm ushtritë e bashkuara.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Whenever Allah's Messenger (ﷺ) returned from a Ghazwa or Hajj or `Umra, he used to say, \"Allahu Akbar,\" three times; whenever he went up a high place, he used to say, \"La ilaha illal-lahu wahdahu la sharika lahu, lahu-l-mulk wa lahu-l-hamd, wa huwa'ala kulli Shai 'in qadir. Ayibuna ta'ibuna 'abiduna lirabbina hamidun. Sadaqa-l-lahu wa'dahu, wa nasara`Abdahu wa hazama-l-ahzaba wahdahu.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5601,
+  "metadata": {
+    "volume": {
+      "id": 77
+    },
+    "chapter": {
+      "id": 25,
+      "language": {
+        "en": {
+          "text": "The wearing of silk clothes by men"
+        },
+        "ar": {
+          "text": "باب لُبْسِ الْحَرِيرِ، وَافْتِرَاشِهِ لِلرِّجَالِ، وَقَدْرِ مَا يَجُوزُ مِنْهُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا قَتَادَةُ، قَالَ سَمِعْتُ أَبَا عُثْمَانَ النَّهْدِيَّ، أَتَانَا كِتَابُ عُمَرَ وَنَحْنُ مَعَ عُتْبَةَ بْنِ فَرْقَدٍ بِأَذْرَبِيجَانَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْحَرِيرِ، إِلاَّ هَكَذَا، وَأَشَارَ بِإِصْبَعَيْهِ اللَّتَيْنِ تَلِيَانِ الإِبْهَامَ قَالَ فِيمَا عَلِمْنَا أَنَّهُ يَعْنِي الأَعْلاَمَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Uthman en-Nahdi: Kur ishim me Utbe bin Farkadin në Azerbajxhan, na erdhi letra e Omerit, në të cilën thuhej se i Dërguari i Allahut (s.a.v.s.) e ka ndaluar përdorimin e mëndafshit, përveç kësaj mase, dhe bëri shenjë me dy gishtat e tij që vijnë pas gishtit të madh. Me aq sa kemi kuptuar, ai e kishte fjalën për qëndisjet."
+    },
+    "en": {
+      "narrator": "Narrated Aba `Uthman An-Nahdi:",
+      "text": "While we were with `Utba bin Farqad at Adharbijan, there came `Umar's letter indicating that Allah's Apostle had forbidden the use of silk except this much, then he pointed with his index and middle fingers. To our knowledge, by that he meant embroidery."
+    }
+  }
+}

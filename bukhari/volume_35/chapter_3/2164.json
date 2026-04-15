@@ -1,0 +1,34 @@
+{
+  "id": 2164,
+  "metadata": {
+    "volume": {
+      "id": 35
+    },
+    "chapter": {
+      "id": 3,
+      "language": {
+        "en": {
+          "text": "As-Salam to a person who has got nothing"
+        },
+        "ar": {
+          "text": "باب السَّلَمِ إِلَى مَنْ لَيْسَ عِنْدَهُ أَصْلٌ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ، حَدَّثَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنِ الشَّيْبَانِيِّ، عَنْ مُحَمَّدِ بْنِ أَبِي مُجَالِدٍ، بِهَذَا وَقَالَ فَنُسْلِفُهُمْ فِي الْحِنْطَةِ وَالشَّعِيرِ‏.‏ وَقَالَ عَبْدُ اللَّهِ بْنُ الْوَلِيدِ عَنْ سُفْيَانَ حَدَّثَنَا الشَّيْبَانِيُّ وَقَالَ وَالزَّيْتِ‏.‏ حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا جَرِيرٌ عَنِ الشَّيْبَانِيِّ وَقَالَ فِي الْحِنْطَةِ وَالشَّعِيرِ وَالزَّبِيبِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Shejbaniu: Ne u jepnim atyre paradhënie për grurë dhe elb. Ai gjithashtu shtoi: \"Edhe për vaj\", si dhe: \"Ne u jepnim paradhënie për grurë, elb dhe rrush të tharë.\""
+    },
+    "en": {
+      "narrator": "Narrated Muhammad bin Abi Al-Mujalid:",
+      "text": "as above (446) and said, \"We used to pay them in advance for wheat and barley (to be delivered later). Narrated Ash-Shaibani--\"And also for oil.\" Narrated Ash-Shaibani: who said \"We used to pay in advance for wheat barley and dried grapes.\""
+    }
+  }
+}

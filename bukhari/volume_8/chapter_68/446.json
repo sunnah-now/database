@@ -1,0 +1,34 @@
+{
+  "id": 446,
+  "metadata": {
+    "volume": {
+      "id": 8
+    },
+    "chapter": {
+      "id": 68,
+      "language": {
+        "en": {
+          "text": "(What is said about) reciting poetry in the mosque?"
+        },
+        "ar": {
+          "text": "باب الشِّعْرِ فِي الْمَسْجِدِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْيَمَانِ الْحَكَمُ بْنُ نَافِعٍ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّهُ سَمِعَ حَسَّانَ بْنَ ثَابِتٍ الأَنْصَارِيَّ، يَسْتَشْهِدُ أَبَا هُرَيْرَةَ أَنْشُدُكَ اللَّهَ هَلْ سَمِعْتَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ يَا حَسَّانُ، أَجِبْ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم، اللَّهُمَّ أَيِّدْهُ بِرُوحِ الْقُدُسِ ‏\"‏‏.‏ قَالَ أَبُو هُرَيْرَةَ نَعَمْ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: Hassan bin Thabit el-Ensariu e pyeti atë: \"Të betohem në Allahun! A e ke dëgjuar Pejgamberin (s.a.v.s.) duke thënë: 'O Hassan, përgjigju në emër të të Dërguarit të Allahut (s.a.v.s.). O Allah, mbështete atë me Shpirtin e Shenjtë!'?\" Ebu Hurejre u përgjigj: \"Po.\""
+    },
+    "en": {
+      "narrator": "Narrated Hassan bin Thabit Al-Ansari:",
+      "text": "I asked Abu Huraira \"By Allah! Tell me the truth whether you heard the Prophet (ﷺ) saying, 'O Hassan! Reply on behalf of Allah's Messenger (ﷺ). O Allah! Help him with the Holy Spirit.\" Abu Huraira said, \"Yes . \""
+    }
+  }
+}

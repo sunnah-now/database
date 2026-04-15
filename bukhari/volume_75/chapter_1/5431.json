@@ -1,0 +1,34 @@
+{
+  "id": 5431,
+  "metadata": {
+    "volume": {
+      "id": 75
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Sickness is expiation for sins"
+        },
+        "ar": {
+          "text": "بَابُ مَا جَاءَ فِي كَفَّارَةِ الْمَرَضِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ، أَنَّهُ قَالَ سَمِعْتُ سَعِيدَ بْنَ يَسَارٍ أَبَا الْحُبَابِ، يَقُولُ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُصِبْ مِنْهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Kujt Allahu ia dëshiron të mirën, e sprovon atë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"If Allah wants to do good to somebody, He afflicts him with trials.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3831,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي خَلِيفَةُ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ مَاتَ أَبُو زَيْدٍ وَلَمْ يَتْرُكْ عَقِبًا، وَكَانَ بَدْرِيًّا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Ebu Zejdi vdiq dhe nuk la asnjë pasardhës, dhe ai ishte një nga luftëtarët e Bedrit."
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "Abu Zaid died and did not leave any offspring, and he was one of the Badr warriors."
+    }
+  }
+}

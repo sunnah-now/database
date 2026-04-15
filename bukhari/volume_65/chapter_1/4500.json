@@ -1,0 +1,34 @@
+{
+  "id": 4500,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنِ الأَعْمَشِ، عَنْ أَبِي ظَبْيَانَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏كَمَا أَنْزَلْنَا عَلَى الْمُقْتَسِمِينَ‏}‏ قَالَ آمَنُوا بِبَعْضٍ وَكَفَرُوا بِبَعْضٍ، الْيَهُودُ وَالنَّصَارَى‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi (r.a.): Lidhur me ajetin: \"{Ashtu siç ua kemi zbritur atyre që u ndanë}\" (15:90), ai tha: \"Ata besuan në një pjesë të tij dhe mohuan pjesën tjetër; ata janë jehudët dhe të krishterët.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas concerning:",
+      "text": "\"As We have sent down (the Scripture) on those who are divided (Jews and Christians).\" (15.90) They believed in part of it and disbelieved in the other, (and they) are the Jews and the Christians."
+    }
+  }
+}

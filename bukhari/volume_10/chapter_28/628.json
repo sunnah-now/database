@@ -1,0 +1,34 @@
+{
+  "id": 628,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "To talk after the Iqama"
+        },
+        "ar": {
+          "text": "باب الْكَلاَمِ إِذَا أُقِيمَتِ الصَّلاَةُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَيَّاشُ بْنُ الْوَلِيدِ، قَالَ حَدَّثَنَا عَبْدُ الأَعْلَى، قَالَ حَدَّثَنَا حُمَيْدٌ، قَالَ سَأَلْتُ ثَابِتًا الْبُنَانِيَّ عَنِ الرَّجُلِ، يَتَكَلَّمُ بَعْدَ مَا تُقَامُ الصَّلاَةُ فَحَدَّثَنِي عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أُقِيمَتِ الصَّلاَةُ فَعَرَضَ لِلنَّبِيِّ صلى الله عليه وسلم رَجُلٌ فَحَبَسَهُ بَعْدَ مَا أُقِيمَتِ الصَّلاَةُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Pasi u thirr ikâmeti, një burrë i doli përpara Pejgamberit (s.a.v.s.) dhe e ndaloi atë (nga fillimi i namazit) pasi ishte thirrur ikâmeti."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Once Iqama was pronounced a man came to the Prophet (ﷺ) and detained him (from the prayer)."
+    }
+  }
+}

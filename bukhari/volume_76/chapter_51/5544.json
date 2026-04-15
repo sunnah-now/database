@@ -1,0 +1,34 @@
+{
+  "id": 5544,
+  "metadata": {
+    "volume": {
+      "id": 76
+    },
+    "chapter": {
+      "id": 51,
+      "language": {
+        "en": {
+          "text": "Some eloquent speech is as effective as magic"
+        },
+        "ar": {
+          "text": "باب مِنَ الْبَيَانِ سِحْرًا"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما أَنَّهُ قَدِمَ رَجُلاَنِ مِنَ الْمَشْرِقِ، فَخَطَبَا، فَعَجِبَ النَّاسُ لِبَيَانِهِمَا، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ مِنَ الْبَيَانِ لَسِحْرًا ـ أَوْ ـ إِنَّ بَعْضَ الْبَيَانِ لَسِحْرٌ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Omeri: Dy burra erdhën nga Lindja dhe mbajtën fjalim, ndërsa njerëzit mbetën të mrekulluar nga elokuenca e tyre. Atëherë i Dërguari i Allahut (s.a.v.s.) tha: \"Vërtet, një pjesë e elokuencës është magji.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Two men came from the East and addressed the people who wondered at their eloquent speeches On that Allah's Messenger (ﷺ) said. Some eloquent speech is as effective as magic.'"
+    }
+  }
+}

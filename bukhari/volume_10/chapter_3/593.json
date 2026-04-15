@@ -1,0 +1,34 @@
+{
+  "id": 593,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 3,
+      "language": {
+        "en": {
+          "text": "To pronounce the wording of Iqama once (in singles) except Qad-qamat-is-Salat"
+        },
+        "ar": {
+          "text": "باب الإِقَامَةُ وَاحِدَةٌ، إِلاَّ قَوْلَهُ قَدْ قَامَتِ الصَّلاَةُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا خَالِدٌ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، قَالَ أُمِرَ بِلاَلٌ أَنْ يَشْفَعَ، الأَذَانَ، وَأَنْ يُوتِرَ الإِقَامَةَ‏.‏ قَالَ إِسْمَاعِيلُ فَذَكَرْتُ لأَيُّوبَ فَقَالَ إِلاَّ الإِقَامَةَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Bilalli u urdhërua që t'i thotë fjalët e ezanit dy nga dy, ndërsa ato të ikametit një nga një. Ismaili tha: \"Ia përmenda këtë Ejubit dhe ai shtoi: 'Përveç ikametit (shprehjes \"Kad kametis-salat\", e cila duhet të thuhet dy herë)'.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Qilaba:",
+      "text": "Anas said, \"Bilal was ordered to pronounce the wording of Adhan twice and of Iqama once only.\" The sub narrator Isma`il said, \"I mentioned that to Aiyub and he added (to that), \"Except Iqama (i.e. Qadqamat- is-salat which should be said twice)."
+    }
+  }
+}

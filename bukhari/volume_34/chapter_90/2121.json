@@ -1,0 +1,34 @@
+{
+  "id": 2121,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 90,
+      "language": {
+        "en": {
+          "text": "Sold or rented date-palms which were pollinated, or land which was sown"
+        },
+        "ar": {
+          "text": "باب مَنْ بَاعَ نَخْلاً قَدْ أُبِّرَتْ أَوْ أَرْضًا مَزْرُوعَةً أَوْ بِإِجَارَةٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "قَالَ أَبُو عَبْدِ اللَّهِ وَقَالَ لِي إِبْرَاهِيمُ أَخْبَرَنَا هِشَامٌ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ سَمِعْتُ ابْنَ أَبِي مُلَيْكَةَ، يُخْبِرُ عَنْ نَافِعٍ، مَوْلَى ابْنِ عُمَرَ أَنَّ أَيُّمَا، نَخْلٍ بِيعَتْ قَدْ أُبِّرَتْ لَمْ يُذْكَرِ الثَّمَرُ، فَالثَّمَرُ لِلَّذِي أَبَّرَهَا، وَكَذَلِكَ الْعَبْدُ وَالْحَرْثُ‏.‏ سَمَّى لَهُ نَافِعٌ هَؤُلاَءِ الثَّلاَثَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Nafiu: Nëse shiten hurmat e polenizuara dhe nuk përmendet asgjë (në kontratë) për frytet e tyre, frytet i takojnë personit që i ka polenizuar ato; e njëjta gjë vlen edhe për skllavin dhe tokën e mbjellë. Nafiu i përmendi këto të tria."
+    },
+    "en": {
+      "narrator": "Narrated Nafi', the freed slave of Ibn 'Umar:",
+      "text": "If pollinated date-palms are sold and nothing is mentioned (in the contract) about their fruits, the fruits will go to the person who has pollinated them, and so will be the case with the slave and the cultivator. Nafi' mentioned those three things."
+    }
+  }
+}

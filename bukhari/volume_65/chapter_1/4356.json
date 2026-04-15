@@ -1,0 +1,34 @@
+{
+  "id": 4356,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ بْنِ عَبْدِ الرَّحْمَنِ أَبُو يَعْقُوبَ، حَدَّثَنَا حُسَيْنُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، حَدَّثَنَا أَنَسٌ، أَنَّ أَبَا طَلْحَةَ، قَالَ غَشِيَنَا النُّعَاسُ وَنَحْنُ فِي مَصَافِّنَا يَوْمَ أُحُدٍ ـ قَالَ ـ فَجَعَلَ سَيْفِي يَسْقُطُ مِنْ يَدِي وَآخُذُهُ، وَيَسْقُطُ وَآخُذُهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi se Ebu Talha ka thënë: \"Na pat zënë dremitja gjatë betejës së Uhudit ndërsa ishim në rreshtat e parë. Shpata më binte nga dora dhe unë e merrja, pastaj më binte përsëri dhe unë e merrja sërish.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Talha:",
+      "text": "Slumber overtook us during the battle of Uhud while we were in the front files. My sword would fall from my hand and I would pick it up, and again it would fall down and I would pick it up again."
+    }
+  }
+}

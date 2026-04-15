@@ -1,0 +1,34 @@
+{
+  "id": 6058,
+  "metadata": {
+    "volume": {
+      "id": 79
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "Fire should not be kept lit at bedtime."
+        },
+        "ar": {
+          "text": "باب لاَ تُتْرَكُ النَّارُ فِي الْبَيْتِ عِنْدَ النَّوْمِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَمَّادٌ، عَنْ كَثِيرٍ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ خَمِّرُوا الآنِيَةَ وَأَجِيفُوا الأَبْوَابَ، وَأَطْفِئُوا الْمَصَابِيحَ، فَإِنَّ الْفُوَيْسِقَةَ رُبَّمَا جَرَّتِ الْفَتِيلَةَ فَأَحْرَقَتْ أَهْلَ الْبَيْتِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xhabir bin Abdullahu: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Mbuloni enët, mbyllni dyert dhe fikni dritat, sepse krijesa e dëmshme (miu) mund të tërheqë fitilin e kështu t'i djegë banorët e shtëpisë.\""
+    },
+    "en": {
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Allah's Messenger (ﷺ) said, \"(At bedtime) cover the utensils, close the doors, and put out the lights, lest the evil creature (the rat) should pull away the wick and thus burn the people of the house.\""
+    }
+  }
+}

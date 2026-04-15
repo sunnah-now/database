@@ -1,0 +1,34 @@
+{
+  "id": 4116,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 53,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا أَبُو شِهَابٍ، عَنْ عَاصِمٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أَقَمْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ تِسْعَ عَشْرَةَ نَقْصُرُ الصَّلاَةَ‏.‏ وَقَالَ ابْنُ عَبَّاسٍ وَنَحْنُ نَقْصُرُ مَا بَيْنَنَا وَبَيْنَ تِسْعَ عَشْرَةَ، فَإِذَا زِدْنَا أَتْمَمْنَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi: Qëndruam me Pejgamberin (s.a.v.s.) në një udhëtim për nëntëmbëdhjetë ditë, gjatë të cilave e kemi shkurtuar namazin. Ibn Abasi shtoi: \"Ne e shkurtojmë namazin nëse qëndrojmë deri në nëntëmbëdhjetë ditë si udhëtarë, por nëse qëndrojmë më gjatë, e falim namazin e plotë.\""
+    },
+    "en": {
+      "narrator": "Narrated `Ikrima:",
+      "text": "Ibn `Abbas said, \"We stayed for 19 days with Prophet on a journey during which we used to offer shortened prayers.\" Ibn `Abbas added, \"We offer the Qasr prayer (i.e. shortened prayer) If we stay up to 19 days as travelers, But if we stay longer, we offer complete prayers."
+    }
+  }
+}

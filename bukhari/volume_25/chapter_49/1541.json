@@ -1,0 +1,34 @@
+{
+  "id": 1541,
+  "metadata": {
+    "volume": {
+      "id": 25
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The demolishing of the Ka'bah"
+        },
+        "ar": {
+          "text": "باب هَدْمِ الْكَعْبَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ الأَخْنَسِ، حَدَّثَنِي ابْنُ أَبِي مُلَيْكَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ كَأَنِّي بِهِ أَسْوَدَ أَفْحَجَ، يَقْلَعُهَا حَجَرًا حَجَرًا ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Pejgamberi (s.a.v.s.) ka thënë: \"Sikur po e shoh atë, një person me ngjyrë të zezë e me këmbë të holla, duke i hequr gurët e Qabes një pas një.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "The Prophet (ﷺ) said, \"As if I were looking at him, a black person with thin legs plucking the stones of the Ka`ba one after another. \""
+    }
+  }
+}

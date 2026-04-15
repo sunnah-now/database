@@ -1,0 +1,34 @@
+{
+  "id": 4739,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الأَعْمَشُ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ ـ رضى الله عنه ـ قَالَ كُنَّا قُعُودًا عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَذَكَرَ الْحَدِيثَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Aliu: \"Ne ishim të ulur me Pejgamberin (s.a.v.s.),\" (pastaj ai përmendi hadithin e mësipërm)."
+    },
+    "en": {
+      "narrator": "Narrated Abu `Abdur-Rahman:",
+      "text": "`Ali said, \"We were sitting with the Prophet,\" (He then mentioned the Hadith above (469)."
+    }
+  }
+}

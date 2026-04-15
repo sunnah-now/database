@@ -1,0 +1,34 @@
+{
+  "id": 4666,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدٌ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَرَأَ ‏{‏فَهَلْ مِنْ مُدَّكِرٍ‏، ولقد أهلكنا أشياعكم فهل من مُدَّكِرٍ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullahu: Pejgamberi (s.a.v.s.) lexoi: \"Fahal-min muddekir\": \"Vërtet, Ne i kemi shkatërruar popujt e ngjashëm me ju; pra, a ka ndonjë që merr mësim?\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah:",
+      "text": "The Prophet (ﷺ) recited: 'Fahal-min Muddakir': 'And verily, We have destroyed nations like unto you; then is there any that will receive admonition?' (54.51)"
+    }
+  }
+}

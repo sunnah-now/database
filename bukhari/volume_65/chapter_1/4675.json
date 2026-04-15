@@ -1,0 +1,34 @@
+{
+  "id": 4675,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْحَسَنُ بْنُ مُدْرِكٍ، حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ، أَخْبَرَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدٍ، قَالَ قُلْتُ لاِبْنِ عَبَّاسٍ ـ رضى الله عنهما ـ سُورَةُ الْحَشْرِ قَالَ قُلْ سُورَةُ النَّضِيرِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Sa'idi: E pyeta Ibn Abbasin për suren el-Hashr, e ai u përgjigj: \"Thuaj surja en-Nadir.\""
+    },
+    "en": {
+      "narrator": "Narrated Sa`id:",
+      "text": "I asked Ibn `Abbas about Surat Al-Hashr. He replied, \"Say Surat An-Nadir.\""
+    }
+  }
+}

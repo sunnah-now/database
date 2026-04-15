@@ -1,0 +1,34 @@
+{
+  "id": 137,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "One should not repeat ablution if in doubt unless and until he is convinced (that he has lost his ablution by having Hadath)"
+        },
+        "ar": {
+          "text": "باب لاَ يَتَوَضَّأُ مِنَ الشَّكِّ حَتَّى يَسْتَيْقِنَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيٌّ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا الزُّهْرِيُّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَعَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، أَنَّهُ شَكَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم الرَّجُلُ الَّذِي يُخَيَّلُ إِلَيْهِ أَنَّهُ يَجِدُ الشَّىْءَ فِي الصَّلاَةِ‏.‏ فَقَالَ ‏ \"‏ لاَ يَنْفَتِلْ ـ أَوْ لاَ يَنْصَرِفْ ـ حَتَّى يَسْمَعَ صَوْتًا أَوْ يَجِدَ رِيحًا ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton axha i Abad bin Temimit: Iu ankua të Dërguarit të Allahut (s.a.v.s.) për njeriun të cilit i krijohet përshtypja se i ka ndodhur diçka (i është prishur abdesti) gjatë namazit. Ai (s.a.v.s.) tha: \"Të mos largohet (nga namazi) derisa të dëgjojë zë ose të ndiejë erë.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abbad bin Tamim:",
+      "text": "My uncle asked Allah's Messenger (ﷺ) about a person who imagined to have passed wind during the prayer. Allah' Apostle replied: \"He should not leave his prayers unless he hears sound or smells something.\""
+    }
+  }
+}

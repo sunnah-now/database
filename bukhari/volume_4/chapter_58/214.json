@@ -1,0 +1,34 @@
+{
+  "id": 214,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 58,
+      "language": {
+        "en": {
+          "text": "The pouring of water over the urine in the mosque"
+        },
+        "ar": {
+          "text": "باب صَبِّ الْمَاءِ عَلَى الْبَوْلِ فِي الْمَسْجِدِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ عَامِرٍ، قَالَ سَمِعْتُ أَنَسًا، ح قَالَ وَحَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي عَمْرُو بْنُ عَامِرٍ، عَنْ أَنَسٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَتَوَضَّأُ عِنْدَ كُلِّ صَلاَةٍ‏.‏ قُلْتُ كَيْفَ كُنْتُمْ تَصْنَعُونَ قَالَ يُجْزِئُ أَحَدَنَا الْوُضُوءُ مَا لَمْ يُحْدِثْ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Pejgamberi (s.a.v.s.) merrte abdest për çdo namaz. E pyeta: \"Si vepronit ju?\" Ai u përgjigj: \"Secilit prej nesh i mjaftonte abdesti përderisa nuk e prishte atë.\""
+    },
+    "en": {
+      "narrator": "Narrated `Amr bin `Amir:",
+      "text": "Anas said, \"The Prophet (ﷺ) used to perform ablution for every prayer.\" I asked Anas, \"What did you used to do?' Anas replied, \"We used to pray with the same ablution until we break it with Hadath.\""
+    }
+  }
+}

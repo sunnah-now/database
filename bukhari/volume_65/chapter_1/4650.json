@@ -1,0 +1,34 @@
+{
+  "id": 4650,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا طَلْقُ بْنُ غَنَّامٍ، حَدَّثَنَا زَائِدَةُ، عَنِ الشَّيْبَانِيِّ، قَالَ سَأَلْتُ زِرًّا عَنْ قَوْلِهِ تَعَالَى ‏{‏فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَى * فَأَوْحَى إِلَى عَبْدِهِ مَا أَوْحَى‏}‏ قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ أَنَّ مُحَمَّدًا صلى الله عليه وسلم رَأَى جِبْرِيلَ لَهُ سِتُّمِائَةِ جَنَاحٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Mes’udi: Lidhur me fjalën e Allahut të Lartësuar: “...e ishte sa dy harqe a më afër. Dhe i shpalli robit të Tij atë që i shpalli”, Muhamedi (s.a.v.s.) e ka parë Xhibrilin me gjashtëqind krahë."
+    },
+    "en": {
+      "narrator": "Narrated Ash-Shaibani:",
+      "text": "I asked Zirr about the Statement of Allah: 'And was at a distance of but two bow-lengths or (even) nearer. So did Allah convey the Inspiration to His slave (Gabriel) and then he (Gabriel) conveyed that to Muhammad.' (53.10) He said, \"Abdullah (bin Mas`ud) informed us that Muhammad had seen Gabriel with six hundred wings.\""
+    }
+  }
+}

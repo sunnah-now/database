@@ -1,0 +1,34 @@
+{
+  "id": 623,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "One should not stand for As-Salat (the prayer) hurriedly but with calmness and solemnity."
+        },
+        "ar": {
+          "text": "باب لاَ يَسْعَى إِلَى الصَّلاَةِ مُسْتَعْجِلاً، وَلْيَقُمْ بِالسَّكِينَةِ وَالْوَقَارِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا أُقِيمَتِ الصَّلاَةُ فَلاَ تَقُومُوا حَتَّى تَرَوْنِي وَعَلَيْكُمْ بِالسَّكِينَةِ ‏\"‏‏.‏ تَابَعَهُ عَلِيُّ بْنُ الْمُبَارَكِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Katade se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Kur të thirret ikameti, mos u ngritni për namaz derisa të më shihni mua dhe veproni me qetësi.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin Abi Qatada:",
+      "text": "My father said, \"Allah's Messenger (ﷺ) said, 'If the Iqama is pronounced, then do not stand for the prayer till you see me (in front of you) and do it calmly.' \""
+    }
+  }
+}

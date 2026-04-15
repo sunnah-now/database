@@ -1,0 +1,34 @@
+{
+  "id": 4345,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيٌّ ـ هُوَ ابْنُ أَبِي هَاشِمٍ ـ سَمِعَ هُشَيْمًا، أَخْبَرَنَا الْعَوَّامُ بْنُ حَوْشَبٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى ـ رضى الله عنهما ـ أَنَّ رَجُلاً، أَقَامَ سِلْعَةً فِي السُّوقِ فَحَلَفَ فِيهَا لَقَدْ أَعْطَى بِهَا مَا لَمْ يُعْطَهُ‏.‏ لِيُوقِعَ فِيهَا رَجُلاً مِنَ الْمُسْلِمِينَ، فَنَزَلَتْ ‏{‏إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلاً‏}‏ إِلَى آخِرِ الآيَةِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Ebi Aufa: Një burrë ekspozoi një mall në treg dhe u betua se për të i ishte ofruar një çmim që në fakt nuk i ishte ofruar, me qëllim që të mashtronte një musliman. Atëherë u shpall ajeti: \"Vërtet, ata që e këmbejnë besën e dhënë Allahut dhe betimet e tyre me një vlerë të pakët...\" deri në fund të ajetit."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin Abu `Aufa:",
+      "text": "A man displayed some merchandise in the market and took an oath that he had been offered a certain price for it while in fact he had not, in order to cheat a man from the Muslims. So then was revealed:-- \"Verily! Those who purchase a small gain at the cost of Allah's Covenant and their oaths...\"(3.77)"
+    }
+  }
+}

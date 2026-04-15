@@ -1,0 +1,34 @@
+{
+  "id": 4082,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The expedition of Mu`tah to the land of Syria"
+        },
+        "ar": {
+          "text": "باب غَزْوَةُ مُوتَةَ مِنْ أَرْضِ الشَّأْمِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي مُحَمَّدُ بْنُ أَبِي بَكْرٍ، حَدَّثَنَا عُمَرُ بْنُ عَلِيٍّ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، عَنْ عَامِرٍ، قَالَ كَانَ ابْنُ عُمَرَ إِذَا حَيَّا ابْنَ جَعْفَرٍ قَالَ السَّلاَمُ عَلَيْكَ يَا ابْنَ ذِي الْجَنَاحَيْنِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Amiri: Sa herë që Ibn Umeri e përshëndeste djalin e Xhaferit, ai i thoshte: \"Es-selamu alejke (Paqja qoftë mbi ty), o biri i poseduesit të dy krahëve!\""
+    },
+    "en": {
+      "narrator": "Narrated 'Amir:",
+      "text": "Whenever Ibn `Umar greeted the son of Ja`far, he used to say (to him), \"Assalam 'Alaika (i.e. peace be on you) O the son of two-winged person.\""
+    }
+  }
+}

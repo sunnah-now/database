@@ -1,0 +1,34 @@
+{
+  "id": 5912,
+  "metadata": {
+    "volume": {
+      "id": 78
+    },
+    "chapter": {
+      "id": 90,
+      "language": {
+        "en": {
+          "text": "What kinds of poetry, Rajaz and Huda is allowed"
+        },
+        "ar": {
+          "text": "باب مَا يَجُوزُ مِنَ الشِّعْرِ وَالرَّجَزِ وَالْحُدَاءِ وَمَا يُكْرَهُ مِنْهُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو بَكْرِ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ مَرْوَانَ بْنَ الْحَكَمِ، أَخْبَرَهُ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ الأَسْوَدِ بْنِ عَبْدِ يَغُوثَ أَخْبَرَهُ أَنَّ أُبَىَّ بْنَ كَعْبٍ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ مِنَ الشِّعْرِ حِكْمَةً ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ubejj bin Ka'bi se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Vërtet, në poezi ka urtësi.\""
+    },
+    "en": {
+      "narrator": "Narrated Ubai bin Ka`b:",
+      "text": "Allah's Messenger (ﷺ) said, \"Some poetry contains wisdom.\""
+    }
+  }
+}

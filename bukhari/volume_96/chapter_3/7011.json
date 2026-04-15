@@ -1,0 +1,34 @@
+{
+  "id": 7011,
+  "metadata": {
+    "volume": {
+      "id": 96
+    },
+    "chapter": {
+      "id": 3,
+      "language": {
+        "en": {
+          "text": "Asking too many questions and troubling with what does not concern one"
+        },
+        "ar": {
+          "text": "باب مَا يُكْرَهُ مِنْ كَثْرَةِ السُّؤَالِ وَتَكَلُّفِ مَا لاَ يَعْنِيهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ دَعُونِي مَا تَرَكْتُكُمْ، إِنَّمَا هَلَكَ مَنْ كَانَ قَبْلَكُمْ بِسُؤَالِهِمْ وَاخْتِلاَفِهِمْ عَلَى أَنْبِيَائِهِمْ، فَإِذَا نَهَيْتُكُمْ عَنْ شَىْءٍ فَاجْتَنِبُوهُ، وَإِذَا أَمَرْتُكُمْ بِأَمْرٍ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre se Pejgamberi (s.a.v.s.) ka thënë: \"Më lini ashtu siç ju kam lënë unë juve, sepse ata që ishin para jush u shkatërruan për shkak të pyetjeve të tyre të shumta dhe mospajtimeve me profetët e tyre. Prandaj, nëse ju ndaloj nga diçka, largohuni prej saj, e nëse ju urdhëroj për diçka, veproni sipas tij aq sa keni mundësi.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"Leave me as I leave you, for the people who were before you were ruined because of their questions and their differences over their prophets. So, if I forbid you to do something, then keep away from it. And if I order you to do something, then do of it as much as you can.\""
+    }
+  }
+}

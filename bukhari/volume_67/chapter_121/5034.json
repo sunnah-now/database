@@ -1,0 +1,34 @@
+{
+  "id": 5034,
+  "metadata": {
+    "volume": {
+      "id": 67
+    },
+    "chapter": {
+      "id": 121,
+      "language": {
+        "en": {
+          "text": "If a man is away for a long time, he should not enter his house at night."
+        },
+        "ar": {
+          "text": "باب لاَ يَطْرُقْ أَهْلَهُ لَيْلاً إِذَا أَطَالَ الْغَيْبَةَ مَخَافَةَ، أَنْ يُخَوِّنَهُمْ أَوْ يَلْتَمِسَ عَثَرَاتِهِمْ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا مُحَارِبُ بْنُ دِثَارٍ، قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَكْرَهُ أَنْ يَأْتِيَ الرَّجُلُ أَهْلَهُ طُرُوقًا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xhabir bin Abdullahu: Pejgamberi (s.a.v.s.) nuk pëlqente që njeriu të kthehej te familja e tij natën (pas kthimit nga udhëtimi)."
+    },
+    "en": {
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "The Prophet (ﷺ) disliked that one should go to one's family at night (on returning from a journey)."
+    }
+  }
+}

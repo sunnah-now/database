@@ -1,0 +1,34 @@
+{
+  "id": 5509,
+  "metadata": {
+    "volume": {
+      "id": 76
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "What has been mentioned about the plague"
+        },
+        "ar": {
+          "text": "باب مَا يُذْكَرُ فِي الطَّاعُونِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نُعَيْمٍ الْمُجْمِرِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَدْخُلُ الْمَدِينَةَ الْمَسِيحُ وَلاَ الطَّاعُونُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Në Medinë nuk do të hyjë as Dexhalli e as murtaja.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"Neither Messiah (Ad-Dajjal) nor plague will enter Medina.\""
+    }
+  }
+}

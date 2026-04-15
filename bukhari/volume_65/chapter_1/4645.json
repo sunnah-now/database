@@ -1,0 +1,34 @@
+{
+  "id": 4645,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، حَدَّثَنَا وَرْقَاءُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، قَالَ ابْنُ عَبَّاسٍ أَمَرَهُ أَنْ يُسَبِّحَ، فِي أَدْبَارِ الصَّلَوَاتِ كُلِّهَا‏.‏ يَعْنِي قَوْلَهُ ‏{‏وَأَدْبَارَ السُّجُودِ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi: Allahu e urdhëroi Pejgamberin e Tij (s.a.v.s.) që ta madhërojë Allahun pas çdo namazi. Kjo i referohet Fjalës së Tij: \"...edhe pas namazeve (sexhdeve).\" (50:40)"
+    },
+    "en": {
+      "narrator": "Narrated Mujahid:",
+      "text": "Ibn `Abbas said, \"Allah ordered His Prophet to celebrate Allah's praises after all prayers.\" He refers to His Statement: 'After the prayers.' (50.40)"
+    }
+  }
+}

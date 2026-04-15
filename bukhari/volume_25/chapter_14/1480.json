@@ -1,0 +1,34 @@
+{
+  "id": 1480,
+  "metadata": {
+    "volume": {
+      "id": 25
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": ""
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَنَاخَ بِالْبَطْحَاءِ بِذِي الْحُلَيْفَةِ فَصَلَّى بِهَا‏.‏ وَكَانَ عَبْدُ اللَّهِ بْنُ عُمَرَ ـ رضى الله عنهما ـ يَفْعَلُ ذَلِكَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Omeri: I Dërguari i Allahut (s.a.v.s.) e uli devenë e tij në El-Batha, në Dhul-Hulejfe, dhe fali namazin aty. Edhe Abdullah bin Omeri vepronte kështu."
+    },
+    "en": {
+      "narrator": "Narrated Nafi`:",
+      "text": "`Abdullah bin `Umar' said, \"Allah's Messenger (ﷺ) made his camel sit (i.e. he dismounted) at Al-Batha' in Dhul-Hulaifa and offered the prayer.\" `Abdullah bin `Umar used to do the same."
+    }
+  }
+}

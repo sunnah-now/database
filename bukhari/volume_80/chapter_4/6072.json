@@ -1,0 +1,34 @@
+{
+  "id": 6072,
+  "metadata": {
+    "volume": {
+      "id": 80
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "At-Tauba"
+        },
+        "ar": {
+          "text": "باب التَّوْبَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا حَبَّانُ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَحَدَّثَنَا هُدْبَةُ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اللَّهُ أَفْرَحُ بِتَوْبَةِ عَبْدِهِ مِنْ أَحَدِكُمْ سَقَطَ عَلَى بَعِيرِهِ، وَقَدْ أَضَلَّهُ فِي أَرْضِ فَلاَةٍ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Allahu gëzohet më shumë për pendimin e robit të Tij sesa ndonjëri prej jush kur gjen devenë e vet, të cilën e kishte humbur në një shkretëtirë.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Allah's Messenger (ﷺ) said, \"Allah is more pleased with the repentance of His slave than anyone of you is pleased with finding his camel which he had lost in the desert. \""
+    }
+  }
+}

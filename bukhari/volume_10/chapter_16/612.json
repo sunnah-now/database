@@ -1,0 +1,34 @@
+{
+  "id": 612,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "Between every two calls (Adhan and Iqama) there is a Salat (prayer) (that is optional) for the one who wants to offer it."
+        },
+        "ar": {
+          "text": "باب بَيْنَ كُلِّ أَذَانَيْنِ صَلاَةٌ لِمَنْ شَاءَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا كَهْمَسُ بْنُ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ بَيْنَ كُلِّ أَذَانَيْنِ صَلاَةٌ بَيْنَ كُلِّ أَذَانَيْنِ صَلاَةٌ ـ ثُمَّ قَالَ فِي الثَّالِثَةِ ـ لِمَنْ شَاءَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Mugaffeli: Pejgamberi (s.a.v.s.) ka thënë: \"Midis çdo dy ezaneve (ezanit dhe ikametit) ka namaz, midis çdo dy ezaneve ka namaz.\" Pastaj, duke e thënë për herë të tretë, shtoi: \"Për atë që dëshiron.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin Mughaffal:",
+      "text": "The prophet said, \"There is a prayer between the two Adhans (Adhan and Iqama), there is a prayer between the two Adhans.\" And then while saying it the third time he added, \"For the one who wants to (pray)."
+    }
+  }
+}

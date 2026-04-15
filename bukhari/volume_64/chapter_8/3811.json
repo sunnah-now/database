@@ -1,0 +1,34 @@
+{
+  "id": 3811,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The killing of Abu Jahl"
+        },
+        "ar": {
+          "text": "باب قَتْلِ أَبِي جَهْلٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا فَرْوَةُ، عَنْ عَلِيٍّ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، قَالَ كَانَ سَيْفُ الزُّبَيْرِ مُحَلًّى بِفِضَّةٍ‏.‏ قَالَ هِشَامٌ وَكَانَ سَيْفُ عُرْوَةَ مُحَلًّى بِفِضَّةٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Urve: \"Shpata e Ez-Zubejrit ishte e zbukuruar me argjend.\" Hishami shtoi: \"Edhe shpata e Urves ishte e zbukuruar me argjend.\""
+    },
+    "en": {
+      "narrator": "Narrated Hisham:",
+      "text": "That his father said, \"The sword of Az-Zubair was decorated with silver.\" Hisham added, \"The sword of `Urwa was (also) decorated with silver. \""
+    }
+  }
+}

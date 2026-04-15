@@ -1,0 +1,34 @@
+{
+  "id": 1520,
+  "metadata": {
+    "volume": {
+      "id": 25
+    },
+    "chapter": {
+      "id": 39,
+      "language": {
+        "en": {
+          "text": "To enter Makkah by day or by night"
+        },
+        "ar": {
+          "text": "باب دُخُولِ مَكَّةَ نَهَارًا أَوْ لَيْلاً"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ بَاتَ النَّبِيُّ صلى الله عليه وسلم بِذِي طُوًى حَتَّى أَصْبَحَ ثُمَّ دَخَلَ مَكَّةَ‏.‏ وَكَانَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ يَفْعَلُهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: Pejgamberi (s.a.v.s.) e kaloi natën në Dhi-Tuva derisa u bë mëngjes e pastaj hyri në Mekë. Edhe Ibn Omeri vepronte në të njëjtën mënyrë."
+    },
+    "en": {
+      "narrator": "Narrated Nafi`:",
+      "text": "' Ibn `Umar said, \"The Prophet (ﷺ) passed the night at Dhi-Tuwa till it was dawn and then he entered Mecca.\" Ibn `Umar used to do the same."
+    }
+  }
+}

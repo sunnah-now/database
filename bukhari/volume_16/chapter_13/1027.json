@@ -1,0 +1,34 @@
+{
+  "id": 1027,
+  "metadata": {
+    "volume": {
+      "id": 16
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The solar eclipse does not occur because of someone's death or life"
+        },
+        "ar": {
+          "text": "باب لاَ تَنْكَسِفُ الشَّمْسُ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي قَيْسٌ، عَنْ أَبِي مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الشَّمْسُ وَالْقَمَرُ لاَ يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، وَلَكِنَّهُمَا آيَتَانِ مِنْ آيَاتِ اللَّهِ، فَإِذَا رَأَيْتُمُوهُمَا فَصَلُّوا ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Mes'udi: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Dielli dhe hëna nuk zihen për shkak të vdekjes apo jetës së askujt, por ato janë dy shenja prej shenjave të Allahut, prandaj falni namazin kurdo që t'i shihni ato.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Mas`ud:",
+      "text": "Allah's Messenger (ﷺ) said, \"The sun and the moon do not eclipse because of someone's death or life but they are two signs amongst the signs of Allah, so pray whenever you see them.\""
+    }
+  }
+}

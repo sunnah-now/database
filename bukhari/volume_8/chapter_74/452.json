@@ -1,0 +1,34 @@
+{
+  "id": 452,
+  "metadata": {
+    "volume": {
+      "id": 8
+    },
+    "chapter": {
+      "id": 74,
+      "language": {
+        "en": {
+          "text": "Servants for the mosque"
+        },
+        "ar": {
+          "text": "باب الْخَدَمِ لِلْمَسْجِدِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ وَاقِدٍ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَبِي رَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ امْرَأَةً ـ أَوْ رَجُلاً ـ كَانَتْ تَقُمُّ الْمَسْجِدَ ـ وَلاَ أُرَاهُ إِلاَّ امْرَأَةً ـ فَذَكَرَ حَدِيثَ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ صَلَّى عَلَى قَبْرِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: Një burrë ose një grua e pastronte xhaminë (transmetuesi thotë: \"Më së shumti besoj se ishte grua\"). Pastaj ai tregoi hadithin se Pejgamberi (s.a.v.s.) ia fali namazin mbi varrin e saj."
+    },
+    "en": {
+      "narrator": "Narrated Abu Rafi:",
+      "text": "Abu Huraira said, \"A man or a woman used to clean the mosque.\" (A sub-narrator said, 'Most probably a woman..') Then he narrated the Hadith of the Prophet"
+    }
+  }
+}

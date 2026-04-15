@@ -1,0 +1,34 @@
+{
+  "id": 5275,
+  "metadata": {
+    "volume": {
+      "id": 72
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "What have been said about hunting"
+        },
+        "ar": {
+          "text": "باب مَا جَاءَ فِي التَّصَيُّدِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنِي ابْنُ فُضَيْلٍ، عَنْ بَيَانٍ، عَنْ عَامِرٍ، عَنْ عَدِيِّ بْنِ حَاتِمٍ ـ رضى الله عنه ـ قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ إِنَّا قَوْمٌ نَتَصَيَّدُ بِهَذِهِ الْكِلاَبِ‏.‏ فَقَالَ ‏ \"‏ إِذَا أَرْسَلْتَ كِلاَبَكَ الْمُعَلَّمَةَ وَذَكَرْتَ اسْمَ اللَّهِ، فَكُلْ مِمَّا أَمْسَكْنَ عَلَيْكَ، إِلاَّ أَنْ يَأْكُلَ الْكَلْبُ، فَلاَ تَأْكُلْ فَإِنِّي أَخَافُ أَنْ يَكُونَ إِنَّمَا أَمْسَكَ عَلَى نَفْسِهِ، وَإِنْ خَالَطَهَا كَلْبٌ مِنْ غَيْرِهَا، فَلاَ تَأْكُلْ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Adij ibn Hatimi: E pyeta të Dërguarin e Allahut (s.a.v.s.): \"Ne gjuajmë me këta qen.\" Ai tha: \"Nëse i lëshon qentë e tu të stërvitur dhe përmend emrin e Allahut, ha nga ajo që ata kapin për ty. Por, nëse qeni ha nga gjahu, atëherë mos ha prej tij, sepse frikësohem se ai e ka kapur për vete. Dhe nëse një qen tjetër u bashkohet qenve tuaj, mos ha nga ai gjah.\""
+    },
+    "en": {
+      "narrator": "Narrated Adi Bin Hatim:",
+      "text": "I asked Allah's Messenger (ﷺ), \"We hunt with these hounds.\" He said, \"If you send your trained hounds after a game and mention Allah's Name on sending, you can eat of what they catch for you. But if the hound eats of the game, then you must not eat of it, for I am afraid that the hound caught it for itself, and if another hound joins your hounds (during the hunt), you should not eat of the game.\""
+    }
+  }
+}

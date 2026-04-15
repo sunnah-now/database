@@ -1,0 +1,34 @@
+{
+  "id": 531,
+  "metadata": {
+    "volume": {
+      "id": 9
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "To deny the Zuhr (prayer) up to the 'Asr (prayer) time"
+        },
+        "ar": {
+          "text": "باب تَأْخِيرِ الظُّهْرِ إِلَى الْعَصْرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو النُّعْمَانِ، قَالَ حَدَّثَنَا حَمَّادٌ ـ هُوَ ابْنُ زَيْدٍ ـ عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى بِالْمَدِينَةِ سَبْعًا وَثَمَانِيًا الظُّهْرَ وَالْعَصْرَ، وَالْمَغْرِبَ وَالْعِشَاءَ‏.‏ فَقَالَ أَيُّوبُ لَعَلَّهُ فِي لَيْلَةٍ مَطِيرَةٍ‏.‏ قَالَ عَسَى‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Pejgamberi (s.a.v.s.) fali në Medine tetë rekate për namazin e drekës dhe të iqindisë, si dhe shtatë për namazin e akshamit dhe të jacisë. Ejjubi tha: \"Ndoshta kjo ka qenë në një natë me shi.\" Ai tha: \"Mbase.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "\"The Prophet (ﷺ) prayed eight rak`at for the Zuhr and `Asr, and seven for the Maghrib and `Isha prayers in Medina.\" Aiyub said, \"Perhaps those were rainy nights.\" Anas said, \"May be.\""
+    }
+  }
+}

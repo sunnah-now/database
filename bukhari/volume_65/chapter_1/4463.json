@@ -1,0 +1,34 @@
+{
+  "id": 4463,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ قُلْتُ لأَبِي أُسَامَةَ أَحَدَّثَكُمْ زَائِدَةُ عَنْ سُلَيْمَانَ عَنْ شَقِيقٍ عَنْ أَبِي مَسْعُودٍ الأَنْصَارِيِّ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْمُرُ بِالصَّدَقَةِ، فَيَحْتَالُ أَحَدُنَا حَتَّى يَجِيءَ بِالْمُدِّ، وَإِنَّ لأَحَدِهِمِ الْيَوْمَ مِائَةَ أَلْفٍ‏.‏ كَأَنَّهُ يُعَرِّضُ بِنَفْسِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Mes'ud el-Ensari: I Dërguari i Allahut (s.a.v.s.) na urdhëronte të jepnim sadeka, kështu që ndonjëri prej nesh sforcote veten duke punuar derisa të fitonte një mudd (masë), për ta dhënë si lëmoshë; ndërsa sot, dikush prej nesh mund të ketë njëqind mijë. Shekiku tha: \"Sikur ai (Ebu Mes'udi) e kishte fjalën për veten e tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Shaqiq:",
+      "text": "Abu Mas`ud Al-Ansari said, \"Allah's Messenger (ﷺ), used to order us to give alms. So one of us would exert himself to earn one Mud (special measure of wheat or dates, etc.,) to give in charity; while today one of us may have one hundred thousand.\" Shaqiq said: As if Abu Masud referred to himself."
+    }
+  }
+}

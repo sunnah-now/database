@@ -1,0 +1,34 @@
+{
+  "id": 456,
+  "metadata": {
+    "volume": {
+      "id": 8
+    },
+    "chapter": {
+      "id": 78,
+      "language": {
+        "en": {
+          "text": "To take the camel inside the mosque if necessary"
+        },
+        "ar": {
+          "text": "باب إِدْخَالِ الْبَعِيرِ فِي الْمَسْجِدِ لِلْعِلَّةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ، عَنْ عُرْوَةَ، عَنْ زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ شَكَوْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَنِّي أَشْتَكِي‏.‏ قَالَ ‏ \"‏ طُوفِي مِنْ وَرَاءِ النَّاسِ وَأَنْتِ رَاكِبَةٌ ‏\"‏‏.‏ فَطُفْتُ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي إِلَى جَنْبِ الْبَيْتِ، يَقْرَأُ بِالطُّورِ وَكِتَابٍ مَسْطُورٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ummu Seleme: Iu ankova të Dërguarit të Allahut (s.a.v.s.) se isha e sëmurë. Ai më tha: \"Bëje Tavafin prapa njerëzve duke qenë e hipur.\" Kështu veprova, ndërsa i Dërguari i Allahut (s.a.v.s.) po falte namazin pranë Qabes dhe po lexonte suren që fillon me \"Vet-Tur ve kitabin mestur\"."
+    },
+    "en": {
+      "narrator": "Narrated Um Salama:",
+      "text": "I complained to Allah's Messenger (ﷺ) that I was sick. He told me to perform the Tawaf behind the people while riding. So I did so and Allah's Messenger (ﷺ) was praying beside the Ka`ba and reciting the Sura starting with \"Wat-tur wa kitabin mastur.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4418,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي مُحَمَّدُ بْنُ أَبِي يَعْقُوبَ أَبُو عَبْدِ اللَّهِ الْكَرْمَانِيُّ، حَدَّثَنَا حَسَّانُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، رضى الله عنها قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ رَأَيْتُ جَهَنَّمَ يَحْطِمُ بَعْضُهَا بَعْضًا، وَرَأَيْتُ عَمْرًا يَجُرُّ قُصْبَهُ، وَهْوَ أَوَّلُ مَنْ سَيَّبَ السَّوَائِبَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Aishja: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Pashë Xhehenemin, pjesët e të cilit shkatërronin njëra-tjetrën, dhe e pashë Amrin duke i zvarritur zorrët e tij (në të). Ai ishte i pari që nisi traditën e lënies së kafshëve të lira (për idhujt).\""
+    },
+    "en": {
+      "narrator": "Narrated Aisha:",
+      "text": "Allah's Messenger (ﷺ) said, \"I saw Hell and its different portions were consuming each other and saw `Amr dragging his intestines (in it), and he was the first person to establish the tradition of letting animals loose (for the idols)."
+    }
+  }
+}

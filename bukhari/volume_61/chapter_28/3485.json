@@ -1,0 +1,34 @@
+{
+  "id": 3485,
+  "metadata": {
+    "volume": {
+      "id": 61
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، حَدَّثَنَا قَيْسٌ، سَمِعْتُ الْمُغِيرَةَ بْنَ شُعْبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَزَالُ نَاسٌ مِنْ أُمَّتِي ظَاهِرِينَ حَتَّى يَأْتِيَهُمْ أَمْرُ اللَّهِ وَهُمْ ظَاهِرُونَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Mugire bin Shube se Pejgamberi (s.a.v.s.) ka thënë: \"Një grup nga umeti im do të vazhdojë të jetë triumfues derisa të vijë urdhri i Allahut, dhe ata do të jenë ende triumfues.\""
+    },
+    "en": {
+      "narrator": "Narrated Al-Mughira bin Shu`ba:",
+      "text": "The Prophet (ﷺ) said, \"Some of my followers will remain victorious (and on the right path) till the Last Day comes, and they will still be victorious.\""
+    }
+  }
+}

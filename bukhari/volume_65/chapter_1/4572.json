@@ -1,0 +1,34 @@
+{
+  "id": 4572,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، قَالَ حَدَّثَنِي عُمَرُ بْنُ مُحَمَّدِ بْنِ زَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ أَبَاهُ، حَدَّثَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ‏\"‏ مَفَاتِيحُ الْغَيْبِ خَمْسٌ ‏\"‏ ثُمَّ قَرَأَ ‏{‏إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ‏}‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah ibn Omeri: Profeti (s.a.v.s.) ka thënë: \"Çelësat e të fshehtës janë pesë.\" Pastaj ai lexoi: \"Vërtet, vetëm tek Allahu është dija e Çastit.\" (31:34)"
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "The Prophet (ﷺ) said, \"The keys of the Unseen are five.\" And then he recited: 'Verily, the knowledge of the Hour is with Allah (alone).' (31.34)"
+    }
+  }
+}

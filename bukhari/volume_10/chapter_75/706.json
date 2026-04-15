@@ -1,0 +1,34 @@
+{
+  "id": 706,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 75,
+      "language": {
+        "en": {
+          "text": "The sin of a person who does not complete the rows (who is out of alignment) for the prayer"
+        },
+        "ar": {
+          "text": "باب إِثْمِ مَنْ لَمْ يُتِمَّ الصُّفُوفَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُعَاذُ بْنُ أَسَدٍ، قَالَ أَخْبَرَنَا الْفَضْلُ بْنُ مُوسَى، قَالَ أَخْبَرَنَا سَعِيدُ بْنُ عُبَيْدٍ الطَّائِيُّ، عَنْ بُشَيْرِ بْنِ يَسَارٍ الأَنْصَارِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ قَدِمَ الْمَدِينَةَ فَقِيلَ لَهُ مَا أَنْكَرْتَ مِنَّا مُنْذُ يَوْمِ عَهِدْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ مَا أَنْكَرْتُ شَيْئًا إِلاَّ أَنَّكُمْ لاَ تُقِيمُونَ الصُّفُوفَ‏.‏ وَقَالَ عُقْبَةُ بْنُ عُبَيْدٍ عَنْ بُشَيْرِ بْنِ يَسَارٍ قَدِمَ عَلَيْنَا أَنَسُ بْنُ مَالِكٍ الْمَدِينَةَ بِهَذَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Kur erdha në Medine, më pyetën nëse kisha vërejtur ndonjë ndryshim që nga koha e të Dërguarit të Allahut (s.a.v.s.). Unë thashë: \"Nuk kam vërejtur asnjë ndryshim, përveçse ju nuk i rreshtoni siç duhet safet në namazet tuaja.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "I arrived at Medina and was asked whether I found any change since the days of Allah's Messenger (ﷺ). I said, \"I have not found any change except that you do not stand in alignment in your prayers.\""
+    }
+  }
+}

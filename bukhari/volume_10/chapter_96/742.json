@@ -1,0 +1,34 @@
+{
+  "id": 742,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 96,
+      "language": {
+        "en": {
+          "text": "The recitation of the Qur'an in a Zuhr prayer"
+        },
+        "ar": {
+          "text": "باب الْقِرَاءَةِ فِي الظُّهْرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنِي عُمَارَةُ، عَنْ أَبِي مَعْمَرٍ، قَالَ سَأَلْنَا خَبَّابًا أَكَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ فِي الظُّهْرِ وَالْعَصْرِ قَالَ نَعَمْ‏.‏ قُلْنَا بِأَىِّ شَىْءٍ كُنْتُمْ تَعْرِفُونَ قَالَ بِاضْطِرَابِ لِحْيَتِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Hababi: E pyetëm nëse Pejgamberi (s.a.v.s.) lexonte në namazin e drekës dhe të ikindisë. Ai u përgjigj: \"Po.\" Ne i thamë: \"Si e dinit këtë?\" Ai u përgjigj: \"Nga lëvizja e mjekrës së tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Ma`mar:",
+      "text": "I asked Khabbab whether the Prophet (ﷺ) used to recite the Qur'an in the Zuhr and the `Asr prayers. He replied in the affirmative. We said, \"How did you come to know that?\" He said, \"From the movement of his beard.\""
+    }
+  }
+}

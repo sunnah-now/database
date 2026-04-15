@@ -1,0 +1,34 @@
+{
+  "id": 1006,
+  "metadata": {
+    "volume": {
+      "id": 15
+    },
+    "chapter": {
+      "id": 25,
+      "language": {
+        "en": {
+          "text": "If the wind blows (what should one do or say?)"
+        },
+        "ar": {
+          "text": "باب إِذَا هَبَّتِ الرِّيحُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ، قَالَ أَخْبَرَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ أَخْبَرَنِي حُمَيْدٌ، أَنَّهُ سَمِعَ أَنَسًا، يَقُولُ كَانَتِ الرِّيحُ الشَّدِيدَةُ إِذَا هَبَّتْ عُرِفَ ذَلِكَ فِي وَجْهِ النَّبِيِّ صلى الله عليه وسلم‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Sa herë që frynte një erë e fortë, shqetësimi vërehej në fytyrën e Pejgamberit (s.a.v.s.)."
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "Whenever a strong wind blew, anxiety appeared on the face of the Prophet (fearing that wind might be a sign of Allah's wrath)."
+    }
+  }
+}

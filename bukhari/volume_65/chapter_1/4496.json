@@ -1,0 +1,34 @@
+{
+  "id": 4496,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لأَصْحَابِ الْحِجْرِ ‏ \"‏ لاَ تَدْخُلُوا عَلَى هَؤُلاَءِ الْقَوْمِ إِلاَّ أَنْ تَكُونُوا بَاكِينَ فَإِنْ لَمْ تَكُونُوا بَاكِينَ فَلاَ تَدْخُلُوا عَلَيْهِمْ أَنْ يُصِيبَكُمْ مِثْلُ مَا أَصَابَهُمْ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah ibn Umeri: I Dërguari i Allahut (s.a.v.s.) tha për banorët e El-Hixhrit: \"Mos hyni në vendbanimet e këtyre njerëzve përveçse duke qenë duke qarë, e nëse nuk qani, atëherë mos hyni te ta, që të mos ju godasë ajo që i goditi ata.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "(While we were going for the Battle of Tabuk and when we reached the places of the dwellers of Al- Hijr), Allah's Messenger (ﷺ) said about the dwellers of Al-Hijr (to us). \"Do not enter (the dwelling places) of these people unless you enter weeping, but if you weep not, then do not enter upon them, lest you be afflicted with what they were afflicted with.\""
+    }
+  }
+}

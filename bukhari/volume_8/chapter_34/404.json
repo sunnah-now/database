@@ -1,0 +1,34 @@
+{
+  "id": 404,
+  "metadata": {
+    "volume": {
+      "id": 8
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "To scrape the nasal secretion off the mosque with gravel"
+        },
+        "ar": {
+          "text": "باب حَكِّ الْمُخَاطِ بِالْحَصَى مِنَ الْمَسْجِدِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ أَخْبَرَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، أَخْبَرَنَا ابْنُ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا هُرَيْرَةَ، وَأَبَا، سَعِيدٍ حَدَّثَاهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى نُخَامَةً فِي جِدَارِ الْمَسْجِدِ، فَتَنَاوَلَ حَصَاةً فَحَكَّهَا فَقَالَ ‏ \"‏ إِذَا تَنَخَّمَ أَحَدُكُمْ فَلاَ يَتَنَخَّمَنَّ قِبَلَ وَجْهِهِ وَلاَ عَنْ يَمِينِهِ، وَلْيَبْصُقْ عَنْ يَسَارِهِ أَوْ تَحْتَ قَدَمِهِ الْيُسْرَى ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmetojnë Ebu Hurejra dhe Ebu Saidi: I Dërguari i Allahut (s.a.v.s.) pa një pështymë në murin e xhamisë, kështu që mori një guralec dhe e pastroi atë, e pastaj tha: \"Nëse ndonjëri prej jush pështyn, të mos pështyjë para vetes e as në të djathtë të tij, por le të pështyjë në të majtë ose nën këmbën e tij të majtë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira and Abu Sa`id:",
+      "text": "Allah's Messenger (ﷺ) saw some expectoration on the wall of the mosque; he took gravel and scraped it off and said, \"If anyone of you wanted to spit he should neither spit in front of him nor on his right but he could spit either on his left or under his left foot.\""
+    }
+  }
+}

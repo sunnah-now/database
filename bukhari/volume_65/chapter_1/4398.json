@@ -1,0 +1,34 @@
+{
+  "id": 4398,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ سِنَانٍ، حَدَّثَنَا فُلَيْحٌ، حَدَّثَنَا هِلاَلٌ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ قَالَ أَنَا خَيْرٌ مِنْ يُونُسَ بْنِ مَتَّى فَقَدْ كَذَبَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: Pejgamberi (s.a.v.s.) ka thënë: \"Kushdo që thotë se unë jam më i mirë se Junusi, i biri i Metës, ka gënjyer.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"Whoever says that I am better than Jonah bin Matta, is a liar.\""
+    }
+  }
+}

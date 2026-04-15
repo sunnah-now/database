@@ -1,0 +1,34 @@
+{
+  "id": 6276,
+  "metadata": {
+    "volume": {
+      "id": 81
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "The stupors of death"
+        },
+        "ar": {
+          "text": "باب سَكَرَاتِ الْمَوْتِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا مَاتَ أَحَدُكُمْ عُرِضَ عَلَيْهِ مَقْعَدُهُ غُدْوَةً وَعَشِيًّا، إِمَّا النَّارُ وَإِمَّا الْجَنَّةُ، فَيُقَالُ هَذَا مَقْعَدُكَ حَتَّى تُبْعَثَ ‏إِلَيْهِ\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Umeri: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Kur vdes ndonjëri prej jush, i paraqitet vendi i tij mëngjes e mbrëmje, qoftë në Zjarr apo në Xhenet, dhe i thuhet: 'Ky është vendi yt derisa të ringjallesh e të dërgohesh në të'.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Allah's Messenger (ﷺ) said, \"When anyone of you dies, his destination is displayed before him in the forenoon and in the afternoon, either in the (Hell) Fire or in Paradise, and it is said to him, \"That is your place till you are resurrected and sent to it.\""
+    }
+  }
+}

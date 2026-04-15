@@ -1,0 +1,34 @@
+{
+  "id": 4039,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "Ghazwa of Khaibar"
+        },
+        "ar": {
+          "text": "باب غَزْوَةُ خَيْبَرَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عُبَيْدُ بْنُ إِسْمَاعِيلَ، عَنْ أَبِي أُسَامَةَ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، وَسَالِمٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى يَوْمَ خَيْبَرَ عَنْ أَكْلِ الثَّوْمِ، وَعَنْ لُحُومِ الْحُمُرِ الأَهْلِيَّةِ‏.‏ نَهَى عَنْ أَكْلِ الثَّوْمِ هُوَ عَنْ نَافِعٍ وَحْدَهُ‏.‏ وَلُحُومُ الْحُمُرِ الأَهْلِيَّةِ عَنْ سَالِمٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Umari: Në ditën e Hajberit, i Dërguari i Allahut (s.a.v.s.) ndaloi ngrënien e hudhrës dhe mishin e gomarëve shtëpiakë."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "On the day of Khaiber, Allah's Messenger (ﷺ) forbade the eating of garlic and the meat of donkeys."
+    }
+  }
+}

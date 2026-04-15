@@ -1,0 +1,34 @@
+{
+  "id": 3797,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The killing of Abu Jahl"
+        },
+        "ar": {
+          "text": "باب قَتْلِ أَبِي جَهْلٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا إِسْمَاعِيلُ، أَخْبَرَنَا قَيْسٌ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه أَنَّهُ أَتَى أَبَا جَهْلٍ وَبِهِ رَمَقٌ يَوْمَ بَدْرٍ، فَقَالَ أَبُو جَهْلٍ هَلْ أَعْمَدُ مِنْ رَجُلٍ قَتَلْتُمُوهُ"
+    },
+    "al": {
+      "text": "Transmeton Abdullahu: Ai shkoi te Ebu Xhehli ditën e Bedrit kur ai ishte në grahmat e fundit të vdekjes. Ebu Xhehli tha: \"Nuk duhet të mburreni që më keni vrarë, e as unë nuk turpërohem që u vrava nga njerëzit e mi.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah That he came across Abu Jahl while he was on the point of death on the day of:",
+      "text": "Badr. Abu Jahl said, \"You should not be proud that you have killed me nor I am ashamed of being killed by my own folk.\""
+    }
+  }
+}

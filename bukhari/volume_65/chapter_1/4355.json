@@ -1,0 +1,34 @@
+{
+  "id": 4355,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو إِسْحَاقَ، قَالَ سَمِعْتُ الْبَرَاءَ بْنَ عَازِبٍ ـ رضى الله عنهما ـ قَالَ جَعَلَ النَّبِيُّ صلى الله عليه وسلم عَلَى الرَّجَّالَةِ يَوْمَ أُحُدٍ عَبْدَ اللَّهِ بْنَ جُبَيْرٍ، وَأَقْبَلُوا مُنْهَزِمِينَ، فَذَاكَ إِذْ يَدْعُوهُمُ الرَّسُولُ فِي أُخْرَاهُمْ، وَلَمْ يَبْقَ مَعَ النَّبِيِّ صلى الله عليه وسلم غَيْرُ اثْنَىْ عَشَرَ رَجُلاً‏.‏"
+    },
+    "al": {
+      "text": "Transmeton El-Bera bin Azib: Pejgamberi (s.a.v.s.) e caktoi Abdullah bin Xhubejrin si komandant të këmbësorisë ditën e Uhudit. Ata u kthyen të mposhtur dhe kjo është ajo kur i Dërguari i thërriste ata nga mbrapa. Atëherë me Pejgamberin (s.a.v.s.) nuk mbetën tjetër përveç dymbëdhjetë burrave."
+    },
+    "en": {
+      "narrator": "Narrated Al-Bara bin Azib:",
+      "text": "The Prophet (ﷺ) appointed `Abdullah bin Jubair as the commander of the infantry during the battle of Uhud. They returned defeated, and that is what is meant by:-- \"And the Apostle was calling them back in the rear. None remained with the Prophet (ﷺ) then, but twelve men.\""
+    }
+  }
+}

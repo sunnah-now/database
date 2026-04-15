@@ -1,0 +1,34 @@
+{
+  "id": 3620,
+  "metadata": {
+    "volume": {
+      "id": 63
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "To love the Ansar is a sign of Faith"
+        },
+        "ar": {
+          "text": "باب حُبُّ الأَنْصَارِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَدِيُّ بْنُ ثَابِتٍ، قَالَ سَمِعْتُ الْبَرَاءَ ـ رضى الله عنه ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم أَوْ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ الأَنْصَارُ لاَ يُحِبُّهُمْ إِلاَّ مُؤْمِنٌ، وَلاَ يُبْغِضُهُمْ إِلاَّ مُنَافِقٌ، فَمَنْ أَحَبَّهُمْ أَحَبَّهُ اللَّهُ، وَمَنْ أَبْغَضَهُمْ أَبْغَضَهُ اللَّهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton El-Berai: Pejgamberi (s.a.v.s.) ka thënë: \"Ansarët nuk i do askush përveç besimtarit dhe nuk i urren askush përveç munafikut. Kushdo që i do ata, do ta dojë Allahu, dhe kushdo që i urren ata, do ta urrejë Allahu.\""
+    },
+    "en": {
+      "narrator": "Narrated Al-Bara:",
+      "text": "I heard the Prophet (ﷺ) saying (or the Prophet (ﷺ) said), \"None loves the Ansar but a believer, and none hates them but a hypocrite. So Allah will love him who loves them, and He will hate him who hates them.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6889,
+  "metadata": {
+    "volume": {
+      "id": 93
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "Can a judge give a judgement in an angry mood?"
+        },
+        "ar": {
+          "text": "باب هَلْ يَقْضِي الْحَاكِمُ أَوْ يُفْتِي وَهْوَ غَضْبَانُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عُمَيْرٍ، سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ أَبِي بَكْرَةَ، قَالَ كَتَبَ أَبُو بَكْرَةَ إِلَى ابْنِهِ وَكَانَ بِسِجِسْتَانَ بِأَنْ لاَ تَقْضِيَ بَيْنَ اثْنَيْنِ وَأَنْتَ غَضْبَانُ، فَإِنِّي سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لاَ يَقْضِيَنَّ حَكَمٌ بَيْنَ اثْنَيْنِ وَهْوَ غَضْبَانُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Bekre: Ai i shkroi djalit të tij, i cili ndodhej në Sijistan: \"Mos gjyko mes dy personave kur je i zemëruar, sepse e kam dëgjuar Pejgamberin (s.a.v.s.) duke thënë: 'Gjykatësi nuk duhet të gjykojë mes dy njerëzve ndërkohë që është i zemëruar'.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdur Rahman bin Abi Bakra:",
+      "text": "Abu Bakra wrote to his son who was in Sijistan: 'Do not judge between two persons when you are angry, for I heard the Prophet (ﷺ) saying, \"A judge should not judge between two persons while he is in an angry mood.\""
+    }
+  }
+}

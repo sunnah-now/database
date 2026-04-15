@@ -1,0 +1,34 @@
+{
+  "id": 4545,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُلَيْمَانُ، عَنْ حُصَيْنٍ، عَنْ أَبِي وَائِلٍ، عَنْ مَسْرُوقٍ، عَنْ أُمِّ رُومَانَ أُمِّ عَائِشَةَ، أَنَّهَا قَالَتْ لَمَّا رُمِيَتْ عَائِشَةُ خَرَّتْ مَغْشِيًّا عَلَيْهَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Umm Rumani, nëna e Aishes: Kur u shpif ndaj Aishes, ajo u rrëzua pa ndjenja."
+    },
+    "en": {
+      "narrator": "Narrated Um Ruman:",
+      "text": "Aisha's mother, When `Aisha was accused, she fell down Unconscious."
+    }
+  }
+}

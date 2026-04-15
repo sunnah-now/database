@@ -1,0 +1,34 @@
+{
+  "id": 4745,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، غُنْدَرٌ حَدَّثَنَا شُعْبَةُ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، قَالَ سَمِعْتُ جُنْدَبًا الْبَجَلِيَّ، قَالَتِ امْرَأَةٌ يَا رَسُولَ اللَّهِ مَا أُرَى صَاحِبَكَ إِلاَّ أَبْطَأَكَ‏.‏ فَنَزَلَتْ ‏{‏مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Xhundub el-Bexheli: Një grua tha: \"O i Dërguari i Allahut (s.a.v.s.)! Shoh se shoku yt të ka vonuar.\" Atëherë u shpall: \"Zoti yt as nuk të ka braktisur, as nuk të ka urryer.\""
+    },
+    "en": {
+      "narrator": "Narrated Jundub Al-Bajali:",
+      "text": "A lady said, \"O Allah's Messenger (ﷺ)! I see that your friend has delayed. (in conveying Qur'an) to you.\" So there was revealed: 'Your Lord (O Muhammad) has neither forsaken you, not hated you.' (93.1-3)"
+    }
+  }
+}

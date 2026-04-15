@@ -1,0 +1,34 @@
+{
+  "id": 743,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 97,
+      "language": {
+        "en": {
+          "text": "The recitation of the Qur'an in the 'Asr prayer"
+        },
+        "ar": {
+          "text": "باب الْقِرَاءَةِ فِي الْعَصْرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ عُمَارَةَ بْنِ عُمَيْرٍ، عَنْ أَبِي مَعْمَرٍ، قَالَ قُلْتُ لِخَبَّابِ بْنِ الأَرَتِّ أَكَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ فِي الظُّهْرِ وَالْعَصْرِ قَالَ نَعَمْ‏.‏ قَالَ قُلْتُ بِأَىِّ شَىْءٍ كُنْتُمْ تَعْلَمُونَ قِرَاءَتَهُ قَالَ بِاضْطِرَابِ لِحْيَتِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Habab bin el-Eretti: Ebu Ma’meri e pyeti: \"A lexonte Pejgamberi (s.a.v.s.) në namazin e drejtës dhe të iqindisë?\" Ai u përgjigj: \"Po.\" Ai tha: \"Nga e dinit këtë?\" Ai u përgjigj: \"Nga lëvizja e mjekrës së tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Ma`mar:",
+      "text": "I asked Khabbab bin Al-Art whether the Prophet (ﷺ) used to recite the Qur'an in the Zuhr and the `Asr prayers. He replied in the affirmative. I said, \"How did you come to know that?\" He replied, \"From the movement of his beard.\""
+    }
+  }
+}

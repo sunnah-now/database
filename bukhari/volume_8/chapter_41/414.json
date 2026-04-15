@@ -1,0 +1,34 @@
+{
+  "id": 414,
+  "metadata": {
+    "volume": {
+      "id": 8
+    },
+    "chapter": {
+      "id": 41,
+      "language": {
+        "en": {
+          "text": "It is permissible to say, \"Masjid (mosque) of Bani so-and-so?"
+        },
+        "ar": {
+          "text": "باب هَلْ يُقَالُ مَسْجِدُ بَنِي فُلاَنٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سَابَقَ بَيْنَ الْخَيْلِ الَّتِي أُضْمِرَتْ مِنَ الْحَفْيَاءِ، وَأَمَدُهَا ثَنِيَّةُ الْوَدَاعِ، وَسَابَقَ بَيْنَ الْخَيْلِ الَّتِي لَمْ تُضْمَرْ مِنَ الثَّنِيَّةِ إِلَى مَسْجِدِ بَنِي زُرَيْقٍ، وَأَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ كَانَ فِيمَنْ سَابَقَ بِهَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah ibn Umeri: I Dërguari i Allahut (s.a.v.s.) organizoi një garë me kuaj; kuajt e stërvitur vrapuan nga vendi i quajtur El-Hafja deri në Thaniet el-Ueda, ndërsa kuajt që nuk ishin të stërvitur vrapuan nga Thaniet deri te mesxhidi i fisit Beni Zurejk. Abdullah ibn Umeri ishte njëri nga ata që morën pjesë në garë."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Allah's Messenger (ﷺ) ordered for a horse race; the trained horses were to run from a place called Al-Hafya' to Thaniyat Al-Wada` and the horses which were not trained were to run from Al-Thaniya to the Masjid (mosque of) Bani Zuraiq. The sub narrator added: Ibn `Umar was one of those who took part in the race."
+    }
+  }
+}

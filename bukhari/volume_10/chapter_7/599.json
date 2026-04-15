@@ -1,0 +1,34 @@
+{
+  "id": 599,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "What to say on hearing the Adhan"
+        },
+        "ar": {
+          "text": "باب مَا يَقُولُ إِذَا سَمِعَ الْمُنَادِي"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ بْنُ رَاهَوَيْهِ، قَالَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، نَحْوَهُ‏.‏ قَالَ يَحْيَى وَحَدَّثَنِي بَعْضُ، إِخْوَانِنَا أَنَّهُ قَالَ لَمَّا قَالَ حَىَّ عَلَى الصَّلاَةِ‏.‏ قَالَ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ‏.‏ وَقَالَ هَكَذَا سَمِعْنَا نَبِيَّكُمْ صلى الله عليه وسلم يَقُولُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Muaviu: Kur muezini tha \"Hajje ales-salat\" (ejani në namaz), ai tha: \"La havle ve la kuvvete il-la bil-lah\" (Nuk ka fuqi e as forcë përveçse me ndihmën e Allahut) dhe shtoi: \"Kështu e kemi dëgjuar Pejgamberin tuaj (s.a.v.s.) duke thënë.\""
+    },
+    "en": {
+      "narrator": "Narrated Yahya as above (586) and added:",
+      "text": "\"Some of my companions told me that Hisham had said, \"When the Mu'adh-dhin said, \"Haiyi `alassala (come for the prayer).\" Muawiya said, \"La hawla wala quwata illa billah (There is neither might nor any power except with Allah)\" and added, \"We heard your Prophet saying the same.\""
+    }
+  }
+}

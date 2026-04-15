@@ -1,0 +1,34 @@
+{
+  "id": 6672,
+  "metadata": {
+    "volume": {
+      "id": 88
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي شَقِيقٌ، قَالَ قَالَ عَبْدُ اللَّهِ كَأَنِّي أَنْظُرُ إِلَى النَّبِيِّ صلى الله عليه وسلم يَحْكِي نَبِيًّا مِنَ الأَنْبِيَاءِ ضَرَبَهُ قَوْمُهُ فَأَدْمَوْهُ، فَهْوَ يَمْسَحُ الدَّمَ عَنْ وَجْهِهِ وَيَقُولُ رَبِّ اغْفِرْ لِقَوْمِي، فَإِنَّهُمْ لاَ يَعْلَمُونَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullahu: Sikur po e shoh Pejgamberin (s.a.v.s.) ndërsa po tregonte për njërin prej pejgamberëve, të cilin populli i tij e kishte rrahur dhe përgjakur, ndërsa ai po e fshinte gjakun nga fytyra e tij dhe thoshte: \"O Zoti im! Fale popullin tim, sepse ata nuk dinë.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah:",
+      "text": "As if I am looking at the Prophet (ﷺ) while he was speaking about one of the prophets whose people have beaten and wounded him, and he was wiping the blood off his face and saying, \"O Lord! Forgive my, people as they do not know.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 815,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 149,
+      "language": {
+        "en": {
+          "text": "Invocation before the Taslim"
+        },
+        "ar": {
+          "text": "باب الدُّعَاءِ قَبْلَ السَّلاَمِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنْ أَبِي بَكْرٍ الصِّدِّيقِ ـ رضى الله عنه ـ‏.‏ أَنَّهُ قَالَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم عَلِّمْنِي دُعَاءً أَدْعُو بِهِ فِي صَلاَتِي‏.‏ قَالَ ‏ \"‏ قُلِ اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ، فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ، وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Bekër es-Siddiku: Ai i kërkoi të Dërguarit të Allahut (s.a.v.s.) që t'i mësonte një lutje me të cilën të lutej në namazin e tij. Ai (s.a.v.s.) i tha: \"Thuaj: O Allah, unë i kam bërë vetes sime shumë padrejtësi dhe askush nuk i fal gjynahet përveç Teje. Prandaj, më fal me faljen Tënde dhe më mëshiro. Vërtet, Ti je Falësi, Mëshiruesi.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Bakr As-Siddiq:",
+      "text": "I asked Allah's Messenger (ﷺ) to teach me an invocation so that I may invoke Allah with it in my prayer. He told me to say, \"Allahumma inni zalumtu nafsi zulman kathiran, Wala yaghfiru dh-dhunuba illa anta, fa ghfir li maghfiratan min `indika, wa r-hamni, innaka anta l-ghafuru r-rahim (O Allah! I have done great injustice to myself and none except You forgives sins, so bestow on me a forgiveness from You, and Have Mercy on me, You are the Forgiver, the Merciful)."
+    }
+  }
+}

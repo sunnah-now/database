@@ -1,0 +1,34 @@
+{
+  "id": 870,
+  "metadata": {
+    "volume": {
+      "id": 11
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "What should be recited in the Fajr prayer on Friday"
+        },
+        "ar": {
+          "text": "باب مَا يُقْرَأُ فِي صَلاَةِ الْفَجْرِ يَوْمَ الْجُمُعَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ ـ هُوَ ابْنُ هُرْمُزَ ـ عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ فِي الْجُمُعَةِ فِي صَلاَةِ الْفَجْرِ ‏{‏الم * تَنْزِيلُ‏}‏ السَّجْدَةَ وَ‏{‏هَلْ أَتَى عَلَى الإِنْسَانِ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: Pejgamberi (s.a.v.s.) në namazin e sabahut të ditës së xhuma lexonte: \"Elif, Lam, Mim, Tanzil\" (suren es-Sexhde) dhe \"Hel eta alel-insani\" (suren el-Insan)."
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) used to recite the following in the Fajr prayer of Friday, \"Alif, Lam, Mim, Tanzil\" (Suratas- Sajda #32) and \"Hal-ata-ala-l-Insani\" (i.e. Surah-Ad-Dahr #76)."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6974,
+  "metadata": {
+    "volume": {
+      "id": 95
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Acceptance of the information given by one truthful person in about all matters"
+        },
+        "ar": {
+          "text": "بَابُ مَا جَاءَ فِي إِجَازَةِ خَبَرِ الْوَاحِدِ الصَّدُوقِ فِي الأَذَانِ وَالصَّلاَةِ وَالصَّوْمِ وَالْفَرَائِضِ وَالأَحْكَامِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، سَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ بِلاَلاً يُنَادِي بِلَيْلٍ، فَكُلُوا وَاشْرَبُوا حَتَّى يُنَادِيَ ابْنُ أُمِّ مَكْتُومٍ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah ibn Umeri: Pejgamberi (s.a.v.s.) ka thënë: \"Bilalli thërret ezanin natën, andaj hani dhe pini derisa të thërrasë ezanin Ibn Um Mektumi.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "The Prophet (ﷺ) said, \"Bilal pronounces the Adhan at night so that you may eat and drink till Ibn Um Maktum pronounces the Adhan (for the Fajr prayer)."
+    }
+  }
+}

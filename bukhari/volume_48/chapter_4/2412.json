@@ -1,0 +1,34 @@
+{
+  "id": 2412,
+  "metadata": {
+    "volume": {
+      "id": 48
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "To mortgage an animal used for riding or milking"
+        },
+        "ar": {
+          "text": "باب الرَّهْنُ مَرْكُوبٌ وَمَحْلُوبٌ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا زَكَرِيَّاءُ، عَنْ عَامِرٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يَقُولُ ‏ \"‏ الرَّهْنُ يُرْكَبُ بِنَفَقَتِهِ، وَيُشْرَبُ لَبَنُ الدَّرِّ إِذَا كَانَ مَرْهُونًا ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre se Pejgamberi (s.a.v.s.) ka thënë: \"Kafsha e lënë peng mund të kalërohet për shkak të shpenzimeve që bëhen për ushqimin e saj, si dhe qumështi i kafshës qumështore mund të pihet përderisa ajo është peng.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"One can ride the mortgaged animal because of what one spends on it, and one can drink the milk of a milch animal as long as it is mortgaged. \""
+    }
+  }
+}

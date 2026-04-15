@@ -1,0 +1,34 @@
+{
+  "id": 4050,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "Ghazwa of Khaibar"
+        },
+        "ar": {
+          "text": "باب غَزْوَةُ خَيْبَرَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْحَسَنُ بْنُ إِسْحَاقَ، حَدَّثَنَا مُحَمَّدُ بْنُ سَابِقٍ، حَدَّثَنَا زَائِدَةُ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَسَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ خَيْبَرَ لِلْفَرَسِ سَهْمَيْنِ، وَلِلرَّاجِلِ سَهْمًا‏.‏ قَالَ فَسَّرَهُ نَافِعٌ فَقَالَ إِذَا كَانَ مَعَ الرَّجُلِ فَرَسٌ فَلَهُ ثَلاَثَةُ أَسْهُمٍ، فَإِنْ لَمْ يَكُنْ لَهُ فَرَسٌ فَلَهُ سَهْمٌ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Umari: Ditën e Hajberit, i Dërguari i Allahut (s.a.v.s.) e ndau plaçkën e luftës në raport prej dy pjesësh për kalin dhe një pjese për këmbësorin. (Nafiu e shpjegoi këtë duke thënë: \"Nëse njeriu kishte kalë, ai merrte tri pjesë, e nëse nuk kishte kalë, merrte një pjesë.\")"
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "On the day of Khaibar, Allah's Messenger (ﷺ) divided (the war booty of Khaibar) with the ratio of two shares for the horse and one-share for the foot soldier. (The sub-narrator, Nafi` explained this, saying, \"If a man had a horse, he was given three shares and if he had no horse, then he was given one share.\")"
+    }
+  }
+}

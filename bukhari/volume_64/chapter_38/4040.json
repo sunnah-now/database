@@ -1,0 +1,34 @@
+{
+  "id": 4040,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "Ghazwa of Khaibar"
+        },
+        "ar": {
+          "text": "باب غَزْوَةُ خَيْبَرَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي يَحْيَى بْنُ قَزَعَةَ، حَدَّثَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ اللَّهِ، وَالْحَسَنِ، ابْنَىْ مُحَمَّدِ بْنِ عَلِيٍّ عَنْ أَبِيهِمَا، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ مُتْعَةِ النِّسَاءِ يَوْمَ خَيْبَرَ، وَعَنْ أَكْلِ الْحُمُرِ الإِنْسِيَّةِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ali ibn Ebi Talibi: Në ditën e Hajberit, i Dërguari i Allahut (s.a.v.s.) ndaloi martesën e përkohshme (mut’a) dhe ngrënien e mishit të gomarëve shtëpiakë."
+    },
+    "en": {
+      "narrator": "Narrated `Ali bin Abi Talib:",
+      "text": "On the day of Khaibar, Allah's Messenger (ﷺ) forbade the Mut'a (i.e. temporary marriage) and the eating of donkey-meat."
+    }
+  }
+}

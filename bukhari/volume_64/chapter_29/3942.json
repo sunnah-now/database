@@ -1,0 +1,34 @@
+{
+  "id": 3942,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 29,
+      "language": {
+        "en": {
+          "text": "The Ghazwa of Al-Khandaq or Al-Ahzab Battle"
+        },
+        "ar": {
+          "text": "باب غَزْوَةُ الْخَنْدَقِ وَهْىَ الأَحْزَابُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ ‏ \"‏ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ، أَعَزَّ جُنْدَهُ، وَنَصَرَ عَبْدَهُ وَغَلَبَ الأَحْزَابَ وَحْدَهُ، فَلاَ شَىْءَ بَعْدَهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: I Dërguari i Allahut (s.a.v.s.) thoshte: \"Nuk ka zot tjetër përveç Allahut të Vetëm, i Cili e lartësoi ushtrinë e Tij, e ndihmoi robin e Tij dhe i mposhti aleatët i Vetëm; nuk ka asgjë pas Tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) used to say, \"None has the right to be worshipped except Allah Alone (Who) honored His Warriors and made His Slave victorious, and He (Alone) defeated the (infidel) clans; so there is nothing after Him."
+    }
+  }
+}

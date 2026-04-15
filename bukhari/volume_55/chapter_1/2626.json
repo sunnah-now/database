@@ -1,0 +1,34 @@
+{
+  "id": 2626,
+  "metadata": {
+    "volume": {
+      "id": 55
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Al-Wasaya"
+        },
+        "ar": {
+          "text": "باب الْوَصَايَا"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَا حَقُّ امْرِئٍ مُسْلِمٍ لَهُ شَىْءٌ، يُوصِي فِيهِ يَبِيتُ لَيْلَتَيْنِ، إِلاَّ وَوَصِيَّتُهُ مَكْتُوبَةٌ عِنْدَهُ ‏\"‏‏.‏ تَابَعَهُ مُحَمَّدُ بْنُ مُسْلِمٍ عَنْ عَمْرٍو عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Omer: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Nuk i takon asnjë muslimani, i cili ka diçka për të lënë me testament, të kalojë dy net pa e pasur testamentin e tij të shkruar pranë vetes.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Allah's Messenger (ﷺ) said, \"It is not permissible for any Muslim who has something to will to stay for two nights without having his last will and testament written and kept ready with him.\""
+    }
+  }
+}

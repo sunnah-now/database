@@ -1,0 +1,34 @@
+{
+  "id": 4370,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عُبَيْدُ اللَّهِ الأَشْجَعِيُّ، عَنْ سُفْيَانَ، عَنِ الشَّيْبَانِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏وَإِذَا حَضَرَ الْقِسْمَةَ أُولُو الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينُ‏}‏ قَالَ هِيَ مُحْكَمَةٌ وَلَيْسَتْ بِمَنْسُوخَةٍ‏.‏ تَابَعَهُ سَعِيدٌ عَنِ ابْنِ عَبَّاسٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi lidhur me ajetin: \"Kur gjatë ndarjes janë të pranishëm të afërmit, jetimët dhe të varfrit\", ai ka thënë: \"Ky ajet është i vlefshëm dhe nuk është i shfuqizuar.\""
+    },
+    "en": {
+      "narrator": "Narrated Ikrama:",
+      "text": "Ibn `Abbas said ( regarding the verse), \"And when the relatives and the orphans and the poor are present at the time of division, \"this verse and its order is valid and not abrogated.\""
+    }
+  }
+}

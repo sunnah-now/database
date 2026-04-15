@@ -1,0 +1,34 @@
+{
+  "id": 4480,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا صَدَقَةُ بْنُ الْفَضْلِ، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا بُرَيْدُ بْنُ أَبِي بُرْدَةَ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ اللَّهَ لَيُمْلِي لِلظَّالِمِ حَتَّى إِذَا أَخَذَهُ لَمْ يُفْلِتْهُ ‏\"‏‏.‏ قَالَ ثُمَّ قَرَأَ ‏{‏وَكَذَلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَى وَهْىَ ظَالِمَةٌ إِنَّ أَخْذَهُ أَلِيمٌ شَدِيدٌ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Musa: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Vërtet, Allahu i jep afat zullumqarit, por kur e ndëshkon atë, nuk e lëshon më.\" Pastaj ai lexoi: \"E tillë është kapja e Zotit tënd, kur i ndëshkon vendbanimet që janë zullumqare. Me të vërtetë, ndëshkimi i Tij është i dhimbshëm dhe i ashpër.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Musa:",
+      "text": "Allah's Messenger (ﷺ) said, \"Allah gives respite to the oppressor, but when He takes him over, He never releases him.\" Then he recited:-- \"Such is the seizure of your Lord when He seizes (population of) towns in the midst of their wrong: Painful indeed, and severe is His seizure.' (11.102)"
+    }
+  }
+}

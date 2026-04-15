@@ -1,0 +1,34 @@
+{
+  "id": 7081,
+  "metadata": {
+    "volume": {
+      "id": 96
+    },
+    "chapter": {
+      "id": 27,
+      "language": {
+        "en": {
+          "text": "Something forbidden by the Prophet (saws) is legally prohibited"
+        },
+        "ar": {
+          "text": "بَابُ نَهْيِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى التَّحْرِيمِ إِلاَّ مَا تُعْرَفُ إِبَاحَتُهُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، أَخْبَرَنَا عَلِيُّ بْنُ الْمُبَارَكِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ أَهْلُ الْكِتَابِ يَقْرَءُونَ التَّوْرَاةَ بِالْعِبْرَانِيَّةِ وَيُفَسِّرُونَهَا بِالْعَرَبِيَّةِ لأَهْلِ الإِسْلاَمِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تُصَدِّقُوا أَهْلَ الْكِتَابِ، وَلاَ تُكَذِّبُوهُمْ وَقُولُوا ‏{‏آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا وَمَا أُنْزِلَ إِلَيْكُمْ‏}‏ ‏\"‏‏.‏ الآيَةَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: Njerëzit e Librit e lexonin Tevratin në hebraisht dhe ua shpjegonin muslimanëve në arabisht. Atëherë i Dërguari i Allahut (s.a.v.s.) tha: \"Mos u besoni njerëzve të Librit e as mos i përgënjeshtroni ata, por thoni: 'Ne besojmë në Allahun dhe në atë që na është shpallur neve, dhe në atë që u është shpallur juve'.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The people of the Book used to read the Torah in Hebrew and then explain it in Arabic to the Muslims. Allah's Messenger (ﷺ) said (to the Muslims). \"Do not believe the people of the Book, nor disbelieve them, but say, 'We believe in Allah and whatever is revealed to us, and whatever is revealed to you.' \""
+    }
+  }
+}

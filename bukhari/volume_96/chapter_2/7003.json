@@ -1,0 +1,34 @@
+{
+  "id": 7003,
+  "metadata": {
+    "volume": {
+      "id": 96
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Following the Sunna of the Prophet (saws)"
+        },
+        "ar": {
+          "text": "باب الاِقْتِدَاءِ بِسُنَنِ رَسُولِ اللَّهِ صلى الله عليه وسلم"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ عُبَيْدِ اللَّهِ، عَنْ أَبِي هُرَيْرَةَ، وَزَيْدِ بْنِ خَالِدٍ، قَالاَ كُنَّا عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏ \"‏ لأَقْضِيَنَّ بَيْنَكُمَا بِكِتَابِ اللَّهِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmetojnë Ebu Hurejreja dhe Zejd bin Halidi: Ishim me Pejgamberin (s.a.v.s.) kur ai u tha (dy burrave): \"Do të gjykoj mes jush sipas Librit të Allahut.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira and Zaid bin Khalid:",
+      "text": "We were with the Prophet (ﷺ) when he said (to two men), \"I shall judge between you according to Allah's Book (Laws).\""
+    }
+  }
+}

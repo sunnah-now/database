@@ -1,0 +1,34 @@
+{
+  "id": 738,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 95,
+      "language": {
+        "en": {
+          "text": "Recitation of the Qur'an (Surat Al-Fatiha) is compulsory for the Imam and the followers, at the home and on journey, in all As-Salat (the prayers) whether the recitation is done silently or aloud."
+        },
+        "ar": {
+          "text": "باب وُجُوبِ الْقِرَاءَةِ لِلإِمَامِ وَالْمَأْمُومِ فِي الصَّلَوَاتِ كُلِّهَا فِي الْحَضَرِ وَالسَّفَرِ وَمَا يُجْهَرُ فِيهَا وَمَا يُخَافَتُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا الزُّهْرِيُّ، عَنْ مَحْمُودِ بْنِ الرَّبِيعِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ صَلاَةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ubade bin es-Samiti se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Nuk ka namaz për atë që nuk e lexon Fatihën (Hapjen e Librit).\""
+    },
+    "en": {
+      "narrator": "Narrated 'Ubada bin As-Samit:",
+      "text": "Allah's Messenger (ﷺ) said, \"Whoever does not recite Al-Fatiha in his prayer, his prayer is invalid.\""
+    }
+  }
+}

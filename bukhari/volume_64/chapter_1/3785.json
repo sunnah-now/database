@@ -1,0 +1,34 @@
+{
+  "id": 3785,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Ghazwa of Al-‘Ushaira or Al-usaira"
+        },
+        "ar": {
+          "text": "باب غَزْوَةِ الْعُشَيْرَةِ أَوِ الْعُسَيْرَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَهْبٌ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، كُنْتُ إِلَى جَنْبِ زَيْدِ بْنِ أَرْقَمَ، فَقِيلَ لَهُ كَمْ غَزَا النَّبِيُّ صلى الله عليه وسلم مِنْ غَزْوَةٍ قَالَ تِسْعَ عَشْرَةَ‏.‏ قِيلَ كَمْ غَزَوْتَ أَنْتَ مَعَهُ قَالَ سَبْعَ عَشْرَةَ‏.‏ قُلْتُ فَأَيُّهُمْ كَانَتْ أَوَّلَ قَالَ الْعُسَيْرَةُ أَوِ الْعُشَيْرُ‏.‏ فَذَكَرْتُ لِقَتَادَةَ فَقَالَ الْعُشَيْرُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Is’haku: Njëherë, derisa isha i ulur pranë Zejd bin Erkamit, ai u pyet: \"Sa beteja ka zhvilluar Pejgamberi (s.a.v.s.)?\" Zejdi u përgjigj: \"Nëntëmbëdhjetë.\" Ata e pyetën: \"Në sa prej tyre ke marrë pjesë bashkë me të?\" Ai u përgjigj: \"Shtatëmbëdhjetë.\" Unë e pyeta: \"Cila prej tyre ishte e para?\" Ai u përgjigj: \"El-Usejra ose El-Ushejra.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu 'Is-haq:",
+      "text": "Once, while I was sitting beside Zaid bin Al-Arqam, he was asked, \"How many Ghazwat did the Prophet undertake?\" Zaid replied, \"Nineteen.\" They said, \"In how many Ghazwat did you join him?\" He replied, \"Seventeen.\" I asked, \"Which of these was the first?\" He replied, \"Al-`Ashira or Al- `Ashiru.\""
+    }
+  }
+}

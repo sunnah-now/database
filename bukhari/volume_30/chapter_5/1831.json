@@ -1,0 +1,34 @@
+{
+  "id": 1831,
+  "metadata": {
+    "volume": {
+      "id": 30
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Should it be said \"Ramadan\" or \"the month of Ramadan\"? And whoever thinks that both are permissible"
+        },
+        "ar": {
+          "text": "باب هَلْ يُقَالُ رَمَضَانُ أَوْ شَهْرُ رَمَضَانَ وَمَنْ رَأَى كُلَّهُ وَاسِعًا"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي يَحْيَى بْنُ بُكَيْرٍ، قَالَ حَدَّثَنِي اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي ابْنُ أَبِي أَنَسٍ، مَوْلَى التَّيْمِيِّينَ أَنَّ أَبَاهُ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا دَخَلَ شَهْرُ رَمَضَانَ فُتِّحَتْ أَبْوَابُ السَّمَاءِ، وَغُلِّقَتْ أَبْوَابُ جَهَنَّمَ، وَسُلْسِلَتِ الشَّيَاطِينُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Kur hyn muaji i Ramazanit, hapen dyert e qiellit, mbyllen dyert e Xhehenemit dhe djajtë lidhen me zinxhirë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"When the month of Ramadan starts, the gates of the heaven are opened and the gates of Hell are closed and the devils are chained.\""
+    }
+  }
+}

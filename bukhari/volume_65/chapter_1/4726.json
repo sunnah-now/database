@@ -1,0 +1,34 @@
+{
+  "id": 4726,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى، أَخْبَرَنَا سُفْيَانُ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ عَابِسٍ، سَمِعْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏تَرْمِي بِشَرَرٍ‏}‏ كُنَّا نَعْمِدُ إِلَى الْخَشَبَةِ ثَلاَثَةَ أَذْرُعٍ وَفَوْقَ ذَلِكَ، فَنَرْفَعُهُ لِلشِّتَاءِ فَنُسَمِّيهِ الْقَصَرَ‏.‏ ‏{‏كَأَنَّهُ جِمَالاَتٌ صُفْرٌ‏}‏ حِبَالُ السُّفْنِ تُجْمَعُ حَتَّى تَكُونَ كَأَوْسَاطِ الرِّجَالِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Lidhur me shpjegimin e ajetit: \"...Ajo hedh shkëndija si Al-Kasr...\" (77:32): Ne mblidhnim trungje druri, tre kutë të gjatë ose më shumë, për t'i ruajtur për dimër dhe i quanim 'Al-Kasr'. Ndërsa për ajetin: \"Sikur të ishin gjemalatun sufr (litarë të trashë)...\" (77:33), ai tha: \"Bëhet fjalë për litarët e anijeve që mblidhen së bashku derisa të bëhen aq të trashë sa mesi i burrave.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "(regarding) the explanation of \"... It throws sparks as Al-Qasr ...\" (V. 77:32): We used to collect logs of wood, three cubits long or longer, to store for heating purposes in winter, and we used to call it Al- Qasr, it also means a castle or a fort. \"As if they were Jimalatun Sufr (yellow camels or bundles of ropes)\" (V.77:33): means the ropes of a ship which are made in bundles till it become as wide as men's waists."
+    }
+  }
+}

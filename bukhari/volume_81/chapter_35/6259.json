@@ -1,0 +1,34 @@
+{
+  "id": 6259,
+  "metadata": {
+    "volume": {
+      "id": 81
+    },
+    "chapter": {
+      "id": 35,
+      "language": {
+        "en": {
+          "text": "The disappearance of Al-Amanah"
+        },
+        "ar": {
+          "text": "باب رَفْعِ الأَمَانَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّمَا النَّاسُ كَالإِبِلِ الْمِائَةُ لاَ تَكَادُ تَجِدُ فِيهَا رَاحِلَةً ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Omeri: E kam dëgjuar të Dërguarin e Allahut (s.a.v.s.) duke thënë: \"Njerëzit janë si puna e deveve; në një qind prej tyre, vështirë se mund të gjesh qoftë edhe një të vetme të përshtatshme për udhëtim.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "I heard Allah's Messenger (ﷺ) saying, \"People are just like camels, out of one hundred, one can hardly find a single camel suitable to ride.\""
+    }
+  }
+}

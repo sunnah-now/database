@@ -1,0 +1,34 @@
+{
+  "id": 5683,
+  "metadata": {
+    "volume": {
+      "id": 77
+    },
+    "chapter": {
+      "id": 68,
+      "language": {
+        "en": {
+          "text": "The curly hair"
+        },
+        "ar": {
+          "text": "باب الْجَعْدِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَقَالَ أَبُو هِلاَلٍ حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ،‏.‏ أَوْ جَابِرِ بْنِ عَبْدِ اللَّهِ كَانَ النَّبِيُّ صلى الله عليه وسلم ضَخْمَ الْكَفَّيْنِ وَالْقَدَمَيْنِ، لَمْ أَرَ بَعْدَهُ شَبَهًا لَهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi ose Xhabir bin Abdullahu: Pejgamberi (s.a.v.s.) i kishte shuplakat dhe shputat e mëdha dhe nuk kam parë askënd si ai pas tij."
+    },
+    "en": {
+      "narrator": "Narrated Anas or Jabir bin `Abdullah:",
+      "text": "The Prophet (ﷺ) had big hands and feet and I have not seen anybody like him after him."
+    }
+  }
+}

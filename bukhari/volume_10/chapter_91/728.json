@@ -1,0 +1,34 @@
+{
+  "id": 728,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 91,
+      "language": {
+        "en": {
+          "text": "To cast a look at the Imam during As-Salat (the prayer)"
+        },
+        "ar": {
+          "text": "باب رَفْعِ الْبَصَرِ إِلَى الإِمَامِ فِي الصَّلاَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ عُمَارَةَ بْنِ عُمَيْرٍ، عَنْ أَبِي مَعْمَرٍ، قَالَ قُلْنَا لِخَبَّابٍ أَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْرَأُ فِي الظُّهْرِ وَالْعَصْرِ قَالَ نَعَمْ‏.‏ قُلْنَا بِمَ كُنْتُمْ تَعْرِفُونَ ذَاكَ قَالَ بِاضْطِرَابِ لِحْيَتِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Hebabi: E pyetëm nëse i Dërguari i Allahut (s.a.v.s.) lexonte në namazin e drekës dhe të iqindisë. Ai u përgjigj: \"Po\". Ne e pyetëm: \"Si e dinit këtë?\". Ai tha: \"Nga lëvizja e mjekrës së tij\"."
+    },
+    "en": {
+      "narrator": "Narrated Abu Ma`mar:",
+      "text": "We asked Khabbab whether Allah's Messenger (ﷺ) used to recite (the Qur'an) in the Zuhr and the `Asr prayers. He replied in the affirmative. We said, \"How did you come to know about it?\" He said, \"By the movement of his beard.\""
+    }
+  }
+}

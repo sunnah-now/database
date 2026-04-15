@@ -1,0 +1,34 @@
+{
+  "id": 4445,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا بَيَانٌ، أَنَّ وَبَرَةَ، حَدَّثَهُ قَالَ حَدَّثَنِي سَعِيدُ بْنُ جُبَيْرٍ، قَالَ خَرَجَ عَلَيْنَا أَوْ إِلَيْنَا ابْنُ عُمَرَ، فَقَالَ رَجُلٌ كَيْفَ تَرَى فِي قِتَالِ الْفِتْنَةِ‏.‏ فَقَالَ وَهَلْ تَدْرِي مَا الْفِتْنَةُ كَانَ مُحَمَّدٌ صلى الله عليه وسلم يُقَاتِلُ الْمُشْرِكِينَ، وَكَانَ الدُّخُولُ عَلَيْهِمْ فِتْنَةً، وَلَيْسَ كَقِتَالِكُمْ عَلَى الْمُلْكِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Umeri: Një burrë e pyeti atë: \"Çfarë mendon për luftën në kohë fitneje (trazirash)?\" Ibn Umeri i tha: \"A e di ti se çfarë është fitneja? Muhammedi (s.a.v.s.) i luftonte idhujtarët, dhe ballafaqimi me ta ishte fitne, por nuk ishte si lufta juaj që bëhet për hir të pushtetit.\""
+    },
+    "en": {
+      "narrator": "Narrated Sa`id bin Jubair:",
+      "text": "Ibn `Umar came to us and a man said (to him), \"What do you think about 'Qit-alal-Fitnah' (fighting caused by afflictions).\" Ibn `Umar said (to him), \"And do you understand what an affliction is? Muhammad used to fight against the pagans, and his fighting with them was an affliction, (and his fighting was) not like your fighting which is carried on for the sake of ruling.\""
+    }
+  }
+}

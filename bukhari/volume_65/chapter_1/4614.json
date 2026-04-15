@@ -1,0 +1,34 @@
+{
+  "id": 4614,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدَانُ، عَنْ أَبِي حَمْزَةَ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ مَضَى خَمْسٌ الدُّخَانُ وَالرُّومُ وَالْقَمَرُ وَالْبَطْشَةُ وَاللِّزَامُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullahu: Pesë gjëra kanë kaluar: Tymi, disfata e Romakëve, çarja e hënës, El-Batsha (disfata e idhujtarëve në betejën e Bedrit) dhe El-Lizam (dënimi)."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah:",
+      "text": "Five things have passed, i.e. the smoke, the defeat of the Romans, the splitting of the moon, Al-Batsha (the defeat of the infidels in the battle of Badr) and Al-Lizam (the punishment)'."
+    }
+  }
+}

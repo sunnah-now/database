@@ -1,0 +1,34 @@
+{
+  "id": 3000,
+  "metadata": {
+    "volume": {
+      "id": 57
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "How the Prophet saws distributed the properties of Bani Quraiza and Bani An-Nadir"
+        },
+        "ar": {
+          "text": "باب كَيْفَ قَسَمَ النَّبِيُّ صلى الله عليه وسلم قُرَيْظَةَ وَالنَّضِيرَ، وَمَا أَعْطَى مِنْ ذَلِكَ فِي نَوَائِبِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا مُعْتَمِرٌ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ يَقُولُ كَانَ الرَّجُلُ يَجْعَلُ لِلنَّبِيِّ صلى الله عليه وسلم النَّخَلاَتِ حَتَّى افْتَتَحَ قُرَيْظَةَ وَالنَّضِيرَ، فَكَانَ بَعْدَ ذَلِكَ يَرُدُّ عَلَيْهِمْ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Njerëzit kishin zakon t’i jepnin Pejgamberit (s.a.v.s.) disa nga palmat e tyre të hurmave si dhuratë, derisa ai çliroi fiset Benu Kurejdha dhe Benu Nadir, pas së cilës ai filloi t'ua kthente ato atyre."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "People used to give some of their datepalms to the Prophet (as a gift), till he conquered Bani Quraiza and Bani An-Nadir, whereupon he started returning their favors."
+    }
+  }
+}

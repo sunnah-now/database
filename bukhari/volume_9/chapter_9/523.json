@@ -1,0 +1,34 @@
+{
+  "id": 523,
+  "metadata": {
+    "volume": {
+      "id": 9
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "In severe heat, offer Zuhr prayers when it becomes (a bit) cooler"
+        },
+        "ar": {
+          "text": "باب الإِبْرَادِ بِالظُّهْرِ فِي شِدَّةِ الْحَرِّ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَيُّوبُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبُو بَكْرٍ، عَنْ سُلَيْمَانَ، قَالَ صَالِحُ بْنُ كَيْسَانَ حَدَّثَنَا الأَعْرَجُ عَبْدُ الرَّحْمَنِ، وَغَيْرُهُ، عَنْ أَبِي هُرَيْرَةَ‏.‏وَنَافِعٌ مَوْلَى عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّهُمَا حَدَّثَاهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏ \"‏ إِذَا اشْتَدَّ الْحَرُّ فَأَبْرِدُوا عَنِ الصَّلاَةِ، فَإِنَّ شِدَّةَ الْحَرِّ مِنْ فَيْحِ جَهَنَّمَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmetojnë Ebu Hurejre dhe Abdullah bin Umeri se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Kur vapa të jetë e madhe, atëherë faleni namazin kur të freskohet pak, sepse vapa e madhe është prej nxehtësisë së Xhehenemit.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira and `Abdullah bin `Umar:",
+      "text": "Allah's Messenger (ﷺ) said, \"If it is very hot, then pray the Zuhr prayer when it becomes (a bit) cooler, as the severity of the heat is from the raging of the Hell-fire.\""
+    }
+  }
+}

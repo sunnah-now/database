@@ -1,0 +1,34 @@
+{
+  "id": 878,
+  "metadata": {
+    "volume": {
+      "id": 11
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَتِ امْرَأَةٌ لِعُمَرَ تَشْهَدُ صَلاَةَ الصُّبْحِ وَالْعِشَاءِ فِي الْجَمَاعَةِ فِي الْمَسْجِدِ، فَقِيلَ لَهَا لِمَ تَخْرُجِينَ وَقَدْ تَعْلَمِينَ أَنَّ عُمَرَ يَكْرَهُ ذَلِكَ وَيَغَارُ قَالَتْ وَمَا يَمْنَعُهُ أَنْ يَنْهَانِي قَالَ يَمْنَعُهُ قَوْلُ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تَمْنَعُوا إِمَاءَ اللَّهِ مَسَاجِدَ اللَّهِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: Njëra nga gratë e Omerit falte namazin e sabahut dhe të jacisë me xhemat në xhami. Ajo u pyet: \"Pse po del për namaz, ndërkohë që e di se Omeri e urren këtë dhe është xheloz?\" Ajo u përgjigj: \"E çfarë e ndalon atë që të ma ndalojë këtë veprim?\" Tjetri u përgjigj: \"E ndalon thënia e të Dërguarit të Allahut (s.a.v.s.): 'Mos i ndaloni robëreshat e Allahut nga xhamitë e Allahut'.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "One of the wives of `Umar (bin Al-Khattab) used to offer the Fajr and the `Isha' prayer in congregation in the Mosque. She was asked why she had come out for the prayer as she knew that `Umar disliked it, and he has great ghaira (self-respect). She replied, \"What prevents him from stopping me from this act?\" The other replied, \"The statement of Allah's Messenger (ﷺ) : 'Do not stop Allah's women-slaves from going to Allah's Mosques' prevents him.\""
+    }
+  }
+}

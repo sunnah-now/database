@@ -1,0 +1,34 @@
+{
+  "id": 2222,
+  "metadata": {
+    "volume": {
+      "id": 40
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "A woman can depute the ruler in marriage"
+        },
+        "ar": {
+          "text": "باب وَكَالَةِ الْمَرْأَةِ الإِمَامَ فِي النِّكَاحِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ جَاءَتِ امْرَأَةٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي قَدْ وَهَبْتُ لَكَ مِنْ نَفْسِي‏.‏ فَقَالَ رَجُلٌ زَوِّجْنِيهَا‏.‏ قَالَ ‏ \"‏ قَدْ زَوَّجْنَاكَهَا بِمَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Sehl bin Sa'di: Një grua erdhi te i Dërguari i Allahut (s.a.v.s.) dhe tha: \"O i Dërguari i Allahut! Unë erdha të të dhuroj veten time.\" Një burrë tha: \"Ma marto mua atë.\" Pejgamberi (s.a.v.s.) tha: \"Ne të martuam me të për atë që di përmendësh nga Kur'ani.\""
+    },
+    "en": {
+      "narrator": "Narrated Sahl bin Sad:",
+      "text": "A woman came to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ)! I want to give up myself to you.\" A man said, \"Marry her to me.\" The Prophet (ﷺ) said, \"We agree to marry her to you with what you know of the Qur'an by heart.\""
+    }
+  }
+}

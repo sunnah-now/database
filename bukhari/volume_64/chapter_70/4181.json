@@ -1,0 +1,34 @@
+{
+  "id": 4181,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 70,
+      "language": {
+        "en": {
+          "text": "The delegation of Banu Hanifa"
+        },
+        "ar": {
+          "text": "باب وَفْدِ بَنِي حَنِيفَةَ، وَحَدِيثِ ثُمَامَةَ بْنِ أُثَالٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الْجُعْفِيُّ، حَدَّثَنَا أَبُو عَامِرٍ عَبْدُ الْمَلِكِ، حَدَّثَنَا إِبْرَاهِيمُ ـ هُوَ ابْنُ طَهْمَانَ ـ عَنْ أَبِي جَمْرَةَ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما قَالَ أَوَّلُ جُمُعَةٍ جُمِّعَتْ بَعْدَ جُمُعَةٍ جُمِّعَتْ فِي مَسْجِدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي مَسْجِدِ عَبْدِ الْقَيْسِ بِجُوَاثَى‏.‏ يَعْنِي قَرْيَةً مِنَ الْبَحْرَيْنِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Namazi i parë i xhumasë që është falur pas namazit të xhumasë në xhaminë e të Dërguarit të Allahut (s.a.v.s.) u fal në xhaminë e Abd el-Kajsit në Xhuatha, që është një fshat në Bahrejn."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "The first Friday (i.e. Jumua) prayer offered after the Friday Prayer offered at the Mosque of Allah's Apostle was offered at the mosque of `Abdul Qais situated at Jawathi, that is a village at Al Bahrain ."
+    }
+  }
+}

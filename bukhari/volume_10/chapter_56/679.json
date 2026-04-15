@@ -1,0 +1,34 @@
+{
+  "id": 679,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 56,
+      "language": {
+        "en": {
+          "text": "Offering prayers behind a man who is a victim of Al-Fitan (trials and affections) or a heretic."
+        },
+        "ar": {
+          "text": "باب إِمَامَةِ الْمَفْتُونِ وَالْمُبْتَدِعِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبَانَ، حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، عَنْ أَبِي التَّيَّاحِ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ، قَالَ النَّبِيُّ صلى الله عليه وسلم لأَبِي ذَرٍّ ‏ \"‏ اسْمَعْ وَأَطِعْ، وَلَوْ لِحَبَشِيٍّ كَأَنَّ رَأْسَهُ زَبِيبَةٌ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Pejgamberi (s.a.v.s.) i tha Ebu Dherrit: \"Dëgjo dhe bëhu i bindur, madje edhe nëse (udhëheqësi) është një etiopian me kokë si rrush i tharë.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet (ﷺ) said to Abu-Dhar, \"Listen and obey (your chief) even if he is an Ethiopian with a head like a raisin.\""
+    }
+  }
+}

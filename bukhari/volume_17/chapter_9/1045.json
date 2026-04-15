@@ -1,0 +1,34 @@
+{
+  "id": 1045,
+  "metadata": {
+    "volume": {
+      "id": 17
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "The overcrowding of the people when the Imam recites As-Sajda"
+        },
+        "ar": {
+          "text": "باب ازْدِحَامِ النَّاسِ إِذَا قَرَأَ الإِمَامُ السَّجْدَةَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا بِشْرُ بْنُ آدَمَ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، قَالَ أَخْبَرَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ السَّجْدَةَ وَنَحْنُ عِنْدَهُ فَيَسْجُدُ وَنَسْجُدُ مَعَهُ فَنَزْدَحِمُ حَتَّى مَا يَجِدُ أَحَدُنَا لِجَبْهَتِهِ مَوْضِعًا يَسْجُدُ عَلَيْهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: Kur Pejgamberi (s.a.v.s.) lexonte suren es-Sexhde dhe ne ishim me të, ai bënte sexhde dhe ne bënim sexhde bashkë me të, saqë për shkak të turmës së madhe, ndonjëri prej nesh nuk gjente vend për ballin e tij ku të bënte sexhde."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "When the Prophet (ﷺ) recited Surat As-Sajda and we were with him, he would prostrate and we also would prostrate with him and some of us (because of the heavy rush) would not find a place (for our foreheads) to prostrate on."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3184,
+  "metadata": {
+    "volume": {
+      "id": 59
+    },
+    "chapter": {
+      "id": 17,
+      "language": {
+        "en": {
+          "text": "If a housefly falls in the drink"
+        },
+        "ar": {
+          "text": "بَابُ إِذَا وَقَعَ الذُّبَابُ فِي شَرَابِ أَحَدِكُمْ فَلْيَغْمِسْهُ، فَإِنَّ فِي إِحْدَى جَنَاحَيْهِ دَاءً وَفِي الأُخْرَى شِفَاءً"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ حَفِظْتُهُ مِنَ الزُّهْرِيِّ كَمَا أَنَّكَ هَا هُنَا أَخْبَرَنِي عُبَيْدُ اللَّهِ عَنِ ابْنِ عَبَّاسٍ عَنْ أَبِي طَلْحَةَ ـ رضى الله عنهم ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ كَلْبٌ وَلاَ صُورَةٌ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Talha se Pejgamberi (s.a.v.s.) ka thënë: \"Melaiket nuk hyjnë në shtëpinë në të cilën ka qen apo figurë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Talha:",
+      "text": "The Prophet (ﷺ) said, \"Angels do not enter a house that has either a dog or a picture in it.\""
+    }
+  }
+}

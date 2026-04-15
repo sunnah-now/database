@@ -1,0 +1,34 @@
+{
+  "id": 2659,
+  "metadata": {
+    "volume": {
+      "id": 55
+    },
+    "chapter": {
+      "id": 27,
+      "language": {
+        "en": {
+          "text": "A jointly-owned piece of land as an endowment"
+        },
+        "ar": {
+          "text": "باب إِذَا أَوْقَفَ جَمَاعَةٌ أَرْضًا مُشَاعًا فَهْوَ جَائِزٌ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ أَمَرَ النَّبِيُّ صلى الله عليه وسلم بِبِنَاءِ الْمَسْجِدِ فَقَالَ ‏ \"‏ يَا بَنِي النَّجَّارِ ثَامِنُونِي بِحَائِطِكُمْ هَذَا ‏\"‏‏.‏ قَالُوا لاَ‏.‏ وَاللَّهِ لاَ نَطْلُبُ ثَمَنَهُ إِلاَّ إِلَى اللَّهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Kur Pejgamberi (s.a.v.s.) urdhëroi ndërtimin e xhamisë, ai tha: \"O Beni en-Nexhar! Më caktoni një çmim për këtë kopshtin tuaj.\" Ata u përgjigjën: \"Pasha Allahun! Ne nuk kërkojmë çmim për të nga askush tjetër përveç Allahut.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "When the Prophet (ﷺ) ordered that the mosque be built, he said, \"O Bani An-Najjar! Suggest to me a price for this garden of yours.\" They replied, \"By Allah! We will demand its price from none but Allah.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4123,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 53,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ، حَدَّثَنَا الْفُضَيْلُ بْنُ سُلَيْمَانَ، حَدَّثَنَا عَاصِمٌ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ مُجَاشِعِ بْنِ مَسْعُودٍ، انْطَلَقْتُ بِأَبِي مَعْبَدٍ إِلَى النَّبِيِّ صلى الله عليه وسلم لِيُبَايِعَهُ عَلَى الْهِجْرَةِ، قَالَ ‏ \"‏ مَضَتِ الْهِجْرَةُ لأَهْلِهَا، أُبَايِعُهُ عَلَى الإِسْلاَمِ وَالْجِهَادِ.\" فَلَقِيتُ أَبَا مَعْبَدٍ فَسَأَلْتُهُ فَقَالَ صَدَقَ مُجَاشِعٌ‏.‏ وَقَالَ خَالِدٌ عَنْ أَبِي عُثْمَانَ عَنْ مُجَاشِعٍ أَنَّهُ جَاءَ بِأَخِيهِ مُجَالِدٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Muxhashi bin Mes'udi: E dërgova Ebu M'bedin te Pejgamberi (s.a.v.s.) që t'i jepte besatimin për hixhret. Pejgamberi (s.a.v.s.) tha: \"Hixhreti ka kaluar për njerëzit e tij, por unë e pranoj besatimin e tij për Islam dhe Xhihad.\""
+    },
+    "en": {
+      "narrator": "Narrated Mujashi bin Masud:",
+      "text": "I took Abu Mabad to the Prophet (ﷺ) in order that he might give him the pledge of allegiance for migration. The Prophet (ﷺ) said, \"Migration has gone to its people, but I take the pledge from him (i.e. Abu Mabad) for Islam and Jihad.\""
+    }
+  }
+}

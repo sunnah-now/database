@@ -1,0 +1,34 @@
+{
+  "id": 2083,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 70,
+      "language": {
+        "en": {
+          "text": "A town dweller should not buy goods for a desert dweller and charge commission as a broker"
+        },
+        "ar": {
+          "text": "باب لاَ يَبِيعُ حَاضِرٌ لِبَادٍ بِالسَّمْسَرَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، قَالَ أَخْبَرَنِي ابْنُ جُرَيْجٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَبْتَاعُ الْمَرْءُ عَلَى بَيْعِ أَخِيهِ، وَلاَ تَنَاجَشُوا، وَلاَ يَبِعْ حَاضِرٌ لِبَادٍ ‏\"‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Njeriu nuk duhet të ofrojë çmim mbi shitblerjen e vëllait të tij, mos bëni nexhsh (ngritje artificiale e çmimit) dhe banori i qytetit nuk duhet të shesë për llogari të një banori të shkretëtirës.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"A buyer should not urge a seller to restore a purchase so as to buy it himself, and do not practice Najsh; and a town dweller should not sell goods of a desert dweller.\""
+    }
+  }
+}

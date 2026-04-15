@@ -1,0 +1,34 @@
+{
+  "id": 1058,
+  "metadata": {
+    "volume": {
+      "id": 18
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "When a traveller leaves his original place, he can shorten his Salat (prayer)"
+        },
+        "ar": {
+          "text": "باب يَقْصُرُ إِذَا خَرَجَ مِنْ مَوْضِعِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، وَإِبْرَاهِيمَ بْنِ مَيْسَرَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ صَلَّيْتُ الظُّهْرَ مَعَ النَّبِيِّ صلى الله عليه وسلم بِالْمَدِينَةِ أَرْبَعًا، وَبِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: E fala namazin e drekës me Pejgamberin (s.a.v.s.) në Medine katër rekate, ndërsa në Dhul-Hulejfe dy rekate."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "offered four rak`at of Zuhr prayer with the Prophet (p.b.u.h) at Medina and two rak`at at Dhul-Hulaifa. (i.e. shortened the `Asr prayer)."
+    }
+  }
+}

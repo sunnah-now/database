@@ -1,0 +1,34 @@
+{
+  "id": 4746,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَدِيٌّ، قَالَ سَمِعْتُ الْبَرَاءَ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ فِي سَفَرٍ فَقَرَأَ فِي الْعِشَاءِ فِي إِحْدَى الرَّكْعَتَيْنِ بِالتِّينِ وَالزَّيْتُونِ‏.‏ ‏{‏تَقْوِيمٍ‏}‏ الْخَلْقِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton El-Bera': Pejgamberi (s.a.v.s.) ishte në një udhëtim dhe lexoi suren \"Et-Tin\" në njërën prej dy rekateve të para të namazit të jacisë."
+    },
+    "en": {
+      "narrator": "Narrated Al-Bara:",
+      "text": "While the Prophet (ﷺ) was on a journey, he recited Surat at-Tini waz-Zaituni (95) in one of the first two rak`at of the `Isha prayer."
+    }
+  }
+}

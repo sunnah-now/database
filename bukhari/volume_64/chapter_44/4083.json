@@ -1,0 +1,34 @@
+{
+  "id": 4083,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The expedition of Mu`tah to the land of Syria"
+        },
+        "ar": {
+          "text": "باب غَزْوَةُ مُوتَةَ مِنْ أَرْضِ الشَّأْمِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، قَالَ سَمِعْتُ خَالِدَ بْنَ الْوَلِيدِ، يَقُولُ لَقَدِ انْقَطَعَتْ فِي يَدِي يَوْمَ مُوتَةَ تِسْعَةُ أَسْيَافٍ، فَمَا بَقِيَ فِي يَدِي إِلاَّ صَفِيحَةٌ يَمَانِيَةٌ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Halid bin El-Velidi: Në ditën e betejës së Mutas, në dorën time u thyen nëntë shpata dhe nuk më mbeti në dorë asgjë tjetër përveç një shpate jemene."
+    },
+    "en": {
+      "narrator": "Narrated Khalid bin Al-Walid:",
+      "text": "On the day (of the battle of) Mu'tah, nine swords were broken in my hand, and nothing was left in my hand except a Yemenite sword of mine."
+    }
+  }
+}

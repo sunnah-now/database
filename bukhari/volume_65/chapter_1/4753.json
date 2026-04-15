@@ -1,0 +1,34 @@
+{
+  "id": 4753,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، سَمِعْتُ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم لأُبَىٍّ‏.‏ ‏\"‏ إِنَّ اللَّهَ أَمَرَنِي أَنْ أَقْرَأَ عَلَيْكَ ‏{‏لَمْ يَكُنِ الَّذِينَ كَفَرُوا‏}‏ ‏\"‏‏.‏ قَالَ وَسَمَّانِي قَالَ ‏\"‏ نَعَمْ ‏\"‏‏.‏ فَبَكَى‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes ibn Maliku: Pejgamberi (s.a.v.s.) i tha Ubejit: \"Allahu më ka urdhëruar të të lexoj ty: 'Ata që nuk besuan nga ithtarët e Librit dhe nga idhujtarët, nuk do të shkëputeshin (nga rruga e tyre)...'\". Ubeji e pyeti: \"A ma ka përmendur Allahu emrin?\" Ai (s.a.v.s.) u përgjigj: \"Po\". Atëherë, Ubeji qau."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "The Prophet (ﷺ) said to Ubai (bin Ka`b). \"Allah has ordered me to recite to you:--'Those who disbelieve among the people of the Scripture and among the idolators are not going to stop (from their disbelief.') (Sura 98) Ubai said, \"Did Allah mention me by name?\" The Prophet (ﷺ) said, \"Yes.\" On that, Ubai wept."
+    }
+  }
+}

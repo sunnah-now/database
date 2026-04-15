@@ -1,0 +1,34 @@
+{
+  "id": 4387,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ لَمَّا نَزَلَتْ ‏{‏لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ‏}‏ دَعَا رَسُولُ اللَّهِ صلى الله عليه وسلم زَيْدًا فَكَتَبَهَا، فَجَاءَ ابْنُ أُمِّ مَكْتُومٍ فَشَكَا ضَرَارَتَهُ، فَأَنْزَلَ اللَّهُ ‏{‏غَيْرَ أُولِي الضَّرَرِ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton el-Berai: Kur u shpall ajeti: \"Nuk janë të barabartë ata besimtarë që qëndrojnë (në shtëpi)\" (4:95), i Dërguari i Allahut (s.a.v.s.) thirri Zejdin që ta shkruante atë. Ndërkohë erdhi Ibn Um Mektumi dhe u ankua për verbërinë e tij, andaj Allahu shpalli: \"përveç atyre që janë të paaftë (për shkak të ndonjë dëmtimi, verbërie apo gjymtimi...)\" (4:95)."
+    },
+    "en": {
+      "narrator": "Narrated Al-Bara:",
+      "text": "When the Verse:-- \"Not equal are those of the believers who sit (at home)\" (4.95) was revealed, Allah Apostle called for Zaid who wrote it. In the meantime Ibn Um Maktum came and complained of his blindness, so Allah revealed: \"Except those who are disabled (by injury or are blind or lame...\" etc.) (4.95)"
+    }
+  }
+}

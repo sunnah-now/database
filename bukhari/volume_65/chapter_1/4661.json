@@ -1,0 +1,34 @@
+{
+  "id": 4661,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ انْشَقَّ الْقَمَرُ فِرْقَتَيْنِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Hëna u nda në dy pjesë."
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "The moon was cleft asunder into two parts."
+    }
+  }
+}

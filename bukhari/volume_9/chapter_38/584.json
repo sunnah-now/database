@@ -1,0 +1,34 @@
+{
+  "id": 584,
+  "metadata": {
+    "volume": {
+      "id": 9
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Qada of prayers (Qada means to perform or offer or do a missed religious obligation after its stated time)"
+        },
+        "ar": {
+          "text": "باب قَضَاءِ الصَّلَوَاتِ الأُولَى فَالأُولَى"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ حَدَّثَنَا يَحْيَى ـ هُوَ ابْنُ أَبِي كَثِيرٍ ـ عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ، قَالَ جَعَلَ عُمَرُ يَوْمَ الْخَنْدَقِ يَسُبُّ كُفَّارَهُمْ وَقَالَ مَا كِدْتُ أُصَلِّي الْعَصْرَ حَتَّى غَرَبَتْ‏.‏ قَالَ فَنَزَلْنَا بُطْحَانَ، فَصَلَّى بَعْدَ مَا غَرَبَتِ الشَّمْسُ، ثُمَّ صَلَّى الْمَغْرِبَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xhabiri: Në ditën e Hendekut, Omeri erdhi duke i mallkuar jobesimtarët dhe tha: \"Nuk munda ta fal namazin e Ikindisë derisa perëndoi dielli.\" Pastaj zbritëm në But-han dhe ai (Pejgamberi s.a.v.s.) e fali namazin e Ikindisë pasi kishte perënduar dielli, e pastaj fali namazin e Akshamit."
+    },
+    "en": {
+      "narrator": "Narrated Jabir:",
+      "text": "`Umar came cursing the disbelievers (of Quraish) on the day of Al-Khandaq (the battle of Trench) and said, \"I could not offer the `Asr prayer till the sun had set. Then we went to Buthan and he offered the (`Asr) prayer after sunset and then he offered the Maghrib prayer."
+    }
+  }
+}

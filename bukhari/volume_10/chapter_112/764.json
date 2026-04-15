@@ -1,0 +1,34 @@
+{
+  "id": 764,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 112,
+      "language": {
+        "en": {
+          "text": "Superiority of saying Amin"
+        },
+        "ar": {
+          "text": "باب فَضْلِ التَّأْمِينِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا قَالَ أَحَدُكُمْ آمِينَ‏.‏ وَقَالَتِ الْمَلاَئِكَةُ فِي السَّمَاءِ آمِينَ‏.‏ فَوَافَقَتْ إِحْدَاهُمَا الأُخْرَى، غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Kur ndonjëri prej jush thotë 'Amin' dhe melaiket në qiell thonë 'Amin', e nëse këto thënie përkojnë me njëra-tjetrën, atij do t'i falen mëkatet e mëparshme.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"If any one of you says, \"Amin\" and the angels in the heavens say \"Amin\" and the former coincides with the latter, all his past sins will be forgiven.\""
+    }
+  }
+}

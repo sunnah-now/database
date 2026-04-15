@@ -1,0 +1,34 @@
+{
+  "id": 4669,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ، أَنَّ ابْنَ جُرَيْجٍ، أَخْبَرَهُمْ قَالَ أَخْبَرَنِي يُوسُفُ بْنُ مَاهَكَ، قَالَ إِنِّي عِنْدَ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ قَالَتْ لَقَدْ أُنْزِلَ عَلَى مُحَمَّدٍ صلى الله عليه وسلم بِمَكَّةَ، وَإِنِّي لَجَارِيَةٌ أَلْعَبُ ‏{‏بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَى وَأَمَرُّ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Aishja: Kur kjo shpallje: \"Jo, por Kiameti është afati i tyre i premtuar, dhe Kiameti do të jetë edhe më i tmerrshëm dhe më i hidhur\" (54:46) iu shpall Muhamedit (s.a.v.s.) në Mekë, unë isha vetëm një vajzë e vogël që luaja."
+    },
+    "en": {
+      "narrator": "Narrated Yusuf bin Mahik:",
+      "text": "I was in the house of `Aisha, the mother of the Believers. She said, \"This revelation: \"Nay, but the Hour is their appointed time (for their full recompense); and the Hour will be more previous and most bitter.\" (54.46) was revealed to Muhammad at Mecca while I was a playfull little girl.\""
+    }
+  }
+}

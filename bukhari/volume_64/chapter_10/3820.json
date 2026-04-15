@@ -1,0 +1,34 @@
+{
+  "id": 3820,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْغَسِيلِ، عَنْ حَمْزَةَ بْنِ أَبِي أُسَيْدٍ، وَالْمُنْذِرِ بْنِ أَبِي أُسَيْدٍ، عَنْ أَبِي أُسَيْدٍ ـ رضى الله عنه ـ قَالَ قَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ بَدْرٍ ‏ \"‏ إِذَا أَكْثَبُوكُمْ ـ يَعْنِي كَثَرُوكُمْ ـ فَارْمُوهُمْ، وَاسْتَبْقُوا نَبْلَكُمْ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Usejdi: Në ditën e Bedrit, i Dërguari i Allahut (s.a.v.s.) na tha: \"Nëse armiku ju afrohet (ju tejkalon me numër), gjuani mbi ta, por kurseni shigjetat tuaja.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Usaid:",
+      "text": "On the day of (the battle of) Badr, Allah's Messenger (ﷺ) said to us, \"When your enemy comes near to you (i.e. overcome you by sheer number), shoot at them but use your arrows sparingly.\""
+    }
+  }
+}

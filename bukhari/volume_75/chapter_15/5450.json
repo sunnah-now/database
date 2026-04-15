@@ -1,0 +1,34 @@
+{
+  "id": 5450,
+  "metadata": {
+    "volume": {
+      "id": 75
+    },
+    "chapter": {
+      "id": 15,
+      "language": {
+        "en": {
+          "text": "To visit a patient riding, walking or sitting with another person on a donkey"
+        },
+        "ar": {
+          "text": "باب عِيَادَةِ الْمَرِيضِ رَاكِبًا وَمَاشِيًا وَرِدْفًا عَلَى الْحِمَارِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَمْرُو بْنُ عَبَّاسٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنْ مُحَمَّدٍ ـ هُوَ ابْنُ الْمُنْكَدِرِ ـ عَنْ جَابِرٍ ـ رضى الله عنه ـ قَالَ جَاءَنِي النَّبِيُّ صلى الله عليه وسلم يَعُودُنِي لَيْسَ بِرَاكِبِ بَغْلٍ وَلاَ بِرْذَوْنٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Xhabiri: Pejgamberi (s.a.v.s.) erdhi të më vizitonte (kur isha i sëmurë) dhe ai nuk ishte duke kalëruar as mushkë e as kalë."
+    },
+    "en": {
+      "narrator": "Narrated Jabir:",
+      "text": "The Prophet (ﷺ) came to visit me (while I was sick) and he was riding neither a mule, nor a horse."
+    }
+  }
+}

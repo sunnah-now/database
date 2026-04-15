@@ -1,0 +1,34 @@
+{
+  "id": 7255,
+  "metadata": {
+    "volume": {
+      "id": 97
+    },
+    "chapter": {
+      "id": 51,
+      "language": {
+        "en": {
+          "text": "What is allowed as regards the interpretation of the Taurat and other Holy Books"
+        },
+        "ar": {
+          "text": "باب مَا يَجُوزُ مِنْ تَفْسِيرِ التَّوْرَاةِ وَغَيْرِهَا مِنْ كُتُبِ اللَّهِ بِالْعَرَبِيَّةِ وَغَيْرِهَا"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَقَالَ ابْنُ عَبَّاسٍ أَخْبَرَنِي أَبُو سُفْيَانَ بْنُ حَرْبٍ، أَنَّ هِرَقْلَ، دَعَا تَرْجُمَانَهُ، ثُمَّ دَعَا بِكِتَابِ النَّبِيِّ صلى الله عليه وسلم فَقَرَأَهُ ‏\"‏ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ مِنْ مُحَمَّدٍ عَبْدِ اللَّهِ وَرَسُولِهِ إِلَى هِرَقْلَ، وَ‏{‏يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ ‏}‏‏\"‏ الآيَةَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Sufjan bin Harbi: Herakliu thirri përkthyesin e tij e pastaj kërkoi letrën e Pejgamberit (s.a.v.s.) dhe e lexoi atë: \"Me emrin e Allahut, të Gjithëmëshirshmit, Mëshirëplotit. Nga Muhamedi, robi i Allahut dhe i Dërguari i Tij, drejtuar Herakliut. 'O ithtarë të Librit, ejani në një fjalë të përbashkët mes nesh dhe jush: që të mos adhurojmë askënd tjetër përveç Allahut...'\" (3:64)."
+    },
+    "en": {
+      "narrator": "And Ibn 'Abbas narrated:",
+      "text": "Abu Sufyan bin Harb told me that Heraclius called for his translator and then asked for the letter of the Prophet (ﷺ), and the former read it (thus): \"In the Name of Allah, the Most Gracious, the Merciful. (This letter is) from Muhammad bin 'Abdullah, to Heraclius. \"...O people of the Scripture (Jews and Christians): Come to a word that is just between us and you that we worship none but Allah...\" (V.3:64)"
+    }
+  }
+}

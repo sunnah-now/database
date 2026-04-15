@@ -1,0 +1,34 @@
+{
+  "id": 4494,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ عَطَاءٍ، سَمِعَ ابْنَ عَبَّاسٍ، ‏{‏أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَةَ اللَّهِ كُفْرًا‏}‏ قَالَ هُمْ كُفَّارُ أَهْلِ مَكَّةَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Lidhur me ajetin: \"A nuk i ke parë ata që mirësinë e Allahut e ndryshuan me mosbesim?\" (14:28), ai ka thënë: \"Ata janë mosbesimtarët e Mekës.\""
+    },
+    "en": {
+      "narrator": "Narrated Ata:",
+      "text": "When Ibn `Abbas heard:-- \"Have you not seen those who have changed the favor of Allah into disbelief?\" (14.28) he said, \"Those were the disbelieving pagans of Mecca.\""
+    }
+  }
+}

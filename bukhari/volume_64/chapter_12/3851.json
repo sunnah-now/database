@@ -1,0 +1,34 @@
+{
+  "id": 3851,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مُحَمَّدُ بْنُ فُلَيْحٍ، عَنْ مُوسَى بْنِ عُقْبَةَ، قَالَ ابْنُ شِهَابٍ حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، أَنَّ رِجَالاً، مِنَ الأَنْصَارِ اسْتَأْذَنُوا رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالُوا ائْذَنْ لَنَا فَلْنَتْرُكْ لاِبْنِ أُخْتِنَا عَبَّاسٍ فِدَاءَهُ‏.‏ قَالَ ‏ \"‏ وَاللَّهِ لاَ تَذَرُونَ مِنْهُ دِرْهَمًا ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Disa burra nga ensarët kërkuan leje nga i Dërguari i Allahut (s.a.v.s.) dhe i thanë: \"Na lejo që t'ia falim shpagimin djalit të motrës sonë, Abbasit.\" Profeti (s.a.v.s.) u përgjigj: \"Pasha Allahun, nuk do t'ia falni asnjë dërhem prej tij!\""
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Some men of the Ansar requested Allah's Messenger (ﷺ) to allow them to see him, they said, \"Allow us to forgive the ransom of our sister's son, `Abbas.\" The Prophet (ﷺ) said, \"By Allah, you will not leave a single Dirham of it!\""
+    }
+  }
+}

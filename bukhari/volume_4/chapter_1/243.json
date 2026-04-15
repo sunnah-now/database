@@ -1,0 +1,34 @@
+{
+  "id": 243,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "What has been revealed regarding ablution?"
+        },
+        "ar": {
+          "text": "بَابُ مَا جَاءَ فِي الْوُضُوءِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدٌ، قَالَ أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي حَازِمٍ، سَمِعَ سَهْلَ بْنَ سَعْدٍ السَّاعِدِيَّ،، وَسَأَلَهُ النَّاسُ، وَمَا بَيْنِي وَبَيْنَهُ أَحَدٌ بِأَىِّ شَىْءٍ دُووِيَ جُرْحُ النَّبِيِّ صلى الله عليه وسلم فَقَالَ مَا بَقِيَ أَحَدٌ أَعْلَمُ بِهِ مِنِّي، كَانَ عَلِيٌّ يَجِيءُ بِتُرْسِهِ فِيهِ مَاءٌ، وَفَاطِمَةُ تَغْسِلُ عَنْ وَجْهِهِ الدَّمَ، فَأُخِذَ حَصِيرٌ فَأُحْرِقَ فَحُشِيَ بِهِ جُرْحُهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Sehl bin Sad es-Sa'idiu: Njerëzit e pyetën: \"Me çfarë u mjekua plaga e Pejgamberit (s.a.v.s.)?\" Sehli u përgjigj: \"Nuk ka mbetur askush që e di këtë më mirë se unë. Aliu sillte ujë me mburojën e tij, ndërsa Fatimja ia lante gjakun nga fytyra e tij. Pastaj u mor një rrogoz, u dogj dhe me të u mbush plaga e tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Hazim:",
+      "text": "Sahl bin Sa`d As-Sa`idi, was asked by the people, \"With what was the wound of the Prophet (ﷺ) treated? Sahl replied, \"None remains among the people living who knows that better than I. `Ali used to bring water in his shield and Fatima used to wash the blood off his face. Then straw mat was burnt and the wound was filled with it.\""
+    }
+  }
+}

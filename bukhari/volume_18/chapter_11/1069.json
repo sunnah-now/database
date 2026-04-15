@@ -1,0 +1,34 @@
+{
+  "id": 1069,
+  "metadata": {
+    "volume": {
+      "id": 18
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "Whoever did not offer the Nawafil before and after the (compulsory) Salat during a journey"
+        },
+        "ar": {
+          "text": "باب مَنْ لَمْ يَتَطَوَّعْ فِي السَّفَرِ دُبُرَ الصَّلاَةِ وَقَبْلَهَا"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، قَالَ حَدَّثَنِي عُمَرُ بْنُ مُحَمَّدٍ، أَنَّ حَفْصَ بْنَ عَاصِمٍ، حَدَّثَهُ قَالَ سَافَرَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ فَقَالَ صَحِبْتُ النَّبِيَّ صلى الله عليه وسلم فَلَمْ أَرَهُ يُسَبِّحُ فِي السَّفَرِ، وَقَالَ اللَّهُ جَلَّ ذِكْرُهُ ‏{‏لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ‏}‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Umeri: \"E kam shoqëruar Pejgamberin (s.a.v.s.) gjatë udhëtimit dhe nuk e kam parë të falë namaze nafile, ndërsa Allahu i Madhëruar thotë: 'Vërtet, ju keni një shembull të shkëlqyer te i Dërguari i Allahut (s.a.v.s.).'\" (33:21)"
+    },
+    "en": {
+      "narrator": "Narrated Hafs bin `Asim:",
+      "text": "Ibn `Umar went on a journey and said, \"I accompanied the Prophet (ﷺ) and he did not offer optional prayers during the journey, and Allah says: 'Verily! In Allah's Messenger (ﷺ) you have a good example to follow.' \" (33.21)"
+    }
+  }
+}

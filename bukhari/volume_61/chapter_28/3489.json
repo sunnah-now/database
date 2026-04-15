@@ -1,0 +1,34 @@
+{
+  "id": 3489,
+  "metadata": {
+    "volume": {
+      "id": 61
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قَيْسُ بْنُ حَفْصٍ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، قَالَ سَمِعْتُ أَنَسًا، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Pejgamberi (s.a.v.s.) ka thënë: \"Te kuajt ka gjithmonë mirësi.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "The Prophet (ﷺ) said, \"There is always goodness in horses.\""
+    }
+  }
+}

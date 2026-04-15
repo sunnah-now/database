@@ -1,0 +1,34 @@
+{
+  "id": 3825,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا لَيْثٌ، عَنْ يَحْيَى، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ ـ رضى الله عنهما ـ ذُكِرَ لَهُ أَنَّ سَعِيدَ بْنَ زَيْدِ بْنِ عَمْرِو بْنِ نُفَيْلٍ ـ وَكَانَ بَدْرِيًّا ـ مَرِضَ فِي يَوْمِ جُمُعَةٍ فَرَكِبَ إِلَيْهِ بَعْدَ أَنْ تَعَالَى النَّهَارُ وَاقْتَرَبَتِ الْجُمُعَةُ، وَتَرَكَ الْجُمُعَةَ"
+    },
+    "al": {
+      "text": "Transmeton Ibën Omeri: Atij i treguan se Seid bin Zejd bin Amr bin Nufejli, i cili ishte pjesëmarrës në Bedër, ishte sëmurë në ditën e xhuma. Ibën Omeri u nis për tek ai pasi dita kishte përparuar dhe koha e xhumasë ishte afruar, kështu që ai nuk mori pjesë në namazin e xhumasë."
+    },
+    "en": {
+      "narrator": "Narrated Nafi:",
+      "text": "Ibn 'Umar was once told that Said bin Zaid bin 'Amr bin Nufail, one of the Badr warriors, had fallen ill on a Friday. Ibn 'Umar rode to him late in the forenoon. The time of the Friday prayer approached and Ibn 'Umar did not take part in the Friday prayer."
+    }
+  }
+}

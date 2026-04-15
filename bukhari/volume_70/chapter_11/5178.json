@@ -1,0 +1,34 @@
+{
+  "id": 5178,
+  "metadata": {
+    "volume": {
+      "id": 70
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The food of one person is sufficient for two persons."
+        },
+        "ar": {
+          "text": "باب طَعَامُ الْوَاحِدِ يَكْفِي الاِثْنَيْنِ‏"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، وَحَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّهُ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ طَعَامُ الاِثْنَيْنِ كَافِي الثَّلاَثَةِ، وَطَعَامُ الثَّلاَثَةِ كَافِي الأَرْبَعَةِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Ushqimi i dy personave mjafton për tre, ndërsa ushqimi i tre personave mjafton për katër.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"The food for two persons is sufficient for three, and the food of three persons is sufficient for four persons.\""
+    }
+  }
+}

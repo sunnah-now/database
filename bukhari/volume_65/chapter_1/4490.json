@@ -1,0 +1,34 @@
+{
+  "id": 4490,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عُرْوَةُ، فَقُلْتُ لَعَلَّهَا ‏{‏كُذِبُوا‏}‏ مُخَفَّفَةً‏.‏ قَالَتْ مَعَاذَ اللَّهِ‏ نَحْوَهُ."
+    },
+    "al": {
+      "text": "Transmeton Ajsheja: I thashë asaj: (Në lidhje me tregimin e mësipërm), ata (të dërguarit) u tradhtuan (nga Allahu). Ajo tha: \"Allahu na ruajt!\", ose diçka të ngjashme."
+    },
+    "en": {
+      "narrator": "Narrated `Urwa:",
+      "text": "\"I told her (`Aisha): (Regarding the above narration), they (Apostles) were betrayed (by Allah).\" She said: Allah forbid or said similarly."
+    }
+  }
+}

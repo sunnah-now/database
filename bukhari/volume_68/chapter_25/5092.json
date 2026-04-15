@@ -1,0 +1,34 @@
+{
+  "id": 5092,
+  "metadata": {
+    "volume": {
+      "id": 68
+    },
+    "chapter": {
+      "id": 25,
+      "language": {
+        "en": {
+          "text": "Al-Li'an"
+        },
+        "ar": {
+          "text": "باب اللِّعَانِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا جَبَلَةُ بْنُ سُحَيْمٍ، سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ الشَّهْرُ هَكَذَا وَهَكَذَا وَهَكَذَا ‏\"‏‏.‏ يَعْنِي ثَلاَثِينَ، ثُمَّ قَالَ ‏\"‏ وَهَكَذَا وَهَكَذَا وَهَكَذَا ‏\"‏‏.‏ يَعْنِي تِسْعًا وَعِشْرِينَ يَقُولُ، مَرَّةً ثَلاَثِينَ وَمَرَّةً تِسْعًا وَعِشْرِينَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Umeri: Pejgamberi (s.a.v.s.) (duke treguar dhjetë gishtat e tij tri herë) tha: \"Muaji është kështu, kështu dhe kështu\", që do të thotë tridhjetë ditë. Pastaj (duke treguar dhjetë gishtat e tij dy herë dhe pastaj nëntë gishta) tha: \"Mund të jetë kështu, kështu dhe kështu\", që do të thotë njëzet e nëntë ditë. Ai kishte për qëllim se një herë muaji është tridhjetë ditë e një herë njëzet e nëntë ditë."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "The Prophet (holding out his ten fingers thrice), said, \"The month is thus and thus and thus,\" namely thirty days. Then (holding out his ten fingers twice and then nine fingers), he said, \"It may be thus and thus and thus,\" namely twenty nine days. He meant once thirty days and once twenty nine days."
+    }
+  }
+}

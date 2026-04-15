@@ -1,0 +1,34 @@
+{
+  "id": 12,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 6,
+      "language": {
+        "en": {
+          "text": "To feed (others) is a part of Islam"
+        },
+        "ar": {
+          "text": "باب إِطْعَامُ الطَّعَامِ مِنَ الإِسْلاَمِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ، عَنْ أَبِي الْخَيْرِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ـ رضى الله عنهما ـ أَنَّ رَجُلاً، سَأَلَ النَّبِيَّ صلى الله عليه وسلم أَىُّ الإِسْلاَمِ خَيْرٌ قَالَ ‏ \"‏ تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Amri (r.a.): Një njeri e pyeti Pejgamberin (s.a.v.s.): \"Cilat vepra apo cilësi të Islamit janë më të mirat?\" Pejgamberi (s.a.v.s.) u përgjigj: \"Të ushqesh të tjerët dhe t’u japësh selam atyre që i njeh dhe atyre që nuk i njeh.\""
+    },
+    "en": {
+      "narrator": "Narrated 'Abdullah bin 'Amr:",
+      "text": "A man asked the Prophet (ﷺ) , \"What sort of deeds or (what qualities of) Islam are good?\" The Prophet (ﷺ) replied, 'To feed (the poor) and greet those whom you know and those whom you do not Know (See Hadith No. 27)."
+    }
+  }
+}

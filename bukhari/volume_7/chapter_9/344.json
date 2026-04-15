@@ -1,0 +1,34 @@
+{
+  "id": 344,
+  "metadata": {
+    "volume": {
+      "id": 7
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدَانُ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا عَوْفٌ، عَنْ أَبِي رَجَاءٍ، قَالَ حَدَّثَنَا عِمْرَانُ بْنُ حُصَيْنٍ الْخُزَاعِيُّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى رَجُلاً مُعْتَزِلاً لَمْ يُصَلِّ فِي الْقَوْمِ فَقَالَ ‏\"‏ يَا فُلاَنُ مَا مَنَعَكَ أَنْ تُصَلِّيَ فِي الْقَوْمِ ‏\"‏‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ، أَصَابَتْنِي جَنَابَةٌ وَلاَ مَاءَ‏.‏ قَالَ ‏\"‏ عَلَيْكَ بِالصَّعِيدِ فَإِنَّهُ يَكْفِيكَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Imran bin Husaini: I Dërguari i Allahut (s.a.v.s.) pa një njeri që qëndronte mënjanë dhe nuk e falte namazin me njerëzit. Ai e pyeti: \"O filan! Çfarë të pengoi të falje namazin me njerëzit?\" Ai u përgjigj: \"O i Dërguari i Allahut, jam xhunub dhe nuk ka ujë.\" Pejgamberi (s.a.v.s.) i tha: \"Bëj tejemum me dhe të pastër, sepse ai të mjafton.\""
+    },
+    "en": {
+      "narrator": "Narrated `Imran bin Husain Al-Khuza`i:",
+      "text": "Allah's Messenger (ﷺ) saw a person sitting aloof and not praying with the people. He asked him, \"O so and so! What prevented you from offering the prayer with the people?\" He replied, \"O Allah's Messenger (ﷺ)! I am Junub and there is no water.\" The Prophet (ﷺ) said, \"Perform Tayammum with clean earth and that will be sufficient for you.\""
+    }
+  }
+}

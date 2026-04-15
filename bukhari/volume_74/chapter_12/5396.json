@@ -1,0 +1,34 @@
+{
+  "id": 5396,
+  "metadata": {
+    "volume": {
+      "id": 74
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "The drink of milk"
+        },
+        "ar": {
+          "text": "بَابُ شُرْبِ اللَّبَنِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ الأَوْزَاعِيِّ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم شَرِبَ لَبَنًا فَمَضْمَضَ وَقَالَ ‏ \"‏ إِنَّ لَهُ دَسَمًا ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: I Dërguari i Allahut (s.a.v.s.) piu qumësht, pastaj shpëlau gojën dhe tha: \"Ai përmban yndyrë.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Allah's Messenger (ﷺ) drank milk and then rinsed his mouth and said, \"It contains fat.\""
+    }
+  }
+}

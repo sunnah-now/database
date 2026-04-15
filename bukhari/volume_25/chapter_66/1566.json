@@ -1,0 +1,34 @@
+{
+  "id": 1566,
+  "metadata": {
+    "volume": {
+      "id": 25
+    },
+    "chapter": {
+      "id": 66,
+      "language": {
+        "en": {
+          "text": "Whoever saw a string during the Tawaf and cut it"
+        },
+        "ar": {
+          "text": "باب إِذَا رَأَى سَيْرًا أَوْ شَيْئًا يُكْرَهُ فِي الطَّوَافِ قَطَعَهُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ سُلَيْمَانَ الأَحْوَلِ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى رَجُلاً يَطُوفُ بِالْكَعْبَةِ بِزِمَامٍ أَوْ غَيْرِهِ فَقَطَعَهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Pejgamberi (s.a.v.s.) pa një burrë duke bërë tavaf rreth Qabesë i lidhur me një litar ose diçka tjetër, kështu që Pejgamberi (s.a.v.s.) e këputi atë."
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "The Prophet (ﷺ) saw a man performing Tawaf of the Ka`ba tied with a string or something else. So the Prophet cut that string."
+    }
+  }
+}

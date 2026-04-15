@@ -1,0 +1,34 @@
+{
+  "id": 2060,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 55,
+      "language": {
+        "en": {
+          "text": "The selling of the foodstuff before receiving it"
+        },
+        "ar": {
+          "text": "باب بَيْعِ الطَّعَامِ قَبْلَ أَنْ يُقْبَضَ، وَبَيْعِ مَا لَيْسَ عِنْدَكَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَسْتَوْفِيَهُ ‏\"‏‏.‏ زَادَ إِسْمَاعِيلُ ‏\"‏ مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَقْبِضَهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: Pejgamberi (s.a.v.s.) ka thënë: \"Kush blen ushqim, të mos e shesë atë derisa t'i matet.\" Ismaili shton: \"Të mos e shesë atë derisa ta marrë në dorëzim.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "The Prophet (ﷺ) said, \"The buyer of foodstuff should not sell it before it has been measured for him.\" Isma`il narrated instead, \"He should not sell it before receiving it.\""
+    }
+  }
+}

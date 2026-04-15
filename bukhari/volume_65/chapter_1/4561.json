@@ -1,0 +1,34 @@
+{
+  "id": 4561,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنَا مُسْلِمٌ، عَنْ مَسْرُوقٍ، قَالَ قَالَ عَبْدُ اللَّهِ خَمْسٌ قَدْ مَضَيْنَ الدُّخَانُ وَالْقَمَرُ وَالرُّومُ وَالْبَطْشَةُ وَاللِّزَامُ ‏{‏فَسَوْفَ يَكُونُ لِزَامًا‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullahu: Pesë (ngjarje të mëdha) tashmë kanë kaluar: Tymi, Hëna, Romakët, Kapja e fuqishme dhe ndëshkimi i pashmangshëm, sipas ajetit: \"Dhe dënimi do të jetë i pashmangshëm.\" (25:77)"
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah:",
+      "text": "Five (great events) have passed: the Smoke, the Moon, the Romans, the Mighty grasp and the constant Punishment which occurs in 'So the torment will be yours forever.' (25.77)"
+    }
+  }
+}

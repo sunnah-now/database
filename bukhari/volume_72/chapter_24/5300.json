@@ -1,0 +1,34 @@
+{
+  "id": 5300,
+  "metadata": {
+    "volume": {
+      "id": 72
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "An-Nahr and Adh-Dhabh"
+        },
+        "ar": {
+          "text": "باب النَّحْرِ وَالذَّبْحِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا جَرِيرٌ، عَنْ هِشَامٍ، عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ، أَنَّ أَسْمَاءَ بِنْتَ أَبِي بَكْرٍ، قَالَتْ نَحَرْنَا عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَرَسًا فَأَكَلْنَاهُ‏.‏ تَابَعَهُ وَكِيعٌ وَابْنُ عُيَيْنَةَ عَنْ هِشَامٍ فِي النَّحْرِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Esma bint Ebi Bekër: Kemi therrur një kalë në kohën e të Dërguarit të Allahut (s.a.v.s.) dhe e kemi ngrënë atë."
+    },
+    "en": {
+      "narrator": "Narrated Asma' bint Abu Bakr:",
+      "text": "We slaughtered a horse (by Nahr) during the lifetime of Allah's Messenger (ﷺ) and ate it."
+    }
+  }
+}

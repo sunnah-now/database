@@ -1,0 +1,34 @@
+{
+  "id": 4407,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ سَلَمَةَ، حَدَّثَنَا مَالِكُ بْنُ سُعَيْرٍ، حَدَّثَنَا هِشَامٌ، عَنِ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أُنْزِلَتْ هَذِهِ الآيَةُ ‏{‏لاَ يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ‏}‏ فِي قَوْلِ الرَّجُلِ لاَ وَاللَّهِ، وَبَلَى وَاللَّهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ajsheja: Ky ajet: \"Allahu nuk do t'ju ndëshkojë për betimet tuaja të paqëllimta\" (5:89), u shpall lidhur me thëniet e njeriut (gjatë bisedës): \"Jo, pasha Allahun\" dhe \"Po, pasha Allahun\"."
+    },
+    "en": {
+      "narrator": "Narrated `Aisha:",
+      "text": "This Verse: \"Allah will not punish you for what is unintentional in your oaths.\" (5.89) was revealed about a man's state men (during his talk), \"No, by Allah,\" and \"Yes, by Allah.\""
+    }
+  }
+}

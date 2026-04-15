@@ -1,0 +1,34 @@
+{
+  "id": 222,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 63,
+      "language": {
+        "en": {
+          "text": "The washing out of blood"
+        },
+        "ar": {
+          "text": "باب غَسْلِ الدَّمِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ، أَنَّهَا قَالَتْ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِصَبِيٍّ، فَبَالَ عَلَى ثَوْبِهِ، فَدَعَا بِمَاءٍ فَأَتْبَعَهُ إِيَّاهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ajsheja (nëna e besimtarëve): Të Dërguarit të Allahut (s.a.v.s.) i sollën një fëmijë, i cili urinoi mbi rrobën e tij. Atëherë ai kërkoi ujë dhe e hodhi mbi vendin e ndotur."
+    },
+    "en": {
+      "narrator": "Narrated `Aisha:",
+      "text": "(the mother of faithful believers) A child was brought to Allah's Messenger (ﷺ) and it urinated on the garment of the Prophet. The Prophet (ﷺ) asked for water and poured it over the soiled place."
+    }
+  }
+}

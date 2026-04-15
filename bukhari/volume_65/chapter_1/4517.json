@@ -1,0 +1,34 @@
+{
+  "id": 4517,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي طَلْقُ بْنُ غَنَّامٍ، حَدَّثَنَا زَائِدَةُ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أُنْزِلَ ذَلِكَ فِي الدُّعَاءِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Aishja: Ky ajet u shpall në lidhje me lutjet."
+    },
+    "en": {
+      "narrator": "Narrated Aisha:",
+      "text": "The (above) verse was revealed in connection with the invocations."
+    }
+  }
+}

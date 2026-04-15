@@ -1,0 +1,34 @@
+{
+  "id": 212,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 56,
+      "language": {
+        "en": {
+          "text": ""
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا نَعَسَ أَحَدُكُمْ وَهُوَ يُصَلِّي فَلْيَرْقُدْ حَتَّى يَذْهَبَ عَنْهُ النَّوْمُ، فَإِنَّ أَحَدَكُمْ إِذَا صَلَّى وَهُوَ نَاعِسٌ لاَ يَدْرِي لَعَلَّهُ يَسْتَغْفِرُ فَيَسُبَّ نَفْسَهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Aishja: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Nëse ndonjëri prej jush e ndien veten të përgjumur gjatë faljes së namazit, le të shkojë të flejë derisa t'i kalojë gjumi, sepse kur ndonjëri prej jush falet duke qenë i përgjumur, ai nuk e di nëse po kërkon falje apo po mallkon veten.\""
+    },
+    "en": {
+      "narrator": "Narrated `Aisha:",
+      "text": "Allah's Messenger (ﷺ) said, \"If anyone of you feels drowsy while praying he should go to bed (sleep) till his slumber is over because in praying while drowsy one does not know whether one is asking for forgiveness or for a bad thing for oneself.\""
+    }
+  }
+}

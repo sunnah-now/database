@@ -1,0 +1,34 @@
+{
+  "id": 2133,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 97,
+      "language": {
+        "en": {
+          "text": "The sale of undivided common belongings"
+        },
+        "ar": {
+          "text": "باب بَيْعِ الأَرْضِ وَالدُّورِ وَالْعُرُوضِ مُشَاعًا غَيْرَ مَقْسُومٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، بِهَذَا وَقَالَ فِي كُلِّ مَا لَمْ يُقْسَمْ‏.‏ تَابَعَهُ هِشَامٌ عَنْ مَعْمَرٍ‏.‏ قَالَ عَبْدُ الرَّزَّاقِ فِي كُلِّ مَالٍ‏.‏ رَوَاهُ عَبْدُ الرَّحْمَنِ بْنُ إِسْحَاقَ عَنِ الزُّهْرِيِّ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Hishami nga Ma’mari: \"...në çdo gjë të përbashkët të pandarë...\" Ndërsa Abdurrezaku thotë: \"...në çdo pasuri...\""
+    },
+    "en": {
+      "narrator": "Narrated Mussaddad from `Abdul Wahid:",
+      "text": "the same as above but said, \"... in every joint undivided thing...\" Narrated Hisham from Ma`mar the same as above but said, \" ... in every property... \""
+    }
+  }
+}

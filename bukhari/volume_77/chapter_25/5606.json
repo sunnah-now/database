@@ -1,0 +1,34 @@
+{
+  "id": 5606,
+  "metadata": {
+    "volume": {
+      "id": 77
+    },
+    "chapter": {
+      "id": 25,
+      "language": {
+        "en": {
+          "text": "The wearing of silk clothes by men"
+        },
+        "ar": {
+          "text": "باب لُبْسِ الْحَرِيرِ، وَافْتِرَاشِهِ لِلرِّجَالِ، وَقَدْرِ مَا يَجُوزُ مِنْهُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، قَالَ سَمِعْتُ ابْنَ الزُّبَيْرِ، يَخْطُبُ يَقُولُ قَالَ مُحَمَّدٌ صلى الله عليه وسلم ‏ \"‏ مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا لَمْ يَلْبَسْهُ فِي الآخِرَةِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn ez-Zubejri se Muhamedi (s.a.v.s.) ka thënë: \"Kushdo që vesh mëndafsh në këtë botë, nuk do ta veshë atë në Ahiret.\""
+    },
+    "en": {
+      "narrator": "Narrated Thabit:",
+      "text": "I heard Ibn Az-Zubair delivering a sermon, saying, \"Muhammad said, 'Whoever wears silk in this world, shall not wear it in the Hereafter.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4777,
+  "metadata": {
+    "volume": {
+      "id": 66
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Qur'an was revealed in the language of Quraish and the Arabs"
+        },
+        "ar": {
+          "text": "باب نَزَلَ الْقُرْآنُ بِلِسَانِ قُرَيْشٍ وَالْعَرَبِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْيَمَانِ، حَدَّثَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، وَأَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ، قَالَ فَأَمَرَ عُثْمَانُ زَيْدَ بْنَ ثَابِتٍ وَسَعِيدَ بْنَ الْعَاصِ وَعَبْدَ اللَّهِ بْنَ الزُّبَيْرِ وَعَبْدَ الرَّحْمَنِ بْنَ الْحَارِثِ بْنِ هِشَامٍ أَنْ يَنْسَخُوهَا، فِي الْمَصَاحِفِ وَقَالَ لَهُمْ إِذَا اخْتَلَفْتُمْ أَنْتُمْ وَزَيْدُ بْنُ ثَابِتٍ فِي عَرَبِيَّةٍ مِنْ عَرَبِيَّةِ الْقُرْآنِ فَاكْتُبُوهَا بِلِسَانِ قُرَيْشٍ، فَإِنَّ الْقُرْآنَ أُنْزِلَ بِلِسَانِهِمْ فَفَعَلُوا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enes bin Maliku: Othmani i urdhëroi Zejd bin Thabitin, Said bin el-Asin, Abdullah bin ez-Zubejrin dhe Abdurrahman bin el-Harith bin Hishamin që ta kopjonin Kuranin në mus'hafe dhe u tha atyre: \"Nëse ju dhe Zejd bin Thabiti keni mospajtime lidhur me ndonjë shprehje gjuhësore të Kuranit, atëherë shkruajeni atë në dialektin e Kurejshëve, sepse Kurani u shpall në dialektin e tyre.\" Dhe kështu vepruan."
+    },
+    "en": {
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "(The Caliph `Uthman ordered Zaid bin Thabit, Sa`id bin Al-As, `Abdullah bin Az-Zubair and `Abdur- Rahman bin Al-Harith bin Hisham to write the Qur'an in the form of a book (Mushafs) and said to them. \"In case you disagree with Zaid bin Thabit (Al-Ansari) regarding any dialectic Arabic utterance of the Qur'an, then write it in the dialect of Quraish, for the Qur'an was revealed in this dialect.\" So they did it."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2560,
+  "metadata": {
+    "volume": {
+      "id": 52
+    },
+    "chapter": {
+      "id": 18,
+      "language": {
+        "en": {
+          "text": "The boys attaining the age of puberty and their witness"
+        },
+        "ar": {
+          "text": "باب بُلُوغِ الصِّبْيَانِ وَشَهَادَتِهِمْ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا صَفْوَانُ بْنُ سُلَيْمٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ غُسْلُ يَوْمِ الْجُمُعَةِ وَاجِبٌ عَلَى كُلِّ مُحْتَلِمٍ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Said el-Hudriu: Pejgamberi (s.a.v.s.) ka thënë: \"Gusli i ditës së xhuma është i detyrueshëm për çdo person që ka arritur moshën e pjekurisë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "The Prophet (ﷺ) said, \"Bath on Friday is compulsory for those who have attained the age of puberty.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4787,
+  "metadata": {
+    "volume": {
+      "id": 66
+    },
+    "chapter": {
+      "id": 6,
+      "language": {
+        "en": {
+          "text": "The compilation of the Qur'an"
+        },
+        "ar": {
+          "text": "باب تَأْلِيفِ الْقُرْآنِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ يَزِيدَ، سَمِعْتُ ابْنَ مَسْعُودٍ، يَقُولُ فِي بَنِي إِسْرَائِيلَ وَالْكَهْفِ وَمَرْيَمَ وَطَهَ وَالأَنْبِيَاءِ إِنَّهُنَّ مِنَ الْعِتَاقِ الأُوَلِ وَهُنَّ مِنْ تِلاَدِي‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Mes'udi: Suret Beni Israil, el-Kehf, Merjem, Taha dhe el-Enbija janë ndër fitimet e mia të para dhe ato janë prej pasurisë sime të hershme."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin Mas`ud:",
+      "text": "Surat Bani-lsrael, Al-Kahf (The Cave), Maryam, Taha, Al-Anbiya' (The prophets) are amongst my first earnings and my old property, and (in fact) they are my old property."
+    }
+  }
+}

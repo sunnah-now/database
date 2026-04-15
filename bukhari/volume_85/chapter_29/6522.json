@@ -1,0 +1,34 @@
+{
+  "id": 6522,
+  "metadata": {
+    "volume": {
+      "id": 85
+    },
+    "chapter": {
+      "id": 29,
+      "language": {
+        "en": {
+          "text": "Whoever claims to be the son of a person other than his father"
+        },
+        "ar": {
+          "text": "باب مَنِ ادَّعَى إِلَى غَيْرِ أَبِيهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَصْبَغُ بْنُ الْفَرَجِ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنْ عِرَاكٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تَرْغَبُوا عَنْ آبَائِكُمْ، فَمَنْ رَغِبَ عَنْ أَبِيهِ فَهُوَ كُفْرٌ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: Pejgamberi (s.a.v.s.) ka thënë: \"Mos i mohoni etërit tuaj (duke pretenduar tjetër prejardhje), sepse kushdo që e mohon babanë e tij, kjo është kufër.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"Do not deny your fathers (i.e. claim to be the sons of persons other than your fathers), and whoever denies his father, is charged with disbelief.\""
+    }
+  }
+}

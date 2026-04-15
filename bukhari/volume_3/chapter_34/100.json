@@ -1,0 +1,34 @@
+{
+  "id": 100,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "How the (religious) knowledge will be taken away"
+        },
+        "ar": {
+          "text": "باب كَيْفَ يُقْبَضُ الْعِلْمُ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّ اللَّهَ لاَ يَقْبِضُ الْعِلْمَ انْتِزَاعًا، يَنْتَزِعُهُ مِنَ الْعِبَادِ، وَلَكِنْ يَقْبِضُ الْعِلْمَ بِقَبْضِ الْعُلَمَاءِ، حَتَّى إِذَا لَمْ يُبْقِ عَالِمًا، اتَّخَذَ النَّاسُ رُءُوسًا جُهَّالاً فَسُئِلُوا، فَأَفْتَوْا بِغَيْرِ عِلْمٍ، فَضَلُّوا وَأَضَلُّوا ‏\"‏‏. قَالَ الْفِرَبْرِيُّ حَدَّثَنَا عَبَّاسٌ قَالَ حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا جَرِيرٌ عَنْ هِشَامٍ نَحْوَهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah ibn Amr ibn el-Asi: E kam dëgjuar të Dërguarin e Allahut (s.a.v.s.) duke thënë: \"Vërtet, Allahu nuk e merr diturinë duke e shkulur atë nga (zemrat e) njerëzve, por e merr diturinë përmes vdekjes së dijetarëve. Kur të mos mbetet më asnjë dijetar, njerëzit do të marrin si udhëheqës të tyre injorantët. Kur ata të pyeten, do të japin fetva pa pasur dituri, duke devijuar kështu vetë dhe duke i devijuar edhe të tjerët.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Amr bin Al-`As:",
+      "text": "I heard Allah's Messenger (ﷺ) saying, \"Allah does not take away the knowledge, by taking it away from (the hearts of) the people, but takes it away by the death of the religious learned men till when none of the (religious learned men) remains, people will take as their leaders ignorant persons who when consulted will give their verdict without knowledge. So they will go astray and will lead the people astray.\""
+    }
+  }
+}

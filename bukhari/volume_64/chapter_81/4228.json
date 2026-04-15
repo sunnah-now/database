@@ -1,0 +1,34 @@
+{
+  "id": 4228,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 81,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، حَدَّثَنَا سُلَيْمَانُ، قَالَ حَدَّثَنِي عَمْرُو بْنُ يَحْيَى، عَنْ عَبَّاسِ بْنِ سَهْلِ بْنِ سَعْدٍ، عَنْ أَبِي حُمَيْدٍ، قَالَ أَقْبَلْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم مِنْ غَزْوَةِ تَبُوكَ حَتَّى إِذَا أَشْرَفْنَا عَلَى الْمَدِينَةِ قَالَ ‏ \"‏ هَذِهِ طَابَةُ، وَهَذَا أُحُدٌ، جَبَلٌ يُحِبُّنَا وَنُحِبُّهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Humejdi: U kthyem së bashku me Pejgamberin (s.a.v.s.) nga ekspedita e Tebukut dhe kur arritëm pranë Medines, Pejgamberi (s.a.v.s.) tha: \"Kjo është Taba dhe ky është Uhudi, një mal që na do dhe të cilin ne e duam.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Humaid:",
+      "text": "We returned in the company of the Prophet (ﷺ) from the Ghazwa of Tabuk, and when we looked upon Medina, the Prophet (ﷺ) said, \"This is Taba (i.e. Medina), and this is Uhud, a mountain that loves us and is loved by us.\""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 14,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "To love the Messenger (Muhammad saws) is a part of faith"
+        },
+        "ar": {
+          "text": "باب حُبُّ الرَّسُولِ صلى الله عليه وسلم مِنَ الإِيمَانِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، قَالَ حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ فَوَالَّذِي نَفْسِي بِيَدِهِ لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejra se i Dërguari i Allahut (s.a.v.s.) ka thënë: \"Pasha Atë, në Dorën e të Cilit është shpirti im, askush prej jush nuk do të ketë besim derisa unë të jem më i dashur për të sesa prindi dhe fëmija e tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "\"Allah's Messenger (ﷺ) said, \"By Him in Whose Hands my life is, none of you will have faith till he loves me more than his father and his children.\""
+    }
+  }
+}

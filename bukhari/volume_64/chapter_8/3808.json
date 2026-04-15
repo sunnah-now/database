@@ -1,0 +1,34 @@
+{
+  "id": 3808,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The killing of Abu Jahl"
+        },
+        "ar": {
+          "text": "باب قَتْلِ أَبِي جَهْلٍ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي يُوسُفُ بْنُ الْمَاجِشُونِ، عَنْ صَالِحِ بْنِ إِبْرَاهِيمَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ عَبْدِ الرَّحْمَنِ، قَالَ كَاتَبْتُ أُمَيَّةَ بْنَ خَلَفٍ، فَلَمَّا كَانَ يَوْمُ بَدْرٍ، فَذَكَرَ قَتْلَهُ وَقَتْلَ ابْنِهِ، فَقَالَ بِلاَلٌ لاَ نَجَوْتُ إِنْ نَجَا أُمَيَّةُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdur-Rahmani: Kam pasur një marrëveshje me Umeje bin Halefin (që ai të kujdesej për të afërmit dhe pasurinë time në Mekë, ndërsa unë të kujdesesha për të afërmit dhe pasurinë e tij në Medinë). Pastaj Abdur-Rahmani përmendi vrasjen e Umejes dhe të birit të tij në ditën e Bedrit, me ç'rast Bilalli tha: \"Nuk shpëtofsha, nëse shpëton Umeja!\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdur-Rahman bin `Auf:",
+      "text": "\"I had an agreement with Umaiya bin Khalaf (that he would look after my relatives and property in Mecca, and I would look after his relatives and property in Medina).\" `Abdur-Rahman then mentioned the killing of Umaiya and his son on the day of Badr, and Bilal said, \"Woe to me if Umaiya remains safe (i.e. alive) . \""
+    }
+  }
+}

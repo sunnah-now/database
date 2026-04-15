@@ -1,0 +1,34 @@
+{
+  "id": 2783,
+  "metadata": {
+    "volume": {
+      "id": 56
+    },
+    "chapter": {
+      "id": 78,
+      "language": {
+        "en": {
+          "text": "Exhortation to archery (i.e., arrow throwing)"
+        },
+        "ar": {
+          "text": "باب التَّحْرِيضِ عَلَى الرَّمْىِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْغَسِيلِ، عَنْ حَمْزَةَ بْنِ أَبِي أُسَيْدٍ، عَنْ أَبِيهِ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم يَوْمَ بَدْرٍ حِينَ صَفَفْنَا لِقُرَيْشٍ وَصَفُّوا لَنَا ‏ \"‏ إِذَا أَكْثَبُوكُمْ فَعَلَيْكُمْ بِالنَّبْلِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Usejdi: Në ditën e Bedrit, kur u rreshtuam përballë kurejshëve dhe ata u rreshtuan përballë nesh, Pejgamberi (s.a.v.s.) tha: \"Nëse ju afrohen, atëherë gjuajini me shigjeta.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Usaid:",
+      "text": "On the day (of the battle) of Badr when we stood in rows against (the army of) Quraish and they stood in rows against us, the Prophet (ﷺ) said, \"When they do come near you, throw arrows at them.\""
+    }
+  }
+}

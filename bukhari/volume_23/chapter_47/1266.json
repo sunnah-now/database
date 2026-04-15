@@ -1,0 +1,34 @@
+{
+  "id": 1266,
+  "metadata": {
+    "volume": {
+      "id": 23
+    },
+    "chapter": {
+      "id": 47,
+      "language": {
+        "en": {
+          "text": "when should one sit after standing for the funeral procession?"
+        },
+        "ar": {
+          "text": "باب مَتَى يَقْعُدُ إِذَا قَامَ لِلْجَنَازَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنْ عَامِرِ بْنِ رَبِيعَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا رَأَى أَحَدُكُمْ جَنَازَةً فَإِنْ لَمْ يَكُنْ مَاشِيًا مَعَهَا فَلْيَقُمْ حَتَّى يُخَلِّفَهَا، أَوْ تُخَلِّفَهُ أَوْ تُوضَعَ مِنْ قَبْلِ أَنْ تُخَلِّفَهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Amir bin Rabia: Pejgamberi (s.a.v.s.) ka thënë: \"Nëse ndonjëri prej jush sheh një xhenaze dhe nuk e shoqëron atë, atëherë le të ngrihet në këmbë dhe të qëndrojë derisa ajo të kalojë pas tij, ose ta lërë pas atë, ose derisa ajo të ulet në tokë para se të kalojë para tij.\""
+    },
+    "en": {
+      "narrator": "Narrated 'Amir bin Rabi`a:",
+      "text": "The Prophet (ﷺ) said, \"If any one of you see a funeral procession and he is not going along with it, then he should stand and remain standing till he gets behind it, or it leaves him behind, or the coffin is put down before it goes ahead of him . \""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4641,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا حَرَمِيٌّ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ يُلْقَى فِي النَّارِ وَتَقُولُ هَلْ مِنْ مَزِيدٍ‏.‏ حَتَّى يَضَعَ قَدَمَهُ فَتَقُولُ قَطِ قَطِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Profeti (s.a.v.s.) ka thënë: \"Njerëzit do të hidhen në Zjarr dhe ai do të thotë: 'A ka më?' derisa Allahu ta vendosë Shputën e Tij mbi të, e atëherë ai do të thotë: 'Mjaft! Mjaft!'\""
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "The Prophet (ﷺ) said, \"The people will be thrown into the (Hell) Fire and it will say: \"Are there any more (to come)?' (50.30) till Allah puts His Foot over it and it will say, 'Qati! Qati! (Enough Enough!)'\""
+    }
+  }
+}

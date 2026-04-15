@@ -1,0 +1,34 @@
+{
+  "id": 4719,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا مُوسَى بْنُ أَبِي عَائِشَةَ ـ وَكَانَ ثِقَةً ـ عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا نَزَلَ عَلَيْهِ الْوَحْىُ حَرَّكَ بِهِ لِسَانَهُ ـ وَوَصَفَ سُفْيَانُ ـ يُرِيدُ أَنْ يَحْفَظَهُ فَأَنْزَلَ اللَّهُ ‏{‏لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ‏}‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Pejgamberi (s.a.v.s.) e lëvizte gjuhën e tij kur i zbriste Shpallja (Vahji) – Sufjani e përshkroi këtë si dëshirë për ta mësuar atë përmendësh – andaj Allahu shpalli: \"Mos e lëviz gjuhën tënde me të (Kur'anin) për ta nxënë atë me shpejtësi.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "The Prophet (ﷺ) used to move his tongue when the divine Inspiration was being revealed to him. (Sufyan, a subnarrator, demonstrated (how the Prophet (ﷺ) used to move his lips) and added. \"In order to memorize it.\" So Allah revealed: \"Move not your tongue concerning (the Qur'an) to make haste therewith.\" (75.16)"
+    }
+  }
+}

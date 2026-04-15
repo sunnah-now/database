@@ -1,0 +1,34 @@
+{
+  "id": 2432,
+  "metadata": {
+    "volume": {
+      "id": 49
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The witness for manumission"
+        },
+        "ar": {
+          "text": "باب إِذَا قَالَ رَجُلٌ لِعَبْدِهِ هُوَ لِلَّهِ وَنَوَى الْعِتْقَ، وَالإِشْهَادُ فِي الْعِتْقِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا شِهَابُ بْنُ عَبَّادٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ حُمَيْدٍ، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، قَالَ لَمَّا أَقْبَلَ أَبُو هُرَيْرَةَ ـ رضى الله عنه ـ وَمَعَهُ غُلاَمُهُ وَهْوَ يَطْلُبُ الإِسْلاَمَ، فَأَضَلَّ أَحَدُهُمَا صَاحِبَهُ بِهَذَا، وَقَالَ أَمَا إِنِّي أُشْهِدُكَ أَنَّهُ لِلَّهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre (r.a.): Kur ai erdhi së bashku me shërbëtorin e tij me qëllimin për të pranuar Islamin, ata e humbën njëri-tjetrin gjatë rrugës. Kur u shfaq shërbëtori, Ebu Hurejre i tha Pejgamberit (s.a.v.s.): \"Të marr dëshmitar se ai është i lirë për hir të Allahut.\""
+    },
+    "en": {
+      "narrator": "Narrated Qais:",
+      "text": "When Abu Huraira accompanied by his slave came intending to embrace Islam, they lost each other on the way. (When the slave showed up) Abu Huraira said (to the Prophet), \"I make you witness that the slave is free for Allah's Cause.\""
+    }
+  }
+}

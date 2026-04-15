@@ -1,0 +1,34 @@
+{
+  "id": 2423,
+  "metadata": {
+    "volume": {
+      "id": 49
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "If one manumits a male slave owned by two persons"
+        },
+        "ar": {
+          "text": "باب إِذَا أَعْتَقَ عَبْدًا بَيْنَ اثْنَيْنِ أَوْ أَمَةً بَيْنَ الشُّرَكَاءِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، عَنْ أَبِي أُسَامَةَ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ أَعْتَقَ شِرْكًا لَهُ فِي مَمْلُوكٍ فَعَلَيْهِ عِتْقُهُ كُلِّهِ، إِنْ كَانَ لَهُ مَالٌ يَبْلُغُ ثَمَنَهُ، فَإِنْ لَمْ يَكُنْ لَهُ يُقَوَّمُ عَلَيْهِ قِيمَةَ عَدْلٍ، فَأُعْتِقَ مِنْهُ مَا أَعْتَقَ ‏\"‏‏.‏ حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرٌ، عَنْ عُبَيْدِ اللَّهِ، اخْتَصَرَهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Omeri: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Kush liron pjesën e tij të një skllavi, e ka për detyrë ta lirojë atë plotësisht nëse ka pasuri që e mbulon vlerën e tij. Nëse nuk ka pasuri të mjaftueshme për të paguar pjesët e tjera (pasi skllavit t'i jetë caktuar një vlerë e drejtë), atëherë ai lirohet vetëm pjesërisht, në përpjesëtim me pjesën e tij.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Allah's Messenger (ﷺ) said, \"Whoever manumits his share of a slave, then it is essential for him to get that slave manumitted' completely as long as he has the money to do so. If he has not sufficient money to pay the price of the other shares (after the price of the slave is evaluated justly), the manumitted manumits the slave partially in proportion to his share. `Ubaidullah narrated as above in brief."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4507,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ خُفِّفَ عَلَى دَاوُدَ الْقِرَاءَةُ، فَكَانَ يَأْمُرُ بِدَابَّتِهِ لِتُسْرَجَ، فَكَانَ يَقْرَأُ قَبْلَ أَنْ يَفْرُغَ ‏\"‏‏.‏ يَعْنِي الْقُرْآنَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: Pejgamberi (s.a.v.s.) ka thënë: \"Leximi (i Zeburit) iu bë i lehtë Davudit, saqë ai urdhëronte që t'i vihej shala kafshës së tij dhe e përfundonte leximin para se të përfundonte shalimi i saj.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"The recitation of Psalms (David's Qur'an) was made light and easy for David that he used to have his ridding animal be saddled while he would finish the recitation before the servant had saddled it.\""
+    }
+  }
+}

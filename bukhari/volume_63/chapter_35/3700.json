@@ -1,0 +1,34 @@
+{
+  "id": 3700,
+  "metadata": {
+    "volume": {
+      "id": 63
+    },
+    "chapter": {
+      "id": 35,
+      "language": {
+        "en": {
+          "text": "The conversion ‘Umar رضي الله عنه to Islam"
+        },
+        "ar": {
+          "text": "باب إِسْلاَمِ عُمَرَ بْنِ الْخَطَّابِ رضى الله عنه"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ ـ رضى الله عنه ـ قَالَ مَا زِلْنَا أَعِزَّةً مُنْذُ أَسْلَمَ عُمَرُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah ibn Mes'udi: Ne kemi qenë të fuqishëm që kur Omeri pranoi Islamin."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin Mus'ud:",
+      "text": "We have been powerful since `Umar embraced Islam."
+    }
+  }
+}

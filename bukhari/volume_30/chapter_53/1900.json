@@ -1,0 +1,34 @@
+{
+  "id": 1900,
+  "metadata": {
+    "volume": {
+      "id": 30
+    },
+    "chapter": {
+      "id": 53,
+      "language": {
+        "en": {
+          "text": "Fasting and non-fasting (periods) of the Prophet saws."
+        },
+        "ar": {
+          "text": "باب مَا يُذْكَرُ مِنْ صَوْمِ النَّبِيِّ صلى الله عليه وسلم وَإِفْطَارِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ مَا صَامَ النَّبِيُّ صلى الله عليه وسلم شَهْرًا كَامِلاً قَطُّ غَيْرَ رَمَضَانَ، وَيَصُومُ حَتَّى يَقُولَ الْقَائِلُ لاَ وَاللَّهِ لاَ يُفْطِرُ، وَيُفْطِرُ حَتَّى يَقُولَ الْقَائِلُ لاَ وَاللَّهِ لاَ يَصُومُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi: Profeti (s.a.v.s.) nuk ka agjëruar asnjëherë një muaj të plotë përveç muajit të Ramazanit. Ai agjëronte aq shumë saqë dikush thoshte: \"Pasha Allahun, ai nuk do ta ndërpresë agjërimin,\" dhe nuk agjëronte aq gjatë saqë dikush thoshte: \"Pasha Allahun, ai nuk do të agjërojë.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "The Prophet (ﷺ) never fasted a full month except the month of Ramadan, and he used to fast till one could say, \"By Allah, he will never stop fasting,\" and he would abandon fasting till one would say, \"By Allah, he will never fast.\""
+    }
+  }
+}

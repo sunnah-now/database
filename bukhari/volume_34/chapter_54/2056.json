@@ -1,0 +1,34 @@
+{
+  "id": 2056,
+  "metadata": {
+    "volume": {
+      "id": 34
+    },
+    "chapter": {
+      "id": 54,
+      "language": {
+        "en": {
+          "text": "The selling of the foodstuff and its storage"
+        },
+        "ar": {
+          "text": "باب مَا يُذْكَرُ فِي بَيْعِ الطَّعَامِ وَالْحُكْرَةِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ يَبِيعَ الرَّجُلُ طَعَامًا حَتَّى يَسْتَوْفِيَهُ‏.‏ قُلْتُ لاِبْنِ عَبَّاسٍ كَيْفَ ذَاكَ قَالَ ذَاكَ دَرَاهِمُ بِدَرَاهِمَ وَالطَّعَامُ مُرْجَأٌ‏.‏ قَالَ أَبُو عَبْد اللَّهِ مُرْجَئُونَ مُؤَخَّرُونَ"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: I Dërguari i Allahut (s.a.v.s.) e ndaloi shitjen e ushqimit derisa ai të merret në dorëzim të plotë. E pyeta Ibn Abbasin: \"Si është kjo?\" Ai u përgjigj: \"Kjo është sikur të shkëmbesh para me para, ndërkohë që ushqimi është i vonuar (nuk është dorëzuar ende).\""
+    },
+    "en": {
+      "narrator": "Narrated Tawus:",
+      "text": "Ibn `Abbas said, \"Allah's Messenger (ﷺ) forbade the selling of foodstuff before its measuring and transferring into one's possession.\" I asked Ibn `Abbas, \"How is that?\" Ibn `Abbas replied, \"It will be just like selling money for money, as the foodstuff has not been handed over to the first purchaser who is the present seller.\""
+    }
+  }
+}

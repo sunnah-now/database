@@ -1,0 +1,34 @@
+{
+  "id": 251,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 3,
+      "language": {
+        "en": {
+          "text": "Taking a bath with a Sa' of water or so (One Sa' = 3 kilograms approx.)"
+        },
+        "ar": {
+          "text": "باب الْغُسْلِ بِالصَّاعِ وَنَحْوِهِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنِي عَبْدُ الصَّمَدِ، قَالَ حَدَّثَنِي شُعْبَةُ، قَالَ حَدَّثَنِي أَبُو بَكْرِ بْنُ حَفْصٍ، قَالَ سَمِعْتُ أَبَا سَلَمَةَ، يَقُولُ دَخَلْتُ أَنَا وَأَخُو، عَائِشَةَ عَلَى عَائِشَةَ فَسَأَلَهَا أَخُوهَا عَنْ غُسْلِ النَّبِيِّ، صلى الله عليه وسلم فَدَعَتْ بِإِنَاءٍ نَحْوًا مِنْ صَاعٍ، فَاغْتَسَلَتْ وَأَفَاضَتْ عَلَى رَأْسِهَا، وَبَيْنَنَا وَبَيْنَهَا حِجَابٌ‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ قَالَ يَزِيدُ بْنُ هَارُونَ وَبَهْزٌ وَالْجُدِّيُّ عَنْ شُعْبَةَ قَدْرِ صَاعٍ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Seleme: Unë dhe vëllai i Aishes shkuam te Aisha, dhe ai e pyeti atë rreth guslit të Pejgamberit (s.a.v.s.). Ajo kërkoi një enë që nxinte afërsisht një sa' ujë, mori gusl dhe hodhi ujë mbi kokën e saj, ndërkohë që mes nesh dhe asaj kishte një perde."
+    },
+    "en": {
+      "narrator": "Narrated Abu Salama:",
+      "text": "`Aisha's brother and I went to `Aisha and he asked her about the bath of the Prophet. She brought a pot containing about a Sa` of water and took a bath and poured it over her head and at that time there was a screen between her and us."
+    }
+  }
+}

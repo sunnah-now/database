@@ -1,0 +1,34 @@
+{
+  "id": 4556,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامُ بْنُ يُوسُفَ، أَنَّ ابْنَ جُرَيْجٍ، أَخْبَرَهُمْ قَالَ أَخْبَرَنِي الْقَاسِمُ بْنُ أَبِي بَزَّةَ، أَنَّهُ سَأَلَ سَعِيدَ بْنَ جُبَيْرٍ هَلْ لِمَنْ قَتَلَ مُؤْمِنًا مُتَعَمِّدًا مِنْ تَوْبَةٍ فَقَرَأْتُ عَلَيْهِ ‏{‏وَلاَ يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلاَّ بِالْحَقِّ‏}‏‏.‏ فَقَالَ سَعِيدٌ قَرَأْتُهَا عَلَى ابْنِ عَبَّاسٍ كَمَا قَرَأْتَهَا عَلَىَّ‏.‏ فَقَالَ هَذِهِ مَكِّيَّةٌ نَسَخَتْهَا آيَةٌ مَدَنِيَّةٌ، الَّتِي فِي سُورَةِ النِّسَاءِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton El-Kasim bin Ebi Bezze: Ai e pyeti Seid bin Xhubejrin: \"A ka pendim për atë që vret një besimtar me qëllim?\" Atëherë unë i lexova atij ajetin: \"Dhe mos e vrisni njeriun, jetën e të cilit e ka ndaluar Allahu, përveçse me të drejtë.\" Seidi tha: \"Unë ia lexova këtë ajet Ibn Abbasit ashtu siç ma lexove ti mua. Ibn Abbasi tha: 'Ky ajet është shpallur në Mekë dhe është shfuqizuar nga një ajet në suren en-Nisa, i cili është shpallur më vonë në Medine'.\""
+    },
+    "en": {
+      "narrator": "Narrated Al-Qasim bin Abi Bazza:",
+      "text": "That he asked Sa`id bin Jubair, \"Is there any repentance of the one who has murdered a believer intentionally?\" Then I recited to him:-- \"Nor kill such life as Allah has forbidden except for a just cause.\" Sa`id said, \"I recited this very Verse before Ibn `Abbas as you have recited it before me. Ibn `Abbas said, 'This Verse was revealed in Mecca and it has been abrogated by a Verse in Surat-An-Nisa which was later revealed in Medina.\""
+    }
+  }
+}

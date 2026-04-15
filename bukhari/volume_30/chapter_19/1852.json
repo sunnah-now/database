@@ -1,0 +1,34 @@
+{
+  "id": 1852,
+  "metadata": {
+    "volume": {
+      "id": 30
+    },
+    "chapter": {
+      "id": 19,
+      "language": {
+        "en": {
+          "text": "Interval between the Sahur and Salat-ul-Fajr"
+        },
+        "ar": {
+          "text": "باب قَدْرِ كَمْ بَيْنَ السَّحُورِ وَصَلاَةِ الْفَجْرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ ـ رضى الله عنه ـ قَالَ تَسَحَّرْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم ثُمَّ قَامَ إِلَى الصَّلاَةِ‏.‏ قُلْتُ كَمْ كَانَ بَيْنَ الأَذَانِ وَالسَّحُورِ قَالَ قَدْرُ خَمْسِينَ آيَةً‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Zejd bin Thabiti: Kemi ngrënë syfyr me Pejgamberin (s.a.v.s.), pastaj ai u ngrit për namaz. E pyeta: \"Sa ishte koha ndërmjet syfyrit dhe ezanit?\" Ai u përgjigj: \"Sa koha e leximit të pesëdhjetë ajeteve.\""
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "Zaid bin Thabit said, \"We took the Suhur with the Prophet (ﷺ) . Then he stood for the prayer.\" I asked, \"What was the interval between the Suhur and the Adhan?\" He replied, \"The interval was sufficient to recite fifty verses of the Qur'an.\""
+    }
+  }
+}

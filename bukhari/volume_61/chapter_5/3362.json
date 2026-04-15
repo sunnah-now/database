@@ -1,0 +1,34 @@
+{
+  "id": 3362,
+  "metadata": {
+    "volume": {
+      "id": 61
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ وَهْوَ عَلَى الْمِنْبَرِ ‏ \"‏ أَلاَ إِنَّ الْفِتْنَةَ هَا هُنَا ـ يُشِيرُ إِلَى الْمَشْرِقِ ـ مِنْ حَيْثُ يَطْلُعُ قَرْنُ الشَّيْطَانِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Omeri: E kam dëgjuar të Dërguarin e Allahut (s.a.v.s.) duke thënë mbi minber: \"Vërtet, fitneja është këtu - duke treguar nga lindja - prej nga shfaqet briri i shejtanit.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "I heard Allah's Messenger (ﷺ) on the pulpit saying, \"Verily, afflictions (will start) from here,\" pointing towards the east, \"whence the side of the head of Satan comes out.\""
+    }
+  }
+}

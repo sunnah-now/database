@@ -1,0 +1,34 @@
+{
+  "id": 4499,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا أَبُو بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما ‏{‏الَّذِينَ جَعَلُوا الْقُرْآنَ عِضِينَ‏}‏ قَالَ هُمْ أَهْلُ الْكِتَابِ، جَزَّءُوهُ أَجْزَاءً، فَآمَنُوا بِبَعْضِهِ وَكَفَرُوا بِبَعْضِهِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abasi: Në lidhje me ajetin: \"Ata që e ndanë Kuranin në pjesë\", ai tha: \"Ata janë ithtarët e Librit, të cilët e ndanë atë në pjesë, duke besuar në një pjesë të tij dhe duke mohuar pjesën tjetër.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Those who have made their Scripture into parts are the people of the Scripture who divided it into portions and believed in a part of it and disbelieved the other."
+    }
+  }
+}

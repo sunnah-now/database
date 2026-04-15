@@ -1,0 +1,34 @@
+{
+  "id": 467,
+  "metadata": {
+    "volume": {
+      "id": 8
+    },
+    "chapter": {
+      "id": 85,
+      "language": {
+        "en": {
+          "text": "To lie flat (on the back) in the mosque"
+        },
+        "ar": {
+          "text": "باب الاِسْتِلْقَاءِ فِي الْمَسْجِدِ وَمَدِّ الرِّجْلِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، أَنَّهُ رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم مُسْتَلْقِيًا فِي الْمَسْجِدِ، وَاضِعًا إِحْدَى رِجْلَيْهِ عَلَى الأُخْرَى‏.‏ وَعَنِ ابْنِ شِهَابٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ قَالَ كَانَ عُمَرُ وَعُثْمَانُ يَفْعَلاَنِ ذَلِكَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton xhaxhai i Abbad bin Temimit: Ai e ka parë të Dërguarin e Allahut (s.a.v.s.) të shtrirë në shpinë në xhami, duke e vendosur njërën këmbë mbi tjetrën. Transmeton Said bin el-Musejebi se edhe Omeri dhe Othmani vepronin kështu."
+    },
+    "en": {
+      "narrator": "Narrated `Abbad bin Tamim:",
+      "text": "that his uncle said, \"I saw Allah's Messenger (ﷺ) lying flat (on his back) in the mosque with one leg on the other.\" Narrated Sa`id bin Al-Musaiyab that `Umar and `Uthman used to do the same."
+    }
+  }
+}

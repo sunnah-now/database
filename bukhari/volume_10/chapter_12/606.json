@@ -1,0 +1,34 @@
+{
+  "id": 606,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "The Adhan after Al-Fajr (dawn)"
+        },
+        "ar": {
+          "text": "باب الأَذَانِ بَعْدَ الْفَجْرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ بِلاَلاً يُنَادِي بِلَيْلٍ، فَكُلُوا وَاشْرَبُوا حَتَّى يُنَادِيَ ابْنُ أُمِّ مَكْتُومٍ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah bin Omari: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Bilalli thërret ezanin natën, prandaj hani dhe pini derisa të thërrasë ezanin Ibn Um Mektumi.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Allah's Messenger (ﷺ) said, \"Bilal pronounces the Adhan at night, so keep on eating and drinking (Suhur) till Ibn Um Maktum pronounces the Adhan.\""
+    }
+  }
+}

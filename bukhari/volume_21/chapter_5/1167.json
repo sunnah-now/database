@@ -1,0 +1,34 @@
+{
+  "id": 1167,
+  "metadata": {
+    "volume": {
+      "id": 21
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Clapping [during the Salat] is permissible only for the women"
+        },
+        "ar": {
+          "text": "باب التَّصْفِيقُ لِلنِّسَاءِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى، أَخْبَرَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ التَّسْبِيحُ لِلرِّجَالِ وَالتَّصْفِيحُ لِلنِّسَاءِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Sehl ibn Sa'di: Pejgamberi (s.a.v.s.) ka thënë: \"Thënia 'Subhanallah' është për burrat, ndërsa duartrokitja është për gratë.\""
+    },
+    "en": {
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "The Prophet (ﷺ) said, \"The saying 'Sub Han Allah' is for men and clapping is for women."
+    }
+  }
+}

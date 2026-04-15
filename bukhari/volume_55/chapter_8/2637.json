@@ -1,0 +1,34 @@
+{
+  "id": 2637,
+  "metadata": {
+    "volume": {
+      "id": 55
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The Statement of Allah aza'wajal: \"... After the payment of legacies he may have bequeathed or debts...\""
+        },
+        "ar": {
+          "text": "بَابُ قَوْلِ اللَّهِ تَعَالَى: {مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ}"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَبُو الرَّبِيعِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، حَدَّثَنَا نَافِعُ بْنُ مَالِكِ بْنِ أَبِي عَامِرٍ أَبُو سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ آيَةُ الْمُنَافِقِ ثَلاَثٌ، إِذَا حَدَّثَ كَذَبَ، وَإِذَا اؤْتُمِنَ خَانَ، وَإِذَا وَعَدَ أَخْلَفَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: Pejgamberi (s.a.v.s.) ka thënë: \"Shenjat e munafikut janë tri: kur flet, gënjen; kur i besohet diçka, tradhton; dhe kur premton, e shkel premtimin.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"The signs of a hypocrite are three: Whenever he speaks he tells a lie; whenever he is entrusted he proves dishonest; whenever he promises he breaks his promise.\""
+    }
+  }
+}

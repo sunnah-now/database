@@ -1,0 +1,34 @@
+{
+  "id": 2280,
+  "metadata": {
+    "volume": {
+      "id": 42
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The selling of wood and grass"
+        },
+        "ar": {
+          "text": "باب بَيْعِ الْحَطَبِ وَالْكَلإِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي عُبَيْدٍ، مَوْلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لأَنْ يَحْتَطِبَ أَحَدُكُمْ حُزْمَةً عَلَى ظَهْرِهِ خَيْرٌ لَهُ مِنْ أَنْ يَسْأَلَ أَحَدًا فَيُعْطِيَهُ أَوْ يَمْنَعَهُ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: I Dërguari i Allahut (s.a.v.s.) ka thënë: \"Pa dyshim, është më mirë për ndonjërin prej jush që të mbledhë një barrë drush dhe ta mbartë mbi shpinën e tij sesa t'i kërkojë dikujt, i cili mund t'i japë ose ta refuzojë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Allah's Messenger (ﷺ) said, \"No doubt, you had better gather a bundle of wood and carry it on your back (and earn your living thereby) rather than ask somebody who may give you or not.\""
+    }
+  }
+}

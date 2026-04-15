@@ -1,0 +1,34 @@
+{
+  "id": 4751,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ سَمِعْتُ عُرْوَةَ، قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ فَرَجَعَ النَّبِيُّ صلى الله عليه وسلم إِلَى خَدِيجَةَ فَقَالَ ‏ \"‏ زَمِّلُونِي زَمِّلُونِي ‏\"‏‏.‏ فَذَكَرَ الْحَدِيثَ"
+    },
+    "al": {
+      "text": "Transmeton Aishja: Pejgamberi (s.a.v.s.) u kthye te Hatixhja dhe tha: \"Mbulomëni! Mbulomëni!\" (Pastaj transmetuesi tregoi pjesën tjetër të hadithit.)"
+    },
+    "en": {
+      "narrator": "Narrated Aisha:",
+      "text": "The Prophet (ﷺ) returned to Khadija and said, \"Wrap me! Wrap me!\" (Then the sub-narrator narrated the rest of the narration.)"
+    }
+  }
+}

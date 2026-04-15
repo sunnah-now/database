@@ -1,0 +1,34 @@
+{
+  "id": 6836,
+  "metadata": {
+    "volume": {
+      "id": 92
+    },
+    "chapter": {
+      "id": 18,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا ابْنُ أَبِي غَنِيَّةَ، عَنِ الْحَكَمِ، عَنْ أَبِي وَائِلٍ، قَامَ عَمَّارٌ عَلَى مِنْبَرِ الْكُوفَةِ، فَذَكَرَ عَائِشَةَ وَذَكَرَ مَسِيرَهَا وَقَالَ إِنَّهَا زَوْجَةُ نَبِيِّكُمْ صلى الله عليه وسلم فِي الدُّنْيَا وَالآخِرَةِ، وَلَكِنَّهَا مِمَّا ابْتُلِيتُمْ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Amari: Ai u ngrit në minberin e Kufes, përmendi Aishen dhe nisjen e saj e tha: \"Ajo është bashkëshortja e Pejgamberit tuaj (s.a.v.s.) në këtë botë dhe në botën tjetër, por ju po sprovoheni me këtë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Wail:",
+      "text": "`Ammar stood on the pulpit at Kufa and mentioned `Aisha and her coming (to Busra) and said, \"She is the wife of your Prophet in this world and in the Hereafter, but you people are being put to test in this issue.\""
+    }
+  }
+}

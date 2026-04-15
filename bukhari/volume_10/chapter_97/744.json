@@ -1,0 +1,34 @@
+{
+  "id": 744,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 97,
+      "language": {
+        "en": {
+          "text": "The recitation of the Qur'an in the 'Asr prayer"
+        },
+        "ar": {
+          "text": "باب الْقِرَاءَةِ فِي الْعَصْرِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، عَنْ هِشَامٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ فِي الرَّكْعَتَيْنِ مِنَ الظُّهْرِ وَالْعَصْرِ بِفَاتِحَةِ الْكِتَابِ، وَسُورَةٍ سُورَةٍ، وَيُسْمِعُنَا الآيَةَ أَحْيَانًا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Katade: Pejgamberi (s.a.v.s.) në dy rekatet e para të namazit të drekës dhe të ikindisë lexonte Fatihanë dhe nga një sure, ndërsa ndonjëherë na e bënte të dëgjueshëm ndonjë ajet."
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin Abi Qatada:",
+      "text": "My father said, \"The Prophet (ﷺ) used to recite Al-Fatiha along with another Sura in the first two rak`at of the Zuhr and the `Asr prayers and at times a verse or so was audible to us.\""
+    }
+  }
+}

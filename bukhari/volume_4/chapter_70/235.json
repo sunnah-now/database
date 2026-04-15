@@ -1,0 +1,34 @@
+{
+  "id": 235,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 70,
+      "language": {
+        "en": {
+          "text": "Spitting or blowing out the nose or doing similar action in one's own garment"
+        },
+        "ar": {
+          "text": "باب الْبُزَاقِ وَالْمُخَاطِ وَنَحْوِهِ فِي الثَّوْبِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سُئِلَ عَنْ فَأْرَةٍ سَقَطَتْ فِي سَمْنٍ فَقَالَ ‏ \"‏ أَلْقُوهَا وَمَا حَوْلَهَا فَاطْرَحُوهُ‏.‏ وَكُلُوا سَمْنَكُمْ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Mejmuna: I Dërguari i Allahut (s.a.v.s.) u pyet rreth një miu që kishte rënë në gjalpë, e ai tha: \"Nxirreni atë dhe hidheni atë që ka rreth tij, ndërsa gjalpin tuaj hajeni.\""
+    },
+    "en": {
+      "narrator": "Narrated Maimuna:",
+      "text": "Allah's Messenger (ﷺ) was asked regarding ghee (cooking butter) in which a mouse had fallen. He said, \"Take out the mouse and throw away the ghee around it and use the rest.\""
+    }
+  }
+}

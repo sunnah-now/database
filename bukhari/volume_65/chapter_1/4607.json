@@ -1,0 +1,34 @@
+{
+  "id": 4607,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي الْحَسَنُ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ خَلِيلٍ، أَخْبَرَنَا عَبْدُ الرَّحِيمِ، عَنْ زَكَرِيَّاءَ بْنِ أَبِي زَائِدَةَ، عَنْ عَامِرٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنِّي أَوَّلُ مَنْ يَرْفَعُ رَأْسَهُ بَعْدَ النَّفْخَةِ الآخِرَةِ، فَإِذَا أَنَا بِمُوسَى مُتَعَلِّقٌ بِالْعَرْشِ فَلاَ أَدْرِي أَكَذَلِكَ كَانَ أَمْ بَعْدَ النَّفْخَةِ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Hurejre: Pejgamberi (s.a.v.s.) ka thënë: \"Unë do të jem i pari që do ta ngrejë kokën pas fryrjes së dytë në Sur dhe do ta shoh Musain të kapur pas Arshit, e nuk do ta di nëse ai ka qenë në atë gjendje gjatë gjithë kohës apo pas fryrjes në Sur.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Huraira:",
+      "text": "The Prophet (ﷺ) said, \"I will be the first to raise my head after the second blowing of the trumpet and will see Moses hanging the Throne, and I will not know whether he had been in that state all the time or after the blowing of the trumpet.\""
+    }
+  }
+}

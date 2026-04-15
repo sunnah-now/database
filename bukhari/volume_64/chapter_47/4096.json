@@ -1,0 +1,34 @@
+{
+  "id": 4096,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 47,
+      "language": {
+        "en": {
+          "text": "The Ghazwa of Al-Fath during Ramadan"
+        },
+        "ar": {
+          "text": "باب غَزْوَةِ الْفَتْحِ فِي رَمَضَانَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَقَالَ عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ خَرَجَ النَّبِيُّ صلى الله عليه وسلم عَامَ الْفَتْحِ‏.‏ وَقَالَ حَمَّادُ بْنُ زَيْدٍ عَنْ أَيُّوبَ عَنْ عِكْرِمَةَ عَنِ ابْنِ عَبَّاسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Abbasi: Profeti (s.a.v.s.) u nis (për në Hunejn) në vitin e Çlirimit (të Mekës)."
+    },
+    "en": {
+      "narrator": "Ibn `Abbas added:",
+      "text": "\"The Prophet (ﷺ) went (to Hunain) in the year of the Conquest (of Mecca)."
+    }
+  }
+}

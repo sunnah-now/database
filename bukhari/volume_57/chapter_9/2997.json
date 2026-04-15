@@ -1,0 +1,34 @@
+{
+  "id": 2997,
+  "metadata": {
+    "volume": {
+      "id": 57
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "The war booty is for those who witness the battles"
+        },
+        "ar": {
+          "text": "باب الْغَنِيمَةُ لِمَنْ شَهِدَ الْوَقْعَةَ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا صَدَقَةُ، أَخْبَرَنَا عَبْدُ الرَّحْمَنِ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، قَالَ قَالَ عُمَرُ ـ رضى الله عنه لَوْلاَ آخِرُ الْمُسْلِمِينَ مَا فَتَحْتُ قَرْيَةً إِلاَّ قَسَمْتُهَا بَيْنَ أَهْلِهَا كَمَا قَسَمَ النَّبِيُّ صلى الله عليه وسلم خَيْبَرَ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Omeri: Sikur të mos ishte për ata muslimanë që ende nuk kanë ardhur në këtë botë, çdo vend që do të çliroja, do ta ndaja (tokën e tij) mes luftëtarëve, ashtu siç e ndau Pejgamberi (s.a.v.s.) tokën e Hajberit."
+    },
+    "en": {
+      "narrator": "Narrated Aslam:",
+      "text": "`Umar said, \"Were it not for those Muslims who have not come to existence yet, I would have distributed (the land of) every town I conquer among the fighters as the Prophet (ﷺ) distributed the land of Khaibar.\""
+    }
+  }
+}

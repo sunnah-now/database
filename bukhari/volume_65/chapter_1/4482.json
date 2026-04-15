@@ -1,0 +1,34 @@
+{
+  "id": 4482,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَقَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ الصَّمَدِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْكَرِيمُ بْنُ الْكَرِيمِ بْنِ الْكَرِيمِ بْنِ الْكَرِيمِ يُوسُفُ بْنُ يَعْقُوبَ بْنِ إِسْحَاقَ بْنِ إِبْرَاهِيمَ ‏\"‏‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Abdullah ibn Umeri se Pejgamberi (s.a.v.s.) ka thënë: \"Bujari, i biri i bujarit, i biri i bujarit, i biri i bujarit: Jusufi, i biri i Jakubit, i biri i Is’hakut, i biri i Ibrahimit.\""
+    },
+    "en": {
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "The Prophet (ﷺ) said, \"The honorable, the son of the honorable the son of the honorable, i.e. Joseph, the son of Jacob, the son of Isaac, the son of Abraham.\""
+    }
+  }
+}

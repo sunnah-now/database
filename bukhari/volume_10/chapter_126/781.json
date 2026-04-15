@@ -1,0 +1,34 @@
+{
+  "id": 781,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 126,
+      "language": {
+        "en": {
+          "text": "Chapter"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ كَانَ الْقُنُوتُ فِي الْمَغْرِبِ وَالْفَجْرِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Enesi: Kunuti këndohej në namazin e akshamit dhe të sabahut."
+    },
+    "en": {
+      "narrator": "Narrated Anas:",
+      "text": "The qunut used to be recited in the Maghrib and the Fajr prayers."
+    }
+  }
+}

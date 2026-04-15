@@ -1,0 +1,34 @@
+{
+  "id": 1127,
+  "metadata": {
+    "volume": {
+      "id": 19
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "Whoever talks after offering two Rak'a (Sunna) (of the Fajr prayer)"
+        },
+        "ar": {
+          "text": "باب مَنْ تَحَدَّثَ بَعْدَ الرَّكْعَتَيْنِ وَلَمْ يَضْطَجِعْ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا بِشْرُ بْنُ الْحَكَمِ، حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي سَالِمٌ أَبُو النَّضْرِ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا صَلَّى ‏{‏سُنَّةَ الْفَجْرِ‏}‏ فَإِنْ كُنْتُ مُسْتَيْقِظَةً حَدَّثَنِي وَإِلاَّ اضْطَجَعَ حَتَّى يُؤْذَنَ بِالصَّلاَةِ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Aishja: Pasi falte sunetin e namazit të sabahut, Pejgamberi (s.a.v.s.) bisedonte me mua nëse isha zgjuar; përndryshe, ai shtrihej derisa të thirrej ikameti për namaz."
+    },
+    "en": {
+      "narrator": "Narrated `Aisha:",
+      "text": "After offering the Sunna of the Fajr prayer, the Prophet (ﷺ) used to talk to me, if I happen to be awake; otherwise he would lie down till the Iqama call was proclaimed (for the Fajr prayer)."
+    }
+  }
+}

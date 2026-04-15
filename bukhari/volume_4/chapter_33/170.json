@@ -1,0 +1,34 @@
+{
+  "id": 170,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 33,
+      "language": {
+        "en": {
+          "text": "If a dog drinks from the utensil of any one of you then it is essential to wash it seven times"
+        },
+        "ar": {
+          "text": "باب إِذَا شَرِبَ الْكَلْبُ فِي إِنَاءِ أَحَدِكُمْ فَلْيَغْسِلْهُ سَبْعًا"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا إِسْرَائِيلُ، عَنْ عَاصِمٍ، عَنِ ابْنِ سِيرِينَ، قَالَ قُلْتُ لِعَبِيدَةَ عِنْدَنَا مِنْ شَعَرِ النَّبِيِّ صلى الله عليه وسلم أَصَبْنَاهُ مِنْ قِبَلِ أَنَسٍ، أَوْ مِنْ قِبَلِ أَهْلِ أَنَسٍ فَقَالَ لأَنْ تَكُونَ عِنْدِي شَعَرَةٌ مِنْهُ أَحَبُّ إِلَىَّ مِنَ الدُّنْيَا وَمَا فِيهَا‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ibn Sirini: I thashë Abides: \"Ne kemi disa flokë të Pejgamberit (s.a.v.s.), të cilët i kemi marrë nga Enesi ose nga familja e tij.\" Abideja u përgjigj: \"Sikur të kisha qoftë edhe një fije floku të tij, do të ishte më e dashur për mua sesa bota dhe gjithçka që ka në të.\""
+    },
+    "en": {
+      "narrator": "Narrated Ibn Seereen:",
+      "text": "I said to `Abida, \"I have some of the hair of the Prophet (ﷺ) which I got from Anas or from his family.\" `Abida replied. \"No doubt if I had a single hair of that it would have been dearer to me than the whole world and whatever is in it.\""
+    }
+  }
+}

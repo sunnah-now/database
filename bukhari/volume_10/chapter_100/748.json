@@ -1,0 +1,34 @@
+{
+  "id": 748,
+  "metadata": {
+    "volume": {
+      "id": 10
+    },
+    "chapter": {
+      "id": 100,
+      "language": {
+        "en": {
+          "text": "To recite aloud in the 'Isha' prayer."
+        },
+        "ar": {
+          "text": "باب الْجَهْرِ فِي الْعِشَاءِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو النُّعْمَانِ، قَالَ حَدَّثَنَا مُعْتَمِرٌ، عَنْ أَبِيهِ، عَنْ بَكْرٍ، عَنْ أَبِي رَافِعٍ، قَالَ صَلَّيْتُ مَعَ أَبِي هُرَيْرَةَ الْعَتَمَةَ فَقَرَأَ ‏{‏إِذَا السَّمَاءُ انْشَقَّتْ‏}‏ فَسَجَدَ فَقُلْتُ لَهُ قَالَ سَجَدْتُ خَلْفَ أَبِي الْقَاسِمِ صلى الله عليه وسلم فَلاَ أَزَالُ أَسْجُدُ بِهَا حَتَّى أَلْقَاهُ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Ebu Rafi'u: E fala namazin e jacisë pas Ebu Hurejrës dhe ai lexoi suren \"Idhes-sema’un-shekkat\" dhe bëri sexhde. Kur e pyeta, ai më tha: \"Kam bërë sexhde pas Ebul-Kasimit (s.a.v.s.) dhe do të vazhdoj ta bëj këtë derisa ta takoj atë.\""
+    },
+    "en": {
+      "narrator": "Narrated Abu Rafi`:",
+      "text": "I offered the `Isha' prayer behind Abu Huraira and he recited, \"Idha s-samaa'u n-shaqqat\" (84) and prostrated. On my inquiring, he said, \"I prostrated behind Abul-Qasim (the Prophet) (when he recited that Sura) and I will go on doing it till I meet him.\""
+    }
+  }
+}

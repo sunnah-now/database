@@ -1,0 +1,34 @@
+{
+  "id": 4384,
+  "metadata": {
+    "volume": {
+      "id": 65
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Chapter 1"
+        },
+        "ar": {
+          "text": "باب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا مُغِيرَةُ بْنُ النُّعْمَانِ، قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، قَالَ ‏{‏آيَةٌ‏}‏ اخْتَلَفَ فِيهَا أَهْلُ الْكُوفَةِ، فَرَحَلْتُ فِيهَا إِلَى ابْنِ عَبَّاسٍ فَسَأَلْتُهُ عَنْهَا فَقَالَ نَزَلَتْ هَذِهِ الآيَةُ ‏{‏وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ‏}‏ هِيَ آخِرُ مَا نَزَلَ وَمَا نَسَخَهَا شَىْءٌ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Sa'id bin Xhubejri: Banorët e Kufës kishin mospajtime rreth këtij ajeti, prandaj shkova te Ibn Abbasi dhe e pyeta rreth tij. Ai tha: \"Ky ajet: 'Kushdo që vret një besimtar me qëllim, ndëshkimi i tij është Xhehenemi', ka qenë ajeti i fundit që ka zbritur (sa i përket vrasjes me paramendim) dhe asgjë nuk e ka shfuqizuar atë.\""
+    },
+    "en": {
+      "narrator": "Narrated Sa`id bin Jubair:",
+      "text": "The people of Kufa disagreed (disputed) about the above Verse. So I went to Ibn `Abbas and asked him about it. He said, \"This Verse:-- \"And whoever kills a believer intentionally, his recompense is Hell.\" was revealed last of all (concerning premeditated murder) and nothing abrogated it.\""
+    }
+  }
+}

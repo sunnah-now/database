@@ -1,0 +1,34 @@
+{
+  "id": 1234,
+  "metadata": {
+    "volume": {
+      "id": 23
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "Using no turban in shrouding"
+        },
+        "ar": {
+          "text": "باب الْكَفَنِ وَلاَ عِمَامَةٌ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كُفِّنَ فِي ثَلاَثَةِ أَثْوَابٍ بِيضٍ سَحُولِيَّةٍ، لَيْسَ فِيهَا قَمِيصٌ وَلاَ عِمَامَةٌ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Aishja (r.a.): I Dërguari i Allahut (s.a.v.s.) u qefinos me tri pëlhura të bardha prej pambuku (Suhulije), midis të cilave nuk kishte as këmishë e as çallmë."
+    },
+    "en": {
+      "narrator": "Narrated Aisha:",
+      "text": "Allah's Messenger (ﷺ) was shrouded in three pieces of cloth which were made of white Suhul and neither a shirt nor a turban were used."
+    }
+  }
+}

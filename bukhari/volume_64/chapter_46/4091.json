@@ -1,0 +1,34 @@
+{
+  "id": 4091,
+  "metadata": {
+    "volume": {
+      "id": 64
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "Ghazwa of Al-Fath"
+        },
+        "ar": {
+          "text": "باب غَزْوَةِ الْفَتْحِ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا حَمَّادُ بْنُ مَسْعَدَةَ، عَنْ يَزِيدَ بْنِ أَبِي عُبَيْدٍ، عَنْ سَلَمَةَ بْنِ الأَكْوَعِ، قَالَ غَزَوْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم سَبْعَ غَزَوَاتٍ‏.‏ فَذَكَرَ خَيْبَرَ وَالْحُدَيْبِيَةَ وَيَوْمَ حُنَيْنٍ وَيَوْمَ الْقَرَدِ‏.‏ قَالَ يَزِيدُ وَنَسِيتُ بَقِيَّتَهُمْ‏.‏"
+    },
+    "al": {
+      "text": "Transmeton Seleme bin el-Ekva: \"Kam marrë pjesë në shtatë beteja së bashku me Pejgamberin (s.a.v.s.).\" Ai përmendi Hajberin, Hudejbijen, ditën e Hunejnit dhe ditën e Kuradit. Jezidi tha: \"I harrova emrat e betejave të tjera.\""
+    },
+    "en": {
+      "narrator": "Narrated Yazid bin Abi Ubaid:",
+      "text": "Salama bin Al-Akwa` said, \"I fought in seven Ghazwat along with the Prophet.\" He then mentioned Khaibar, Al-Hudaibiya, the day (i.e. battle) of Hunain and the day of Al-Qurad. I forgot the names of the other Ghazwat."
+    }
+  }
+}
