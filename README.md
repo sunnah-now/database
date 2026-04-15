@@ -3,7 +3,7 @@
 This directory contains Hadith data in JSON format and multiple groupings. These files are used to populate the Redis database for the sunnah.now API, but can also be used for offline use cases.
 
 ## Downloadable Dumps
-For those looking for a single large JSON file containing the entire collection, please check the **GitHub Releases** for this repository. We provide single-file dumps for easier download and bulk usage.
+For those looking for a single large JSON file containing the entire collection, please check the **[GitHub Releases](https://github.com/sunnah-now/database/releases)** for this repository. We provide single-file dumps for easier download and bulk usage.
 
 ## Contents
 
