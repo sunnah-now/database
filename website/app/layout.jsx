@@ -1,5 +1,9 @@
+import { Inter, Lora } from 'next/font/google';
 import { LangProvider } from '@/context/LangContext';
 import './globals.css';
+
+const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
+const lora  = Lora({ subsets: ['latin'], variable: '--font-lora' });
 
 export const metadata = {
   title: 'db.sunnah.now · Hadith Database Downloads',
@@ -8,12 +12,13 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" dir="ltr">
+    <html lang="en" dir="ltr" className={`${inter.variable} ${lora.variable}`}>
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        {/* Scheherazade New for Arabic — not in next/font, loaded via Google Fonts */}
         <link
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:ital,wght@0,400;0,600;1,400&family=Scheherazade+New:wght@400;600;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;600;700&display=swap"
           rel="stylesheet"
         />
       </head>

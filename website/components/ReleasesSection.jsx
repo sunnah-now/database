@@ -21,20 +21,22 @@ const ExternalArrow = () => (
   </svg>
 );
 
-export default function ReleasesSection() {
+export default function ReleasesSection({ initialReleases }) {
   const { t } = useLang();
-  const [releases, setReleases]           = useState([]);
-  const [loading, setLoading]             = useState(true);
+  const [releases, setReleases]           = useState(initialReleases ?? []);
+  const [loading, setLoading]             = useState(!initialReleases);
   const [activeFilters, setActiveFilters] = useState(new Set());
 
+  // Only fetch client-side if no server data was provided
   useEffect(() => {
+    if (initialReleases) return;
     fetch(`https://api.github.com/repos/${REPO}/releases`, {
       headers: { Accept: 'application/vnd.github.v3+json' },
     })
       .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then((data) => setReleases(data))
       .finally(() => setLoading(false));
-  }, []);
+  }, [initialReleases]);
 
   const toggleFilter = (fmt) => {
     setActiveFilters((prev) => {
