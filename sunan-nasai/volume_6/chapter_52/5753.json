@@ -1,0 +1,41 @@
+{
+  "id": 5753,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "The Book of Drinks"
+        },
+        "ar": {
+          "text": "كتاب الأشربة"
+        },
+        "ur": {
+          "text": "مشروبات ( پینے والی چیزوں ) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا إِسْحَاق بْنُ إِبْرَاهِيمَ،‏‏‏‏ قَالَ:‏‏‏‏ أَنْبَأَنَا جَرِيرٌ،‏‏‏‏ عَنْ ابْنِ شُبْرُمَةَ،‏‏‏‏ قَالَ:‏‏‏‏ رَحِمَ اللَّهُ إِبْرَاهِيمَ شَدَّدَ النَّاسُ فِي النَّبِيذِ وَرَخَّصَ فِيهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibn Shubrumah said: May Allah have mercy on Ibrahim. Other scholars had strict views on Nabidh but he was lenient."
+    },
+    "ur": {
+      "narrator": "ابن شبرمہ کہتے ہیں کہ",
+      "text": "اللہ تعالیٰ ابراہیم نخعی پر رحم کرے، لوگ نبیذ کے سلسلے میں سختی کرتے ہیں اور وہ اس کی اجازت دیتے ہیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

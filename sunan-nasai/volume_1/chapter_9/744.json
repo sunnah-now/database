@@ -1,0 +1,41 @@
+{
+  "id": 744,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "The Book of the Qiblah"
+        },
+        "ar": {
+          "text": "كتاب القبلة"
+        },
+        "ur": {
+          "text": "قبلہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏عَنْ مَالِكِ بْنِ أَنَسٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏قال:‏‏‏‏ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي عَلَى رَاحِلَتِهِ فِي السَّفَرِ حَيْثُمَا تَوَجَّهَتْ . قَالَ مَالِكٌ:‏‏‏‏ قَالَ عَبْدُ اللَّهِ بْنُ دِينَارٍ:‏‏‏‏ وَكَانَ ابْنُ عُمَرَ يَفْعَلُ ذَلِكَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibn Umar said: The messenger of Allah (peace be upon him) used to pray atop his mount while travelling, facing whatever direction it was facing. (One of the narrators) Malik said: Abdullah bin Dinar said: and Ibn Umar used to do likewise ."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہم کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم سفر میں اپنی سواری پر نماز پڑھتے تھے خواہ وہ کسی بھی طرف متوجہ ہو جاتی۔ مالک کہتے ہیں کہ عبداللہ بن دینار کا کہنا ہے کہ ابن عمر رضی اللہ عنہم بھی ایسا ہی کرتے تھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

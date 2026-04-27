@@ -1,0 +1,41 @@
+{
+  "id": 4725,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+        },
+        "ar": {
+          "text": "كتاب السنة"
+        },
+        "ur": {
+          "text": "سنتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ حَفْصٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي أَبِي، ‏‏‏‏‏‏حَدَّثَنَا إِبْرَاهِيمُ بْنُ طَهْمَانَ، ‏‏‏‏‏‏عَنْ سِمَاكٍ بِإِسْنَادِهِ، ‏‏‏‏‏‏ومعنى هذا الحديث الطويل."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The tradition mentioned above has again been transmitted by Simak through a different chain of narrators and to the same effect as this lengthy tradition."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے احمد بن حفص نے بیان کیا : مجھ سے میرے والد نے بیان کیا : ہم سے ابراہیم بن طہمان نے سماک کی سند سے بیان کیا ۔ اس طویل حدیث کا مفہوم یہ ہے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

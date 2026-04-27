@@ -1,0 +1,41 @@
+{
+  "id": 283,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Purification (Kitab Al-Taharah)"
+        },
+        "ar": {
+          "text": "كتاب الطهارة"
+        },
+        "ur": {
+          "text": "طہارت کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ هِشَامٍ، ‏‏‏‏‏‏بِإِسْنَادِ زُهَيْرٍ وَمَعْنَاهُ، ‏‏‏‏‏‏وَقَالَ:‏‏‏‏ فَإِذَا أَقْبَلَتِ الْحَيْضَةُ فَاتْرُكِي الصَّلَاةَ، ‏‏‏‏‏‏فَإِذَا ذَهَبَ قَدْرُهَا فَاغْسِلِي الدَّمَ عَنْكِ وَصَلِّي."
+    },
+    "en": {
+      "narrator": "This tradition has also been transmitted by Zuhair through a different chain of narrators, to the same effect. He said:",
+      "text": "He ﷺ said: When the menstruation begins, you should abandon prayer; when the period equal to its length of time passes, you should wash away the blood and pray."
+    },
+    "ur": {
+      "narrator": "ہم سے احمد بن یونس اور عبداللہ بن محمد النفیلی نے بیان کیا، کہا ہم سے زہیر نے بیان کیا، کہا کہ اس طریق سے بھی ہشام نے زہیر کی سند سے اسی مفہوم کی حدیث ذکر کی ہے، اس میں ہے کہ",
+      "text": "آپ صلی اللہ علیہ وسلم نے فرمایا: جب حیض آئے تو نماز چھوڑ دو، پھر جب اس کے بقدر ( دن ) گزر جائیں تو اپنے سے خون دھو ڈالو، اور ( غسل کر کے ) نماز پڑھ لو ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

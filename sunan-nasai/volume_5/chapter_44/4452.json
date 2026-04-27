@@ -1,0 +1,41 @@
+{
+  "id": 4452,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The Book of Ad-Dahaya (Sacrifices)"
+        },
+        "ar": {
+          "text": "كتاب الضحايا"
+        },
+        "ur": {
+          "text": "قربانی کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنِي عُثْمَانُ بْنُ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي سَهْلُ بْنُ بَكَّارٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا وُهَيْبُ بْنُ خَالِدٍ، ‏‏‏‏‏‏عَنِ ابْنِ طَاوُسٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ أَبِيهِ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عَمْرٍو، ‏‏‏‏‏‏قَالَ مَرَّةً:‏‏‏‏ عَنْ أَبِيهِ، ‏‏‏‏‏‏وَقَالَ مَرَّةً:‏‏‏‏ عَنْ جَدِّهِ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ نَهَى يَوْمَ خَيْبَرَ عَنْ لُحُومِ الْحُمُرِ الْأَهْلِيَّةِ، ‏‏‏‏‏‏وَعَنِ الْجَلَّالَةِ، ‏‏‏‏‏‏وَعَنْ رُكُوبِهَا، ‏‏‏‏‏‏وَعَنْ أَكْلِ لَحْمِهَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from 'Amr bin Shu'aib, from his father, from his father Muhammad bin 'Abdullah bin 'Amr - or on one occasion he said: from his father, form his grandfather - the on the Day of Kahaibar, the Messenger of Allah forbade the flesh of domesticated donkeys and of al-Jallalah (animals that eat dung), and (he forbade) riding them and eating their mat."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمرو رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے خیبر کے دن پالتو گدھوں کے گوشت سے اور «جلالہ» پر سواری کرنے اور اس کا گوشت کھانے سے منع فرمایا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

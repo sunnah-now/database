@@ -1,0 +1,41 @@
+{
+  "id": 4475,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا زِيَادُ بْنُ أَيُّوبَ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا ابْنُ عُلَيَّةَ،‏‏‏‏ قَالَ:‏‏‏‏ أَنْبَأَنَا أَيُّوبُ،‏‏‏‏ عَنْ نَافِعٍ،‏‏‏‏ عَنْ ابْنِ عُمَرَ،‏‏‏‏ قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْبَيِّعَانِ بِالْخِيَارِ حَتَّى يَفْتَرِقَا،‏‏‏‏ أَوْ يَكُونَ بَيْعَ خِيَارٍ ،‏‏‏‏ وَرُبَّمَا قَالَ نَافِعٌ:‏‏‏‏ أَوْ يَقُولَ:‏‏‏‏ أَحَدُهُمَا لِلْآخَرِ اخْتَرْ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ayyub, from Nafi from Ibn 'Umar, who said: The Messenger of Allah said: 'The two parties to a transaction both have the choice so long as they have not separated or chosen to conclude the transaction. Or perhaps Nafi said: Or one of them has said to the other: 'Decide! (Sahih )"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”بیع کرنے والے دونوں کو اختیار رہتا ہے جب تک الگ تھلگ نہ ہوں، یا پھر وہ اختیاری خرید و فروخت ہو“۔ نافع کی بعض روایتوں میں یوں ہے «‏أو يقول أحدهما للآخر اختر» ”یا ان میں سے ایک دوسرے سے یہ کہے: بیع میں اختیار کی شرط کرو“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

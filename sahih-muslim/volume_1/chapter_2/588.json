@@ -1,0 +1,41 @@
+{
+  "id": 588,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book of Purification"
+        },
+        "ar": {
+          "text": "كتاب الطَّهَارَةِ"
+        },
+        "ur": {
+          "text": "پاکی کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي إِسْحَاقُ بْنُ مُوسَى الْأَنْصَارِيُّ، حَدَّثَنَا مَعْنٌ، حَدَّثَنَا مَالِكٌ ح، وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ جَمِيعًا عَنِ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ، بِهَذَا الْإِسْنَادِ وَلَيْسَ فِي حَدِيثِ شُعْبَةَ ذِكْرُ الرِّبَاطِ وَفِي حَدِيثِ مَالِكٍ ثِنْتَيْنِ «فَذَلِكُمُ الرِّبَاطُ، فَذَلِكُمُ الرِّبَاطُ»."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of `Ali bin `Abdul-Rahman with the same chain of transmitters and there is no mention of the word of al-Ribat in the hadith transmitted by Shu`ba and in the hadith narrated by Malik Ribat has been mentioned twice. This is the Ribat for you, this is the Ribat for you."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "( بجائے اسماعیل کے ) مالک اور شعبہ نے اسی سند کے ساتھ علاء بن عبدالرحمن سے روایت کی ، شعبہ کی حدیث میں ’’رباط ‘ ‘ کا تذکرہ نہیں ہے جبکہ مالک کی حدیث میں دوبارہ ہے : ’’یہی رباط ہے ، یہی رباط ہے ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

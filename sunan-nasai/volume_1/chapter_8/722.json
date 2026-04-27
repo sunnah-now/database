@@ -1,0 +1,41 @@
+{
+  "id": 722,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The Book of the Masjids"
+        },
+        "ar": {
+          "text": "كتاب المساجد"
+        },
+        "ur": {
+          "text": "مساجد کے فضائل و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ ابْنِ شِهَابٍ، ‏‏‏‏‏‏عَنْ عَبَّادِ بْنِ تَمِيمٍ، ‏‏‏‏‏‏عَنْ عَمِّهِ، ‏‏‏‏‏‏أَنَّهُ رَأَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُسْتَلْقِيًا فِي الْمَسْجِدِ وَاضِعًا إِحْدَى رِجْلَيْهِ عَلَى الْأُخْرَى ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from 'Abbad bin Tamim, from his paternal uncle, that he saw the messenger of Allah (ﷺ) lying on his back in the Masjid, placing one leg on top of the other."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن زید بن عاصم رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو مسجد میں اپنے ایک پیر کو دوسرے پیر پر رکھ کر چت لیٹے ہوئے دیکھا ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

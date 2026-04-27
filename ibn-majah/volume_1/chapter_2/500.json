@@ -1,0 +1,41 @@
+{
+  "id": 500,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book of Purification and its Sunnah"
+        },
+        "ar": {
+          "text": "كتاب الطهارة وسننها"
+        },
+        "ur": {
+          "text": "طہارت اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو مُصْعَبٍ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الْمُهَيْمِنِ بْنُ عَبَّاسِ بْنِ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيُّ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ مَضْمِضُوا مِنَ اللَّبَنِ فَإِنَّ لَهُ دَسَمًا ."
+    },
+    "en": {
+      "narrator": "Abdul-Muhaimin bin 'Abbas bin Sahl bin Sa'd As-Sa'di رضی اللہ عنہ narraed from his father, from his grandfather, that:",
+      "text": "The Messenger of Allah said: Rinse your mouths after drinking milk, for it has some greasiness in it."
+    },
+    "ur": {
+      "narrator": "ہم سے ابو مصعب نے بیان کیا، کہا کہ ہم سے عبد المہیمن بن عباس بن سہل بن سعد الساعدی نے اپنے والد سے اور اپنے دادا سے",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: دودھ پی کر کلی کر لیا کرو کیونکہ اس میں چکناہٹ ہوتی ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

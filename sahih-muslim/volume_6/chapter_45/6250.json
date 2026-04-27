@@ -1,0 +1,41 @@
+{
+  "id": 6250,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of the Merits of the Companions"
+        },
+        "ar": {
+          "text": "كتاب فَضَائِلِ الصَّحَابَةِ"
+        },
+        "ur": {
+          "text": "صحابہ کرام رضی اللہ عنھم کے فضائل و مناقب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هِشَامٌ، بِهَذَا الْإِسْنَادِ، وَزَادَ: تَعْنِي أَبَا بَكْرٍ وَالزُّبَيْرَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Hisham through the same chain of transmitters but with this addition (that by both fathers of yours) he meant Abu Bakr رضی اللہ عنہ and Zubair رضی اللہ عنہ."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, ابو اسامہ نے کہا , ہمیں ہشام نے اسی سند کے ساتھ حدیث بیان کی اور یہ اضافہ کیا کہ وہ ابو بکر رضی اللہ عنہ اور زبیر رضی اللہ عنہ مراد لے رہی تھیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

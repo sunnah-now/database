@@ -1,0 +1,41 @@
+{
+  "id": 79,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، قَالَ: «سَمِعْتُ أَنَا وَحَمْزَةُ الزَّيَّاتُ مِنْ أَبَانَ بْنِ أَبِي عَيَّاشٍ نَحْوًا مِنْ أَلْفِ حَدِيثٍ»، قَالَ عَلِيٌّ: فَلَقِيتُ حَمْزَةَ، فَأَخْبَرَنِي «أَنَّهُ رَأَى النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي الْمَنَامِ، فَعَرَضَ عَلَيْهِ مَا سَمِعَ مِنْ أَبَانَ، فَمَا عَرَفَ مِنْهَا إِلَّا شَيْئًا يَسِيرًا خَمْسَةً أَوْ سِتَّةً»"
+    },
+    "en": {
+      "narrator": "Suwayd bin Sa’īd narrated to us, Alī bin Mus’hir narrated to us, he said: ‘Hamzah az-Zayyāt and I heard from Abān bin Abī Ayyāsh something like one thousand Ḥadīth’. Alī said:",
+      "text": "‘So I met Hamzah then he informed me that he saw the Prophet, peace and blessings of Allah upon him, [in a dream], and he produced for him what he heard from Abān. However he [the Prophet] didn’t recognize any except a small amount [like] five or six [Ḥadīth]’."
+    },
+    "ur": {
+      "narrator": "ہم سے سوید بن سعید نے بیان کیا، انہوں نے بیان کیا,علی بن مسہر نے بیان کیا ، کہا  میں نے اور حمزہ زیات نے ابان بن ابی عیاش سے تقریباً ایک ہزار احادیث سنیں ۔ علی نے کہا",
+      "text": "پھر ( کچہ عرصے بعد ) میں حمزہ سے ملا تو اس نے مجھے بتایا کہ ا سنے خواب میں رسول اللہﷺ کو دیکھا تو وہ احادیث جو ابان سے سنی تھیں آپ کی خدمت میں پیش کیں ۔ آپ نے ان میں بہت معمولی حصے ، پانچ یا چھ حدیثوں کے سوا کسی چیز کو نہ پہچانا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

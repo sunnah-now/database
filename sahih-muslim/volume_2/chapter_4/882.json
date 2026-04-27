@@ -1,0 +1,41 @@
+{
+  "id": 882,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ حَبِيبِ بْنِ الشَّهِيدِ، قَالَ: سَمِعْتُ عَطَاءً، يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا صَلَاةَ إِلَّا بِقِرَاءَةٍ» قَالَ أَبُو هُرَيْرَةَ: «فَمَا أَعْلَنَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَعْلَنَّاهُ لَكُمْ، وَمَا أَخْفَاهُ أَخْفَيْنَاهُ لَكُمْ."
+    },
+    "en": {
+      "narrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+      "text": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: One is not credited with having observed the prayer without the recitation (of al-Fatiha). So said Abu Huraira ‌رضی ‌اللہ ‌عنہ ‌: (The prayer in which) the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) recited in a loud voice, we also recited that loudly for you (and the prayer in which) he recited inwardly we also recited inwardly for you (to give you a practical example of the prayer of the Holy Prophet)."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا,حبیب بن شہید سے روایت ہے ، کہا : میں نے عطاء سے سنا ، وہ حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے بیان کرتے تھے کہ",
+      "text": "رسول اللہﷺ نے فرمایا : ’’قراءت کے بغیر کوئی نماز نہیں ۔ ‘ ‘ ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : جو ( نماز ) رسول اللہﷺ نے ہمارے لیے اونچی قراءت سے ادا کی ہم نے بھی تمہارے لیے وہ اونچی قراءت سے ادا کی اور جس ( نماز ) میں آپ نے ( قراءت کو ) مخفی رکھا ، ہم نے بھی اسے تمہارے لیے مخفی رکھا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

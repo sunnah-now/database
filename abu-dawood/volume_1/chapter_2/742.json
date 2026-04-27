@@ -1,0 +1,41 @@
+{
+  "id": 742,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْقَعْنَبِيُّ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ كَانَ إِذَا ابْتَدَأَ الصَّلَاةَ يَرْفَعُ يَدَيْهِ حَذْوَ مَنْكِبَيْهِ، ‏‏‏‏‏‏وَإِذَا رَفَعَ رَأْسَهُ مِنَ الرُّكُوعِ رَفَعَهُمَا دُونَ ذَلِكَ ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ لَمْ يَذْكُرْ رَفَعَهُمَا دُونَ ذَلِكَ أَحَدٌ غَيْرُ مَالِكٍ فِيمَا أَعْلَمُ."
+    },
+    "en": {
+      "narrator": "Nafi said:",
+      "text": "When Abdullah bin Umar رضی اللہ عنہما began his prayer, he raised his hands opposite to his shoulders; and when he raised his head after bowing, he raised them lower than that. Abu Dawud said: So as far as I know, no one narrated the words “he raised them lower that that.” \r\nAbu Dawood said: As for as I know, no one mention that he would raise them to a lower level except Malik."
+    },
+    "ur": {
+      "narrator": "ہم سے قعنبی نے مالک کی سند سے بیان کیا, نافع کہتے ہیں کہ",
+      "text": "عبداللہ بن عمر رضی اللہ عنہما جب نماز شروع کرتے تو اپنے دونوں ہاتھ دونوں کندھوں کے بالمقابل اٹھاتے، اور جب رکوع سے اپنا سر اٹھاتے تو اس سے کم اٹھاتے تھے۔\r\n ابوداؤد کہتے ہیں: جہاں تک مجھے معلوم ہے مالک کے علاوہ کسی نے «رفعهما دون ذلك» ( انہیں یعنی ہاتھوں کو اس سے کم یعنی مونڈھے سے نیچے اٹھاتے ) کا ذکر نہیں کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1711,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "The Book of Lost and Found Items"
+        },
+        "ar": {
+          "text": "كتاب اللقطة"
+        },
+        "ur": {
+          "text": "گری پڑی گمشدہ چیزوں سے متعلق مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلَاءِ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو أُسَامَةَ، ‏‏‏‏‏‏عَنْ الْوَلِيدِ يَعْنِي ابْنَ كَثِيرٍ، ‏‏‏‏‏‏حَدَّثَنِي عَمْرُو بْنُ شُعَيْبٍ، ‏‏‏‏‏‏بِإِسْنَادِهِ، ‏‏‏‏‏‏بِهَذَا قَالَ فِي ضَالَّةِ الشَّاءِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَاجْمَعْهَا ."
+    },
+    "en": {
+      "narrator": "The above mentioned tradition has also been transmitted by Amr bin Shuaib through a different chain of narrators. This version adds:",
+      "text": "regarding the stray sheep he said: “Take it”."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن علاء نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا، ان سے الولید نے، یعنی ابن کثیر نے، مجھ سے عمرو بن شعیب نے",
+      "text": "البتہ اس میں ہے کہ گمشدہ بکری کے سلسلہ میں آپ نے فرمایا: اسے پکڑے رکھو ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

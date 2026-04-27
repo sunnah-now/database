@@ -1,0 +1,41 @@
+{
+  "id": 5208,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا حَجَّاجُ بْنُ الشَّاعِرِ حَدَّثَنَا ضَحَّاكُ بْنُ مَخْلَدٍ عَنْ سُفْيَانَ عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ عَنْ ابْنِ بُرَيْدَةَ عَنْ أَبِيهِ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ نَهَيْتُكُمْ عَنْ الظُّرُوفِ وَإِنَّ الظُّرُوفَ أَوْ ظَرْفًا لَا يُحِلُّ شَيْئًا وَلَا يُحَرِّمُهُ وَكُلُّ مُسْكِرٍ حَرَامٌ."
+    },
+    "en": {
+      "narrator": "Ibn Buraida, on the authority of his father reported:",
+      "text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: I had forbidden you (from the preparation of Nabidh) and drinking it in certain vessels, (but now you may do so if you like) for it is not vessels or a vessel that makes a thing lawful or unlawful. It is every intoxicant that is unlawful."
+    },
+    "ur": {
+      "narrator": "ہم سے حجاج بن الشاعر نے بیان کیا، ہم سے ضحاک بن مخلد نے سفیان کی سند سے بیان کیا, علقمہ بن مرثد نے ابن بریدہ سے انھوں نے اپنے والد سے روایت کی کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" میں نے تم کو کچھ برتنوں سے منع کیا تھا برتن کسی چیز کو حلال کرتے ہیں نہ حرام البتہ ہر نشہ آور چیز حرام ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

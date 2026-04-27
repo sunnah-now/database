@@ -1,0 +1,41 @@
+{
+  "id": 1707,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 20,
+      "language": {
+        "en": {
+          "text": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+        },
+        "ar": {
+          "text": "كتاب قيام الليل وتطوع النهار"
+        },
+        "ur": {
+          "text": "تہجد (قیام اللیل) اور دن میں نفل نمازوں کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ جَبَلَةَ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا مَعْمَرُ بْنُ مَخْلَدٍ ثِقَةٌ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَمْرٍو، ‏‏‏‏‏‏عَنْ زَيْدٍ،‏‏‏‏ عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ عَلِيٍّ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ،‏‏‏‏ قَالَ:‏‏‏‏ اسْتَيْقَظَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَاسْتَنَّ وَسَاقَ الْحَدِيثَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Ubaidullah bin'Amr bin Zaid narrated from Habib bin Abi Thabit, from Muhammad bin Ali that Ibn 'Abbas said: The Messenger of Allah (ﷺ) woke up and cleaned his teeth,' and he quoted the hadith."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عباس رضی اللہ عنہم کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم بیدار ہوئے تو آپ نے مسواک کی، پھر راوی نے پوری حدیث بیان کی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

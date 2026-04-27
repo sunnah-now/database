@@ -1,0 +1,41 @@
+{
+  "id": 5991,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The Book of Virtues"
+        },
+        "ar": {
+          "text": "كتاب الْفَضَائِلِ"
+        },
+        "ur": {
+          "text": "انبیائے کرام علیہم السلام کے فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا الْحَسَنُ بْنُ مُوسَى، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، بِإِسْنَادِ هِشَامٍ بِمِثْلِ حَدِيثِهِ، غَيْرَ أَنَّهُ قَالَ: «أَنَا، يَوْمَ الْقِيَامَةِ، عِنْدَ عُقْرِ الْحَوْضِ»."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Hisham with the same chain of transmitters and the words are:",
+      "text": "I would be on the Day of Resurrection near the bank of the Cistern."
+    },
+    "ur": {
+      "narrator": "مجھ سے زہیر بن حرب نے بیان کیا، ہم سے حسن بن موسیٰ نے بیان کیا، شیبان نے قتادہ سے ہشام کی سند کے ساتھ اس کی حدیث کے مانند حدیث بیان کی ، مگر اس نے اس طرح کہا",
+      "text": "\" میں قیامت کے دن حوض کے پانی پینے کی جگہ پر ہوں گا ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

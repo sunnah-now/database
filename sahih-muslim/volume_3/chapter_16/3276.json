@@ -1,0 +1,41 @@
+{
+  "id": 3276,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ عَاصِمٍ الْأَحْوَلِ، عَنْ عَبْدِ اللهِ بْنِ سَرْجِسَ، قَالَ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا سَافَرَ يَتَعَوَّذُ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمُنْقَلَبِ، وَالْحَوْرِ بَعْدَ الْكَوْرِ، وَدَعْوَةِ الْمَظْلُومِ، وَسُوءِ الْمَنْظَرِ فِي الْأَهْلِ وَالْمَالِ»."
+    },
+    "en": {
+      "narrator": "Abdullah bin Sarjis reported:",
+      "text": "When Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) set forth on a journey, he sought refuge (with Allah) from the hardships of the travelling, and finding of evil changes on return, and disgrace after honour, and the curse of the oppressed and a gloomy sad scene in family and property."
+    },
+    "ur": {
+      "narrator": "مجھ سے زہیر بن حرب نے کہا, اسماعیل بن علیہ نے ہمیں عاصم احول سے حدیث بیان کی ، انھوں نے عبداللہ بن سرجس سے روایت کی ، انھوں نے کہا",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم جب سفرکرتے توسفر کی مشقت ، واپسی میں اکتاہٹ ، اکھٹا ہونے کے بعد بکھر جانے ، مظلوم کی بدعا سے اور اہل ومال میں سے کسی برے منظر سے پناہ مانگتے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

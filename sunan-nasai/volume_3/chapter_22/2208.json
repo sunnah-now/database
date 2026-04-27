@@ -1,0 +1,41 @@
+{
+  "id": 2208,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصيام"
+        },
+        "ur": {
+          "text": "روزوں کے احکام و مسائل و فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنِي مُحَمَّدُ بْنُ عَبْدِ الْأَعْلَى، ‏‏‏‏‏‏وَمُحَمَّدُ بْنُ هِشَامٍ،‏‏‏‏ وَأَبُو الْأَشْعَثِ وَاللَّفْظُ لَهُ، ‏‏‏‏‏‏قَالُوا:‏‏‏‏ حَدَّثَنَا خَالِدٌ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا هِشَامٌ، ‏‏‏‏‏‏عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، ‏‏‏‏‏‏عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي أَبُو هُرَيْرَةَ، ‏‏‏‏‏‏أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ، ‏‏‏‏‏‏وَمَنْ قَامَ لَيْلَةَ الْقَدْرِ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Abu Salamah bin 'Abdur-Rahman said: Abu Hurairah told me that the Messenger of Allah said: 'Whoever spends the nights of Ramadan in prayer (Qiyam) out of faith and in the hope of reward, he will be forgiven his previous sins, and whoever spends the night of Lailat Al-Qadr in prayer out of faith and in the hope of reward, he will be forgiven his previous sins. '"
+    },
+    "ur": {
+      "narrator": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ",
+      "text": "رسول صلی اللہ علیہ وسلم نے فرمایا: ”جس نے رمضان میں ایمان کے ساتھ ثواب کی نیت سے قیام کرے گا، اس کے پچھلے گناہ بخش دئیے جائیں گے، اور جو شب قدر میں ایمان کے ساتھ ثواب کی نیت سے قیام کرے گا اس کے ( بھی ) پچھلے گناہ بخش دئیے جائیں گے“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

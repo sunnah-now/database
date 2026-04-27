@@ -1,0 +1,41 @@
+{
+  "id": 6284,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of the Merits of the Companions"
+        },
+        "ar": {
+          "text": "كتاب فَضَائِلِ الصَّحَابَةِ"
+        },
+        "ur": {
+          "text": "صحابہ کرام رضی اللہ عنھم کے فضائل و مناقب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا ابْنُ إِدْرِيسَ،وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، جَمِيعًا عَنْ هِشَامٍ، بِهَذَا الْإِسْنَادِ، نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Hisham with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ابن نمیر نے ہم سے کہا, ابن ادریس اور ابو اسامہ نے ہشام سے ، اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

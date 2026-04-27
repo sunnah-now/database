@@ -1,0 +1,41 @@
+{
+  "id": 3017,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The Book of Hajj"
+        },
+        "ar": {
+          "text": "كتاب مناسك الحج"
+        },
+        "ur": {
+          "text": "حج کے احکام و مناسک"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ دِينَارٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ عَبْدِ اللَّهِ بْنِ صَفْوَانَ، ‏‏‏‏‏‏أَنَّ يَزِيدَ بْنَ شَيْبَانَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كُنَّا وُقُوفًا بِعَرَفَةَ مَكَانًا بَعِيدًا مِنَ الْمَوْقِفِ فَأَتَانَا ابْنُ مِرْبَعٍ الْأَنْصَارِيُّ،‏‏‏‏ فَقَالَ:‏‏‏‏ رَسُولُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَيْكُمْ يَقُولُ:‏‏‏‏ كُونُوا عَلَى مَشَاعِرِكُمْ، ‏‏‏‏‏‏فَإِنَّكُمْ عَلَى إِرْثٍ مِنْ إِرْثِ أَبِيكُمْ إِبْرَاهِيمَ عَلَيْهِ السَّلَام ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Amr bin Abdullah bin Safwan that Yazid bin Shaiban said: We were standing in Arafat in a place far from the place of standing, and Ibn Mirba Al-Ansari came and said: 'I am the messenger of Messenger of Allah to you; he says: 'Stay where you are (for it is a place of ritual), for you are following the legacy of you father Ibrahim, peace be upon him.'"
+    },
+    "ur": {
+      "narrator": "یزید بن شیبان کہتے ہیں کہ",
+      "text": "ہم عرفہ کے دن عرفات میں ”موقف“ ( ٹھہرنے کی خاص جگہ ) سے دور ٹھہرے ہوئے تھے۔ تو ہمارے پاس ابن مربع انصاری آئے اور کہنے لگے تمہاری طرف میں رسول اللہ صلی اللہ علیہ وسلم کا قاصد ہوں، آپ فرماتے ہیں: تم اپنے مشاعر میں رہو کیونکہ تم اپنے باپ ابراہیم علیہ السلام کی میراث کے وارث ہو۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

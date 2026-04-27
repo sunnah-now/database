@@ -1,0 +1,41 @@
+{
+  "id": 3041,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالَا: حَدَّثَنَا يَحْيَى وَهُوَ الْقَطَّانُ، عَنْ عُبَيْدِ اللهِ بِهَذَا الْإِسْنَادِ، وقَالَ فِي رِوَايَةِ زُهَيْرٍ: الْعُلْيَا الَّتِي بِالْبَطْحَاءِ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of 'Ubaidullah with the same chain of transmitters and in the narration transmitted by Zubair (it is mentioned):",
+      "text": "The upper side is that 'which is at al-Batha"
+    },
+    "ur": {
+      "narrator": "زہیر بن حرب اور محمد بن مثنیٰ نے کہا : ہمیں یحییٰ بن سعید قطا ن نے عبید اللہ سے اسی مذکورہ بالا سند سے روایت کی ، اور زہیر کی روایت میں ہے",
+      "text": "وہ بالائی ( گھاٹی ) جو بطحا ء کے قریب ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

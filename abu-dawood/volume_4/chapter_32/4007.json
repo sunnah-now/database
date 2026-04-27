@@ -1,0 +1,41 @@
+{
+  "id": 4007,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 32,
+      "language": {
+        "en": {
+          "text": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)"
+        },
+        "ar": {
+          "text": "كتاب الحروف والقراءات"
+        },
+        "ur": {
+          "text": "قرآن کریم کی بابت لہجوں اور قراتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، ‏‏‏‏‏‏عَنْ هِشَامِ بْنِ سَعْدٍ بِإِسْنَادِهِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The tradition mentioned above has also been transmitted by Hisham bin Saad with a different chain of narrators in a similar way."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے جعفر بن مسافر نے بیان کیا، ہم سے ابن ابی فدیک نے بیان کیا, اس سند سے بھی ہشام بن سعد سے اسی کے مثل مروی ہے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1248,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Forgetfulness (In Prayer)"
+        },
+        "ar": {
+          "text": "كتاب السهو"
+        },
+        "ur": {
+          "text": "نماز میں سہو کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أخبرنا سويد بن نصر قال أنبأنا عبد الله عن بن عون عن إبراهيم قال:‏‏‏‏ كانوا يقولون إذا أوهم يتحرى الصواب ثم يسجد سجدتين ‏.‏"
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibrahim said: They used to say: 'If one is not sure of what he estimates is correct, then prostrate twice.'"
+    },
+    "ur": {
+      "narrator": "ابراہیم نخعی کہتے ہیں کہ",
+      "text": "لوگ کہتے تھے کہ جب کسی آدمی کو وہم ہو جائے تو اسے صحیح و صواب جاننے کی کوشش کرنی چاہیئے، پھر دو سجدے کرے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

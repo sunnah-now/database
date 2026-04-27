@@ -1,0 +1,41 @@
+{
+  "id": 7010,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 50,
+      "language": {
+        "en": {
+          "text": "The Book of Repentance"
+        },
+        "ar": {
+          "text": "كتاب التَّوْبَةِ"
+        },
+        "ur": {
+          "text": "توبہ کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ حَدَّثَنَا شُعْبَةُ عَنْ قَتَادَةَ بِهَذَا الْإِسْنَادِ نَحْوَ حَدِيثِ مُعَاذِ بْنِ مُعَاذٍ وَزَادَ فِيهِ فَأَوْحَى اللَّهُ إِلَى هَذِهِ أَنْ تَبَاعَدِي وَإِلَى هَذِهِ أَنْ تَقَرَّبِي."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Qatida with the same chain of transmitters but (with this variation of wording):",
+      "text": "Allah commanded the earth (from where) he wanted to come out to move itself away and to the other earth (where he wanted to go) to draw nearer."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن بشار نے بیان کیا، کہا ہم سے ابن ابی عدی نے بیان کیا, شعبہ نے ہمیں قتادہ سے اسی سند کے ساتھ اسی طرح حدیث بیان کی جس طرح معاذ بن معاذ کی حدیث ہے اور اس میں مزید یہ کہا",
+      "text": "\" تو اللہ نے اس ( گناہگاروں کی بستی ) کو وحی کر دی کہ تو دور ہو جا اور اس ( نیک لوگوں کی بستی ) کو وحی کر دی کہ تو قریب ہو جا ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

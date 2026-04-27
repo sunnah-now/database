@@ -1,0 +1,41 @@
+{
+  "id": 2752,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The Book of Hajj"
+        },
+        "ar": {
+          "text": "كتاب مناسك الحج"
+        },
+        "ur": {
+          "text": "حج کے احکام و مناسک"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، ‏‏‏‏‏‏عَنْ أَبَانَ بْنِ تَغْلِبَ، ‏‏‏‏‏‏عَنْ أَبِي إِسْحَاق، ‏‏‏‏‏‏عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ مِنْ تَلْبِيَةِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، ‏‏‏‏‏‏لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، ‏‏‏‏‏‏إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdullah bin Masud said: Part of the Talbiyah of the Messenger of Allah was 'Labbaika Allahumma labbbaik, Labbaika la sharika laka labbaik, Innal-hamda wan-ni'mata laka wal-mulk, (Here I am, O Allah, here I am. Here I am, You have no partner, here I am. Verily all praise and blessings are Yours)"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن مسعود رضی الله عنہما کہتے ہیں کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم کا تلبیہ یوں تھا: «لبيك اللہم لبيك لبيك لا شريك لك لبيك إن الحمد والنعمة لك» ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

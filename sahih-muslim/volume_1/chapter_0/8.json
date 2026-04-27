@@ -1,0 +1,41 @@
+{
+  "id": 8,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ حَفْصِ، حَدَّثَنَا شُعْبَةُ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ ذَلِكَ"
+    },
+    "en": {
+      "narrator": "",
+      "text": "Abū Bakr bin Abī Shaybah narrated to us, Alī bin Hafs narrated to us, Shu’bah narrated to us, on authority of Khubayb bin Abd ir-Rahman, on authority of Hafs bin Āsim, on authority of Abī Hurayrah, on authority of the Prophet, peace and blessings of Allah upon him, the same as that."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "۔ ابو بکر بن ابی شیبہ ‘ علی بن حفص نے شعبہ سے ، انہوں نے خبیب بن عبد الرحمٰن سے ، انہوں نے حفص بن عاصم سے ، انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ، انہوں نے نبیﷺ سے اس کے مانند روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1569,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 19,
+      "language": {
+        "en": {
+          "text": "The Book of the Prayer for the Two `Eids"
+        },
+        "ar": {
+          "text": "كتاب صلاة العيدين"
+        },
+        "ur": {
+          "text": "عیدین (عیدالفطر اور عیدالاضحی) کی نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا أَبُو عَوَانَةَ، ‏‏‏‏‏‏عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ حَبِيبِ بْنِ سَالِمٍ، ‏‏‏‏‏‏عَنِالنُّعْمَانِ بْنِ بَشِيرٍ، ‏‏‏‏‏‏ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَقْرَأُ فِي الْعِيدَيْنِ وَيَوْمِ الْجُمُعَةِ بِسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى،‏‏‏‏ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ،‏‏‏‏ وَرُبَّمَا اجْتَمَعَا فِي يَوْمٍ وَاحِدٍ فَيَقْرَأُ بِهِمَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from An-Nu'man bin Bashir that: The Messenger of Allah (ﷺ) used to recite on the two 'Eids and on Friday: GLorify the Name of Your Lord, the Most High and Has there come to you the narration of The Overwhelming? Sometimes the two ('Eid and Jumu'ah) occurred on the same day, and he would recite them (these two Surahs)."
+    },
+    "ur": {
+      "narrator": "نعمان بن بشیر رضی اللہ عنہم سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم عیدین میں اور جمعہ کے دن «سبح اسم ربك الأعلى» اور «هل أتاك حديث الغاشية‏» پڑھتے تھے، اور کبھی یہ دونوں ایک ساتھ ایک ہی دن میں جمع ہو جاتے، تو بھی انہیں دونوں سورتوں کو پڑھتے تھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

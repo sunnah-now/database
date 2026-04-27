@@ -1,0 +1,41 @@
+{
+  "id": 349,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Purification (Kitab Al-Taharah)"
+        },
+        "ar": {
+          "text": "كتاب الطهارة"
+        },
+        "ur": {
+          "text": "طہارت کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ الدِّمَشْقِيُّ، ‏‏‏‏‏‏أَخْبَرَنَا مَرْوَانُ، ‏‏‏‏‏‏حَدَّثَنَا عَلِيُّ بْنُ حَوْشَبٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَأَلْتُ مَكْحُولًا عَنْ هَذَا الْقَوْلِ:‏‏‏‏ غَسَّلَ وَاغْتَسَلَ، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ غَسَّلَ رَأْسَهُ وَغَسَلَ جَسَدَهُ ."
+    },
+    "en": {
+      "narrator": "Ali bin Howshab said:",
+      "text": "Makhul was asked about the meaning of words ghassala and ightasala (that occur in tradition 345) and he said: one should was one's head and body well (and not than one should makes one's wife wash)."
+    },
+    "ur": {
+      "narrator": "ہم سے محمود بن خالد الدمشقی نے بیان کیا، کہا ہم سے مروان نے بیان کیا، علی بن حوشب کہتے ہیں کہ",
+      "text": "میں نے مکحول سے اس قول «غسل واغتسل» کے بارے میں پوچھا تو انہوں نے کہا: اس کا مطلب ہے کہ وہ اپنا سر اور بدن دھوئے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

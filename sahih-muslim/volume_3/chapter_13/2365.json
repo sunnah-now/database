@@ -1,0 +1,41 @@
+{
+  "id": 2365,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Zakat"
+        },
+        "ar": {
+          "text": "كتاب الزَّكَاةِ"
+        },
+        "ur": {
+          "text": "زکوٰۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه ابْنُ أَبِي عُمَرَ حَدَّثَنَا فُضَيْلُ بْنُ عِيَاضٍ عَنْ مَنْصُورٍ بِهَذَا الْإِسْنَادِ وَقَالَ مِنْ طَعَامِ زَوْجِهَا."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Mansur with the same chain of transmitters (with this alteration of words): from the food of her husband ."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابن ابی عمر نے بیان کیا، انہوں نے کہا فضیل بن عیاض نے منصور سے اسی سند کے ساتھ ( سابقہ حدیث کے مانند ) روایت کی اور انھوں نے ( \" اپنے گھر کے کھانے میں سے \" کے بجائے ) من طعام زوجها ( اپنے خاوند کے کھانے میں سے ) کے الفاظ کہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

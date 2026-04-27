@@ -1,0 +1,41 @@
+{
+  "id": 2008,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+        },
+        "ar": {
+          "text": "كتاب المناسك"
+        },
+        "ur": {
+          "text": "اعمال حج اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ إِنَّمَا نَزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمُحَصَّبَ لِيَكُونَ أَسْمَحَ لِخُرُوجِهِ وَلَيْسَ بِسُنَّةٍ فَمَنْ شَاءَ نَزَلَهُ وَمَنْ شَاءَ لَمْ يَنْزِلْهُ ‏.‏"
+    },
+    "en": {
+      "narrator": "Narrated Aishah رضی اللہ عنہا :",
+      "text": "The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم alighted at al-Muhassab so that it might be easier for him to proceed (to Madina). It is not a sunnah (i.e. a rite of Hajj). Anyone who desires may alight there, and anyone who does not want may not alight."
+    },
+    "ur": {
+      "narrator": "ہم سے احمد بن حنبل نے بیان کیا، کہا ہم سے یحییٰ بن سعید نے بیان کیا، ہشام سے اور اپنے والد سے, ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم محصب میں صرف اس لیے اترے تاکہ آپ کے (مکہ سے) نکلنے میں آسانی ہو، یہ کوئی سنت نہیں، لہٰذا جو چاہے وہاں اترے اور جو چاہے نہ اترے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

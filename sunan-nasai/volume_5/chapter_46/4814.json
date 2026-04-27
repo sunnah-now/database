@@ -1,0 +1,41 @@
+{
+  "id": 4814,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "The Book of Oaths (qasamah), Retaliation and Blood Money"
+        },
+        "ar": {
+          "text": "كتاب القسامة"
+        },
+        "ur": {
+          "text": "قسامہ ، قصاص اور دیت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيل بْنِ إِبْرَاهِيمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَعْلَى، ‏‏‏‏‏‏عَنْ الْحَجَّاجِ الصَّوَّافِ، ‏‏‏‏‏‏عَنْ يَحْيَى، ‏‏‏‏‏‏عَنْ عِكْرِمَةَ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَضَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْمُكَاتَبِ يُودَى بِقَدْرِ مَا أَدَّى مِنْ مُكَاتَبَتِهِ دِيَةَ الْحُرِّ وَمَا بَقِيَ دِيَةَ الْعَبْدِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibn 'Abbas said: The Messenger of Allah ruled that in the case of a Mukatab, the Diyah should be (equivalent) to the Diyah for a free man, proportionate to the amount he had paid off (towards buying his freedom). (Dar'if)"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے مکاتب غلام کے بارے میں فیصلہ کیا کہ جس قدر اس نے مکاتبت کا بدل ادا کر دیا ہو، اتنے کی دیت آزاد کی دیت کے مثل ہو گی، اور جس کی ادائیگی باقی ہو اس کی دیت غلام کی دیت کے مثل ہو گی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

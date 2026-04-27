@@ -1,0 +1,41 @@
+{
+  "id": 1679,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 6,
+      "language": {
+        "en": {
+          "text": "The Book of Prayer - Travellers"
+        },
+        "ar": {
+          "text": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا"
+        },
+        "ur": {
+          "text": "مسافرو ں کی نماز قصر کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا النَّضْرُ حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "A hadith like this has been narrated by Shu'ba with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "( محمد بن جعفر کی بجائے ) نضر نے ہمیں خبر دی ، کہا : شعبہ نے اسی سند کے ساتھ اسی سابقہ حدیث کی مانند حدیث بیان کی ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

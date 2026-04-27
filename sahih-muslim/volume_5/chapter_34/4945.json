@@ -1,0 +1,41 @@
+{
+  "id": 4945,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Government"
+        },
+        "ar": {
+          "text": "كتاب الْإِمَارَةِ"
+        },
+        "ur": {
+          "text": "امور حکومت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ الْوَلِيدُ بْنُ شُجَاعٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ عَاصِمٍ، فِي هَذَا الْإِسْنَادِ بِمِثْلِهِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of 'Asim through the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ولید بن شجاع نے بیان کیا, علی بن مسہر نےعاصم سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

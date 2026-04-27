@@ -1,0 +1,41 @@
+{
+  "id": 3964,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Agriculture"
+        },
+        "ar": {
+          "text": "كتاب المزارعة"
+        },
+        "ur": {
+          "text": "مزارعت (بٹائی پر زمین دینے) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا شَرِيكٌ، ‏‏‏‏‏‏عَنْ أَبِي إِسْحَاق، ‏‏‏‏‏‏عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْأَسْوَدِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ عَمَّايَ يَزْرَعَانِ بِالثُّلُثِ وَالرُّبُعِ،‏‏‏‏ وَأَبِي شَرِيكَهُمَا وَعَلْقَمَةُ،‏‏‏‏ وَالْأَسْوَدُ يَعْلَمَانِ فَلَا يُغَيِّرَانِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdur-Rahman bin Al-Aswad said: Two of my paternal uncles used to cultivate (land) in return for one-third or one-quarter of the crop, and my father was their partner. 'Alqamah and Al-Aswad knew about that and did not change anything."
+    },
+    "ur": {
+      "narrator": "عبدالرحمٰن بن اسود کہتے ہیں کہ",
+      "text": "میرے دو چچا تہائی اور چوتھائی پر کھیتی کرتے تھے اور میرے والد ان کے شریک ہوتے تھے۔ علقمہ اور اسود کو یہ بات معلوم تھی مگر وہ کچھ نہ کہتے تھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

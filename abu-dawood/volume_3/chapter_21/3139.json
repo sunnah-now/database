@@ -1,0 +1,41 @@
+{
+  "id": 3139,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 21,
+      "language": {
+        "en": {
+          "text": "Funerals (Kitab Al-Jana'iz)"
+        },
+        "ar": {
+          "text": "كتاب الجنائز"
+        },
+        "ur": {
+          "text": "جنازے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ وَهْبٍ، ‏‏‏‏‏‏عَنِ اللَّيْثِ:‏‏‏‏ بِهَذَا الْحَدِيثِ بِمَعْنَاهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ يَجْمَعُ بَيْنَ الرَّجُلَيْنِ مِنْ قَتْلَى أُحُدٍ فِي ثَوْبٍ وَاحِدٍ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by al-Laith through a different chain of the same effect. This version adds:",
+      "text": "He combined two persons from among the martyrs of Uhud in one garment."
+    },
+    "ur": {
+      "narrator": "ہم سے سلیمان بن داؤد المہری نے بیان کیا، ہم سے ابن وہب نے,اس سند سے بھی لیث سے اسی مفہوم کی حدیث مروی ہے,اس میں ہے",
+      "text": "آپ صلی اللہ علیہ وسلم احد کے مقتولین میں سے دو دو آدمیوں کو ایک ساتھ ایک ہی کپڑے میں دفن کرتے تھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

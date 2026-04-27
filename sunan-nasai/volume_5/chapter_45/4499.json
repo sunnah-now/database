@@ -1,0 +1,41 @@
+{
+  "id": 4499,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْأَعْلَى،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا خَالِدٌ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا ابْنُ عَوْنٍ،‏‏‏‏ عَنْ مُحَمَّدٍ،‏‏‏‏ عَنْ أَنَسٍ،‏‏‏‏ قَالَ:‏‏‏‏ نُهِينَا أَنْ يَبِيعَ حَاضِرٌ لِبَادٍ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Anas said: It was forbidden to us for a town-dweller to sell for a desert-dweller. (Sahih )"
+    },
+    "ur": {
+      "narrator": "انس رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "ہمیں اس بات سے روکا گیا کہ کوئی شہری کسی دیہاتی کا سامان بیچے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

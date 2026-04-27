@@ -1,0 +1,41 @@
+{
+  "id": 2025,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+        },
+        "ar": {
+          "text": "كتاب المناسك"
+        },
+        "ur": {
+          "text": "اعمال حج اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَى حَدِيثِ الْقَعْنَبِيِّ ‏.‏ قَالَ وَنَسِيتُ أَنْ أَسْأَلَهُ كَمْ صَلَّى ‏.‏"
+    },
+    "en": {
+      "narrator": "This tradition has also been transmitted by Ibn Umar رضی اللہ عنہما through a different chain of narrators like the one narrated by Al Qanabi. This version has:",
+      "text": "“ I forgot to ask the number of rak’ahs he offered."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما نے نبی اکرم صلی اللہ علیہ وسلم سے قعنبی کی حدیث کے ہم مثل روایت کی ہے اس میں اس طرح ہے کہا",
+      "text": "ابن عمر رضی اللہ عنہما کہتے ہیں: میں ان سے یہ پوچھنا بھول گیا کہ آپ نے کتنی رکعتیں پڑھیں؟ ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

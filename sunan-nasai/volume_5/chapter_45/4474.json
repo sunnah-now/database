@@ -1,0 +1,41 @@
+{
+  "id": 4474,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا عَبْدُ الْأَعْلَى،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا سَعيِدٌ، ‏‏‏‏‏‏عَنْ أَيُّوبَ،‏‏‏‏ عَنْ نَافِعٍ،‏‏‏‏ عَنْ ابْنِ عُمَرَ،‏‏‏‏ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَفْتَرِقَا،‏‏‏‏ أَوْ يَقُولَ أَحَدُهُمَا لِلْآخَرِ اخْتَرْ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was a narrated from Ayyub, from Nafi from Ibn 'Umar that the Messenger of Allah said: The Messenger of Allah said: The two parties to a transaction both have the choice who long as they have not separated or one of them says to the other: 'Decide! ' (Sahih )"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”بیع کرنے والے دونوں کو اس وقت تک اختیار رہتا ہے جب تک وہ الگ تھلگ نہ ہوں، یا پھر ان میں سے ایک دوسرے سے کہے کہ اختیار کی شرط کر لو“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

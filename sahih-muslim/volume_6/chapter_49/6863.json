@@ -1,0 +1,41 @@
+{
+  "id": 6863,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness"
+        },
+        "ar": {
+          "text": "كتاب الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ"
+        },
+        "ur": {
+          "text": "ذکر الٰہی‘دعا ‘توبہ اور استغفار"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ نُمَيْرٍ وَإِسْحَقُ بْنُ إِبْرَاهِيمَ وَأَبُو سَعِيدٍ الْأَشَجُّ جَمِيعًا عَنْ حَفْصِ بْنِ غِيَاثٍ عَنْ عَاصِمٍ بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of 'Asim with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ابن نمیر، اسحاق بن ابراہیم اور ابو سعید الاشجع نے ہم سے روایت کی ہے,  حفص بن غیاث نے عاصم سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

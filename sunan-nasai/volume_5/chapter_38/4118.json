@@ -1,0 +1,41 @@
+{
+  "id": 4118,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Fighting [The Prohibition of Bloodshed]"
+        },
+        "ar": {
+          "text": "كتاب تحريم الدم"
+        },
+        "ur": {
+          "text": "قتل و خون ریزی کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلَاءِ، ‏‏‏‏‏‏عَنْ أَبِي مُعَاوِيَةَ، ‏‏‏‏‏‏عَنِ الْأَعْمَشِ، ‏‏‏‏‏‏عَنْ شَقِيقٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قِتَالُ الْمُؤْمِنِ كُفْرٌ، ‏‏‏‏‏‏وَسِبَابُهُ فُسُوقٌ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdullah said: Fighting a believer is Kufr and defaming him is evildoing."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "مومن کو قتل کرنا کفر ( کا کام ) اور اسے گالی دینا فسق ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

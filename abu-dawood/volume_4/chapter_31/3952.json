@@ -1,0 +1,41 @@
+{
+  "id": 3952,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 31,
+      "language": {
+        "en": {
+          "text": "The Book of Manumission of Slaves"
+        },
+        "ar": {
+          "text": "كتاب العتق"
+        },
+        "ur": {
+          "text": "غلاموں کی آزادی سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو أُسَامَةَ، ‏‏‏‏‏‏عَنْ سَعِيدٍ، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ زَيْدٍ وَالْحَسَنِ مِثْلَهُ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ سَعِيدٌ أَحْفَظُ مِنْ حَمَّادٍ."
+    },
+    "en": {
+      "narrator": "A similar tradition has also been transmitted by Jabir bin Zaid and al-Hasan through a different chain of narrators. Abu Dawud said:",
+      "text": "The narrator Saeed retained the tradition more carefully than Hammad."
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے ابواسامہ نے، سعید کی سند سے، قتادہ کی سند سے, جابر بن زید اور حسن سے بھی اسی کے ہم مثل مروی ہے,ابوداؤد کہتے ہیں",
+      "text": "سعید حماد ( حماد بن سلمہ ) سے زیادہ یاد رکھنے والے ہیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

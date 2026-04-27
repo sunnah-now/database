@@ -1,0 +1,41 @@
+{
+  "id": 888,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ: سَمِعْتُ زُرَارَةَ بْنَ أَوْفَى، يُحَدِّثُ عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَلَّى الظُّهْرَ، فَجَعَلَ رَجُلٌ يَقْرَأُ خَلْفَهُ بِسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى، فَلَمَّا انْصَرَفَ قَالَ: «أَيُّكُمْ قَرَأَ» - أَوْ أَيُّكُمُ الْقَارِئُ - فَقَالَ رَجُلٌ أَنَا، فَقَالَ: «قَدْ ظَنَنْتُ أَنَّ بَعْضَكُمْ خَالَجَنِيهَا»."
+    },
+    "en": {
+      "narrator": "Imran bin Husain رضی ‌اللہ ‌عنہ reported:",
+      "text": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) observed the Zuhr prayer and a person recited Sabbih Isma Rabbik al-a'la (Glorify the name of thy Lord, the Most High) behind him. When he (the Holy Prophet ﷺ) concluded the prayer he said: Who amongst you recited (the above-mentioned verse) or who amongst you was the reciter? A person said: It was I. Upon this he (the Holy Prophet ﷺ) observed: I thought as if someone amongst you was disputing with me (in what I was reciting)."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن المثنیٰ اور محمد بن بشار نے بیان کیا، کہا: ہم سے محمد بن جعفر نے بیان کیا،شعبہ نے قتادہ سے روایت کی ، انہوں نے زرارہ بن اوفیٰ سے سنا ، وہ حضرت عمران بن حصین ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے بیان کر رہے تھے کہ",
+      "text": "رسول اللہﷺ نے ظہر کی نماز پڑھی تو ایک آدمی نے آپ کے پیچھے ﴿سبح اسم ربك الأعلى﴾ پڑھی شروع کر دی ۔ جب آپﷺ نے اسلام پھیرا تو فرمایا : ’’تم میں سے کس نے پڑھا ‘ ‘ یا ( فرمایا : ) ’’تم میں سے پڑھنے والا کون ہے؟ ‘ ‘ ایک آدمی نے کہا : میں ہوں ۔ آپ نے فرمایا : ’’ میں سمجھا کہ تم میں سے کوئی مجھے اس میں الجھا رہا ہے"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

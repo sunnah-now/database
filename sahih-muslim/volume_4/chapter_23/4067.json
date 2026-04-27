@@ -1,0 +1,41 @@
+{
+  "id": 4067,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "The Book Of Musaqah"
+        },
+        "ar": {
+          "text": "كتاب الْمُسَاقَاةِ"
+        },
+        "ur": {
+          "text": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ أَبُو سَعِيدٍ الْأَشَجُّ، حَدَّثَنَا الْمُحَارِبِيُّ، عَنْ فُضَيْلِ بْنِ غَزْوَانَ، بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ يَدًا بِيَدٍ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Fudail bin Ghazwan with the same chain of transmitters, but he made no mention of (payment being) made on the spot."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ابو سعید اشج نے مجھ سے کہا,محاربی نے فضیل بن گزوان سے اسی سند کے ساتھ حدیث بیان کی اور انہوں نے \" دست بدست \" کے الفاظ بیان نہیں کیے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

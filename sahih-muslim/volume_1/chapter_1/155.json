@@ -1,0 +1,41 @@
+{
+  "id": 155,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ، وَقَالَ: مَرَّ بِرَجُلٍ مِنَ الْأَنْصَارِ يَعِظُ أَخَاهُ."
+    },
+    "en": {
+      "narrator": "Zuhri has narrated this hadith with the addition of these words:",
+      "text": "He (the Holy Prophet ﷺ) happened to pass by a mass of Ansar who was instructing his brother (about modesty)."
+    },
+    "ur": {
+      "narrator": "ہم سے عبد بن حمید نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا, معمر نے زہری سے مذکورہ بالاسند کےساتھ خبر دی اور کہا کہ",
+      "text": "آپ ایک انصاری کے پاس سے گزرے جو اپنے بھائی کو نصیحت کر رہا تھا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

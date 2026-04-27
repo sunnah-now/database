@@ -1,0 +1,41 @@
+{
+  "id": 4389,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "Prescribed Punishments (Kitab Al-Hudud)"
+        },
+        "ar": {
+          "text": "كتاب الحدود"
+        },
+        "ur": {
+          "text": "حدود اور تعزیرات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، ‏‏‏‏‏‏حَدَّثَنَا حَمَّادٌ، ‏‏‏‏‏‏حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ بِهَذَا الْحَدِيثِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَجَلَدَهُ مَرْوَانُ جَلَدَاتٍ وَخَلَّى سَبِيلَهُ."
+    },
+    "en": {
+      "narrator": "This tradition has also been transmitted by Muhammad bin Yahya bin Hibban through a different chain of narrators. This version adds:",
+      "text": "Marwan gave him some lashes and let him go."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن عبید نے بیان کیا، ہم سے حماد نے بیان کیا, اس سند سے بھی محمد بن یحییٰ بن حبان سے یہی حدیث مروی ہے",
+      "text": "اس میں ہے مروان نے اسے کچھ کوڑے مار کر چھوڑ دیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

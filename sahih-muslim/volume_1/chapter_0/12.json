@@ -1,0 +1,41 @@
+{
+  "id": 12,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ: سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ مَهْدِيٍّ، يَقُولُ: «لَا يَكُونُ الرَّجُلُ إِمَامًا يُقْتَدَى بِهِ حَتَّى يُمْسِكَ عَنْ بَعْضِ مَا سَمِعَ»"
+    },
+    "en": {
+      "narrator": "Muhammad bin ul-Muthannā narrated to us:",
+      "text": "He said I heard Abd ar-Rahman bin Mahdī saying: \"A man cannot be an Imām whose example is followed until he with holds from some of what he hears\"."
+    },
+    "ur": {
+      "narrator": "محمد بن مثنیٰ نے کہا :",
+      "text": "میں نے عبد الرحمن بن مہدی سے سنا ، کہہ رہے تھے : آدمی اس وقت تک امام نہیں بن سکتا کہ لوگ اس کی اقتداء کریں یہاں تک کہ وہ سنی سنائی بعض باتوں ( کو بیان کرنے ) سے باز آ جائے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4164,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 25,
+      "language": {
+        "en": {
+          "text": "The Book Of Gifts"
+        },
+        "ar": {
+          "text": "كتاب الْهِبَاتِ"
+        },
+        "ur": {
+          "text": "عطیہ کی گئی چیزوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ يَعْنِي ابْنَ مَهْدِيٍّ، عَنْ مَالِكِ بْنِ أَنَسٍ، بِهَذَا الْإِسْنَادِ، وَزَادَ:لَا تَبْتَعْهُ وَإِنْ أَعْطَاكَهُ بِدِرْهَمٍ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Malik bin Anas with the same chain of transmitters but with this addition:",
+      "text": "Don't buy that even if he gives you for one dirham."
+    },
+    "ur": {
+      "narrator": "مجھ سے زہیر بن حرب نے کہا, عبدالرحمن بن مہدی نے ہمیں مالک بن انس سے اسی سند کے ساتھ ( یہ ) حدیث بیان کی اور اضافہ کیا",
+      "text": "اسے مت خریدو ، چاہے وہ اسے تم کو ایک درہم میں دے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

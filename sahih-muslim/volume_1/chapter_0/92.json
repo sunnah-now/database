@@ -1,0 +1,41 @@
+{
+  "id": 92,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي بِشْرُ بْنُ الْحَكَمِ، قَالَ: سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ الْقَطَّانَ، ضَعَّفَ حَكِيمَ بْنَ جُبَيْرٍ، وَعَبْدَ الْأَعْلَى، وَضَعَّفَ يَحْيَى بْنَ مُوسَى بْنَ دِينَارٍ قَالَ: «حَدِيثُهُ رِيحٌ». وَضَعَّفَ مُوسَى بْنَ دِهْقَانَ، وَعِيسَى بْنَ أَبِي عِيسَى الْمَدَنِيَّ قَالَ: وَسَمِعْتُ الْحَسَنَ بْنَ عِيسَى، يَقُولُ: قَالَ لِي ابْنُ الْمُبَارَكِ: «إِذَا قَدِمْتَ عَلَى جَرِيرٍ فَاكْتُبْ عِلْمَهُ كُلَّهُ إِلَّا حَدِيثَ ثَلَاثَةٍ، لَا تَكْتُبْ حَدِيثَ عُبَيْدَةَ بْنِ مُعَتِّبٍ، وَالسَّرِيِّ بْنِ إِسْمَاعِيلَ، وَمُحَمَّدِ بْنِ سَالِمٍ»"
+    },
+    "en": {
+      "narrator": "Bishr bin al-Hakam narrated to me, he said, I heard Yahyā bin Sa’īd al-Qattān weaken Hakīm bin Jubayr and Abd al-A’lā; and he weakened Yahyā Mūsā bin Dīnār [there is no ‘bin’ between ‘Yahyā’ and ‘Mūsā’]; [Yahyā] said:",
+      "text": "‘His Ḥadīth are Rīh or ‘wind’ [i.e., not established and weak]. [Yahyā] weakened Mūsā bin Dihqān and Īsā bin Abī Īsā al-Madanī. [Muslim] said, ‘I heard al-Hasan bin Īsā saying ‘Ibn al-Mubārak said to me: ‘When you go to Jarīr then write down all of his knowledge except the Ḥadīth of 3 [people] - do not write the Ḥadīth of Ubaydah bin Mu’attib, as-Sarī bin Ismā’īl, or Muhammad bin Sālim’.’"
+    },
+    "ur": {
+      "narrator": "بشر بن حکم نے بیان کیا ، کہا : میں نے یحییٰ بن سعید قطان سے سنا ، انہوں نے حکیم بن جبیر اور عبد الاعلیٰ کو ضعیف قرار دیا اور ( اسی طرح ) یحییٰ نے موسیٰ بن دینار کو بھی ضعیف قرار دیا ( اور ) کہا :",
+      "text": "اس کی ( بیان کردہ ) حدیث ہوا ( جیسی ) ہے اور موسیٰ بن دہقان اور عیسیٰ ابی عیسیٰ مدنی کو ( بھی ) ضعیف قرار دیا ۔ کہا : اور میں نے حسن بن عیسیٰ سے سنا ، کہہ رہے تھے : مجھ سے ابن مبارک نے فرمایا : تم جب جریر کے پاس پہنچو تو تین ( راویوں ) کی احادیث کے سوا اس کا سارا علم لکھ لینا ۔ عبیدہ بن معتب ، سری بن اسماعیل اور محمد بن سالم کی احادیث اس سے نہ لکھنا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

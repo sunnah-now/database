@@ -1,0 +1,41 @@
+{
+  "id": 699,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The Book of the Masjids"
+        },
+        "ar": {
+          "text": "كتاب المساجد"
+        },
+        "ur": {
+          "text": "مساجد کے فضائل و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏قال:‏‏‏‏ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَأْتِي قُبَاءَ رَاكِبًا وَمَاشِيًا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibn 'Umar said: The Messenger of Allah (ﷺ) used to come to Quba' riding and walking. [1] Quba' is about three miles to the south of the Prophet's Masjid. This area is named after in that district."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہم کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم مسجد قباء  ( کبھی )  سوار ہو کر اور  ( کبھی )  پیدل جاتے تھے ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

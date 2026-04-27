@@ -1,0 +1,41 @@
+{
+  "id": 5592,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 39,
+      "language": {
+        "en": {
+          "text": "The Book of Manners and Etiquette"
+        },
+        "ar": {
+          "text": "كتاب الْآدَابِ"
+        },
+        "ur": {
+          "text": "معاشرتی آداب کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنْ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ وَقَالَ إِنَّمَا جُعِلْتُ قَاسِمًا أَقْسِمُ بَيْنَكُمْ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Al-Amash with this chain of narrators, and he said: \"I have only been appointed as a Qasim (distributor), I distribute among you."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابو کریب نے بیان کیا ,ابو معاویہ نے اعمش سے اسی سند کے ساتھ حدیث بیان کی اور کہا : \" قاسم بنا یا گیا ہوں تمھا رے درمیان تقسیم کرتا ہوں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

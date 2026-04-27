@@ -1,0 +1,41 @@
+{
+  "id": 4323,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "The Book Of Oaths"
+        },
+        "ar": {
+          "text": "كتاب الْأَيْمَانِ"
+        },
+        "ur": {
+          "text": "قسموں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنِ الْأَعْمَشِ، بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Al-A'mash with this chain (a Hadith similar to no. 4322)."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے زہیر بن حرب نے بیان کیا، ہم سے جریر نے الاعمش کی سند سے اس سند کے ساتھ بیان کیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

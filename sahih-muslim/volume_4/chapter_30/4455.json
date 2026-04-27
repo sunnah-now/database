@@ -1,0 +1,41 @@
+{
+  "id": 4455,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "The Book Of Legal Punishments"
+        },
+        "ar": {
+          "text": "كتاب الْحُدُودِ"
+        },
+        "ur": {
+          "text": "حدود کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا هِشَامٌ، بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Hisham with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے محمد بن المثنی نے بیان کیا, یحییٰ بن سعید نے ہشام سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

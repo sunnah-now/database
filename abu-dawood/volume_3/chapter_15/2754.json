@@ -1,0 +1,41 @@
+{
+  "id": 2754,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 15,
+      "language": {
+        "en": {
+          "text": "Jihad (Kitab Al-Jihad)"
+        },
+        "ar": {
+          "text": "كتاب الجهاد"
+        },
+        "ur": {
+          "text": "جہاد کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا هَنَّادٌ، ‏‏‏‏‏‏عَنْ ابْنِ الْمُبَارَكِ، ‏‏‏‏‏‏عَنْ أَبِي عَوَانَةَ، ‏‏‏‏‏‏عَنْ عَاصِمِ بْنِ كُلَيْبٍ بِإِسْنَادِهِ وَمَعْنَاهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The tradition mentioned above has also been transmitted by Asim bin Kulaib through a different chain of narrators to the same effect."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ہناد نے ابن مبارک کی سند سے اور ابو عوانہ کی سند سے بیان کیا,اس سند سے بھی عاصم بن کلیب سےاسی طریق سے اور اسی مفہوم کی حدیث مروی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

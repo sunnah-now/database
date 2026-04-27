@@ -1,0 +1,41 @@
+{
+  "id": 706,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا كَثِيرُ بْنُ عُبَيْدٍ يَعْنِي الْمَذْحِجِيَّ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو حَيْوَةَ، ‏‏‏‏‏‏عَنْ سَعِيدٍ، ‏‏‏‏‏‏بِإِسْنَادِهِ وَمَعْنَاهُ زَادَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَطَعَ صَلَاتَنَا قَطَعَ اللَّهُ أَثَرَهُ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ وَرَوَاهُ أَبُو مُسْهِرٍ، ‏‏‏‏‏‏عَنْ سَعِيدٍ، ‏‏‏‏‏‏قَالَ فِيهِ:‏‏‏‏ قَطَعَ صَلَاتَنَا."
+    },
+    "en": {
+      "narrator": "This tradition as also been reported by Saeed through the same chain of narrators and to the same effect. He added:",
+      "text": "He cut off our prayer, may Allah cut off his walking. Abu Dawud said: This version narrated by Mushir on the authority of Saeed has: He cut off our prayer."
+    },
+    "ur": {
+      "narrator": "ہم سے کثیر بن عبید نے بیان کیا، جس کا معنی المذھیجی ہے، ہم سے ابو حیوہ نے بیان کیا, سعید سے اسی سند سے اسی مفہوم کی حدیث مروی ہے، اس میں انہوں نے یہ اضافہ کیا ہے کہ",
+      "text": "اس نے ہماری نماز کاٹ دی، اللہ اس کی چال کاٹ دے ۔ ابوداؤد کہتے ہیں: اسے ابومسہر نے بھی سعید سے روایت کیا ہے، جس میں صرف اتنا ہے: اس نے ہماری نماز کاٹ دی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

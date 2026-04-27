@@ -1,0 +1,41 @@
+{
+  "id": 4398,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The Book of Ad-Dahaya (Sacrifices)"
+        },
+        "ar": {
+          "text": "كتاب الضحايا"
+        },
+        "ur": {
+          "text": "قربانی کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، ‏‏‏‏‏‏عَنْ يَحْيَى، ‏‏‏‏‏‏عَنْ عَبْدِ الْمَلِكِ، ‏‏‏‏‏‏عَنْ عَطَاءٍ، ‏‏‏‏‏‏عَنْ جَابِرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كُنَّا نَتَمَتَّعُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏فَنَذْبَحُ الْبَقَرَةَ عَنْ سَبْعَةٍ، ‏‏‏‏‏‏وَنَشْتَرِكُ فِيهَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Jabir said: We would make Tamattu' when the Prophet was with us, and we would sacrifice a cow on behalf of seven people, sharing it among ourselves. (Sahih )"
+    },
+    "ur": {
+      "narrator": "جابر رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "ہم لوگ رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ( حج ) تمتع کر رہے تھے تو ہم سات لوگوں کی طرف سے ایک گائے ذبح کرتے اور اس میں شریک ہوتے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

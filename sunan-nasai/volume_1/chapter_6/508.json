@@ -1,0 +1,41 @@
+{
+  "id": 508,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 6,
+      "language": {
+        "en": {
+          "text": "The Book of the Times (of Prayer)"
+        },
+        "ar": {
+          "text": "كتاب المواقيت"
+        },
+        "ur": {
+          "text": "اوقات نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا اللَّيْثُ، ‏‏‏‏‏‏عَنْ ابْنِ شِهَابٍ، ‏‏‏‏‏‏عَنْ أَنَسِ بْنِ مَالِكٍ، ‏‏‏‏‏‏أَنَّهُ أَخْبَرَهُ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي الْعَصْرَ وَالشَّمْسُ مُرْتَفِعَةٌ حَيَّةٌ، ‏‏‏‏‏‏وَيَذْهَبُ الذَّاهِبُ إِلَى الْعَوَالِي وَالشَّمْسُ مُرْتَفِعَةٌ ."
+    },
+    "en": {
+      "narrator": "It was narrated that Anas bin Malik رضی اللہ عنہ said:",
+      "text": "The Messenger of Allah (ﷺ) used to pray 'Asr when the sun was still high and bright, and a person could go to Al-'Awali [1] when the sun was still high. \r\n\r\n[1] Al-'Awali is the southern most district of Al-Madinah, and it is very big. Its nearest limit is at a distance of about two miles from the center of Al-Madinah. While its furthest limit is about eight miles."
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ نے بیان کیا، کہا: ہم سے لیث نے ابن شہاب کی سند سے بیان کیا, انس بن مالک رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم عصر پڑھتے اور سورج بلند اور تیز ہوتا، اور جانے والا  ( نماز پڑھ کر )  عوالی جاتا، اور سورج بلند ہوتا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

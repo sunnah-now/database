@@ -1,0 +1,41 @@
+{
+  "id": 3385,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الْأَعْلَى، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ، غَيْرَ أَنَّهُ قَالَ: «تُشَدُّ الرِّحَالُ إِلَى ثَلَاثَةِ مَسَاجِدَ»."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Zuhri (but with this change of words) that he (Allah's Apostle ﷺ) said:",
+      "text": "\"Undertake journey to three mosques.\""
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عبد الاعلٰی نے بیان کیا, معمر نے زہری سے اسی سند کے ساتھ روایت کی ، البتہ انھوں نے کہا",
+      "text": "\" ( عبادت کے لیے ) تین مسجدوں کی طرف رخت سفر باندھا جا سکتا ہے ۔\""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

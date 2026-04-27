@@ -1,0 +1,41 @@
+{
+  "id": 3754,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 20,
+      "language": {
+        "en": {
+          "text": "The Book of Invoking Curses"
+        },
+        "ar": {
+          "text": "كتاب اللِّعَانِ"
+        },
+        "ur": {
+          "text": "لعان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا يَحْيَى، - وَهُوَ الْقَطَّانُ - عَنْ عُبَيْدِ اللَّهِ، بِهَذَا الإِسْنَادِ ‏.‏"
+    },
+    "en": {
+      "narrator": "",
+      "text": "A hadith like this has been narrated on the authority of 'Ubaidulah with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے محمد بن المثنیٰ اور عبید اللہ بن سعید نے بیان کیا، کہا: ہم سے یحییٰ نے جو القطان ہیں، ہم سے عبید اللہ کی سند سے اس سند کے ساتھ بیان کیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

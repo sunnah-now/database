@@ -1,0 +1,41 @@
+{
+  "id": 1023,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Book of the Commencement of the Prayer"
+        },
+        "ar": {
+          "text": "كتاب الافتتاح"
+        },
+        "ur": {
+          "text": "نماز شروع کرنے کے مسائل و احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ عُبَيْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ، ‏‏‏‏‏‏عَنْ يَعْلَى بْنِ مَمْلَكٍ، ‏‏‏‏‏‏أَنَّهُ سَأَلَ أُمَّ سَلَمَةَ عَنْ قِرَاءَةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَصَلَاتِهِ، ‏‏‏‏‏‏قَالَتْ:‏‏‏‏ مَا لَكُمْ وَصَلَاتَهُ، ‏‏‏‏‏‏ثُمَّ نَعَتَتْ قِرَاءَتَهُ فَإِذَا هِيَ تَنْعَتُ قِرَاءَةً مُفَسَّرَةً حَرْفًا حَرْفًا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ya'la bin Mamlak that : He asked Umm Salamah about the recitation and prayer of the Messenger of Allah (ﷺ) and she said: Why do you want to know about his prayer? Then she described his recitation and as being so measured and clear that each letter could be distinguished."
+    },
+    "ur": {
+      "narrator": "یعلیٰ بن مملک سے روایت ہے کہ",
+      "text": "انہوں نے ام المؤمنین ام سلمہ رضی اللہ عنہا سے رسول اللہ صلی اللہ علیہ وسلم کی قرأت اور نماز کے متعلق پوچھا، تو انہوں نے کہا: تم کہاں اور آپ کی نماز کہاں! پھر انہوں نے آپ کی قرأت بیان کی جس کا ایک ایک حرف بالکل واضح تھا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

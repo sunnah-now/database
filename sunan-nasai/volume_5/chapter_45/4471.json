@@ -1,0 +1,41 @@
+{
+  "id": 4471,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏عَنْ عُبَيْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي نَافِعٌ، ‏‏‏‏‏‏عَنِ ابْنِ عُمَرَ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ الْبَيِّعَانِ بِالْخِيَارِ، ‏‏‏‏‏‏مَا لَمْ يَفْتَرِقَا، ‏‏‏‏‏‏أَوْ يَكُونَ خِيَارًا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Yahaya, from 'Ubaidullah who said: Nafi narrated to me from Ibn 'Umar, tht the Messenger of Allah said: 'the two parties to a transaction both have the choice so long as they have not separated, or they have chosen. (Sahih )"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہا سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”خرید و فروخت کرنے والوں کو اس وقت تک اختیار رہتا ہے جب تک وہ الگ الگ نہ ہوں، یا پھر اختیار کی شرط ہو“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

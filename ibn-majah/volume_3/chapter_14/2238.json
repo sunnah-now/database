@@ -1,0 +1,41 @@
+{
+  "id": 2238,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Chapter on Business Transactions"
+        },
+        "ar": {
+          "text": "كتاب التجارات"
+        },
+        "ur": {
+          "text": "تجارت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَعْقُوبُ بْنُ حُمَيْدِ بْنِ كَاسِبٍ، ‏‏‏‏‏‏حَدَّثَنَا إِسْحَاق بْنُ جَعْفَرِ بْنِ مُحَمَّدِ بْنِ عَلِيِّ بْنِ الْحُسَيْنِ، ‏‏‏‏‏‏عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ الْجَدْعَانِيِّ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ اللَّهُمَّ بَارِكْ لِأُمَّتِي فِي بُكُورِهَا ."
+    },
+    "en": {
+      "narrator": "It was narrated from Ibn 'Umar رضی اللہ عنہما that:",
+      "text": "The Prophet (ﷺ) said: O Allah, bless my nation in their early mornings. . It was narrated from Abu Hurairah that the Prophet (ﷺ) said: Whoever buys a Musarrah, he has the choice (of annulling the deal) for three days. If he returns it, then he must also give a Sa' of dates, not Samra'. Meaning wheat."
+    },
+    "ur": {
+      "narrator": "ہم سے یعقوب بن حمید بن کسیب نے بیان کیا، ہم سے اسحاق بن جعفر بن محمد بن علی بن الحسین نے، عبدالرحمٰن بن ابی بکر الجدعانی نے نافع کی سند سے بیان کیا, عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: اے اللہ! میری امت کے لیے صبح کے وقت میں برکت عطا فرما ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

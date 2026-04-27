@@ -1,0 +1,41 @@
+{
+  "id": 306,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Purification (Kitab Al-Taharah)"
+        },
+        "ar": {
+          "text": "كتاب الطهارة"
+        },
+        "ur": {
+          "text": "طہارت کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبٍ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، ‏‏‏‏‏‏أَخْبَرَنَا اللَّيْثُ، ‏‏‏‏‏‏عَنْ رَبِيعَةَ، ‏‏‏‏‏‏ أَنَّهُ كَانَ لَا يَرَى عَلَى الْمُسْتَحَاضَةِ وُضُوءًا عِنْدَ كُلِّ صَلَاةٍ، ‏‏‏‏‏‏إِلَّا أَنْ يُصِيبَهَا حَدَثٌ غَيْرُ الدَّمِ، ‏‏‏‏‏‏فَتَوَضَّأُ ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ هَذَا قَوْلُ مَالِكٍ يَعْنِي ابْنَ أَنَسٍ."
+    },
+    "en": {
+      "narrator": "Rabiah said:",
+      "text": "Umm Habibah daughter of Jahsh had a prolonged flow of blood. The Prophet صلی ‌اللہ ‌علیہ ‌وسلم commander her to refrain (from prayer) during her menstrual period; then she should wash and pray. If she sees anything (which renders ablution void) she should perform ablution and pray. Abu Dawud said: This is the view held by Malik bin Anas."
+    },
+    "ur": {
+      "narrator": "ہم سے عبدالملک بن شعیب نے بیان کیا، ہم سے عبداللہ بن وہب نے بیان کیا، انہیں لیث نے خبر دی،ربیعہ سے روایت ہے کہ",
+      "text": "وہ مستحاضہ کے لیے ہر نماز کے وقت وضو ضروری نہیں سمجھتے تھے سوائے اس کے کہ اسے خون کے علاوہ کوئی اور حدث لاحق ہو تو وہ وضو کرے گی۔ ابوداؤد کہتے ہیں: یہی مالک بن انس کا قول ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 542,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حُسَيْنُ بْنُ مُعَاذٍ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ حُمَيْدٍ، قَالَ سَأَلْتُ ثَابِتًا الْبُنَانِيَّ عَنِ الرَّجُلِ، يَتَكَلَّمُ بَعْدَ مَا تُقَامُ الصَّلاَةُ فَحَدَّثَنِي عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أُقِيمَتِ الصَّلاَةُ فَعَرَضَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم رَجُلٌ فَحَبَسَهُ بَعْدَ مَا أُقِيمَتِ الصَّلاَةُ ‏.‏"
+    },
+    "en": {
+      "narrator": "Humaid reported :",
+      "text": "I asked Thabit al-Bunani رضی اللہ عنہ whether it was permissible for a man to talk after the qamah had been pronounced. He narrated a tradition on the authority of Anas رضی اللہ عنہ : (once) the Iqamah was pronounced, and a person came to the apostle of Allah (ﷺ) and detained him after the Iqamah had been pronounced."
+    },
+    "ur": {
+      "narrator": "ہم سے حسین بن معاذ نے بیان کیا، کہا ہم سے عبد العلا نے حمید کی سند سے بیان کیا، انہوں نے کہا",
+      "text": "میں نے ثابت البنانی رضی اللہ عنہ سے ایک ایسے آدمی کے بارے میں پوچھا جو نماز قائم ہونے کے بعد بات کرتا ہے، تو انہوں نے مجھ سے انس بن مالک رضی اللہ عنہ سے روایت کی، (ایک مرتبہ) اقامت کہی گئی، ایک شخص رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور اقامت کہنے کے بعد اسے روک لیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4462,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "The Book Of Legal Punishments"
+        },
+        "ar": {
+          "text": "كتاب الْحُدُودِ"
+        },
+        "ur": {
+          "text": "حدود کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ، وَزَادَ فِي الْحَدِيثِ، فَتَلَا عَلَيْنَا آيَةَ النِّسَاءِ: {أَنْ لَا يُشْرِكْنَ بِاللهِ شَيْئًا} [الممتحنة: 12] الْآيَةَ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Zuhri with the same chain of transmitters with this addition:",
+      "text": "He recited to us the verse pertaining to women, viz, that they will not associate anything with Allah."
+    },
+    "ur": {
+      "narrator": "ہم سے عبد بن حمید نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا, معمر نے زہری سے اسی سند کے ساتھ حدیث بیان کی اور حدیث میں یہ اضافہ کیا",
+      "text": "اس کے بعد آپ نے ہمارے سامنے عورتوں ( کے احکام ) والی ( سورۃ الممتحنہ کی ) یہ آیت تلاوت کی : \" کہ وہ اللہ کے ساتھ کسی چیز کو شریک نہ کریں."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

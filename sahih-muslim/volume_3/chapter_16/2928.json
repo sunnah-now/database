@@ -1,0 +1,41 @@
+{
+  "id": 2928,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنِ الْقَاسِمِ، وَإِبْرَاهِيمَ، قَالَ: لَا أَعْرِفُ حَدِيثَ أَحَدِهِمَا مِنَ الْآخَرِ، أَنَّ أُمَّ الْمُؤْمِنِينَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: يَا رَسُولَ اللهِ، يَصْدُرُ النَّاسُ بِنُسُكَيْنِ فَذَكَرَ الْحَدِيثَ."
+    },
+    "en": {
+      "narrator": "Ibn al-Muththanna reported on the authority of Ibn Abu'Adi who transmitted on the authority of Ibn'Aun who narrated from al-Qasim and Ibrahim having said:",
+      "text": "I cannot differentiate the hadith of one from the other (Qasim and Ibrahim) that the Mother of the Believers (رضی اللہ تعالیٰ عنہا ) said this: Messenger of Allah, people have come back with two acts of worship. The rest of the hadith is the same."
+    },
+    "ur": {
+      "narrator": "ہم سے ابن المثنی نے بیان کیا، انہوں نے کہا ابن ابی عدی نے ابن عون سے حدیث بیان کی ، انھوں نے قاسم اور ابرا ہیم سے روایت کی ( ابن عون نے ) کہا",
+      "text": "میں ان میں سے ایک کی حدیث دوسرے کی حدیث سے الگ نہیں کر سکتا ۔ ام المومنین ( حضرت عائشہ رضی اللہ تعالیٰ عنہا ) نے عرض کی : اے اللہ کے رسول !لوگ دومنسک ( حج اور عمرہ ) کر کے لو ٹیں ۔ اور آگے ( اسی طرح ) حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

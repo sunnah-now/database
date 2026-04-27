@@ -1,0 +1,41 @@
+{
+  "id": 993,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنِ الْأَعْمَشِ، بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "A hadith like this has been narrated by A'mash with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے علی بن خشرم نے بیان کیا(دوسرے شاگرد ) عیسیٰ نے اعمش سے اسی سند کے ساتھ اسی کے مانند خبر دی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

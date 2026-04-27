@@ -1,0 +1,41 @@
+{
+  "id": 7123,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 51,
+      "language": {
+        "en": {
+          "text": "Characteristics of The Hypocrites And Rulings Concerning Them"
+        },
+        "ar": {
+          "text": "كتاب صِفَاتِ الْمُنَافِقِينَ وَأَحْكَامِهِمْ"
+        },
+        "ur": {
+          "text": "منافقین کی صفات اور ان کے بارے میں احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه حَسَنٌ الْحُلْوَانِيُّ حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُطَّلِبِ عَنْ مُوسَى بْنِ عُقْبَةَ بِهَذَا الْإِسْنَادِ وَلَمْ يَذْكُرْ وَأَبْشِرُوا."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Musa bin `Uqba with the same chain of transmitters and he did not make a mention of:",
+      "text": "\"Be happy.\""
+    },
+    "ur": {
+      "narrator": "اور ہم سے حسن الحلوانی نے بیان کیا : ہم سے یعقوب بن ابراہیم بن سعد نے بیان کیا ,عبد العزیز بن مطلب نے ہمیں موسیٰ بن عقبہ سے اسی سند کے ساتھ حدیث بیان کی اور",
+      "text": "\" خوش خبری ( کی امید ) رکھو \" ذکر نہیں کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

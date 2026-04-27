@@ -1,0 +1,41 @@
+{
+  "id": 2191,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "Divorce (Kitab Al-Talaq)"
+        },
+        "ar": {
+          "text": "كتاب الطلاق"
+        },
+        "ur": {
+          "text": "طلاق کے فروعی احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلَاءِ، ‏‏‏‏‏‏أَخْبَرَنَا أَبُو أُسَامَةَ، ‏‏‏‏‏‏عَنْ الْوَلِيدِ بْنِ كَثِيرٍ، ‏‏‏‏‏‏حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ الْحَارِثِ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏بِإِسْنَادِهِ وَمَعْنَاهُ، ‏‏‏‏‏‏زَادَ:‏‏‏‏ مَنْ حَلَفَ عَلَى مَعْصِيَةٍ فَلَا يَمِينَ لَهُ، ‏‏‏‏‏‏وَمَنْ حَلَفَ عَلَى قَطِيعَةِ رَحِمٍ فَلَا يَمِينَ لَهُ ."
+    },
+    "en": {
+      "narrator": "The above tradition has also been transmitted by Amr bin Shuaib through a different chain of narrators to the same effect:",
+      "text": "This version adds “If anyone swears an oath to do an act of disobedience to GOD, his oath is not valid, and if anyone swears an oath to sever relationship, his oath is not valid (i.e., he must not fulfill it)"
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن علاء نے بیان کیا، ہم سے ابو اسامہ نے بیان کیا، انہیں ولید بن کثیر نے بیان کیا، مجھ سے عبدالرحمٰن بن حارث نے عمرو بن شعیب کی سند اور اس کے معنی کے ساتھ بیان کیا، انہوں نے مزید کہا",
+      "text": "اس میں اتنا اضافہ ہے: جس نے گناہ کرنے کی قسم کھا لی تو اس قسم کا کوئی اعتبار نہیں نیز جس نے رشتہ توڑنے کی قسم کھا لی اس کا بھی کوئی اعتبار نہیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

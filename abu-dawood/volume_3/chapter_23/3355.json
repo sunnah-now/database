@@ -1,0 +1,41 @@
+{
+  "id": 3355,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "Commercial Transactions (Kitab Al-Buyu)"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حُسَيْنُ بْنُ الْأَسْوَدِ، ‏‏‏‏‏‏حَدَّثَنَا عُبَيْدُ اللَّهِ، ‏‏‏‏‏‏أَخْبَرَنَا إِسْرَائِيلُ، ‏‏‏‏‏‏عَنْ سِمَاكٍ بِإِسْنَادِهِ وَمَعْنَاهُ، ‏‏‏‏‏‏وَالْأَوَّلُ أَتَمُّ لَمْ يَذْكُرْ بِسِعْرِ يَوْمِهَا."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The tradition mentioned above has also been transmitted by Simak (bin Harb) with a different chain of narrators and to the same effect. The first version is more perfect. It does not mention the words at the current rate ."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے حسین بن اسود نے بیان کیا، کہا ہم سے عبید اللہ نے بیان کیا، ہم سے اسرائیل نے بیان کیا, اس سند سے بھی سماک سے اسی مفہوم کی حدیث اسی طریق سے مروی ہے, لیکن پہلی روایت زیادہ مکمل ہے اس میں اس دن کے بھاؤ کا ذکر نہیں ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

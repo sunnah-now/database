@@ -1,0 +1,41 @@
+{
+  "id": 2493,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Zakat"
+        },
+        "ar": {
+          "text": "كتاب الزَّكَاةِ"
+        },
+        "ur": {
+          "text": "زکوٰۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاه ابْنُ نُمَيْرٍ، حَدَّثَنَا عَبْدُ اللهِ بْنُ إِدْرِيسَ، عَنْ شُعْبَةَ، بِهَذَا الْإِسْنَادِ، غَيْرَ أَنَّهُ قَالَ: «صَلِّ عَلَيْهِمْ»."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Shu'ba with the same chain of transmitters (but with a slight variation of words, that he said): (O Allah), bless them."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابن نمیر نے بیان کیا، کہا کہ ہم سےعبد اللہ بن ادریس نے شعبہ سے اسی سند کے ساتھ حدیث بیان کی البتہ انھوں نے أل ابي اوفي کے بجا ئے ان سب پر رحمت بھیج \" کہا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

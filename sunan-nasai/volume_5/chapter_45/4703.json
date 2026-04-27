@@ -1,0 +1,41 @@
+{
+  "id": 4703,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَزِيدُ وَهُوَ ابْنُ زُرَيْعٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا أَيُّوبُ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ مَنْ أَعْتَقَ شِرْكًا لَهُ فِي مَمْلُوكٍ، ‏‏‏‏‏‏وَكَانَ لَهُ مِنَ الْمَالِ مَا يَبْلُغُ ثَمَنَهُ بِقِيمَةِ الْعَبْدِ فَهُوَ عَتِيقٌ مِنْ مَالِهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibn 'Umar said: The Messenger of Allah said: 'Whoever sets free his share of a slave, and he has sufficient wealth to set him free completely by paying the price of the slave, then he should set him free with his own wealth. '"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جس نے کسی غلام میں اپنا حصہ آزاد کیا اور اس کے پاس غلام کی ( بقیہ ) قیمت کے برابر مال ہو تو وہ اس کے مال سے آزاد ہو جائے گا“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

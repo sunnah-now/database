@@ -1,0 +1,41 @@
+{
+  "id": 5808,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of Greetings"
+        },
+        "ar": {
+          "text": "كتاب السَّلَامِ"
+        },
+        "ur": {
+          "text": "سلامتی اور صحت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللهِ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، وَلَمْ يَقُلْ: حَقٌّ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters but there is no mention of the word Haqq (fact)."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہارون بن عبداللہ نے مجھ سے کہا, روح بن عبادہ نے کہا ,  شعبہ نے ہمیں اسی سند کے ساتھ اسی کے مانند حدیث سنائی لیکن انوھں نے \" برحق \" نہیں کہا : ( امکان یہی ہے کہ وہ حدیث روایت بالمعنی ہے .)"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

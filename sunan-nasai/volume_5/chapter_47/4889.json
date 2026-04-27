@@ -1,0 +1,41 @@
+{
+  "id": 4889,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 47,
+      "language": {
+        "en": {
+          "text": "The Book of Cutting off the Hand of the Thief"
+        },
+        "ar": {
+          "text": "كتاب قطع السارق"
+        },
+        "ur": {
+          "text": "چور کا ہاتھ کاٹنے سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ هَاشِمٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا الْوَلِيدُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا ابْنُ جُرَيْجٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ تَعَافَوْا الْحُدُودَ قَبْلَ أَنْ تَأْتُونِي بِهِ، ‏‏‏‏‏‏فَمَا أَتَانِي مِنْ حَدٍّ فَقَدْ وَجَبَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated form 'Amr bin Shu'ainb, from his father, from his grandfather, that the Prophet said: Pardon matters that may deserve a Hadd punishment before you bring it to my attention, for whatever is brought to my attention, the Hadd punishment becomes binding. (Saif)"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمرو رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”حدود کو میرے پاس آنے سے پہلے معاف کر دیا کرو، کیونکہ جس حد کا مقدمہ میرے پاس آیا، اس میں حد لازم ہو گئی“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

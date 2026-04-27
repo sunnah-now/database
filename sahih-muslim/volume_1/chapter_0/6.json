@@ -1,0 +1,41 @@
+{
+  "id": 6,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، أَخْبَرَنَا مُحَمَّدُ بْنُ قَيْسٍ الْأَسَدِيُّ، عَنْ عَلِيِّ بْنِ رَبِيعَةَ الْأَسَدِيِّ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ، وَلَمْ يَذْكُرْ: «إِنَّ كَذِبًا عَلَيَّ لَيْسَ كَكَذِبٍ عَلَى أَحَدٍ»"
+    },
+    "en": {
+      "narrator": "Ali bin Hujr as-Sa’di narrated to us, Alī bin Mushir narrated to us, Muhammad bin Qays il-Asadi informed us, on authority of Ali ibn Rabi’at al-Asadi, on authority of al-Mughirat ibn Shu’bah, on authority of the Prophet, peace and blessings of Allah upon him a similar narration:",
+      "text": "However he did not mention the words ‘Indeed a lie upon me is not like a lie upon anyone else’."
+    },
+    "ur": {
+      "narrator": "محمد بن قیس اسدی نے علی بن ربیعہ اسدی سے ، انہوں نے حضرت مغیرہ بن شعبہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ، انہوں نے نبیﷺ سے اسی طرح روایت کی",
+      "text": "لیکن ’’بلاشبہ مجھ پر جھوٹ بولنا اس طرح نہیں جیسے کسی ایک ( عام ) آدمی پر جھوٹ بولنا ہے ۔ ‘ ‘ ( اس جملہ ) بیان نہیں کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 5405,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Clothes and Adornment"
+        },
+        "ar": {
+          "text": "كتاب اللِّبَاسِ وَالزِّينَةِ"
+        },
+        "ur": {
+          "text": "لباس اور زینت کے احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ حَدَّثَنَا ابْنُ وَهْبٍ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ عَنْ ابْنِ شِهَابٍ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Ibn Shihab with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ہارون بن معروف نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا, عمرو بن حارث نے ابن شہاب سے اسی سند کے ساتھ اسی کے مانند روایت بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

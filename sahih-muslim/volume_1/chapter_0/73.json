@@ -1,0 +1,41 @@
+{
+  "id": 73,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا الْحُلْوَانِيُّ، قَالَ: سَمِعْتُ عَفَّانَ، قَالَ: حَدَّثْتُ حَمَّادَ بْنَ سَلَمَةَ، عَنْ صَالِحٍ الْمُرِّيِّ بِحَدِيثٍ عَنْ ثَابِتٍ، فَقَالَ: «كَذَبَ» وَحَدَّثْتُ هَمَّامًا، عَنْ صَالِحٍ الْمُرِّيِّ، بِحَدِيثٍ، فَقَالَ: «كَذَبَ»"
+    },
+    "en": {
+      "narrator": "",
+      "text": "Al-Hulwānī narrated to us, he said, I heard Affān [bin Muslim] say: ‘I narrated to Hammād bin Salamah [bin Dīnār al-Basrī], on authority of Sālih al-Murrī , a Ḥadīth on authority of Thābit [bin Aslam al-Banānī], then [Hammād] said: ‘[Sālih] lied’. I also narrated to Hammām on authority of Sālih al-Murrī a Ḥadīth then [Hammām] said: ‘[Sālih] lied’."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "۔ عفان ( بن مسلم ) نے کہا : میں نے حماد بن سلمہ کو صالح مری کے واسطے سے ایک حدیث سنائی جو اس نے ثابت سے روایت کی تو انہوں نے ( حماد ) نے کہا : اس نے جھوٹ بولا ۔ ( اسی طرح ) میں نے ہمام کو صالح مری سے ایک حدیث سنائی تو انہوں نے بھی کہا : اس نے جھوٹ بولا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

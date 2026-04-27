@@ -1,0 +1,41 @@
+{
+  "id": 4587,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 33,
+      "language": {
+        "en": {
+          "text": "The Book Of Jihad And Expeditions"
+        },
+        "ar": {
+          "text": "كتاب الْجِهَادِ وَالسِّيَرِ"
+        },
+        "ur": {
+          "text": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، وَلَمْ يَذْكُرْ فِي النَّفَلِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The same tradition has been narrated on the authority of Ubaidullah by a different chain of transmitters who do not mention the words: from the booty."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "عبداللہ بن نمیر نے عبیداللہ سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی اور انہوں نے یہ نہیں کہا : غنیمت میں."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

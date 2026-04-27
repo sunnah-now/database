@@ -1,0 +1,41 @@
+{
+  "id": 1861,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book Of the Merit Of The Holy Quran"
+        },
+        "ar": {
+          "text": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ"
+        },
+        "ur": {
+          "text": "قرآن کے فضائل اور متعلقہ امور"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ حَدَّثَنَا هَمَّامٌ ح و حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ عَنْ شُعْبَةَ كِلَاهُمَا عَنْ قَتَادَةَ بِهَذَا الْإِسْنَادِ مِثْلَهُ غَيْرَ أَنَّ فِي حَدِيثِ هَمَّامٍ بَدَلَ الْمُنَافِقِ الْفَاجِرِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Qatada with the same chain of transmitters but with one alteration that instead of the word: hypocrite (Munafiq), there it is wicked (fajir)."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے حداب بن خالد نے بیان کیا، ہم سےہمام اور شعبہ نے قتادہ سے اسی سند کے ساتھ اسی کی طرح حدیث روایت کی ۔ اس میں یہ فرق ہے کہ ہمام کی روایت میں منا فق کی جگہ فاجر ( بدکردار ) کا لفظ ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

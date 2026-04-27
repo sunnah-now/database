@@ -1,0 +1,41 @@
+{
+  "id": 5917,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "The Book of Dreams"
+        },
+        "ar": {
+          "text": "كتاب الرُّؤْيَا"
+        },
+        "ur": {
+          "text": "خواب کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ ابْنُ الْمُثَنَّى، وَعُبَيْدُ اللهِ بْنُ سَعِيدٍ، قَالَا: حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللهِ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been reported on the authority of `Ubaidullah with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابن المثنی اور عبید اللہ بن سعید نے بیان کیا، انہوں نے کہا: یحییٰ نے عبید اللہ سے اسی سند کے ساتھ ( یہی ) حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

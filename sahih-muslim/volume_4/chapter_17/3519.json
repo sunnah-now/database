@@ -1,0 +1,41 @@
+{
+  "id": 3519,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 17,
+      "language": {
+        "en": {
+          "text": "The Book of Marriage"
+        },
+        "ar": {
+          "text": "كتاب النِّكَاحِ"
+        },
+        "ur": {
+          "text": "نکاح کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ بِهَذَا الْإِسْنَادِ، بِمِثْلِهِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "A hadith like this has been narrated on the authority of Abu Zubair with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابن نمیر نے بیان کیا، کہا ہم سے ابو عاصم نے بیان کیا, ابن جُریج نے ابوزبیر سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

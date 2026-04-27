@@ -1,0 +1,41 @@
+{
+  "id": 5603,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "The Book of Drinks"
+        },
+        "ar": {
+          "text": "كتاب الأشربة"
+        },
+        "ur": {
+          "text": "مشروبات ( پینے والی چیزوں ) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا سُوَيْدٌ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا عَبْدُ اللَّهِ، ‏‏‏‏‏‏عَنْ عَبْدِ الْمَلِكِ بْنِ الطُّفَيْلِ الْجَزَرِيِّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَتَبَ إِلَيْنَا عُمَرُ بْنُ عَبْدِ الْعَزِيزِ:‏‏‏‏ لَا تَشْرَبُوا مِنَ الطِّلَاءِ حَتَّى يَذْهَبَ ثُلُثَاهُ وَيَبْقَى ثُلُثَهُ، ‏‏‏‏‏‏وَكُلُّ مُسْكِرٍ حَرَامٌ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdul-Malik bin At-Tufail Al-Jazari said: Umar bin 'Abdul-Aziz wrote to us, saying: 'Do not drink the thickened juice of grapes (obtained by boiling it down) until two-third of it has gone and one-third is left. And every intoxicant is unlawful.'"
+    },
+    "ur": {
+      "narrator": "عبدالملک بن طفیل جزری کہتے ہیں کہ",
+      "text": "عمر بن عبدالعزیز نے ہمیں لکھا: طلاء مت پیو، جب تک کہ اس کے دو حصے ( جل کر ) ختم نہ ہو جائیں اور ایک حصہ باقی رہ جائے اور ہر نشہ لانے والی چیز حرام ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

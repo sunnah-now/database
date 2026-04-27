@@ -1,0 +1,41 @@
+{
+  "id": 664,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book of Purification"
+        },
+        "ar": {
+          "text": "كتاب الطَّهَارَةِ"
+        },
+        "ur": {
+          "text": "پاکی کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عِيسَى، حَدَّثَنَا هِشَامٌ، بِهَذَا الْإِسْنَادِ مِثْلَ حَدِيثِ ابْنِ نُمَيْرٍ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Hisham narrated the hadith like one transmitted by Ibn Numair (the above mentioned one) with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے عیسیٰ نے بیان کیا,ہشام کے ایک او رشاگرد عیسیٰ نے ہشام کی اسی سند سے ابن نمیر کی روایت ( : 662 ) کے مطابق روایت بیان"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

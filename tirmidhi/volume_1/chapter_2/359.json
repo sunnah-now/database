@@ -1,0 +1,41 @@
+{
+  "id": 359,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book on Salat (Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "عمرو بن حارث بن مصطلق کہتے ہیں"
+    },
+    "en": {
+      "narrator": "",
+      "text": "Amr bin Al-Harith Al-Mustaliq said: It used to be said that the people with the worst punishment [on the Day of Judgment] are two: A woman who disobeyed her husband, and a people's Imam whom they dislike."
+    },
+    "ur": {
+      "narrator": "عمرو بن حارث بن مصطلق کہتے ہیں:",
+      "text": "کہا جاتا تھا کہ قیامت کے روز سب سے سخت عذاب دو طرح کے لوگوں کو ہو گا: ایک اس عورت کو جو اپنے شوہر کی نافرمانی کرے، دوسرے اس امام کو جسے لوگ ناپسند کرتے ہوں۔ منصور کہتے ہیں کہ ہم نے امام کے معاملے میں پوچھا تو ہمیں بتایا گیا کہ اس سے مراد ظالم ائمہ ہیں، لیکن جو امام سنت قائم کرے تو گناہ اس پر ہو گا جو اسے ناپسند کرے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

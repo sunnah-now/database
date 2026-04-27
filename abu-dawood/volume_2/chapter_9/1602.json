@@ -1,0 +1,41 @@
+{
+  "id": 1602,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "Zakat (Kitab Al-Zakat)"
+        },
+        "ar": {
+          "text": "كتاب الزكاة"
+        },
+        "ur": {
+          "text": "زکوۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ الْمُؤَذِّنُ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ وَهْبٍ، ‏‏‏‏‏‏أَخْبَرَنِي أُسَامَةُ بْنُ زَيْدٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏أَنَّ بَطْنًا مِنْ فَهْمٍ بِمَعْنَى الْمُغِيرَةِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ مِنْ عَشْرِ قِرَبٍ قِرْبَةٌ، ‏‏‏‏‏‏وَقَالَ:‏‏‏‏ وَادِيَيْنِ لَهُمْ."
+    },
+    "en": {
+      "narrator": "Amr bin Shuaib said on the authority of his father that his grandfather reported:",
+      "text": "A sub clan of Fahm. He then narrated the tradition like that of the narrator Al Mughirah. This version has “ (They used to give) sadaqah out of ten bags (of honey). ” He also added “Two woods of theirs”."
+    },
+    "ur": {
+      "narrator": "ہم سے ربیع بن سلیمان المحدثین نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، ان سے اسامہ بن زید نے بیان کیا، انہیں عمرو بن شعیب نے اپنے والد سے اور اپنے دادا سے کہ",
+      "text": "ایک قبیلہ فہم نے ایک ہی معنی کے ساتھ کہا: الغبیر کے معنی ہیں: قرب، اور فرمایا: ان کی دو وادیاں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

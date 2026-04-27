@@ -1,0 +1,41 @@
+{
+  "id": 4310,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "The Book Of Oaths"
+        },
+        "ar": {
+          "text": "كتاب الْأَيْمَانِ"
+        },
+        "ur": {
+          "text": "قسموں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ بِشْرُ بْنُ خَالِدٍ، أَخْبَرَنَا مُحَمَّدٌ يَعْنِي ابْنَ جَعْفَرٍ، عَنْ شُعْبَةَ، بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ قَوْلَهُ: أَعُوذُ بِاللهِ، أَعُوذُ بِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters, but made no mention of (these words) of his:",
+      "text": "I seek refuge with Allah, I seek refuge with Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌)."
+    },
+    "ur": {
+      "narrator": "مجھ سے بشر بن خالد نے بیان کیا، انہوں نے ہم سے بیان کیا محمد بن جعفر نے ہمیں شعبہ سے ، اسی سند کے ساتھ خبر دی اور انہوں نے یہ الفاظ بیان نہیں کیے",
+      "text": "\" میں اللہ کی پناہ میں آتا ہوں \" ( اور ) \" اللہ کے رسول صلی اللہ علیہ وسلم کی پناہ میں آتا ہوں."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

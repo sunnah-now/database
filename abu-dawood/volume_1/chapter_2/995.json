@@ -1,0 +1,41 @@
+{
+  "id": 995,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي عُبَيْدَةَ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ كَأَنَّهُ عَلَى الرَّضْفِ ‏.‏ قَالَ قُلْتُ حَتَّى يَقُومَ قَالَ حَتَّى يَقُومَ ‏.‏"
+    },
+    "en": {
+      "narrator": "It was reported from Shu'bah from Sa'd bin Ibrahim, from Ubaidah, from his father  (Abdullah Ibn Mas'ud):",
+      "text": "The Prophet (ﷺ) was in the first two rak'ahs as though he were on heated stones.\r\nThe narrator (Shu'bah) said: We said: Till he (the Prophet) got up."
+    },
+    "ur": {
+      "narrator": "ہم سے حفص بن عمر نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے سعد بن ابراہیم نے، وہ ابو عبیدہ سے، انہوں نے اپنے والد سے کہ",
+      "text": "نبی کریم صلی اللہ علیہ وسلم پہلی دو رکعتوں میں اس طرح پڑھتے تھے جیسے کنکریوں پر ہوں۔ اس نے کہا: میں نے کہا: جب تک وہ کھڑا نہ ہو جائے؟ فرمایا: یہاں تک کہ وہ کھڑا ہو جائے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

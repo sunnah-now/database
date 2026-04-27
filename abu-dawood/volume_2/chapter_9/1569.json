@@ -1,0 +1,41 @@
+{
+  "id": 1569,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "Zakat (Kitab Al-Zakat)"
+        },
+        "ar": {
+          "text": "كتاب الزكاة"
+        },
+        "ur": {
+          "text": "زکوۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا مُحَمَّدُ بْنُ يَزِيدَ الْوَاسِطِيُّ، ‏‏‏‏‏‏أَخْبَرَنَا سُفْيَانُ بْنُ حُسَيْنٍ بِإِسْنَادِهِ وَمَعْنَاهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَإِنْ لَمْ تَكُنْ ابْنَةُ مَخَاضٍ فَابْنُ لَبُونٍ وَلَمْ يَذْكُرْ كَلَامَ الزُّهْرِيِّ."
+    },
+    "en": {
+      "narrator": "Therefore said tradition has also been transmitted by Sufyan bin Husain through a different chain of narrators and to the same effect. This version adds:",
+      "text": "“If there is no she Camel in her second year, a she Camel in her third year is to be given. ” This does not mention the words of Al Zuhri."
+    },
+    "ur": {
+      "narrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا, محمد بن یزید واسطی کہتے ہیں, ہمیں سفیان بن حسین نے اسی سند سے اسی مفہوم کی حدیث کی خبر دی ہے اس میں ہے",
+      "text": "اگر بنت مخاض نہ ہو تو ابن لبون واجب ہو گا ، اور انہوں نے زہری کے کلام کا ذکر نہیں کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

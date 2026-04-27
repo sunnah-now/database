@@ -1,0 +1,41 @@
+{
+  "id": 388,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، ح، وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، ح، وَحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، كُلُّهُمْ عَنْ صَالِحِ بْنِ صَالِحٍ، بِهَذَا الْإِسْنَادِ نَحْوَهُ"
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by another chain of transmitters like Abu Bakr b. Abi Shaiba, 'Abda b. Sulaiman Ibn Abi 'Umar Sufyan, 'Ubaidullah b. Mu'adh, Shu'ba; all of them heard it from Salih b. Salih."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "عبدہ بن سلیمان ، سفیان اور شعبہ نے صالح بن صالح کے واسطے سے سابقہ سند کے ساتھ یہی حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

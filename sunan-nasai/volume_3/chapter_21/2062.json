@@ -1,0 +1,41 @@
+{
+  "id": 2062,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 21,
+      "language": {
+        "en": {
+          "text": "The Book of Funerals"
+        },
+        "ar": {
+          "text": "كتاب الجنائز"
+        },
+        "ur": {
+          "text": "جنازہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا يَحْيَى بْنُ دُرُسْتَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا أَبُو إِسْمَاعِيلَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، ‏‏‏‏‏‏أَنَّ أَبَا سَلَمَةَ حَدَّثَهُ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏أَنَّهُ كَانَ يَقُولُ:‏‏‏‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، ‏‏‏‏‏‏وَأَعُوذُ بِكَ مِنْ عَذَابِ النَّارِ، ‏‏‏‏‏‏وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، ‏‏‏‏‏‏وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Abu Hurairah that the Messenger of Allah used to say: Allahumma inni a udhu bika min adhabil-qabri wa a 'udhu bika min 'adhabin-nar, wa a 'udhu bika min fitnatil-mahya wal-mamat, wa audhu bika min fitnatil-masihid-dajjal (O Allah, I seek refuge with you from the torment of the grave, and I seek refuge with You from the torment of the Fire, and I seek refuge with You from the trial of the Dajjal)."
+    },
+    "ur": {
+      "narrator": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم دعا کرتے تھے: «اللہم إني أعوذ بك من عذاب القبر وأعوذ بك من عذاب النار وأعوذ بك من فتنة المحيا والممات وأعوذ بك من فتنة المسيح الدجال» ”اے اللہ! میں عذاب قبر سے تیری پناہ مانگتا ہوں، جہنم کے عذاب سے تیری پناہ مانگتا ہوں، زندگی اور موت کی آزمائش سے تیری پناہ مانگتا ہوں، اور مسیح دجال کی آزمائش سے ( بھی ) تیری پناہ مانگتا ہوں“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

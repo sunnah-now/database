@@ -1,0 +1,41 @@
+{
+  "id": 4482,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 31,
+      "language": {
+        "en": {
+          "text": "The Book Of Judicial Decisions"
+        },
+        "ar": {
+          "text": "كتاب الْأَقْضِيَةِ"
+        },
+        "ur": {
+          "text": "جھگڑوں میں فیصلے کرنے کے طریقے اور آداب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، أَخْبَرَنَا أَبُو عَوَانَةَ، عَنْ سُهَيْلٍ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، غَيْرَ أَنَّهُ قَالَ: وَيَسْخَطُ لَكُمْ ثَلَاثًا، وَلَمْ يَذْكُرْ: وَلَا تَفَرَّقُوا."
+    },
+    "en": {
+      "narrator": "A similar report was narrated from Suhail with the same chain, except that he said:",
+      "text": "(The prophet (ﷺ) said:) He does not like three things or you. And he did not mention: nd do not be divided."
+    },
+    "ur": {
+      "narrator": "ہم سے شیبان بن فرخ نے بیان کیا, ابوعوانہ نے سہیل سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی",
+      "text": "مگر انہوں نے ( ناپسند کرتا ہے کی جگہ ) \" ناراض رہتا ہے \" کہا اور انہوں نے \" فرقوں میں نہ بٹو \" ( کا جملہ ) بیان نہیں کیا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

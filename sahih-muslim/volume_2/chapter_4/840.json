@@ -1,0 +1,41 @@
+{
+  "id": 840,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، بِهَذَا الْإِسْنَادِ لَمَّا كَثُرَ النَّاسُ ذَكَرُوا أَنْ يُعْلِمُوا بِمِثْلِ حَدِيثِ الثَّقَفِيِّ، غَيْرَ أَنَّهُ قَالَ: أَنْ يُورُوا نَارًا."
+    },
+    "en": {
+      "narrator": "This hadith is transmitted by Khalid Hadhdha with the same chain of transmitters (and the words are):",
+      "text": "When the majority of the people discussed they should know, like the hadith narrated by al-Thaqafi (mentioned above) except for the words: They (the people) should kindle fire."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن حاتم نے بیان کیا، ہم سے بہز نے بیان کیا، ہم سے وہیب نے بیان کیا، ہم سے خالد الحضیٰ نے بیان کیا، اس سلسلہ سند کے ساتھ، چونکہ بہت سے لوگوں نے ذکر کیا ہے کہ",
+      "text": "وہ علامت مقرر کریں .... آگے ( عبد الوہاب ) ثقفی کی حدیث کے مانند ہے ، فرق صرف اس قدر ہے کہ اس ( وہیب ) نے ( ينوروا نارا ’’آگ روشن کریں ‘ ‘ کی جگہ ) يوروا نارا ’’آگ جلائیں ‘ ‘ کہا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

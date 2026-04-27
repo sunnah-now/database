@@ -1,0 +1,41 @@
+{
+  "id": 1060,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا خَلَفُ بْنُ هِشَامٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ: إِنِّي لَا آلُو أَنْ أُصَلِّيَ بِكُمْ كَمَا رَأَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي بِنَا، قَالَ: فَكَانَ أَنَسٌ يَصْنَعُ شَيْئًا لَا أَرَاكُمْ تَصْنَعُونَهُ، كَانَ إِذَا رَفَعَ رَأْسَهُ مِنَ الرُّكُوعِ انْتَصَبَ قَائِمًا، حَتَّى يَقُولَ الْقَائِلُ قَدْ نَسِيَ، وَإِذَا رَفَعَ رَأْسَهُ مِنَ السَّجْدَةِ مَكَثَ، حَتَّى يَقُولَ الْقَائِلُ قَدْ نَسِيَ."
+    },
+    "en": {
+      "narrator": "Thabit reported it on the authority of Anas رضی ‌اللہ ‌عنہ :",
+      "text": "While leading you in prayer I do not shorten anything in the prayer. I pray as I saw the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) leading us. He (Thabit) said: Anas used to do that which I do not see you doing; when he lifted his head from bowing he stood up (so long) that one would say: He has forgotten (to baw down in prostration). And when he lifted his head from prostration, he stayed in that position, till someone would say: He has forgotten (to bow down in prostration for the second sajda)."
+    },
+    "ur": {
+      "narrator": "خلف بن ہشام نے حماد بن زید سے حدیث بیان کی ، انہوں نے ثابت سے اور انہوں نے کہا : ہمیں ثابت نے حضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے خبر دی ، انہوں نے کہا",
+      "text": "میں تمہیں ایسی نماز پڑھانے میں کوتاہی نہیں کرتا ، جیسی میں نے رسول اللہﷺ کو دیکھا ( کہ وہ ) ہمیں پڑھاتے تھے ۔ ثابت نے کہا : انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ ایک ایسا کام کیا کرتے تھے جو میں تمہیں کرتے ہوئے نہیں دیکھتا ۔ جب وہ رکوع سے اپنا سر اٹھاتے تو سیدھے کھڑے ہو جاتے حتیٰ کہ کہنے والا کہتا کہ وہ بھول گئے ہیں اور جب وہ سجدہ سے اپنا سر اٹھاتے تو ٹھہرے رہتے حتیٰ کہ کہنے والا کہتا : وہ بھول گئے ہیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

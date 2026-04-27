@@ -1,0 +1,41 @@
+{
+  "id": 6431,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of the Merits of the Companions"
+        },
+        "ar": {
+          "text": "كتاب فَضَائِلِ الصَّحَابَةِ"
+        },
+        "ur": {
+          "text": "صحابہ کرام رضی اللہ عنھم کے فضائل و مناقب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، فِي هَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been reported on the authority of Shu'ba with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے محمد بن المثنا اور ابن بشار نے بیان کیا، انہوں نے کہا: ابو داؤد نے کہا : ہمیں شعبہ نے یہ حدیث اسی سند سے بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

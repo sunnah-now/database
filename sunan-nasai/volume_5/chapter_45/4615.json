@@ -1,0 +1,41 @@
+{
+  "id": 4615,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،‏‏‏‏ وَحُمَيْدُ بْنُ مَسْعَدَةَ،‏‏‏‏ عَنْ يَزِيدَ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا أَيُّوبُ،‏‏‏‏ عَنْ عَمْرِو بْنِ شُعَيْبٍ،‏‏‏‏ عَنْ أَبِيهِ،‏‏‏‏ عَنْ جَدِّهِ،‏‏‏‏ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ لَا يَحِلُّ سَلَفٌ وَبَيْعٌ،‏‏‏‏ وَلَا شَرْطَانِ فِي بَيْعٍ،‏‏‏‏ وَلَا بَيْعُ مَا لَيْسَ عِنْدَكَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from'Amr bin Shu'aib, from his father that his grandfather, Said: that the Messenger of Allah said: It is not permissible to lend on the condition of a sale, or to have two conditions in one transaction, or to sell what you do not have. (Sahih"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمرو بن عاص رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”ادھار اور بیع ایک ساتھ جائز نہیں ۱؎، اور نہ ہی ایک بیع میں دو شرطیں درست ہیں ۲؎، اور نہ اس چیز کی بیع درست ہے جو سرے سے تمہارے پاس ہو ہی نہ“ ۳؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

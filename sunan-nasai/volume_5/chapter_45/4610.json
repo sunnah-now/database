@@ -1,0 +1,41 @@
+{
+  "id": 4610,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى،‏‏‏‏ عَنْ عُبَيْدِ اللَّهِ،‏‏‏‏ قَالَ:‏‏‏‏ أَخْبَرَنِي نَافِعٌ،‏‏‏‏ عَنْ ابْنِ عُمَرَ:‏‏‏‏ أَنَّهُمْ كَانُوا يَبْتَاعُونَ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي أَعْلَى السُّوقِ جُزَافًا،‏‏‏‏ فَنَهَاهُمْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَبِيعُوهُ فِي مَكَانِهِ حَتَّى يَنْقُلُوهُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ibn 'Umar that: they used to buy and sell during the time of the Messenger of Allah at the top of the marketplace without measuring. The Messenger of Allah forbade them to sell it in the place where they had bought it until they moved it."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "لوگ رسول اللہ صلی اللہ علیہ وسلم کے عہد میں بازار کی اونچی جگہ پر ڈھیر خریدا کرتے تھے تو آپ نے انہیں اسے اسی جگہ بیچنے سے روکا جب تک کہ وہ اسے منتقل نہ کر لیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

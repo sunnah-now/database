@@ -1,0 +1,41 @@
+{
+  "id": 112,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا سَهْلُ بْنُ عُثْمَانَ الْعَسْكَرِيُّ، حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّاءَ، حَدَّثَنَا سَعْدُ بْنُ طَارِقٍ، قَالَ: حَدَّثَنِي سَعْدُ بْنُ عُبَيْدَةَ السُّلَمِيُّ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ، عَلَى أَنْ يُعْبَدَ اللهُ، وَيُكْفَرَ بِمَا دُونَهُ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَحَجِّ الْبَيْتِ، وَصَوْمِ رَمَضَانَ»."
+    },
+    "en": {
+      "narrator": "It is narrated on the authority of ('Abdullah) son of 'Umar رضی ‌اللہ ‌عنہ :",
+      "text": "The Prophet (ﷺ) said: (The superstructure of) al-Islam is raised on five (pillars), i. e. Allah (alone) should be worshipped, and (all other gods) beside Him should be (categorically) denied. Establishment of prayer, the payment of Zakat, Pilgrimage to the House, and the fast of Ramadan (are the other obligatory acts besides the belief in the oneness of Allah and denial of all other gods)."
+    },
+    "ur": {
+      "narrator": "ہم سے سہل بن عثمان العسکری نے بیان کیا، کہا ہم سےیحییٰ بن زکریا نے ہمیں حدیث بیان کی ، کہا مجھے سعد بن طارق ( ابو مالک اشجعی ) نے حدیث بیان کی ,وہ حضرت ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ، انہوں نے نبی ﷺ سے روایت کی کہ",
+      "text": "نبیﷺ نے فرمایا : ’’اسلام کی بنیاد پانچ چیزوں پر ہے : اس پر کہ اللہ کی عبادت کی جائے اور اس کے سوا ہر کسی کی عبادت سے انکار کیا جائے ، نماز قائم کرنے ، زکاۃ دینے ، بیت اللہ کاحج کرنے اور رمضان کے روزے رکھنے پر."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

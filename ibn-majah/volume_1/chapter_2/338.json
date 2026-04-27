@@ -1,0 +1,41 @@
+{
+  "id": 338,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book of Purification and its Sunnah"
+        },
+        "ar": {
+          "text": "كتاب الطهارة وسننها"
+        },
+        "ur": {
+          "text": "طہارت اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عُمَرَ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ الصَّبَّاحِ بِإِسْنَادِهِ، ‏‏‏‏‏‏نَحْوَهُ وَزَادَ فِيهِ، ‏‏‏‏‏‏ وَمَنِ اكْتَحَلَ فَلْيُوتِرْ مَنْ فَعَلَ فَقَدْ أَحْسَنَ، ‏‏‏‏‏‏وَمَنْ لَا فَلَا حَرَجَ، ‏‏‏‏‏‏وَمَنْ لَاكَ فَلْيَبْتَلِعْ ."
+    },
+    "en": {
+      "narrator": "A similar report was narrated by 'Abdul-Malik bin As-Sabbah with a similar chain, with the additional words:",
+      "text": "Whoever applies kohl to his eyes, let him add it an odd number of times. Whoever does that has done well, and whoever does not, there is no harm in it. And whoever dislodges (a particle of food from between the teeth) by dislodging it with his tongue, let him swallow it."
+    },
+    "ur": {
+      "narrator": "ہم سے عبدالرحمٰن بن عمر نے بیان کیا، کہا ہم سے عبد الملک بن الصباح نے بیان کیا، اس سند سے اسی کے ہم معنی حدیث مروی ہے,اور اس میں اتنا اضافہ ہے",
+      "text": "جو سرمہ لگائے تو طاق لگائے، جس نے ایسا کیا اچھا کیا، اور جس نے نہیں کیا تو کوئی حرج نہیں، اور جو کچھ زبان کی حرکت سے نکلے اسے نگل جائے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

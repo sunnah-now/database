@@ -1,0 +1,41 @@
+{
+  "id": 5721,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of Greetings"
+        },
+        "ar": {
+          "text": "كتاب السَّلَامِ"
+        },
+        "ur": {
+          "text": "سلامتی اور صحت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ قَالَ حَدَّثَنَا أَبِي حَدَّثَنَا مِسْعَرٌ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Mis'ar with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "عبد اللہ بن نمیر نے کہا : ہمیں مسعر نے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

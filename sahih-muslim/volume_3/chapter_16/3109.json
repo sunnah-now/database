@@ -1,0 +1,41 @@
+{
+  "id": 3109,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَاه قُتَيْبَةُ، وَابْنُ رُمْحٍ، عَنِ اللَّيْثِ بْنِ سَعْدٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، بِهَذَا الْإِسْنَادِ، قَالَ ابْنُ رُمْحٍ فِي رِوَايَتِهِ: عَنْ عَبْدِ اللهِ بْنِ يَزِيدَ الْخَطْمِيِّ، وَكَانَ أَمِيرًا عَلَى الْكُوفَةِ عَلَى عَهْدِ ابْنِ الزُّبَيْرِ."
+    },
+    "en": {
+      "narrator": "It was narrated from Yahya bin Saeed with this chain (a Hadith similar to no. 3108). Ibn Rumh said in this report:",
+      "text": "\"It was narrated from Abdullah bin Yazid Al-Khatmi رضی اللہ تعالیٰ عنہ who was governor of Al-Kufah during the time of Ibn Az-Zubair رضی اللہ تعالیٰ عنہ .\""
+    },
+    "ur": {
+      "narrator": "قتیبہ اور ابن رمح نے لیث بن سعد سے اور انھوں نے یحییٰ بن سعید سے اسی سند کے ساتھ بیان کی ، ابن رمح نے اپنی روایت میں کہا",
+      "text": "عبداللہ بن یزید ختمی رضی اللہ تعالیٰ عنہ سے روایت ہے اور وہ ابن زبیر رضی اللہ تعالیٰ عنہ کے دور حکومت میں کوفہ کے گورنر تھے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4912,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 47,
+      "language": {
+        "en": {
+          "text": "The Book of Cutting off the Hand of the Thief"
+        },
+        "ar": {
+          "text": "كتاب قطع السارق"
+        },
+        "ur": {
+          "text": "چور کا ہاتھ کاٹنے سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ قَطَعَ فِي مِجَنٍّ ثَمَنُهُ ثَلَاثَةُ دَرَاهِمَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ibn 'Umar that: the Messenger of Allah cut off (a thief's hand) for a shield which cost three Dirhams."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے ایک ڈھال ( چرانے ) پر ہاتھ کاٹا جس کی قیمت تین درہم تھی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

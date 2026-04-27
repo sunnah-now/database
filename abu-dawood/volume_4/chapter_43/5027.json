@@ -1,0 +1,41 @@
+{
+  "id": 5027,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "General Behavior (Kitab Al-Adab)"
+        },
+        "ar": {
+          "text": "كتاب الأدب"
+        },
+        "ur": {
+          "text": "آداب و اخلاق کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ الْعَلَاءِ، ‏‏‏‏‏‏عَنْ وَكِيعٍ، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏عَنْ سُهَيْلٍ نَحْوَهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فِي الصَّلَاةِ فَلْيَكْظِمْ مَا اسْتَطَاعَ"
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted in a similar way by Suhail through a different chain of narrators. This version has;",
+      "text": "“during prayer, so he should hold as far as possible”."
+    },
+    "ur": {
+      "narrator": "ہم سے ابن العلاء نے وکیع کی سند سے اور سفیان کی سند سے بیان کیا, سہیل سے بھی اسی طرح مروی ہے",
+      "text": "اس میں یہ ہے ( جب جمائی ) نماز میں ہو تو جہاں تک ہو سکے منہ بند رکھے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

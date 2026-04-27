@@ -1,0 +1,41 @@
+{
+  "id": 91,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ بِشْرٍ الْعَبْدِيُّ، قَالَ: سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ الْقَطَّانَ، ذُكِرَ عِنْدَهُ مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ اللَّيْثِيُّ فَضَعَّفَهُ جِدًّا، فَقِيلَ لِيَحْيَى: أَضْعَفُ مِنْ يَعْقُوبَ بْنِ عَطَاءٍ؟ قَالَ: «نَعَمْ»، ثُمَّ قَالَ: «مَا كُنْتُ أَرَى أَنَّ أَحَدًا يَرْوِي عَنْ مُحَمَّدِ بْنِ عَبْدِ اللهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ"
+    },
+    "en": {
+      "narrator": "Abd ur-Rahman bin Bishr al-Abdī narrated to me, he said, I heard Muhammad bin Abd Allah bin Ubayd bin Umayr al-Laythī was mentioned near Yahyā bin Sa’īd al-Qattān, so he weakened him severely. Then it was said to Yahyā:",
+      "text": "‘More weak than Ya’qūb bin Atā ’?’ He said: ‘Yes’. Then he said: ‘I did not see anyone transmitting on authority of Muhammad bin Abdullah bin Ubayd bin Umayr’."
+    },
+    "ur": {
+      "narrator": "مجھ سے عبد الرحمان بن بشر عبدی نے بیان کیا ، کہا : میں نے یحییٰ بن سعیدقطان سے سنا ، جب ان کے سامنے محمد بن عبد اللہ بن عبید بن عمیر لیثی کا ذکر کیا گیا تو انہوں نے اسے انتہائی ضعیف قرار دیا ۔ ( امام ) یحییٰ سے کہا گیا :",
+      "text": "’’یعقوب بن عطاء سے زیادہ کمزور؟‘‘ ہاں ۔ پھر کہا :میں نہیں سمجھتا کہ کوئی ایک انسان بھی محمد بن عبد اللہ بن عبید بن عمیر سے روایت کر سکتا ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

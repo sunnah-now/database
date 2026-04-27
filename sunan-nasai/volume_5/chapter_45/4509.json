@@ -1,0 +1,41 @@
+{
+  "id": 4509,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ،‏‏‏‏ عَنْ مَالِكٍ،‏‏‏‏ عَنْ نَافِعٍ،‏‏‏‏ عَنْ ابْنِ عُمَرَ،‏‏‏‏ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ نَهَى عَنِ النَّجْشِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ibn 'Umar that: the Prophet forbade artificially inflating prices."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے فرضی بھاؤ پر بھاؤ بڑھانے سے منع فرمایا ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

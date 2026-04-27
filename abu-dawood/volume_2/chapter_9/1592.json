@@ -1,0 +1,41 @@
+{
+  "id": 1592,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "Zakat (Kitab Al-Zakat)"
+        },
+        "ar": {
+          "text": "كتاب الزكاة"
+        },
+        "ur": {
+          "text": "زکوۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، ‏‏‏‏‏‏حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَمِعْتُ أَبِي، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، ‏‏‏‏‏‏فِي قَوْلِهِ:‏‏‏‏ لَا جَلَبَ وَلَا جَنَبَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْ تُصَدَّقَ الْمَاشِيَةُ فِي مَوَاضِعِهَا وَلَا تُجْلَبَ إِلَى الْمُصَدِّقِ وَالْجَنَبُ عَنْ غَيْرِ هَذِهِ الْفَرِيضَةِ أَيْضًا لَا يُجْنَبُ أَصْحَابُهَا، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ وَلَا يَكُونُ الرَّجُلُ بِأَقْصَى مَوَاضِعِ أَصْحَابِ الصَّدَقَةِ فَتُجْنَبُ إِلَيْهِ، ‏‏‏‏‏‏وَلَكِنْ تُؤْخَذُ فِي مَوْضِعِهِ."
+    },
+    "en": {
+      "narrator": "It was reported from Muhammad bin Ishaq said:",
+      "text": "The meaning of jalab said is that the zakat of animals should be collected at their places (dwellings), and they (animals) should not be pulled to the collector of zakat. The meaning of janab is that the animals are removed at a distance (from the collector). The owners of the animals should do so. The collector of zakat should not stay at a distance from the places of the people who bring their animals to him. The zakat should be collected in its place."
+    },
+    "ur": {
+      "narrator": "ہم سے حسن بن علی نے بیان کیا، کہا ہم سے یعقوب بن ابراہیم نے بیان کیا، انہوں نے کہا: میں نے اپنے والد کو محمد بن اسحاق سے ان کے اس قول کے بارے میں کہتے سنا",
+      "text": "آپ صلی اللہ علیہ وسلم کے فرمان: «لا جلب ولا جنب» کی تفسیر میں مروی ہے کہ «لا جلب» کا مطلب یہ ہے کہ جانوروں کی زکاۃ ان کی جگہوں میں جا کر لی جائے وہ مصدق تک کھینچ کر نہ لائے جائیں، اور «جنب» فریضہ زکوۃ کے علاوہ میں بھی استعمال کیا جاتا ہے: وہ کہتے ہیں: «جنب» یہ ہے کہ محصل زکاۃ دینے والوں کی جگہوں سے دور نہ رہے کہ جانور اس کے پاس لائے جائیں بلکہ اسی جگہ میں زکوۃ لی جائے گی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

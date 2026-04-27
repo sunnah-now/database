@@ -1,0 +1,41 @@
+{
+  "id": 3056,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَزِيدُ، أَخْبَرَنَا الْجُرَيْرِيُّ، بِهَذَا الْإِسْنَادِ، نَحْوَهُ، غَيْرَ أَنَّهُ قَالَ: وَكَانَ أَهْلُ مَكَّةَ قَوْمَ حَسَدٍ، وَلَمْ يَقُلْ: يَحْسُدُونَهُ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of jurairi with the same chain of transmitters but with a slight variation of words (and this is):",
+      "text": "He (the narrator) did not say: They felt jealous of him. but said: The people of Mecca, were jealous people."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن المثنی نے بیان کیا، انہوں نے کہا یزید ( بن زریع تمیمی ) نے حدیث بیان کی ، ( کہا ) ہمیں جریری نے اسی سند سے خبر دی ، البتہ اس نے یہ کہا کہ",
+      "text": "اہل مکہ حاسد لوگ تھے ، یہ نہیں کہا ہ وہ آ پ سے حسد کرتے تھے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

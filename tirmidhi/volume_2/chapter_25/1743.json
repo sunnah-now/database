@@ -1,0 +1,41 @@
+{
+  "id": 1743,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 25,
+      "language": {
+        "en": {
+          "text": "The Book on Clothing"
+        },
+        "ar": {
+          "text": "كتاب اللباس"
+        },
+        "ur": {
+          "text": "لباس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيل، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، قَالَ:‏‏‏‏ كَانَ الْحَسَنُ وَالْحُسَيْنُ يَتَخَتَّمَانِ فِي يَسَارِهِمَا ، ‏‏‏‏‏‏هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Narrated Ja'far bin Muhammad : Narrated from his father who said: Al-Hasan and Al-Husain wore their ring on their left hand. This Hadith is Hasan Sahih."
+    },
+    "ur": {
+      "narrator": "محمد الباقر کہتے ہیں کہ",
+      "text": "حسن اور حسین اپنے بائیں ہاتھ میں انگوٹھی پہنتے تھے۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

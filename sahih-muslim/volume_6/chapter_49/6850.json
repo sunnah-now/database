@@ -1,0 +1,41 @@
+{
+  "id": 6850,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness"
+        },
+        "ar": {
+          "text": "كتاب الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ"
+        },
+        "ur": {
+          "text": "ذکر الٰہی‘دعا ‘توبہ اور استغفار"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سَعِيدُ بْنُ أَزْهَرَ الْوَاسِطِيُّ حَدَّثَنَا أَبُو مُعَاوِيَةَ حَدَّثَنَا أَبُو مَالِكٍ الْأَشْجَعِيُّ عَنْ أَبِيهِ قَالَ كَانَ الرَّجُلُ إِذَا أَسْلَمَ عَلَّمَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الصَّلَاةَ ثُمَّ أَمَرَهُ أَنْ يَدْعُوَ بِهَؤُلَاءِ الْكَلِمَاتِ اللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَاهْدِنِي وَعَافِنِي وَارْزُقْنِي."
+    },
+    "en": {
+      "narrator": "Abu Malik reported on the authority of his father:",
+      "text": "When a person embraced Islam, Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) used to teach him how to observe prayer and then commanded him to supplicate in these words: O Allah, grant me pardon, have mercy upon me, direct me to the path of righteousness, grant me protection and provide me sustenance."
+    },
+    "ur": {
+      "narrator": "ہم سے سعید بن ازہر الواسطی نے بیان کیا, ابومعاویہ نے کہا؛ ہمیں ابومالک اشجعی نے اپنے والد سے حدیث بیان کی ، کہا",
+      "text": "جب کوئی شخص مسلمان ہوتا تو نبی صلی اللہ علیہ وسلم اس کو نماز سکھاتے ، پھر اس کو حکم دیتے کہ ان کلمات کے ساتھ دعا کیا کرے : اللهم اغفرلى وارحمنى واهدنى وعافنى وارزقنى"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

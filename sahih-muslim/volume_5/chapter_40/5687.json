@@ -1,0 +1,41 @@
+{
+  "id": 5687,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of Greetings"
+        },
+        "ar": {
+          "text": "كتاب السَّلَامِ"
+        },
+        "ur": {
+          "text": "سلامتی اور صحت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith hilt been reported on the authority of Ma'mar with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عبد بن حمید نے بیان کیا, عبد الرزاق نے کہا ,  معمر نے ہمیں اسی سند کے ساتھ اسی کے مانند خبر دی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

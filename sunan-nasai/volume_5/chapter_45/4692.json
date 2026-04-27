@@ -1,0 +1,41 @@
+{
+  "id": 4692,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ أَبِي الزِّنَادِ، ‏‏‏‏‏‏عَنْ الْأَعْرَجِ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ إِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيءٍ فَلْيَتْبَعْ، ‏‏‏‏‏‏وَالظُّلْمُ مَطْلُ الْغَنِيِّ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Abu Hurairah said: The Messenger of Allah said: 'If one of you is referred to a rich man (to help repay a debt), he should accept that referral, and (wrongdoing) is when a rich man takes a long time to repay a debt. '"
+    },
+    "ur": {
+      "narrator": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”اگر تم میں سے کوئی شخص مالدار کی حوالگی میں دیا جائے تو چاہیئے کہ اس کی حوالگی قبول کرے ۱؎، اور مالدار کا ٹال مٹول کرنا ظلم ہے“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

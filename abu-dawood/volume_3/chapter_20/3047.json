@@ -1,0 +1,41 @@
+{
+  "id": 3047,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 20,
+      "language": {
+        "en": {
+          "text": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+        },
+        "ar": {
+          "text": "كتاب الخراج والإمارة والفىء"
+        },
+        "ur": {
+          "text": "محصورات اراضی اور امارت سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْمُحَارِبِيُّ، ‏‏‏‏‏‏حَدَّثَنَا وَكِيعٌ، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏عَنْ عَطَاءِ بْنِ السَّائِبِ، ‏‏‏‏‏‏عَنْ حَرْبِ بْنِ عُبَيْدِ اللَّهِ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمَعْنَاهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ خَرَاجٌ مَكَانَ الْعُشُورِ."
+    },
+    "en": {
+      "narrator": "A similar report was narrated from Harb bin Ubaidullah from the Prophet صلی ‌اللہ ‌علیہ ‌وسلم to the same effect through a different chain of narrators:",
+      "text": "But he said: kharaj (land tax) instead of ‘ushr (tithes)."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن عبید المحربی نے بیان کیا، ہم سے وکیع نے، سفیان سے، عطاء بن السائب کی سند سے, حرب بن عبیداللہ سے اسی مفہوم کی حدیث مرفوعاً مروی ہے",
+      "text": "لیکن «عشور» کی جگہ «خراج» کا لفظ ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4453,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "Prescribed Punishments (Kitab Al-Hudud)"
+        },
+        "ar": {
+          "text": "كتاب الحدود"
+        },
+        "ur": {
+          "text": "حدود اور تعزیرات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، ‏‏‏‏‏‏عَنْ هُشَيْمٍ، ‏‏‏‏‏‏عَنْ مُغِيرَةَ، ‏‏‏‏‏‏عَنْ إِبْرَاهِيمَ، ‏‏‏‏‏‏وَالشَّعْبِيِّ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَحْوَهُ، ‏‏‏‏‏‏لَمْ يَذْكُرْ فَدَعَا بِالشُّهُودِ فَشَهِدُوا."
+    },
+    "en": {
+      "narrator": "A similar tradition has also been transmitted by Ibrahim and al-Shabi from the Prophet صلی ‌اللہ ‌علیہ ‌وسلم through a different chain of narrators. But this version does not mention the words:",
+      "text": "He called the witnesses who testified."
+    },
+    "ur": {
+      "narrator": "ہم سے وہب بن بقیع نے بیان کیا، انہوں نے ہشام کی سند سے، وہ مغیرہ کی سند سے، ہم سے وہب بن بقیہ نے بیان کیا، وہ ہشیم کی سند سے، مغیرہ کی سند سے, ابراہیم اور شعبی سے روایت ہے, وہ دونوں نبی اکرم صلی اللہ علیہ وسلم سے اسی طرح روایت کرتے ہیں لیکن اس میں راوی نے یہ ذکر نہیں کیا ہے کہ",
+      "text": "آپ نے گواہوں کو بلایا، اور انہوں نے گواہی دی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

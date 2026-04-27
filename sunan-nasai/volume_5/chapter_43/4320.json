@@ -1,0 +1,41 @@
+{
+  "id": 4320,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "The Book of Hunting and Slaughtering"
+        },
+        "ar": {
+          "text": "كتاب الصيد والذبائح"
+        },
+        "ur": {
+          "text": "شکار اور ذبیحہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏وَعَبْدِ اللَّهِ بْنِ دِينَارٍ،‏‏‏‏ عَنِ ابْنِ عُمَرَ، ‏‏‏‏‏‏أَنَّ رَجُلًا، ‏‏‏‏‏‏قَالَ:‏‏‏‏ يَا رَسُولَ اللَّهِ مَا تَرَى فِي الضَّبِّ ؟، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَسْتُ بِآكِلِهِ وَلَا مُحَرِّمِهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ibn 'Umar that a man said: O Messenger of Allah what do you think about mastigures? He said: I do not eat them but I do not say that they arte Haram."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "ایک شخص نے کہا: اللہ کے رسول! ضب کے بارے میں آپ کی کیا رائے ہے؟ آپ نے فرمایا: ”میں نہ اسے کھاتا ہوں اور نہ ہی اسے حرام قرار دیتا ہوں“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

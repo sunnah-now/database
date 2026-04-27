@@ -1,0 +1,41 @@
+{
+  "id": 1172,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا عَبْدُ الرَّزَاقِ حَدَّثَنَا مَعْمَرٌ عَنْ هَمَّامِ بْنِ مُنَبِّهٍ قَالَ: هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «نُصِرْتُ بِالرُّعْبِ وَأُوتِيتُ جَوَامِعَ الْكَلِمِ»."
+    },
+    "en": {
+      "narrator": "Hammam bin Munabbih reported:",
+      "text": "That is what Abu Huraira ‌رضی ‌اللہ ‌عنہ ‌reported to us from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and he narrated (some) a hadith one of which is that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: I have been helped by terror (in the hearts of enemies) and I have been given words which are concise but comprehensive in meaning."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، ہم سے معمر نے بیان کیا,ہمام بن منبہ سے روایت ہے ، کہا",
+      "text": "یہ احادیث ہیں جو حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے رسول اللہﷺ سے ہمیں بیان کی ، انہوں نے متعدد احادیث بیان کیں ، ان میں سے یہ ( بھی ) تھی کہ رسول اللہﷺ نے فرمایا : ’’رعب کے ذریعے میری مدد کی گئی ہے اور مجھے جامع کلمات عنایت کیے گئے ہیں."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

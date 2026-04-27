@@ -1,0 +1,41 @@
+{
+  "id": 31,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْمَكِّيُّ، حَدَّثَنَا سُفْيَانُ، وحَدَّثَنِي أَبُو بَكْرِ بْنُ خَلَّادٍ الْبَاهِلِيُّ - وَاللَّفْظُ لَهُ - قَالَ: سَمِعْتُ سُفْيَانَ بْنَ عُيَيْنَةَ، عَنْ مِسْعَرٍ قَالَ: سَمِعْتُ سَعْدَ بْنَ إِبْرَاهِيمَ يَقُولُ: «لَا يُحَدِّثُ عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَّا الثِّقَاتُ»"
+    },
+    "en": {
+      "narrator": "Muhammad bin Abī Umar al-Makkī narrated to us, Sufyān narrated to us; and Abū Bakr bin Khallād al-Bāhilī narrated to us – and the wording is his, he said, I heard Sufyān bin Uyaynah, on authority of Mis’ar:",
+      "text": "He said, I heard Sa’d bin Ibrāhīm saying: ‘There is to be no narrating on authority of the Messenger of Allah, may Allah send blessings and peace upon him, except by trustworthy narrators (Thiqāt)’."
+    },
+    "ur": {
+      "narrator": "مسعر سے روایت ہے",
+      "text": "کہا : میں نے سعد بن ابراہیم ( بن عبد الرحمن بن عوف ) سے سنا ، کہہ رہے تھے : ثقہ راویوں کے علاوہ اور نہ کوئی شخص رسول اللہﷺ سے حدیث بیان نہ کرے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 46,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ مُغِيرَةَ، عَنْ إِبْرَاهِيمَ، قَالَ: قَالَ عَلْقَمَةُ: «قَرَأْتُ الْقُرْآنَ فِي سَنَتَيْنِ» فَقَالَ الْحَارِثُ: «الْقُرْآنُ هَيِّنٌ الْوَحْيُ أَشَدُّ»"
+    },
+    "en": {
+      "narrator": "Qutaybah bin Sa’īd narrated to us, Jarīr narrated to us, on authority of Mughīrah, on authority of Ibrāhīm [bin Yazīd an-Nakhā’ī], he said, Alqamah said:",
+      "text": "‘I memorized the Qur’ān in two years’. Al-Hārith said: ‘The Qur’ān is easy; the revelation [i.e. the secret revelation to Alī in the belief of the Shī’ah] is more difficult ’."
+    },
+    "ur": {
+      "narrator": "قتیبہ بن سعید ‘ جریر ‘ مغیرہ نے ابراہیم سے روایت کی ، کہا : علقمہ نے کہا",
+      "text": "میں نے دو سال میں قرآن پڑھا ( تدبر کرتے ہوئے ختم کیا ۔ ) تو حارث نے کہا : قرآن آسان ہے ، وحی اس سے زیادہ مشکل ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

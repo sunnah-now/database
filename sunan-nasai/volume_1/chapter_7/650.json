@@ -1,0 +1,41 @@
+{
+  "id": 650,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book of the Adhan (The Call to Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الأذان"
+        },
+        "ur": {
+          "text": "اذان کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْدَانَ بْنِ عِيسَى، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا زُهَيْرٌ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا الْأَعْمَشُ، ‏‏‏‏‏‏عَنْإِبْرَاهِيمَ، ‏‏‏‏‏‏عَنْ الْأَسْوَدِ، ‏‏‏‏‏‏عَنْ بِلَالٍ، ‏‏‏‏‏‏قال:‏‏‏‏ آخِرُ الْأَذَانِ:‏‏‏‏ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ، ‏‏‏‏‏‏لَا إِلَهَ إِلَّا اللَّهُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Al-Aswad that Bilal said: The final words of the Adhan are: 'Allahu Akbar, Allahu Akbar; La ilaha illallah (Allah is the Greatest, Allah is the Greatest, there is none worthy of worship except Allah.)'"
+    },
+    "ur": {
+      "narrator": "بلال رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "اذان کا آخری کلمہ «اللہ أكبر اللہ أكبر، لا إله إلا اللہ» ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

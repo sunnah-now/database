@@ -1,0 +1,41 @@
+{
+  "id": 4097,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Fighting [The Prohibition of Bloodshed]"
+        },
+        "ar": {
+          "text": "كتاب تحريم الدم"
+        },
+        "ur": {
+          "text": "قتل و خون ریزی کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا أَحْمَدُ بْنُ نَصْرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا الْمُؤَمَّلُ، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، ‏‏‏‏‏‏عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Sulaiman bin Buraidah that his father said: The Messenger of Allah [SAW] said: 'Whoever is killed defending his wealth, he is a martyr.'"
+    },
+    "ur": {
+      "narrator": "بریدہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جو اپنے مال کی حفاظت کرتے ہوئے مارا جائے وہ شہید ہے“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

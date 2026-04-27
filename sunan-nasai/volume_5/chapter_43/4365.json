@@ -1,0 +1,41 @@
+{
+  "id": 4365,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "The Book of Hunting and Slaughtering"
+        },
+        "ar": {
+          "text": "كتاب الصيد والذبائح"
+        },
+        "ur": {
+          "text": "شکار اور ذبیحہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا إِسْحَاق بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي أَبِي، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏عَنِ الْحَسَنِ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏نَحْوَهُ، ‏‏‏‏‏‏وَلَمْ يَرْفَعْهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Narrated from Abu Hurairah: A similar report was narrated from Abu Hurairah, but was not attributed to the Prophet"
+    },
+    "ur": {
+      "narrator": "اس سند سے بھی",
+      "text": "ابوہریرہ رضی اللہ عنہ سے اسی طرح مروی ہے لیکن یہ مرفوع نہیں ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

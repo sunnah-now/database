@@ -1,0 +1,41 @@
+{
+  "id": 5357,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ عَنْ شُعْبَةَ فِي هَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This Hadith is narrated on the authority of Shu'ba with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے محمد بن المثنی نے بیان کیا, یحییٰ بن سعید نے شعبہ سے اسی سند کے ساتھ حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

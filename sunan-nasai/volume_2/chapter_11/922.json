@@ -1,0 +1,41 @@
+{
+  "id": 922,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Book of the Commencement of the Prayer"
+        },
+        "ar": {
+          "text": "كتاب الافتتاح"
+        },
+        "ur": {
+          "text": "نماز شروع کرنے کے مسائل و احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا الْجَارُودُ بْنُ مُعَاذٍ التِّرْمِذِيُّ قال:‏‏‏‏ حَدَّثَنَا أَبُو خَالِدٍ الْأَحْمَرُ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ عَجْلَانَ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ أَسْلَمَ، ‏‏‏‏‏‏عَنْ أَبِي صَالِحٍ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ قال:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ إِنَّمَا جُعِلَ الْإِمَامُ لِيُؤْتَمَّ بِهِ فَإِذَا كَبَّرَ فَكَبِّرُوا وَإِذَا قَرَأَ فَأَنْصِتُوا وَإِذَا قَالَ:‏‏‏‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ فَقُولُوا اللَّهُمَّ رَبَّنَا لَكَ الْحَمْدُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Abu Hurairah said: The Messenger of Allah (ﷺ) said: 'The Imam is appointed to be followed, so when he says the takbir, say the takbir, and when he recites, be silent, and when he says: Sami' Allahu liman hamidah (Allah hears those who praise Him), say: Allahumma rabbana lakal-hamd (Our Lord, to You be praise)."
+    },
+    "ur": {
+      "narrator": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  امام تو بنایا ہی اس لیے گیا ہے کہ اس کی اقتداء کی جائے، تو جب وہ اللہ اکبر کہے تو تم بھی اللہ اکبر کہو، اور جب قرآت کرے تو تم خاموش رہو ۱؎، اور جب «سمع اللہ لمن حمده» کہے تو تم «اللہم ربنا لك الحمد» کہو ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

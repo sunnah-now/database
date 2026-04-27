@@ -1,0 +1,41 @@
+{
+  "id": 2205,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "Divorce (Kitab Al-Talaq)"
+        },
+        "ar": {
+          "text": "كتاب الطلاق"
+        },
+        "ur": {
+          "text": "طلاق کے فروعی احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏حَدَّثَنَا هِشَامٌ، ‏‏‏‏‏‏عَنْ قَتَادَةَ،‏‏‏‏عَنْ الْحَسَنِ، ‏‏‏‏‏‏فِي أَمْرُكِ بِيَدِكِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ ثَلَاثٌ ."
+    },
+    "en": {
+      "narrator": "It was reported from Hisham, from Qatadah, from Al Hasan regarding the phrase:",
+      "text": "“Your matter is in your hand” amounts to three pronouncements of divorce."
+    },
+    "ur": {
+      "narrator": "ہم سے مسلم بن ابراہیم نے بیان کیا، ہم سے ہشام نے بیان کیا، قتادہ کی سند سے, حسن سے",
+      "text": "«أمرك بيدك» کے سلسلہ میں مروی ہے کہ اس سے تین طلاق واقع ہو گی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

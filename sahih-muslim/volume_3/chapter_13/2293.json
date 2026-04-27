@@ -1,0 +1,41 @@
+{
+  "id": 2293,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Zakat"
+        },
+        "ar": {
+          "text": "كتاب الزَّكَاةِ"
+        },
+        "ur": {
+          "text": "زکوٰۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي الدَّرَاوَرْدِيَّ عَنْ سُهَيْلٍ بِهَذَا الْإِسْنَادِ وَسَاقَ الْحَدِيثَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Suhail bin Abu Salih with the same chain of transmitters, and he said he substituted the word aqsa' with 'adba' and said: his side and his back, but he made no mention of his forehead."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے قتیبہ بن سعید نے بیان کیا، انہوں نے بیان کیا  عبدالعزیز دراوردی نے سہیل سے اسی سند کے ساتھ روایت کی اور ( پوری ) حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

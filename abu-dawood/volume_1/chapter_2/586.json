@@ -1,0 +1,41 @@
+{
+  "id": 586,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا النُّفَيْلِيُّ، ‏‏‏‏‏‏حَدَّثَنَا زُهَيْرٌ، ‏‏‏‏‏‏حَدَّثَنَا عَاصِمٌ الْأَحْوَلُ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ سَلَمَةَ، ‏‏‏‏‏‏بِهَذَا الْخَبَرِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَكُنْتُ أَؤُمُّهُمْ فِي بُرْدَةٍ مُوَصَّلَةٍ فِيهَا فَتْقٌ، ‏‏‏‏‏‏فَكُنْتُ إِذَا سَجَدْتُ خَرَجَتِ اسْتِي."
+    },
+    "en": {
+      "narrator": "(There is another chain for no. 585) from Asim Al- Ahwal, from Amr bin Salamah with this Hadith. He said:",
+      "text": "“I used to lead them in prayer with a sheet of cloth on me that was patched and torn. When I prostrated myself, my buttocks were disclosed."
+    },
+    "ur": {
+      "narrator": "ہم سے النفیلی نے بیان کیا، ہم سے زہیر نے بیان کیا، ہم سے عاصم الاحوال نے بیان کیا، اس سند سے بھی عمرو بن سلمہ رضی اللہ عنہ سے یہ حدیث مروی ہے، اس میں ہے",
+      "text": "میں ایک پیوند لگی ہوئی پھٹی چادر میں ان کی امامت کرتا تھا، تو جب میں سجدہ میں جاتا تو میری سرین کھل جاتی تھی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

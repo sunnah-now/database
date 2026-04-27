@@ -1,0 +1,41 @@
+{
+  "id": 3162,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا ابْنُ أَبِي عُمَرَ، وَعَبْدُ بْنُ حُمَيْدٍ، عَنْ عَبْدِ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ، رَأَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى نَاقَةٍ بِمِنًى، فَجَاءَهُ رَجُلٌ بِمَعْنَى حَدِيثِ ابْنِ عُيَيْنَةَ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Zuhri with the same chain of transmitters (and the words are):",
+      "text": "I saw Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) on the back of the camel at Mina, and a person came to him, and the rest of the hadith Is like that transmitted by Ibn 'Uyaina."
+    },
+    "ur": {
+      "narrator": "ہم سے ابن ابی عمر اور عبد بن حمید نے عبد الرزاق کی سند سے بیان کیا, معمر نے زہری سے اسی سند کے ساتھ ( یہی ) روایت کی ( عبد اللہ بن عمروبن عاص رضی اللہ تعالیٰ عنہ نے کہا )",
+      "text": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا ( آپ ) منیٰ میں اونٹنی پر ( سوار ) تھے تو آپ کے پا س ایک آدمی آیا ۔ ۔ ۔ آگے ابن عیینہ کی حدیث کے ہم معنی حدیث ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

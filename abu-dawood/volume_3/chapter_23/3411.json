@@ -1,0 +1,41 @@
+{
+  "id": 3411,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "Commercial Transactions (Kitab Al-Buyu)"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ سَهْلٍ الرَّمْلِيُّ، ‏‏‏‏‏‏حَدَّثَنَا زَيْدُ بْنُ أَبِي الزَّرْقَاءِ، ‏‏‏‏‏‏عَنْ جَعْفَرِ بْنِ بُرْقَانَ بِإِسْنَادِهِ وَمَعْنَاهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَحَزَرَ، ‏‏‏‏‏‏وَقَالَ عِنْدَ قَوْلِهِ وَكُلَّ صَفْرَاءَ وَالْفِضَّةَ لَهُ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been narrated by Jafar bin Burqan through his chain and to the same effect. This version has: He said:",
+      "text": "He assessed, and after the words of kull saFara wa baida', he said: that is, gold and silver will belong to him."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن سہل رملی نے بیان کیا، ہم سے زید بن ابی الزرقا نے بیان کیا، جعفر بن برقان سے اسی مفہوم کی حدیث اسی طریق سے مروی ہے",
+      "text": "اس میں لفظ «فحزر» ہے اور «وكل صفراء وبيضاء» کی تفسیر سونے چاندی سے کی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

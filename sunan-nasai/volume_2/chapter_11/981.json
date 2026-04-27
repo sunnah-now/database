@@ -1,0 +1,41 @@
+{
+  "id": 981,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Book of the Commencement of the Prayer"
+        },
+        "ar": {
+          "text": "كتاب الافتتاح"
+        },
+        "ur": {
+          "text": "نماز شروع کرنے کے مسائل و احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، ‏‏‏‏‏‏عَنْ شُعْبَةَ، ‏‏‏‏‏‏عَنْ سِمَاكٍ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ سَمُرَةَ، ‏‏‏‏‏‏قال:‏‏‏‏ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ فِي الظُّهْرِ وَ اللَّيْلِ إِذَا يَغْشَى وَفِي الْعَصْرِ نَحْوَ ذَلِكَ وَفِي الصُّبْحِ بِأَطْوَلَ مِنْ ذَلِكَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Jabir bin Samurah said: The Prophet (ﷺ) used to recite By the night as it envelops in Zuhr and something similar in 'Asr, and he would recite something longer than that in subh."
+    },
+    "ur": {
+      "narrator": "جابر بن سمرہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم ظہر میں «والليل إذا يغشى» پڑھتے تھے، اور عصر میں اسی جیسی سورت پڑھتے، اور صبح میں اس سے زیادہ لمبی سورت پڑھتے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1246,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Forgetfulness (In Prayer)"
+        },
+        "ar": {
+          "text": "كتاب السهو"
+        },
+        "ur": {
+          "text": "نماز میں سہو کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أخبرنا سويد بن نصر قال أنبأنا عبد الله عن شعبة عن الحكم قال سمعت أبا وائل يقول قال عبد الله:‏‏‏‏ من أوهم في صلاته فليتحر الصواب ثم يسجد سجدتين بعد ما يفرغ وهو جالس ‏.‏"
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdullah said: Whoever us not sure about his prayer, then let him estimate what is correct, then let him prostrate twice after he finished his prayer, while he is sitting."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں",
+      "text": "جسے اپنی نماز میں وہم ہو جائے تو اسے صحیح اور صواب جاننے کی کوشش کرنی چاہیئے، پھر فارغ ہونے کے بعد بیٹھے بیٹھے دو سجدہ کرے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 7434,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 54,
+      "language": {
+        "en": {
+          "text": "The Book of Zuhd and Softening of Hearts"
+        },
+        "ar": {
+          "text": "كتاب الزُّهْدِ وَالرَّقَائِقِ"
+        },
+        "ur": {
+          "text": "زہد اور رقت انگیز باتیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا وَكِيعٌ عَنْ إِسْمَعِيلَ بْنِ أَبِي خَالِدٍ بِهَذَا الْإِسْنَادِ وَقَالَ حَتَّى إِنْ كَانَ أَحَدُنَا لَيَضَعُ كَمَا تَضَعُ الْعَنْزُ مَا يَخْلِطُهُ بِشَيْءٍ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Isma'il bin Khalid with the same chain of transmitters and the words are:",
+      "text": "One amongst us would relieve himself as the goats do without anything mixing with its excrement."
+    },
+    "ur": {
+      "narrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, وکیع نے اسماعیل بن ابی خالد سے اسی سند کے ساتھ روایت کی اور کہا : یہاں تک کہ",
+      "text": "ہم سے ایک بکرے کی ( مینگنیوں کی ) طرح کا پاخانہ کرتا تھا جس میں اور کچھ ( کسی اور کھانے کا کو ئی حصہ جو اسے پاخانہ کی شکل سے ) ملا ہوا نہیں ہو تا تھا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

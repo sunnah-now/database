@@ -1,0 +1,41 @@
+{
+  "id": 769,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْقَعْنَبِيُّ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا بَأْسَ بِالدُّعَاءِ فِي الصَّلَاةِ فِي أَوَّلِهِ وَأَوْسَطِهِ وَفِي آخِرِهِ فِي الْفَرِيضَةِ وَغَيْرِهَا."
+    },
+    "en": {
+      "narrator": "Malik said:",
+      "text": "There is no harm in uttering supplication in prayer, in its beginning, in its middle, and in the end, in obligatory prayer or other."
+    },
+    "ur": {
+      "narrator": "ہم سے القعنبی نے مالک رحمہ اللہ سے روایت کی، انہوں نے کہا",
+      "text": "نماز کے شروع، بیچ اور اخیر میں دعا کرنے میں کوئی حرج نہیں، فرض نماز ہو یا نفل۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

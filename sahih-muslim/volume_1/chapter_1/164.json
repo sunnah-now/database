@@ -1,0 +1,41 @@
+{
+  "id": 164,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِيهِ إِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ، حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ: حَدَّثَنِي بُرَيْدُ بْنُ عَبْدِ اللهِ، بِهَذَا الْإِسْنَادِ قَالَ: سُئِلَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَيُّ الْمُسْلِمِينَ أَفْضَلُ؟ فَذَكَرَ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "Ibrahim bin Sa'id al-Jauhari has narrated this hadith with the same words in addition to these:",
+      "text": "The Messenger of Allah (ﷺ) was asked as to who amongst the Muslims is better, and the rest of the hadith was narrated like this."
+    },
+    "ur": {
+      "narrator": "ابراہیم بن سعید جوہری ‘ ابو اسامہ ‘ برید بن عبد اللہ اس روایت میں دوسری سند کے ساتھ یہ الفاظ ہیں",
+      "text": "جس میں رسول اللہ ﷺ سے پوچھا گیا کہ کونسا مسلمان افضل ہے؟تو آپﷺ نے اس طرح ذکر فرمایا-"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

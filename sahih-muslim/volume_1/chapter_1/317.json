@@ -1,0 +1,41 @@
+{
+  "id": 317,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا هُرَيْمُ بْنُ عَبْدِ الْأَعْلَى الْأَسَدِيُّ، حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ: سَمِعْتُ أَبِي، يَذْكُرُ عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ: لَمَّا نَزَلَتْ هَذِهِ الْآيَةُ، وَاقْتَصَّ الْحَدِيثَ، وَلَمْ يَذْكُرْ سَعْدَ بْنَ مُعَاذٍ، وَزَادَ فَكُنَّا نَرَاهُ يَمْشِي بَيْنَ أَظْهُرِنَا رَجُلٌ مِنْ أَهْلِ الْجَنَّةِ."
+    },
+    "en": {
+      "narrator": "It was narrated that Anas ‌رضی ‌اللہ ‌عنہ said:",
+      "text": "When This Verse was revealed\" and he narrated the Hadith and he did not \r\nhadith is narrated on the authority of Anas by another chain of transmitters in which there is no mention of Sa'd bin Mu'adh ‌رضی ‌اللہ ‌عنہ , but the following words are there: We observed a man, one of the dwellers of Paradise, walking about amongst us."
+    },
+    "ur": {
+      "narrator": "ہم سے حریم بن عبد العلا اسدی نے بیان کیا,معتمر کے والد سلیمان بن طرخان نے ثابت کے واسطے سے حضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ کی روایت بیان کی کہ",
+      "text": "جب یہ آیت اتری ( آگے گزشتہ حدیث بیان کی ) لیکن سعد بن معاذ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کا ذکر نہیں کیا اور یہ اضافہ کیا : ہم انہیں ( اس طرح ) دیکھتے کہ ہمارے درمیان اہل جنت میں سے ایک فرد چل پھر رہا ہے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

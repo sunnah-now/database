@@ -1,0 +1,41 @@
+{
+  "id": 15,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالَا: حَدَّثَنَا عَبْدُ اللهِ بْنُ يَزِيدَ، قَالَ: حَدَّثَنِي سَعِيدُ بْنُ أَبِي أَيُّوبَ، قَالَ: حَدَّثَنِي أَبُو هَانِئٍ، عَنْ أَبِي عُثْمَانَ مُسْلِمِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، أَنَّهُ قَالَ: «سَيَكُونُ فِي آخِرِ أُمَّتِي أُنَاسٌ يُحَدِّثُونَكُمْ مَا لَمْ تَسْمَعُوا أَنْتُمْ، وَلَا آبَاؤُكُمْ، فَإِيَّاكُمْ وَإِيَّاهُمْ»"
+    },
+    "en": {
+      "narrator": "Muhammad bin Abd Allah bin Numayr and Zuhayr bin Harb narrated to me, they said Abd Allah bin Yazīd narrated to us, he said Sa’īd bin Abī Ayyūb narrated to me, he said Abū Hāni’ narrated to me, on authority of Uthmān Muslim bin Yasār, on authority of Abī Hurayrah, on authority of the Messenger of Allah, peace and blessings of Allah upon him:",
+      "text": "He said: \"There will be in the last of my nation a people narrating to you what you nor your fathers heard, so beware of them\"."
+    },
+    "ur": {
+      "narrator": "محمد بن عبد اللہ بن نمیر ‘ زہیر بن حرب ‘ عبداللہ بن یزید ‘ سعد بن ابی ایوب ‘ ابوہانی نے ابو عثمان مسلم بن یسار سے ، انہوں نے ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ، انہوں نے رسول اللہﷺ سے روایت کی کہ",
+      "text": "آپ نے فرمایا : ’’میری امت کے آخری زمانے میں ایسے لوگ ہوں گے جو تمہارے سامنے ایسی حدیثیں بیان کریں گے جو تم نے سنی ہوں گی نہ تمہارے آباء نے ، تم اس قماش کے لوگوں سے دور رہنا ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

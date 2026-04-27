@@ -1,0 +1,41 @@
+{
+  "id": 1446,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
+        },
+        "ar": {
+          "text": "كتاب الوتر"
+        },
+        "ur": {
+          "text": "وتر کے فروعی احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا بِشْرُ بْنُ مُفَضَّلٍ، ‏‏‏‏‏‏حَدَّثَنَا يُونُسُ بْنُ عُبَيْدٍ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ سِيرِينَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي مَنْ صَلَّى مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ الْغَدَاةِ، ‏‏‏‏‏‏ فَلَمَّا رَفَعَ رَأْسَهُ مِنَ الرَّكْعَةِ الثَّانِيَةِ قَامَ هُنَيَّةً ."
+    },
+    "en": {
+      "narrator": "Narrated Someone who prayed with the Prophet: Muhammad Ibn Sirin said:",
+      "text": "Someone who prayed the morning prayer along with the Prophet صلی ‌اللہ ‌علیہ ‌وسلم narrated to me: When he raised his head after the second rak'ah, he remained standing for a short while."
+    },
+    "ur": {
+      "narrator": "ہم سے مسدد نے بیان کیا، ہم سے بشر بن مفضل نے بیان کیا، ہم سے یونس بن عبید نے بیان کیا، محمد بن سیرین کہتے ہیں کہ",
+      "text": "مجھ سے اس شخص نے بیان کیا ہے جس نے نبی اکرم صلی اللہ علیہ وسلم کے ساتھ فجر پڑھی کہ جب آپ دوسری رکعت سے سر اٹھاتے تو تھوڑی دیر کھڑے رہتے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

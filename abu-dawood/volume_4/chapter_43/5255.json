@@ -1,0 +1,41 @@
+{
+  "id": 5255,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "General Behavior (Kitab Al-Adab)"
+        },
+        "ar": {
+          "text": "كتاب الأدب"
+        },
+        "ur": {
+          "text": "آداب و اخلاق کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ السَّرْحِ،‏‏‏‏ وَأَحْمَدُ بْنُ سَعِيدٍ الْهَمْدَانِيُّ،‏‏‏‏ قَالَا:‏‏‏‏ أَخْبَرَنَا ابْنُ وَهْبٍ،‏‏‏‏ قَالَ:‏‏‏‏ أَخْبَرَنِي أَسُامَةُ،‏‏‏‏ عَنْ نَافِعٍ فِي هَذَا الْحَدِيثِ،‏‏‏‏ قَالَ نَافِعٌ:‏‏‏‏ ثُمَّ رَأَيْتُهَا بَعْدُ فِي بَيْتِهِ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Nafi through a different chain of transmitters. In this version Nafi said:",
+      "text": "After that I saw it again in his house."
+    },
+    "ur": {
+      "narrator": "ہم سے ابن سرح اور احمد بن سعید ہمدانی نے بیان کیا، ہم سے ابن وہب نے بیان کیا, اسامہ نے نافع سے یہی حدیث روایت کی ہے, اس میں ہے نافع نے کہا",
+      "text": "پھر اس کے بعد میں نے اسے ان کے گھر میں دیکھا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

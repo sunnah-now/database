@@ -1,0 +1,41 @@
+{
+  "id": 4748,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Government"
+        },
+        "ar": {
+          "text": "كتاب الْإِمَارَةِ"
+        },
+        "ur": {
+          "text": "امور حکومت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا ابْنُ عُيَيْنَةَ، عَنْ أَبِي الزِّنَادِ، بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ: «وَمَنْ يَعْصِ الْأَمِيرَ فَقَدْ عَصَانِي."
+    },
+    "en": {
+      "narrator": "It was narrated from Abu Az-Zinad with this chain of narration (a hadith similar to no. 4747), but he did not mention (the words):",
+      "text": "\"Whoever disobeys the leader has disobeyed me."
+    },
+    "ur": {
+      "narrator": "مجھ سے زہیر بن حرب نے کہا, ابن عیینہ نے ابوزناد سے اسی سند کے ساتھ روایت کی ، انہوں نے یہ بیان نہیں کیا",
+      "text": "\" جس نے امیر کی نافرمانی کی اس نے میری نافرمانی کی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

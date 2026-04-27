@@ -1,0 +1,41 @@
+{
+  "id": 2315,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصيام"
+        },
+        "ur": {
+          "text": "روزوں کے احکام و مسائل و فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنِ الزُّهْرِيِّ، ‏‏‏‏‏‏عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ خَرَجَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَامَ الْفَتْحِ صَائِمًا فِي رَمَضَانَ، ‏‏‏‏‏‏حَتَّى إِذَا كَانَ بِالْكَدِيدِ أَفْطَرَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibn 'Abbas said: The Messenger Allah went out in the year of the Conquest, fasting during Ramadan. Then when he was in Al-Kadid, he broke his fast."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ",
+      "text": ""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

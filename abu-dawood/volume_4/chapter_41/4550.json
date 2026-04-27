@@ -1,0 +1,41 @@
+{
+  "id": 4550,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 41,
+      "language": {
+        "en": {
+          "text": "Types of Blood-Wit (Kitab Al-Diyat)"
+        },
+        "ar": {
+          "text": "كتاب الديات"
+        },
+        "ur": {
+          "text": "دیتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا النُّفَيْلِيُّ، ‏‏‏‏‏‏حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ ابْنِ أَبِي نَجِيحٍ، ‏‏‏‏‏‏عَنْ مُجَاهِدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَضَى عُمَرُ فِي شِبْهِ الْعَمْدِ ثَلَاثِينَ حِقَّةً، ‏‏‏‏‏‏وَثَلَاثِينَ جَذَعَةً، ‏‏‏‏‏‏وَأَرْبَعِينَ خَلِفَةً، ‏‏‏‏‏‏مَا بَيْنَ ثَنِيَّةٍ إِلَى بَازِلِ عَامِهَا ."
+    },
+    "en": {
+      "narrator": "Narrated Mujahid:",
+      "text": "Umar gave judgement that bloodwit for quasi-intentional murder should be thirty she-camels in their fourth year, thirty she-camels in their fifth year, and forty pregnant she-camels in their sixth year up to the ninth"
+    },
+    "ur": {
+      "narrator": "ہم سے النفیلی نے بیان کیا، ہم سے سفیان نے بیان کیا، ابن ابی نجیح کی سند سے, مجاہد کہتے ہیں",
+      "text": "عمر نے قتل شبہ عمد میں تیس حقہ، تیس جزعہ، چالیس گابھن اونٹنیوں ( جو چھ برس سے نو برس تک کی ہوں ) کی دیت کا فیصلہ کیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

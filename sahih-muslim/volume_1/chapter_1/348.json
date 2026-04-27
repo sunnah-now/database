@@ -1,0 +1,41 @@
+{
+  "id": 348,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، وَيَعْقُوبُ الدَّوْرَقِيُّ، قَالَا: حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ ابْنُ عُليَّةَ، عَنْ أيُّوبَ، عَنْ مُحمَّدٍ، قَالَ: قَالَ أَبُو هُرَيْرَةَ: «لَا يَزَالُ النَّاسُ»، بِمثْلِ حَدِيثِ عَبْدِ الْوَارِثِ، غَيْرَ أنَّهُ لمْ يَذْكُرِ النَّبيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي الْإِسْنَادِ، وَلَكِنْ قَدْ قَالَ: فِي آخِرِ الْحَدِيثِ صَدَقَ اللهُ وَرَسُولُهُ."
+    },
+    "en": {
+      "narrator": "It is narrated on the authority of Abu Huraira ‌رضی ‌اللہ ‌عنہ that he said:",
+      "text": "The people will constantly, and the rest of the hadith is the same as that transmitted by 'Abdul-Warith with the exception that there is no mention of the Messenger of Allah in that, but he observed at the end of the hadith: Allah and His Messenger told the truth."
+    },
+    "ur": {
+      "narrator": "مجھ سے زہیر بن حرب اور یعقوب الدرقی نے بیان کیا، انہوں نے کہا,اسماعیل بن علیہ نے ایوب سے ، انہوں نے محمد سے روایت کی کہ حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا",
+      "text": "’’ لوگ ہمیشہ سوال کرتے رہیں گے .... ‘ ‘ باقی حدیث عبد الوارث کی حدیث کی مانند ہے ۔ تاہم انہوں نے سند میں نبی کریمﷺ کا ذکر نہیں کیا ، لیکن آخر میں یہ کہا ہے : ’’ اللہ اور اس کے رسول سے سچ فرمایا ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

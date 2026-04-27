@@ -1,0 +1,41 @@
+{
+  "id": 2958,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَاه عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ فِي هَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Shu'ba with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عبید اللہ بن نے بیان کیا, معاذ بن معاذ نے کہا : ہمیں شعبہ نے اسی سندسے اسی کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

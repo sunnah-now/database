@@ -1,0 +1,41 @@
+{
+  "id": 51,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "دَّثَنَا أَبُو كَامِلٍ الْجَحْدَرِيُّ، حَدَّثَنَا حَمَّادٌ وَهُوَ ابْنُ زَيْدٍ، قَالَ: حَدَّثَنَا عَاصِمٌ، قَالَ: كُنَّا نَأْتِي أَبَا عَبْدِ الرَّحْمَنِ السُّلَمِيَّ وَنَحْنُ غِلْمَةٌ أَيْفَاعٌ، فَكَانَ يَقُولُ لَنَا: «لَا تُجَالِسُوا الْقُصَّاصَ غَيْرَ أَبِي الْأَحْوَصِ، وَإِيَّاكُمْ وَشَقِيقًا»، قَالَ: «وَكَانَ شَقِيقٌ هَذَا يَرَى رَأْيَ الْخَوَارِجِ، وَلَيْسَ بِأَبِي وَائِلٍ»"
+    },
+    "en": {
+      "narrator": "Abū Kāmil al-Jahdarī narrated to us, Hammād- and he is Ibn Zayd- narrated to us, he said Āsim [bin Bahdalah] narrated to us, he said:",
+      "text": "‘We would catch up with Abū Abd ar-Rahman as-Sulamī and at the time we were young men, so he would say to us: ‘Do not sit with story-tellers other than Abūl-Ahwas and beware of Shaqīq [Abū Abd ar-Rahīm]’. [Muslim] said: ‘This Shaqīq held the view of the Khawārij and is not Abū Wā’il [Shaqīq bin Salamah, the righteous Tabi’ī]’."
+    },
+    "ur": {
+      "narrator": "ہم سے ابو کامل الجہداری نے بیان کیا، کہا ہم سے حماد نے جو ابن زید ہیں، انہوں نے کہا کہ ہم سے عاصم نے بیان کیا، انہوں نے کہا:",
+      "text": "ہم بالکل نو عمر لڑکے تھے جو ابو عبد الرحمن سلمی کے پاس حاضر ہوتے تھے ، وہ ہم سے کہا کرتے تھے : ابو احوص کے سوا دوسرے قصہ گوؤں ( واعظوں ) کی مجالس میں مت بیٹھو اور شقیق سے بچ کر رہو ۔ شقیق خوارج کا نقطہ نظر رکھتا تھا ، یہ ابو وائل نہیں ( بلکہ شقیق ضبی ہے ۔ )"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

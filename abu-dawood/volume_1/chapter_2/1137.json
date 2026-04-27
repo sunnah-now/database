@@ -1,0 +1,41 @@
+{
+  "id": 1137,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ، عَنْ مُحَمَّدٍ، عَنْ أُمِّ عَطِيَّةَ، بِهَذَا الْخَبَرِ قَالَ ‏ \"‏ وَيَعْتَزِلُ الْحُيَّضُ مُصَلَّى الْمُسْلِمِينَ ‏\"‏ ‏.‏ وَلَمْ يَذْكُرِ الثَّوْبَ ‏.‏ قَالَ وَحَدَّثَ عَنْ حَفْصَةَ عَنِ امْرَأَةٍ تُحَدِّثُهُ عَنِ امْرَأَةٍ أُخْرَى قَالَتْ قِيلَ يَا رَسُولَ اللَّهِ فَذَكَرَ مَعْنَى حَدِيثِ مُوسَى فِي الثَّوْبِ ‏.‏"
+    },
+    "en": {
+      "narrator": "This tradition has also been narrated by Umm 'Atiyyah رضی اللہ عنہا in a similar manner through a different chain. She added:",
+      "text": "The menstruating women should keep themselves away from the place of prayer of the Muslims. She did not mention the garment. She narrated this tradition from Hafsah  رضی اللہ عنہا mentioning a woman who asked about another woman saying: O Messenger of Allah ....She then reported the tradition like that narrated by Musa mentioning the garment."
+    },
+    "ur": {
+      "narrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا، ہم سے حماد نے بیان کیا، ان سے ایوب، یونس، حبیب، یحییٰ بن عتیق اور ہشام نے اور محمد صلی اللہ علیہ وسلم سے, ام عطیہ رضی اللہ عنہا کہتی ہیں, ہم کو رسول اللہ صلی اللہ علیہ وسلم نے حکم دیا کہ",
+      "text": "حیض والی عورتیں اپنے آپ کو مسلمانوں کی نماز کی جگہ سے دور رکھیں۔ اس نے لباس کا ذکر نہیں کیا۔ انہوں نے یہ روایت حفصہ رضی اللہ عنہا سے روایت کی ہے جس میں ایک عورت کا ذکر ہے جس نے دوسری عورت کے بارے میں پوچھا کہ یا رسول اللہ.... پھر انہوں نے اس روایت کو اسی طرح روایت کیا جو موسیٰ نے لباس کا ذکر کرتے ہوئے بیان کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

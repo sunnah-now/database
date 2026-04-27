@@ -1,0 +1,41 @@
+{
+  "id": 4400,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "Prescribed Punishments (Kitab Al-Hudud)"
+        },
+        "ar": {
+          "text": "كتاب الحدود"
+        },
+        "ur": {
+          "text": "حدود اور تعزیرات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يُوسُفُ بْنُ مُوسَى، ‏‏‏‏‏‏حَدَّثَنَا وَكِيعٌ، ‏‏‏‏‏‏عَنِ الْأَعْمَشِ نَحْوَهُ، ‏‏‏‏‏‏وَقَالَ أَيْضًا:‏‏‏‏ حَتَّى يَعْقِلَ، ‏‏‏‏‏‏وَقَالَ:‏‏‏‏ وَعَنِ الْمَجْنُونِ حَتَّى يَفِيقَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَجَعَلَ عُمَرُ يُكَبِّرُ."
+    },
+    "en": {
+      "narrator": "A similar tradition has also been transmitted by al-Amash through a different chain of narrators. He also said:",
+      "text": "“. . . . Till he reaches puberty, and a lunatic till he is restored to consciousness. ” Umar then began to utter: Allah is most great."
+    },
+    "ur": {
+      "narrator": "ہم سے یوسف بن موسیٰ نے بیان کیا، کہا ہم سے وکیع نے بیان کیا, اس سند سے اعمش سے",
+      "text": "اسی جیسی حدیث مروی ہے اس میں بھی «حتى يعقل» ہے اور «عن المجنون حتى يبرأ» کے بجائے «حتى يفيق» ہے، اور «فجعل يكبر» کے بجائے «فجعل عمر يكبر» ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2638,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ هِشَامٍ بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ فِي أَوَّلِ الْحَدِيثِ، وَكَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَصُومُهُ، وَقَالَ فِي آخِرِ الْحَدِيثِ: وَتَرَكَ عَاشُورَاءَ، فَمَنْ شَاءَ صَامَهُ وَمَنْ شَاءَ تَرَكَهُ، وَلَمْ يَجْعَلْهُ مِنْ قَوْلِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، كَرِوَايَةِ جَرِيرٍ."
+    },
+    "en": {
+      "narrator": "This hadith is narrated on the authority of Hisham with the same chain of transmitters, but he made no mention in the first part of the hadith:",
+      "text": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe fast, and said about the second part that he abandoned the (fast) of Ashura, and he who wished observed the fast and who wished otherwise abandoned it, and he did not hold it as the words of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as mentioned in the narration transmitted by Jarir."
+    },
+    "ur": {
+      "narrator": "ابو بکر بن ابی شیبہ ، ابو کریب ، ابن نمیر ، حضرت ہشام سے اس سند کے ساتھ روایت ہے اور حدیث کے شروع میں ذکر نہیں کیا کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم یوم عاشورہ کا روزہ رکھتے تھے اور حدیث کے آخر میں ہے کہ آپ صلی اللہ علیہ وسلم نے عاشورہ کا روزہ چھوڑ دیا کہ جو چاہے اس کا روزہ رکھے اور جو چاہے چھوڑ دےجیسا کہ جریر نے روایت کیا ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

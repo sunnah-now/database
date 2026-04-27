@@ -1,0 +1,41 @@
+{
+  "id": 1423,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Jumu`ah (Friday Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الجمعة"
+        },
+        "ur": {
+          "text": "کتاب جمعہ کے بیان میں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْأَعْلَى، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا خَالِدٌ، ‏‏‏‏‏‏عَنْ شُعْبَةَ، ‏‏‏‏‏‏قال:‏‏‏‏ أَخْبَرَنِي مَعْبَدُ بْنُ خَالِدٍ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ عُقْبَةَ، ‏‏‏‏‏‏عَنْسَمُرَةَ، ‏‏‏‏‏‏قال:‏‏‏‏ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ فِي صَلَاةِ الْجُمُعَةِ بِسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى وَ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Samurah said: The Messenger of Allah (ﷺ) used to recite in jumu'ah prayer: 'Glorify the Name of your Lord, the Most Hight' and: 'Has there come to you the narration of the overwhelming (i.e. the Day of Resurrection)?"
+    },
+    "ur": {
+      "narrator": "سمرہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم جمعہ میں «سبح اسم ربك الأعلى» اور «هل أتاك حديث الغاشية» پڑھتے تھے ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

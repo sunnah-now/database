@@ -1,0 +1,41 @@
+{
+  "id": 6875,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness"
+        },
+        "ar": {
+          "text": "كتاب الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ"
+        },
+        "ur": {
+          "text": "ذکر الٰہی‘دعا ‘توبہ اور استغفار"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ أَخْبَرَنَا ابْنُ مُبَارَكٍ عَنْ سُلَيْمَانَ التَّيْمِيِّ عَنْ أَنَسِ بْنِ مَالِكٍ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ تَعَوَّذَ مِنْ أَشْيَاءَ ذَكَرَهَا وَالْبُخْلِ."
+    },
+    "en": {
+      "narrator": "Anas bin Malik رضی اللہ عنہ reported:",
+      "text": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) used to seek refuge in Allah from such things as mentioned in the above-mentioned hadith and from 'miserliness too."
+    },
+    "ur": {
+      "narrator": "ابن مبارک نے سلیمان تیمی سے ، انہوں نے حضرت انس بن مالک رضی اللہ عنہ سے ، انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+      "text": "آپ صلی اللہ علیہ وسلم نے کئی اشیاء سے ، جن کا انہوں نے ذکر کیا اور بخل سے اللہ کی پناہ طلب کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

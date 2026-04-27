@@ -1,0 +1,41 @@
+{
+  "id": 3951,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 31,
+      "language": {
+        "en": {
+          "text": "The Book of Manumission of Slaves"
+        },
+        "ar": {
+          "text": "كتاب العتق"
+        },
+        "ur": {
+          "text": "غلاموں کی آزادی سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الْوَهَّابِ، ‏‏‏‏‏‏عَنْ سَعِيدٍ، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏عَنْ الْحَسَنِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ مَنْ مَلَكَ ذَا رَحِمٍ مَحْرَمٍ فَهُوَ حُرٌّ ."
+    },
+    "en": {
+      "narrator": "It was narrated from Saeed, from Qatadah, from Al-Hassan, who said:",
+      "text": "If anyone gets possession of a relative who is within the prohibited degrees, that person becomes free."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن سلیمان نے بیان کیا، ہم سے عبد الوہاب نے سعید کی سند سے، قتادہ کی سند سے، حسن رضی اللہ عنہ سے، انہوں نے کہا",
+      "text": "جو کسی قرابت دار محرم کا مالک ہو جائے تو ( وہ ملکیت میں آتے ہی ) آزاد ہو جائے گا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

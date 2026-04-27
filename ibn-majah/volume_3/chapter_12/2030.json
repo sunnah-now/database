@@ -1,0 +1,41 @@
+{
+  "id": 2030,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "The Chapter on Divorce"
+        },
+        "ar": {
+          "text": "كتاب الطلاق"
+        },
+        "ur": {
+          "text": "طلاق کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، ‏‏‏‏‏‏حَدَّثَنَا أَبُو مُعَاوِيَةَ، ‏‏‏‏‏‏عَنْ الْأَعْمَشِ، ‏‏‏‏‏‏عَنْ مُسْلِمٍ، ‏‏‏‏‏‏عَنْ مَسْرُوقٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ وَاللَّهِ لَمَنْ شَاءَ لَاعَنَّاهُ لَأُنْزِلَتْ سُورَةُ النِّسَاءِ الْقُصْرَى بَعْدَ أَرْبَعَةِ أَشْهُرٍ وَعَشْرًا ."
+    },
+    "en": {
+      "narrator": "It was narrated that' Abdullah bin Mas'ud رضی اللہ عنہ said:",
+      "text": "By Allah, for those who would like to go through the process of praying for Allah's curse to be upon the one who is wrong, the shorter Surah concerning women[l] was revealed after (the Verses[2] which speak of the waiting period of) four months and ten (days). [1] (65:40), [2] (2:234)"
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن المثنی نے بیان کیا، کہا ہم سے ابو معاویہ نے بیان کیا، انہوں نے اعمش کی سند سے، مسلم کی سند سے، مسروق کی سند سے, عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "اللہ کی قسم! جو کوئی چاہے ہم اس سے لعان کر لیں کہ چھوٹی سورۃ نساء ( سورۃ الطلاق ) اس آیت کے بعد اتری ہے جس میں چار ماہ دس دن کی عدت کا حکم ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

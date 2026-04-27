@@ -1,0 +1,41 @@
+{
+  "id": 1617,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "Zakat (Kitab Al-Zakat)"
+        },
+        "ar": {
+          "text": "كتاب الزكاة"
+        },
+        "ur": {
+          "text": "زکوۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏أَخْبَرَنَا إِسْمَاعِيلُ، ‏‏‏‏‏‏لَيْسَ فِيهِ ذِكْرُ الْحِنْطَةِ. قَالَ أَبُو دَاوُد:‏‏‏‏ وَقَدْ ذَكَرَ مُعَاوِيَةُ بْنُ هِشَامٍ فِي هَذَا الْحَدِيثِ، ‏‏‏‏‏‏عَنْ الثَّوْرِيِّ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ أَسْلَمَ، ‏‏‏‏‏‏عَنْ عِيَاضٍ، ‏‏‏‏‏‏عَنْ أَبِي سَعِيدٍ، ‏‏‏‏‏‏نِصْفَ صَاعٍ مِنْ بُرٍّ وَهُوَ وَهْمٌ مِنْ مُعَاوِيَةَ بْنِ هِشَامٍ، ‏‏‏‏‏‏أَوْ مِمَّنْ رَوَاهُ عَنْهُ."
+    },
+    "en": {
+      "narrator": "The aforesaid tradition has also been transmitted by Abu Saeed through a different chain of narrators. This version adds: but it does not contain \"wheat (Hintah):",
+      "text": "Abu Dawood said: Muawayah bin Hisham mention in this narration, from Ath-Thawri, from Zaid bin Aslam, from 'Iyad, from Abu Saeed: “Half a sa’ of wheat “. And it is a mistakes from Muawayah bin Hisham or from this one that reported it from him."
+    },
+    "ur": {
+      "narrator": "مسدد نے ہمیں بتایا، اس سند سے اسماعیل (اسماعیل ابن علیہ) سے یہی حدیث (نمبر: ۱۶۱۶ کے اخیر میں مذکور سند سے) مروی ہے,اس میں حنطہٰ کا ذکر نہیں ہے۔",
+      "text": "ابوداؤد کہتے ہیں: معاویہ بن ہشام نے اس حدیث میں ثوری سے، ثوری نے زید بن اسلم سے، زیدی اسلم نے عیاض سے، عیاض نے ابوسعید سے «نصف صاع من بُرٍّ» نقل کیا ہے، لیکن یہ زیادتی معاویہ بن ہشام کا یا اس شخص کا وہم ہے جس نے ان سے روایت کی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

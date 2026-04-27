@@ -1,0 +1,41 @@
+{
+  "id": 1247,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Forgetfulness (In Prayer)"
+        },
+        "ar": {
+          "text": "كتاب السهو"
+        },
+        "ur": {
+          "text": "نماز میں سہو کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أخبرنا سويد بن نصر قال أنبأنا عبد الله عن مسعر عن الحكم عن أبي وائل عن عبد الله قال:‏‏‏‏ من شك أو أوهم فليتحر الصواب ثم ليسجد سجدتين ‏.‏"
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdullah said: Whoever has doubt, or is not sure, let him estimate what is correct, then let him prostrate twice."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "جسے کچھ شک یا وہم ہو جائے تو اسے صحیح اور صواب جاننے کی کوشش کرنی چاہیئے، پھر دو سجدے کرے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

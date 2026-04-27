@@ -1,0 +1,41 @@
+{
+  "id": 249,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، عَنْ عَبْدِ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Muhammad bin Rafi and 'Abd bin Humaid, 'Abdur-Razzaq and Ma'mar and Zuhri have narrated a hadith like this on the authority of the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے محمد بن رافع اور عبد بن حمید نے عبد الرزاق کی سند سے ہمیں  زہری سے اسی سند کے ساتھ یہی روایت بیان کی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

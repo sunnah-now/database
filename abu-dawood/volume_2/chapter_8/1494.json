@@ -1,0 +1,41 @@
+{
+  "id": 1494,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
+        },
+        "ar": {
+          "text": "كتاب الوتر"
+        },
+        "ur": {
+          "text": "وتر کے فروعی احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ خَالِدٍ الرَّقِّيِّ، ‏‏‏‏‏‏حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، ‏‏‏‏‏‏حَدَّثَنَا مَالِكُ بْنُ مِغْوَلٍ بِهَذَا الْحَدِيثِ، ‏‏‏‏‏‏قَالَ فِيهِ:‏‏‏‏ لَقَدْ سَأَلْتَ اللَّهَ عَزَّ وَجَلَّ بِاسْمِهِ الْأَعْظَمِ ."
+    },
+    "en": {
+      "narrator": "The aforesaid tradition has been transmitted through a different chain of narrators by Malik bin Mighul:",
+      "text": "This verso adds: He has asked Allah using His Greatest Name."
+    },
+    "ur": {
+      "narrator": "ہم سے عبدالرحمٰن بن خالد رقی نے بیان کیا، ہم سے زید بن حباب نے بیان کیا، ہم سے مالک بن مغول نے یہ حدیث بیان کی، جس میں انہوں نے کہا",
+      "text": "اس میں ہے: «لقد سألت الله عزوجل باسمه الأعظم» تو نے اللہ سے اس کے اسم اعظم ( عظیم نام ) کا حوالہ دے کر سوال کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2330,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "Fasting (Kitab Al-Siyam)"
+        },
+        "ar": {
+          "text": "كتاب الصوم"
+        },
+        "ur": {
+          "text": "روزوں کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ الدِّمَشْقِيُّ فِي هَذَا الْحَدِيثِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ الْوَلِيدُ:‏‏‏‏ سَمِعْتُ أَبَا عَمْرٍو يَعْنِي الْأَوْزَاعِيَّ، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ سِرُّهُ أَوَّلُهُ."
+    },
+    "en": {
+      "narrator": "Sulaiman bin Abdur-Rahman al-Dimashqi said about this tradition that al-Walid said: I heard Abu Amr al-Auzai say:",
+      "text": "The word sirrahu means beginning of the month."
+    },
+    "ur": {
+      "narrator": "سلیمان بن عبدالرحمٰن نے اس حدیث کے سلسلہ میں بیان کیا ہے کہ ولید کہتے ہیں: میں نے ابوعمرو یعنی اوزاعی کو کہتے سنا ہے کہ",
+      "text": "«سرہ»کے معنی اوائل ماہ کے ہیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

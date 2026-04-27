@@ -1,0 +1,41 @@
+{
+  "id": 1695,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصيام"
+        },
+        "ur": {
+          "text": "صیام کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، ‏‏‏‏‏‏عَنْ عَاصِمٍ، ‏‏‏‏‏‏عَنْ زِرٍّ، ‏‏‏‏‏‏عَنْ حُذَيْفَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ تَسَحَّرْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ هُوَ النَّهَارُ، ‏‏‏‏‏‏إِلَّا أَنَّ الشَّمْسَ لَمْ تَطْلُعْ ."
+    },
+    "en": {
+      "narrator": "It was narrated that Hudhaifah رضی اللہ عنہ said:",
+      "text": "“I ate Suhur with the Messenger of Allah (ﷺ) when it was daybreak but the sun had not yet risen.” [(One of the narrators) Abu Ishaq said: “The Hadith of Hudhaifah is abrogated and does not mean anything.”]"
+    },
+    "ur": {
+      "narrator": "ہم سے علی بن محمد نے بیان کیا، ہم سے ابوبکر بن عیاش نے بیان کیا، عاصم کی سند سے، زر کی سند سے, حذیفہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "میں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ سحری فجر کے طلوع ہو جانے کے وقت کھائی، لیکن ابھی طلوع نہیں ہوئی تھی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 7000,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 50,
+      "language": {
+        "en": {
+          "text": "The Book of Repentance"
+        },
+        "ar": {
+          "text": "كتاب التَّوْبَةِ"
+        },
+        "ur": {
+          "text": "توبہ کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ قَالَ سَمِعْتُ الْعَلَاءَ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Shu'ba through another chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے محمد بن مثنیٰ نے بیان کیا، ہم سے محمد بن جعفر نے بیان کیا, شعبہ نے کہا : میں نے علاء کو اسی سند کے ساتھ ( یہی حدیث بیان کرتے ہوئے ) سنا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

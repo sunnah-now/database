@@ -1,0 +1,41 @@
+{
+  "id": 5351,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه مُوسَى بْنُ قُرَيْشِ بْنِ نَافِعٍ التَّمِيمِيُّ حَدَّثَنَا يَحْيَى بْنُ صَالِحٍ الْوُحَاظِيُّ حَدَّثَنَا سُلَيْمَانُ بْنُ بِلَالٍ بِهَذَا الْإِسْنَادِ وَقَالَ نِعْمَ الْأُدُمُ وَلَمْ يَشُكَّ."
+    },
+    "en": {
+      "narrator": "This hadith has been reported on the authority of Sulaiman bin Bilal with the same chain of transmitters and he is reported to have said:",
+      "text": "The best condiment. And he did not doubt (about this word)."
+    },
+    "ur": {
+      "narrator": "ہم سے موسیٰ بن قریش بن نافع التمیمی نے بیان کیا, یحییٰ بن صالح وحاظی نے کہا کہ ہمیں سلیمان بن بلال نے اسی سند کے ساتھ حدیث سنا ئی اور کہا",
+      "text": "\" سالنوں میں سے عمدہ \" اور شک نہیں کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

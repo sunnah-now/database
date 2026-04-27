@@ -1,0 +1,41 @@
+{
+  "id": 745,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "The Book of the Qiblah"
+        },
+        "ar": {
+          "text": "كتاب القبلة"
+        },
+        "ur": {
+          "text": "قبلہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا ابْنُ وَهْبٍ، ‏‏‏‏‏‏قال:‏‏‏‏ أَخْبَرَنِي يُونُسُ، ‏‏‏‏‏‏عَنْ ابْنِ شِهَابٍ، ‏‏‏‏‏‏عَنْ سَالِمٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قال:‏‏‏‏ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي عَلَى الرَّاحِلَةِ قِبَلَ أَيِّ وَجْهٍ تَوَجَّهُ بِهِ وَيُوتِرُ عَلَيْهَا، ‏‏‏‏‏‏غَيْرَ أَنَّهُ لَا يُصَلِّي عَلَيْهَا الْمَكْتُوبَةَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Abdullah said: The messenger of Allah (peace be upon him) used to pray atop his mount while traveling, facing whatever direction it was facing, and he would pray witr atop it, but he did not pray the prescribed prayers atop it ."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہم کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم سواری پر نماز پڑھتے خواہ وہ کسی بھی طرف آپ کو لے کر متوجہ ہوتی، وتر بھی اسی پر پڑھتے تھے، البتہ فرض نماز اس پر نہیں پڑھتے تھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

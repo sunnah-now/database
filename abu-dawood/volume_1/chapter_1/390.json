@@ -1,0 +1,41 @@
+{
+  "id": 390,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Purification (Kitab Al-Taharah)"
+        },
+        "ar": {
+          "text": "كتاب الطهارة"
+        },
+        "ur": {
+          "text": "طہارت کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ قَالَ حَدَّثَنَا حَمَّادٌ عَنْ حُمَيْدٍ عَنْ أَنَسٍ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "A similar tradition has also been narrated by Anas رضی اللہ عنہ from the Prophet صلی ‌اللہ ‌علیہ ‌وسلم through a different chain of narrators."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے موسیٰ بن اسماعیل نے بیان کیا: ہم سے حماد نے حمید کی سند سے بیان کیا, انس رضی اللہ عنہ نے اسی طرح نبی اکرم صلی اللہ علیہ وسلم سے مرفوعاً بیان کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

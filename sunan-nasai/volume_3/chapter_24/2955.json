@@ -1,0 +1,41 @@
+{
+  "id": 2955,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The Book of Hajj"
+        },
+        "ar": {
+          "text": "كتاب مناسك الحج"
+        },
+        "ur": {
+          "text": "حج کے احکام و مناسک"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏عَنْ عُبَيْدِ اللَّهِ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ عَبْدُ اللَّهِ رَضِيَ اللَّهُ عَنْهُ:‏‏‏‏ مَا تَرَكْتُ اسْتِلَامَ هَذَيْنِ الرُّكْنَيْنِ مُنْذُ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْتَلِمُهُمَا الْيَمَانِيَ، ‏‏‏‏‏‏وَالْحَجَرَ فِي شِدَّةٍ وَلَا رَخَاءٍ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Nafi said: Abdullah, may Allah be pleased with him, said: I have not failed to touch these two corners since I saw the Messenger of Allah touching them, the Yemeni Corner and Black Stone, either when it is difficult or when it is easy.'"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی الله عنہما کہتے ہیں کہ",
+      "text": "جب سے میں نے رسول اللہ صلی اللہ علیہ وسلم کو رکن یمانی اور حجر اسود کا استلام کرتے دیکھا، میں نے ان دونوں رکنوں کا استلام نہیں چھوڑا، نہ سختی میں اور نہ آسانی میں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

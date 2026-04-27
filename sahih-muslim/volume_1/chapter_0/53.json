@@ -1,0 +1,41 @@
+{
+  "id": 53,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْحَسَنُ الْحُلْوَانِيُّ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا مِسْعَرٌ، قَالَ: «حَدَّثَنَا جَابِرُ بْنُ يَزِيدَ، قَبْلَ أَنْ يُحْدِثَ مَا أَحْدَثَ»"
+    },
+    "en": {
+      "narrator": "Al-Hasan al-Hulwānī narrated to us, Yahyā bin Ādam narrated to us, Mis’ar narrated to us, he said:",
+      "text": "‘Jābir bin Yazīd narrated to us before there took place what happened [i.e. before his false beliefs] ’."
+    },
+    "ur": {
+      "narrator": "ہم سے حسن الحلوانی نے بیان کیا، کہا ہم سے یحییٰ بن آدم نے بیان کیا، کہا ہم سے مسعر نے بیان کیا، انہوں نے کہا",
+      "text": "ہم سے جابر بن یزید ( جعفی ) نے ان بدعتوں سے پہلے ، جو اس نے گھڑیں ، حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

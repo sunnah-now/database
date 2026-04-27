@@ -1,0 +1,41 @@
+{
+  "id": 6482,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of the Merits of the Companions"
+        },
+        "ar": {
+          "text": "كتاب فَضَائِلِ الصَّحَابَةِ"
+        },
+        "ur": {
+          "text": "صحابہ کرام رضی اللہ عنھم کے فضائل و مناقب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ: قَبْلَ مَوْتِهِ بِشَهْرٍ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Ibn Juraij with the same chain of transmitters, but there is no mention of the words:",
+      "text": "one month before his death ."
+    },
+    "ur": {
+      "narrator": "مجھ سے محمد بن حاتم نے بیان کیا، ہم سے محمد بن بکر نے بیان کیا، ابن جریج نے اسی سند کے ساتھ ہمیں خبر دی اور اس بات کا ذکر نہیں کیا کہ",
+      "text": "( آپ نے ) اپنی وفات سے ایک ماہ قبل ( یہ ارشاد فرمایا تھا ۔ )"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

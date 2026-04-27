@@ -1,0 +1,41 @@
+{
+  "id": 2582,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 15,
+      "language": {
+        "en": {
+          "text": "Jihad (Kitab Al-Jihad)"
+        },
+        "ar": {
+          "text": "كتاب الجهاد"
+        },
+        "ur": {
+          "text": "جہاد کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ الْمُثَنَّى، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الْأَعْلَى، ‏‏‏‏‏‏عَنْ سَعِيدٍ، ‏‏‏‏‏‏عَنْ قَتَادَةَ قَالَ:‏‏‏‏ الْجَلَبُ وَالْجَنَبُ فِي الرِّهَانِ."
+    },
+    "en": {
+      "narrator": "Qatadah رضی اللہ عنہ said:",
+      "text": "“Taking another horse behind one’s horse to urge it on and taking another horse at one’s side are (done) in a horse race."
+    },
+    "ur": {
+      "narrator": "ہم سے ابن المثنیٰ نے بیان کیا، ہم سے عبد الاعلی نے سعید کی سند سے بیان کیا, قتادہ رضی اللہ عنہ سے روایت ہے، انہوں نے کہا",
+      "text": "«جلب» اور «جنب»گھوڑ دوڑ کے مقابلہ میں ہوتا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

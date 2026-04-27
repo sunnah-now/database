@@ -1,0 +1,41 @@
+{
+  "id": 624,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The Book on Zakat"
+        },
+        "ar": {
+          "text": "كتاب الزكاة عن رسول الله صلى الله عليه وسلم"
+        },
+        "ur": {
+          "text": "زکاۃ و صدقات کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، ‏‏‏‏‏‏حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، ‏‏‏‏‏‏حَدَّثَنَا شُعْبَةُ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ مُرَّةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَأَلْتُ أَبَا عُبَيْدَةَ بْنَ عَبْدِ اللَّهِ:‏‏‏‏ هَلْ يَذْكُرُ عَنْ عَبْدِ اللَّهِ شَيْئًا ؟ قَالَ:‏‏‏‏ لَا."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Muhammad bin Bash-shar (Al-Abdi) narrated to us, : Muhammad bin Ja'far narrated to us, from Shu'bah, from Amr bin Murrah who said: I asked Abu Ubaidah bin Abdullah: 'Did you remember anything from Abdullah?' He said, 'No'"
+    },
+    "ur": {
+      "narrator": "عمرو بن مرہ کہتے ہیں کہ",
+      "text": "میں نے ابوعبیدہ بن عبداللہ سے پوچھا: کیا وہ ( اپنے والد ) عبداللہ بن مسعود رضی الله عنہ سے کوئی چیز یاد رکھتے ہیں؟ انہوں نے کہا: نہیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

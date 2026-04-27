@@ -1,0 +1,41 @@
+{
+  "id": 226,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book on Salat (Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا قُتَيْبَةُ، عَنْ مَالِكٍ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Narrator not mentioned: A Similar narration"
+    },
+    "ur": {
+      "narrator": "نیز قتیبہ نے",
+      "text": "مالک سے اسی طرح کی حدیث روایت کی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

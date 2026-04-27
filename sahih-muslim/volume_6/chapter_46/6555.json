@@ -1,0 +1,41 @@
+{
+  "id": 6555,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
+        },
+        "ar": {
+          "text": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ"
+        },
+        "ur": {
+          "text": "حسن سلوک، صلہ رحمی اور ادب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي سُوَيْدُ بْنُ سَعِيدٍ حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ عَنْ عَاصِمٍ الْأَحْوَلِ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Asim al-Ahwal with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے سوید بن سعید نے بیان کیا, مروان بن معاویہ نے عاصم احول سے اسی سند کے ساتھ حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

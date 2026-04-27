@@ -1,0 +1,41 @@
+{
+  "id": 6303,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of the Merits of the Companions"
+        },
+        "ar": {
+          "text": "كتاب فَضَائِلِ الصَّحَابَةِ"
+        },
+        "ur": {
+          "text": "صحابہ کرام رضی اللہ عنھم کے فضائل و مناقب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا أَسْبَاطُ بْنُ مُحَمَّدٍ، عَنْ زَكَرِيَّاءَ، بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Zakriyya' through another chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اور ہم سے اسحاق بن ابراہیم نے بیان کیا, اسباط بن محمد نے زکریا سے اسی سند کے ساتھ اسی کے مانند خبر دی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

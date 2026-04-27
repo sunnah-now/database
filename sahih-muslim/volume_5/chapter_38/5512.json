@@ -1,0 +1,41 @@
+{
+  "id": 5512,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Clothes and Adornment"
+        },
+        "ar": {
+          "text": "كتاب اللِّبَاسِ وَالزِّينَةِ"
+        },
+        "ur": {
+          "text": "لباس اور زینت کے احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ أَخْبَرَنَا الْمَخْزُومِيُّ حَدَّثَنَا وُهَيْبٌ عَنْ أَبِي حَازِمٍ بِهَذَا الْإِسْنَادِ أَنَّ جِبْرِيلَ وَعَدَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَأْتِيَهُ فَذَكَرَ الْحَدِيثَ وَلَمْ يُطَوِّلْهُ كَتَطْوِيلِ ابْنِ أَبِي حَازِمٍ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Abu Hazim with the same chain of transmitters:",
+      "text": "Gabriel had promised Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) that he would come; the rest of the hadith is the same, but it is not so lengthy as the other one."
+    },
+    "ur": {
+      "narrator": "ہم سے اسحاق بن ابراہیم الحنظَلی نے بیان کیا, ہمیں وہب نے اسی سند کے ساتھ ابو حازم سے حدیث سنا ئی کہ",
+      "text": "جبرا ئیل علیہ السلام نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ وعدہ کیا کہ وہ آپ کے پاس آئیں گے پھر حدیث بیان کی اور ابو حازم کے بیٹے کی طرح لمبی تفصیل نہیں بتا ئی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

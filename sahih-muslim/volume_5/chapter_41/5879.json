@@ -1,0 +1,41 @@
+{
+  "id": 5879,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 41,
+      "language": {
+        "en": {
+          "text": "The Book Concerning the use of Correct Words"
+        },
+        "ar": {
+          "text": "كتاب الْأَلْفَاظِ مِنْ الْأَدَبِ وَغَيْرِهَا"
+        },
+        "ur": {
+          "text": "ادب اور دوسری باتوں (عقیدے اور انسانی رویوں) سے متعلق الفاظ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Abia Mu'iwiya with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ابو کریب نے کہا , ہمیں ابو معاویہ نے اسی سند کے ساتھ ( یہی ) حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

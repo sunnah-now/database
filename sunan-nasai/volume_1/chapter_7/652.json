@@ -1,0 +1,41 @@
+{
+  "id": 652,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book of the Adhan (The Call to Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الأذان"
+        },
+        "ur": {
+          "text": "اذان کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا سُوَيْدٌ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا عَبْدُ اللَّهِ، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏عَنْ الْأَعْمَشِ، ‏‏‏‏‏‏عَنْ إِبْرَاهِيمَ، ‏‏‏‏‏‏عَنْ الْأَسْوَدِ، ‏‏‏‏‏‏مِثْلَ ذَلِكَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "(Another chain) from Ibrahim, from Al-Aswad, with similar narration."
+    },
+    "ur": {
+      "narrator": "اس سند سے بھی اسود سے اسی جیسی حدیث مروی ہے۔",
+      "text": ""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

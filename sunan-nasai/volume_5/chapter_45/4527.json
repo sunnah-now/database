@@ -1,0 +1,41 @@
+{
+  "id": 4527,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ،‏‏‏‏ عَنْ ابْنِ جُرَيْجٍ،‏‏‏‏ عَنْ عَطَاءٍ،‏‏‏‏ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ،‏‏‏‏ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ أَنَّهُ نَهَى عَنِ الْمُخَابَرَةِ،‏‏‏‏ وَالْمُزَابَنَةِ،‏‏‏‏ وَالْمُحَاقَلَةِ،‏‏‏‏ وَأَنْ يُبَاعَ الثَّمَرُ حَتَّى يَبْدُوَ صَلَاحُهُ،‏‏‏‏ وَأَنْ لَا يُبَاعَ إِلَّا بِالدَّنَانِيرِ وَالدَّرَاهِمِ،‏‏‏‏ وَرَخَّصَ فِي الْعَرَايَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from 'Ata: I heard Jabir bin 'Abdullah (narrate) from the Prophet that he forbade Mukhabarah, Muzabanah and Muhaqalah, an (he forbade) selling fruits until their condition is known, an that they should only sold for Dinars and Dirhams, but he granted a concession regarding the sale of Araya:"
+    },
+    "ur": {
+      "narrator": "جابر بن عبداللہ رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے بیع مخابرہ، مزابنہ، محاقلہ سے، اور پکنے سے پہلے پھل بیچنے سے منع فرمایا، اور پھلوں کو درہم و دینار کے سوا کسی اور چیز کے بدلے بیچنے سے منع فرمایا، اور بیع عرایا میں رخصت دی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

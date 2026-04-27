@@ -1,0 +1,41 @@
+{
+  "id": 6564,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
+        },
+        "ar": {
+          "text": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ"
+        },
+        "ur": {
+          "text": "حسن سلوک، صلہ رحمی اور ادب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا أَبُو مُعَاوِيَةَ حَدَّثَنَا هِشَامٌ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The above hadith has been transmitted by Hisham with the same chain."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابو کریب نے بیان کیا, ابو معاویہ نے ہمیں ہشام سے اسی سند کے ساتھ حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

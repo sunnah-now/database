@@ -1,0 +1,41 @@
+{
+  "id": 48,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي حَجَّاجٌ، قَالَ: حَدَّثَنِي أَحْمَدُ وَهُوَ ابْنُ يُونُسَ، حَدَّثَنَا زَائِدَةُ، عَنْ مَنْصُورٍ، وَالْمُغِيرَةِ، عَنْ إِبْرَاهِيمَ، «أَنَّ الْحَارِثَ اتُّهِمَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Hajjāj narrated to me, he said Ahmad- and he is Ibn Yūnus- narrated to me, Zā’idah narrated to us, on authority of Mansūr and al-Mughīrah, on authority of Ibrāhīm that al-Hārith was imputed."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "حجاج نے مجھ سے بیان کیا، انہوں نے کہا: مجھ سے احمد نے جو کہ ابن یونس ہیں، زیدہ نے, منصور اور مغیرہ نے ابراہیم سے روایت کی کہ حارث متہم راوی ہے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

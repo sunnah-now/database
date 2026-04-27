@@ -1,0 +1,41 @@
+{
+  "id": 1385,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Jumu`ah (Friday Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الجمعة"
+        },
+        "ur": {
+          "text": "کتاب جمعہ کے بیان میں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنِي عَمْرُو بْنُ عُثْمَانَ بْنِ سَعِيدِ بْنِ كَثِيرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا الْوَلِيدُ، ‏‏‏‏‏‏عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ، ‏‏‏‏‏‏أَنَّهُ سَمِعَ أَبَا الْأَشْعَثِ حَدَّثَهُ، ‏‏‏‏‏‏أَنَّهُ سَمِعَ أَوْسَ بْنَ أَوْسٍ صَاحِبَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ مَنِ اغْتَسَلَ يَوْمَ الْجُمُعَةِ وَغَسَلَ وَغَدَا وَابْتَكَرَ وَمَشَى وَلَمْ يَرْكَبْ،‏‏‏‏ وَدَنَا مِنَ الْإِمَامِ وَأَنْصَتَ وَلَمْ يَلْغُ،‏‏‏‏ كَانَ لَهُ بِكُلِّ خُطْوَةٍ عَمَلُ سَنَةٍ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Abu Al-Ash'ath narrated that: He heard Aws bin Aws, the Companion of the Messenger of Allah (ﷺ) say: The Messenger of Allah (ﷺ) said: 'Whoever performs Ghusl on Friday and washes (ghassala), and comes early to the masjid, walking not riding, and sits close to the imam and listens attentively and does not engage in idle speech, for every step he takes he will have (the reward of) a year's worth of good deeds.'"
+    },
+    "ur": {
+      "narrator": "اوس بن اوس رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  جو شخص جمعہ کے دن غسل کرے، اپنی بیوی کو غسل کرائے، صبح سویرے ہی جمعہ کے لیے نکلے، شروع خطبہ ہی سے موجود رہے، پیدل چل کر مسجد جائے، سواری نہ کرے، امام سے قریب بیٹھے، اور خاموش رہے کوئی لغو کام نہ کرے، تو اس کے ہر قدم پر ایک سال کے عمل کا ثواب ملے گا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

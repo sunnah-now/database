@@ -1,0 +1,41 @@
+{
+  "id": 30,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا الْأَصْمَعِيُّ، عَنِ ابْنِ أَبِي الزِّنَادِ، عَنْ أَبِيهِ قَالَ: أَدْرَكْتُ بِالْمَدِينَةِ مِائَةً، كُلُّهُمْ مَأْمُونٌ، مَا يُؤْخَذُ عَنْهُمُ الْحَدِيثُ، يُقَالُ: لَيْسَ مِنْ أَهْلِهِ"
+    },
+    "en": {
+      "narrator": "Nasr bin Alī al-Jahdhamī narrated to us, al-Asma’ī narrated to us, on authority of Ibn Abī-Zinād, on authority of his father:",
+      "text": "He said: \"I met one hundred [transmitters] in al-Madīnah, each of whom were reliable. Narrations were not taken from one about who it was said, 'he is not from its people'.\""
+    },
+    "ur": {
+      "narrator": "ہم سے نصر بن علی الجھمی نے بیان کیا، کہا ہم سے الصمعی نے بیان کیا،( عبد الرحمن ) بن ابی زناد نے اپنے والد سے روایت کی",
+      "text": "انہوں نےکہا : میں مدینہ میں سو ( اہل علم ) سے ملا جو ( دین میں تو ) محفوظ ومامون تھے ( لیکن ) ان سے حدیث اخذ نہیں کی جاتی تھیں ، کہا جاتا تھا یہ اس ( علم ) کے اہل نہیں"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

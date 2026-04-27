@@ -1,0 +1,41 @@
+{
+  "id": 903,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Book of the Commencement of the Prayer"
+        },
+        "ar": {
+          "text": "كتاب الافتتاح"
+        },
+        "ur": {
+          "text": "نماز شروع کرنے کے مسائل و احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ قال:‏‏‏‏ حَدَّثَنَا أَبُو عَوَانَةَ، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏عَنْ أَنَسٍ قال:‏‏‏‏ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَبُو بَكْرٍ، ‏‏‏‏‏‏وَعُمَرُ رَضِيَ اللَّهُ عَنْهُمَا يَسْتَفْتِحُونَ الْقِرَاءَةَ بِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ سورة الفاتحة آية 2 ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Anas that: The Prophet (ﷺ), Abu Bakr, and Umar, may Allah be pleased with them both, would start their recitation with: All the praise and thanks be to Allah, the Lord of all that exists."
+    },
+    "ur": {
+      "narrator": "انس رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم، ابوبکر اور عمر رضی اللہ عنہم «الحمد لله رب العالمين» سے قرآت شروع کرتے تھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

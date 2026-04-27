@@ -1,0 +1,41 @@
+{
+  "id": 6531,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
+        },
+        "ar": {
+          "text": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ"
+        },
+        "ur": {
+          "text": "حسن سلوک، صلہ رحمی اور ادب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِيهِ عَلِيُّ بْنُ نَصْرٍ الْجَهْضَمِيُّ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ مِثْلَهُ وَزَادَ كَمَا أَمَرَكُمُ اللهُ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters but with this addition:",
+      "text": "As Allah has commanded you."
+    },
+    "ur": {
+      "narrator": "علی بن نصر الجھضمی نے مجھ سے کہا,  وہب بن جریر نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی اور مزید یہ کہا",
+      "text": "\" جس طرح اللہ نے تمہیں حکم دیا ہے ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

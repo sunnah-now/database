@@ -1,0 +1,41 @@
+{
+  "id": 4430,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "The Book Of Legal Punishments"
+        },
+        "ar": {
+          "text": "كتاب الْحُدُودِ"
+        },
+        "ur": {
+          "text": "حدود کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا سُرَيْجُ بْنُ يُونُسَ، حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ، حَدَّثَنَا سُفْيَانُ، كِلَاهُمَا عَنْ دَاوُدَ، بِهَذَا الْإِسْنَادِ بَعْضَ هَذَا الْحَدِيثِ، غَيْرَ أَنَّ فِي حَدِيثِ سُفْيَانَ: فَاعْتَرَفَ بِالزِّنَى ثَلَاثَ مَرَّاتٍ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Dawud with the same chain of transmitters but with this variation that in the hadith narrated by Sufyan (the words are):",
+      "text": "He made a confession of having committed adultery, thrice."
+    },
+    "ur": {
+      "narrator": "ہم سے سریج بن یونس نے بیان کیا, یحییٰ بن زکریا بن ابی زائدہ اور سفیان دونوں نے داود سے اسی سند کے ساتھ اس حدیث کا کچھ حصہ بیان کیا ، البتہ سفیان کی حدیث میں ہے",
+      "text": "اس نے تین بار زنا کا اعتراف کیا ۔ ( چوتھی بار کے اعتراف پر اسے سزا سنائی گئی)"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

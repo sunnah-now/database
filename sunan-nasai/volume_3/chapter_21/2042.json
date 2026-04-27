@@ -1,0 +1,41 @@
+{
+  "id": 2042,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 21,
+      "language": {
+        "en": {
+          "text": "The Book of Funerals"
+        },
+        "ar": {
+          "text": "كتاب الجنائز"
+        },
+        "ur": {
+          "text": "جنازہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا حَرَمِيُّ بْنُ عُمَارَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا شُعْبَةُ، ‏‏‏‏‏‏عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، ‏‏‏‏‏‏عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا أَتَى عَلَى الْمَقَابِرِ،‏‏‏‏ فَقَالَ:‏‏‏‏ السَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ، ‏‏‏‏‏‏وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُونَ، ‏‏‏‏‏‏أَنْتُمْ لَنَا فَرَطٌ وَنَحْنُ لَكُمْ تَبَعٌ، ‏‏‏‏‏‏أَسْأَلُ اللَّهَ الْعَافِيَةَ لَنَا وَلَكُمْ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Sulaiman bin Buraidah, from his father, that: when the Messenger of Allah came to the graveyard he would say: As-salamu 'alaykum ahli ad-diyari min al-mu'minin wal-muslimin wa inna I sha' Allahu bikum lana faratun wa nahnu lakum taba'un, as'alullahal-'afiyata lana wa lakum. (Peace by upon the inhabitants of this place among the believers and Muslims. Soon we will join you, if Allah willing. You have gone on ahead of us and we will follow you. I ask Allah to keep us and you safe and sound.)"
+    },
+    "ur": {
+      "narrator": "بریدہ رضی الله عنہ روایت کرتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم جب قبرستان آتے تو فرماتے: «‏السلام عليكم أهل الديار من المؤمنين والمسلمين وإنا إن شاء اللہ بكم لاحقون أنتم لنا فرط ونحن لكم تبع أسأل اللہ العافية لنا ولكم» ”اے مومن اور مسلمان گھر والو! تم پر سلامتی ہو، اور اگر اللہ تعالیٰ نے چاہا تو ہم ( عنقریب ) تم سے ملنے والے ہیں، تم ہمارے پیش رو ہو، اور ہم تمہارے بعد آنے والے ہیں۔ میں اللہ سے اپنے اور تمہارے لیے عافیت کی درخواست کرتا ہوں“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

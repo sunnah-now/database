@@ -1,0 +1,41 @@
+{
+  "id": 3008,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَاه مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدٌ يَعْنِي ابْنَ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ غَيْرَ، أَنَّهُ قَالَ: وَكَانَ مِمَّنْ لَمْ يَكُنْ مَعَهُ الْهَدْيُ طَلْحَةُ بْنُ عُبَيْدِ اللهِ وَرَجُلٌ آخَرُ فَأَحَلَّا."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters but with this variation (of words):",
+      "text": "Talha رضی اللہ تعالیٰ عنہ and another person also were among those who had not brought the sacrificial animals with them and so they put off Ihram."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن بشار نے بیان کیا, محمد ، یعنی ابن جعفر نے ہمیں حدیث بیان کی ، ( کہا : ) ہمیں شعبہ نے اسی سند کے ساتھ حدیث سنائی ، البتہ انھوں نے کہا",
+      "text": "جن کے پاس قربانیاں نہ تھیں ان میں طلحہ بن عبیداللہ رضی اللہ تعالیٰ عنہ اور ایک دوسرے صاحب تھے ، لہذا ان دونوں نے ( عمرے کے بعد ) احرام کھول دیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

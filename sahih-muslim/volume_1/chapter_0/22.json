@@ -1,0 +1,41 @@
+{
+  "id": 22,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا دَاوُدُ بْنُ عَمْرٍو الضَّبِّيُّ، حَدَّثَنَا نَافِعُ بْنُ عُمَرَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، قَالَ: كَتَبْتُ إِلَى ابْنِ عَبَّاسٍ أَسْأَلُهُ أَنْ يَكْتُبَ لِي كِتَابًا، وَيُخْفِي عَنِّي، فَقَالَ: «وَلَدٌ نَاصِحٌ أَنَا أَخْتَارُ لَهُ الْأُمُورَ اخْتِيَارًا، وَأُخْفِي عَنْهُ»، قَالَ: فَدَعَا بِقَضَاءِ عَلِيٍّ، فَجَعَلَ يَكْتُبُ مِنْهُ أَشْيَاءَ، وَيَمُرُّ بِهِ الشَّيْءُ، فَيَقُولُ: «وَاللهِ مَا قَضَى بِهَذَا عَلِيٌّ إِلَّا أَنْ يَكُونَ ضَلَّ»"
+    },
+    "en": {
+      "narrator": "Dāwud bin Amr aḍ-Ḍabbī narrated to us, Nāfi’ bin Umar narrated to us, on authority of Ibn Abī Mulaykah:",
+      "text": "He said: ‘I wrote to Ibn Abbās asking him to write something [pertaining to knowledge] for me and he withheld from me quite a bit, and said: ‘As [if he were] a sincere child, I will write for him something especially suited to his status withholding from him what would not benefit him’. [Ibn Abī Mulaykah] said: ‘So [Ibn Abbās] called for the judgment of Alī ‌رضی ‌اللہ ‌عنہ [bin Abī Tālib which was a book with which Alī would pass verdicts in Kuffah], and he began to write from it [with respect to the request of Ibn Abī Mulaykah] and he came upon something [not appropriate to the station of Alī regarding the science of verdicts]. So [Ibn Abbās] said: ‘By Allah, Alī ‌رضی ‌اللہ ‌عنہ ‌did not give judgment according to this unless he was astray’.’"
+    },
+    "ur": {
+      "narrator": "ہم سے داؤد بن عمرو الذہبی نے بیان کیا، کہا ہم سے نافع بن عمر نے بیان کیا,ابن ابی ملیکہ سے روایت ہے",
+      "text": "انہوں نے کہا : میں نے حضرت عبد اللہ بن عباسؓ کی طرف لکھا اور ان سے درخواست کی کہ وہ میرے لیے ایک کتاب لکھیں اور ( جن باتوں کی صحت میں مقال ہو یا جو نہ لکھنے کی ہوں وہ ) باتیں مجھ سے چھپا لیں ۔ انہوں نے فرمایا : لڑکا خالص احادیث کا طلبگار ہے ، میں اس کے لیے ( حدیث سے متعلق ) تمام معاملات میں ( صحیح کا ) انتخاب کروں گا اور ( موضوع اور گھڑی ہوئی احادیث کو ) ہٹا دوں گا ( کہا : انہوں نے حضرت علی ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے فیصلے منگوائے ) اور ان میں سے چیزیں لکھنی شروع کیں اور ( یہ ہوا کہ ) کوئی چیز گزرتی تو فرماتے : بخدا! یہ فیصلہ حضرت علی ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے نہیں کیا ، سوائے اس کے کہ ( خدانخواستہ ) وہ گمراہ ہو گئے ہوں ( جب کہ ایسا نہیں ہوا ۔ )"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

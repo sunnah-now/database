@@ -1,0 +1,41 @@
+{
+  "id": 5964,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The Book of Virtues"
+        },
+        "ar": {
+          "text": "كتاب الْفَضَائِلِ"
+        },
+        "ur": {
+          "text": "انبیائے کرام علیہم السلام کے فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، حَدَّثَنَا سَلِيمٌ بِهَذَا الْإِسْنَادِ مِثْلَهُ، وَقَالَ بَدَلَ - أَتَمَّهَا - أَحْسَنَهَا."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Salim narrated a similar report with this chain of narrators, and instead of saying 'made it complete' he said 'made it beautiful.'"
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے محمد بن حاتم نے کہا, ابن مہدی نے کہا , ہمیں سلیم نے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔ اور \" اسے پورا کیا \" کے بجائے \" اسے خوبصورت بنایا \" کہا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

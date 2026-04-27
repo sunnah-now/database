@@ -1,0 +1,41 @@
+{
+  "id": 1268,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+        },
+        "ar": {
+          "text": "كتاب التطوع"
+        },
+        "ur": {
+          "text": "نوافل اور سنتوں کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَامِدُ بْنُ يَحْيَى الْبَلْخِيُّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ سُفْيَانُ:‏‏‏‏ كَانَ عَطَاءُ بْنُ أَبِي رَبَاحٍ يُحَدِّثُ بِهَذَا الْحَدِيثِ عَنْ سَعْدِ بْنِ سَعِيدٍ. قَالَ أَبُو دَاوُد:‏‏‏‏ وَرَوَى عَبْدُ رَبِّهِ، ‏‏‏‏‏‏وَيَحْيَى ابْنَا سَعِيدٍ هَذَا الْحَدِيثَ مُرْسَلًا، ‏‏‏‏‏‏أَنَّ جَدَّهُمْ صَلَّى مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِهَذِهِ الْقِصَّةِ."
+    },
+    "en": {
+      "narrator": "This tradition has also been transmitted by Ata bin Abi Rabah on the authority of Saad bin Saeed through a different chain of narrators:",
+      "text": "Abu Dawud said: Abd Rabbihi and Yahya bin Saeed also narrated this tradition from the Prophet صلی ‌اللہ ‌علیہ ‌وسلم omitting the name of the Companion (mursal). Their grandfather Zaid prayed along with the Prophet صلی ‌اللہ ‌علیہ ‌وسلم."
+    },
+    "ur": {
+      "narrator": "ہم سے حامد بن یحییٰ بلخی نے بیان کیا، سفیان نے کہا: عطاء بن ابی رباح اس حدیث کو روایت کیا کرتے تھے, اس طریق سے بھی یہ حدیث سعد بن سعید سے اسی سند سے مروی ہے",
+      "text": "ابوداؤد کہتے ہیں: سعید کے دونوں بیٹے عبدربہ اور یحییٰ نے یہ حدیث مرسلاً روایت کی ہے کہ ان کے دادا زید نے نبی اکرم صلی اللہ علیہ وسلم کے ساتھ نماز پڑھی تھی اور انہیں کے ساتھ یہ واقعہ ہوا تھا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

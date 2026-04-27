@@ -1,0 +1,41 @@
+{
+  "id": 65,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ رَقَبَةَ، «أَنَّ أَبَا جَعْفَرٍ الْهَاشِمِيَّ الْمَدَنِيَّ، كَانَ يَضَعُ أَحَادِيثَ كَلَامَ حَقٍّ، وَلَيْسَتْ مِنْ أَحَادِيثِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَكَانَ يَرْوِيهَا عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّم"
+    },
+    "en": {
+      "narrator": "Uthmān bin Abī Shaybah narrated to us, Jarīr narrated to us, on authority of Raqabah that:",
+      "text": "‘Abū Ja’fa al-Hāshimī al-Madanī was fabricating narrations with words of truth, and they were not from the narrations of the Prophet, peace and blessings of Allah upon him, though he was transmitting them on authority of the Prophet, peace and blessings of Allah upon him.’"
+    },
+    "ur": {
+      "narrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا، انہوں نے کہاجریر نے رقبہ ( بن مسقلہ بن عبد اللہ عبدی کوفی ‌رضی ‌اللہ ‌عنہ ‌ ‌ جلیل القدر تابعی ) سے روایت کی کہ",
+      "text": "ابو جعفر ( عبد اللہ بن مسعود بن عون بن جعفر بن ابی طالب ) ہاشمی مدائنی احادیث گھڑا کرتا تھا ، سچائی ( یا حکمت ) پر مبنی کلام ( پیش کرتا ) وہ کلام رسول اللہﷺ کے فرامین میں سے نہ ہوتا تھا لیکن اسے وہ رسول اللہﷺ سے روایت کرتا تھا"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

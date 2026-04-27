@@ -1,0 +1,41 @@
+{
+  "id": 3113,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ، وَقَالَ: صَلَّاهُمَا بِإِقَامَةٍ وَاحِدَةٍ."
+    },
+    "en": {
+      "narrator": "Shu'ba reported this hadith with the same chain of transmitters and said:",
+      "text": "He (the Holy Prophet) observed the two prayers (together) with one iqama."
+    },
+    "ur": {
+      "narrator": "مجھ سے زہیر بن حرب نے بیان کیا, وکیع نے کہا ,  ہمیں شعبہ نے اسی سند کے ساتھ حدیث بیان کی اور کہا",
+      "text": "آپ نے وہ دونوں نمازیں ایک ہی اقامت سے ادا کی تھیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

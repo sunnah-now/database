@@ -1,0 +1,41 @@
+{
+  "id": 4505,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 32,
+      "language": {
+        "en": {
+          "text": "The Book Of Lost Property"
+        },
+        "ar": {
+          "text": "كتاب اللُّقَطَةِ"
+        },
+        "ur": {
+          "text": "کسی کو ملنے والی چیز جس کے مالک کا پتہ نہ ہو"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ عُثْمَانَ، بِهَذَا الْإِسْنَادِ، وَقَالَ فِي الْحَدِيثِ: «فَإِنِ اعْتُرِفَتْ فَأَدِّهَا، وَإِلَّا، فَاعْرِفْ عِفَاصَهَا، وَوِكَاءَهَا، وَعَدَدَهَا."
+    },
+    "en": {
+      "narrator": "Ad-Dahhak bin Uthman narrate it with this chain (a Hadith similar to no. 4504), and he said in the Hadith:",
+      "text": "If it is recognized, then pay it back, otherwise memorize the features of its strap, bag, container and amount."
+    },
+    "ur": {
+      "narrator": "اسحاق بن منصور نے مجھ سے کہا, ابوبکر حنفی نے ضحاک بن عثمان سے اسی سند کے ساتھ حدیث بیان کی اور انہوں نے حدیث میں کہا",
+      "text": "\" اگر اسے پہچان لیا جائے تو ادا کر دو ورنہ اس کی تھیلی ، بندھن ، ( جس ) برتن ( میں بند تھی ) اور تعداد کی پہچان ( محفوظ ) رکھو."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

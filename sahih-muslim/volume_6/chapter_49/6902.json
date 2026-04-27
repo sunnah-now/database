@@ -1,0 +1,41 @@
+{
+  "id": 6902,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness"
+        },
+        "ar": {
+          "text": "كتاب الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ"
+        },
+        "ur": {
+          "text": "ذکر الٰہی‘دعا ‘توبہ اور استغفار"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ الصَّبَّاحِ الْمِسْمَعِيُّ حَدَّثَنَا شُعْبَةُ فِي هَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اور ہم سے محمد بن بشار نے بیان کیا, عبدالملک بن صباح مسمعی نے کہا : ہمیں شعبہ نے اسی سند سے ( یہی ) حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

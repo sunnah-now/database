@@ -1,0 +1,41 @@
+{
+  "id": 339,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنِ الْجَعْدِ أَبِي عُثْمَانَ، فِي هَذَا الْإِسْنَادِ بِمَعْنَى حَدِيثِ عَبْدِ الْوَارِثِ، وَزَادَ: «وَمَحَاهَا اللهُ وَلَا يَهْلِكُ عَلَى اللهِ إِلَّا هَالِكٌ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated with another chain of transmitters with the addition of these words:",
+      "text": "Allah would even wipe out (the evil committed by a man) and Allah does not put to destruction anyone except he who is doomed to destruction."
+    },
+    "ur": {
+      "narrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے بیان کیا,جعفر بن سلیمان نے جعد ابوعثمان سے عبد الوارث کی حدیث کے ہم معنی روایت کی اور یہ اضافہ کیا",
+      "text": "’’یا اللہ نے اسے مٹا دیا او راللہ کے ہاں صرف وہی ہلاک ہوتا ہے جو ( خود ) ہلاک ہونے والا ہے ( کہ اللہ کے اس قدر فضل و کرم کے باوجود تباہی سے بچ سکا ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

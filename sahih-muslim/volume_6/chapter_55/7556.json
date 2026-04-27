@@ -1,0 +1,41 @@
+{
+  "id": 7556,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 55,
+      "language": {
+        "en": {
+          "text": "The Book of Commentary on the Qur'an"
+        },
+        "ar": {
+          "text": "كتاب التَّفْسِيرِ"
+        },
+        "ur": {
+          "text": "قرآن مجید کی تفسیر کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنِيهِ بِشْرُ بْنُ خَالِدٍ أَخْبَرَنَا مُحَمَّدٌ يَعْنِي ابْنَ جَعْفَرٍ عَنْ شُعْبَةَ عَنْ سُلَيْمَانَ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Sulaiman with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اور مجھ سے بشر بن خالد نے کہا,  ہم سے محمد نے بیان کیا، یعنی ابن جعفر نے, شعبہ نے سلیمان ( اعمش ) سے اسی سندکے ساتھ یہی روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4763,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Government"
+        },
+        "ar": {
+          "text": "كتاب الْإِمَارَةِ"
+        },
+        "ur": {
+          "text": "امور حکومت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ عُبَيْدِ اللهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، أَنَّهُ قَالَ: «عَلَى الْمَرْءِ الْمُسْلِمِ السَّمْعُ وَالطَّاعَةُ فِيمَا أَحَبَّ وَكَرِهَ، إِلَّا أَنْ يُؤْمَرَ بِمَعْصِيَةٍ، فَإِنْ أُمِرَ بِمَعْصِيَةٍ، فَلَا سَمْعَ وَلَا طَاعَةَ."
+    },
+    "en": {
+      "narrator": "It has been narrated on the authority of Ibn 'Umar رضی اللہ عنہ :",
+      "text": "The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: It is obligatory upon a Muslim that he should listen (to the ruler appointed over him) and obey him whether he likes it or not, except that he is ordered to do a sinful thing. If he is ordered to do a sinful act, a Muslim should neither listen to him nor should he obey his orders."
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ بن سعید نے بیان کیا, لیث نے عبیداللہ سے ، انہوں نے نافع سے ، انہوں نے حضرت عبداللہ بن عمر رضی اللہ عنہ سے ، انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی کہ",
+      "text": "آپ صلی اللہ علیہ وسلم نے فرمایا : \" مسلمان شخص پر حاکم کی بات سننا اور اس کی اطاعت کرنا واجب ہے ، وہ بات اس کو پسند ہو یا ناپسند ، سوائے اس کے کہ اسے گناہ کا حکم دیا جائے ، اگر اسے گناہ کا حکم دیا جائے تو اس میں سننا ( روا ) ہے نہ ماننا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

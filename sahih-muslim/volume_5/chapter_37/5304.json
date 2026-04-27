@@ -1,0 +1,41 @@
+{
+  "id": 5304,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه أَبُو كُرَيْبٍ وَإِسْحَقُ بْنُ إِبْرَاهِيمَ جَمِيعًا عَنْ أَبِي مُعَاوِيَةَ عَنْ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ إِذَا سَقَطَتْ لُقْمَةُ أَحَدِكُمْ إِلَى آخِرِ الْحَدِيثِ وَلَمْ يَذْكُرْ أَوَّلَ الْحَدِيثِ إِنَّ الشَّيْطَانَ يَحْضُرُ أَحَدَكُمْ."
+    },
+    "en": {
+      "narrator": "It was narrated from Al-Amash with this chain of narrators:",
+      "text": "\"If one of you drops a morsel up to the end of Hadith, but he did not mention the first part of the Hadith: The shaitan is present with one of you.\""
+    },
+    "ur": {
+      "narrator": "ہم سے ابو کریب اور اسحاق بن ابراہیم نے روایت کی ہے, ابو معاویہ نے اعمش سے اسی سندکے ساتھ روایت کی",
+      "text": "\" جب تم میں سے کسی کا لقمہ گر جائے \" آخرتک اور حدیث کاابتدائی حصہ؛ \" شیطان تمہارے پا س حاضر ہوتا ہے \" ذکر نہیں کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

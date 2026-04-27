@@ -1,0 +1,41 @@
+{
+  "id": 3770,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 35,
+      "language": {
+        "en": {
+          "text": "The Book of `Umra"
+        },
+        "ar": {
+          "text": "كتاب العمرى"
+        },
+        "ur": {
+          "text": "عمریٰ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا هُشَيْمٌ، ‏‏‏‏‏‏عَنْ دَاوُدَ، ‏‏‏‏‏‏عَنْ أَبِي الزُّبَيْرِ، ‏‏‏‏‏‏عَنْ جَابِرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْعُمْرَى جَائِزَةٌ لِأَهْلِهَا وَالرُّقْبَى جَائِزَةٌ لِأَهْلِهَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Hushaim narrated from Dawud, from Abu Az-Zubair, from Jabir, who said: The Messenger of Allah said: 'Umra is permissible for the one to whom it is given, and Ruqba is permissible for the one to whom it is given.'"
+    },
+    "ur": {
+      "narrator": "جابر رضی الله عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عمریٰ جس کو دیا گیا ہے اس کے گھر والوں کا ہو گا اور رقبیٰ بھی اسی کے گھر والوں کا ہے جس کو رقبیٰ میں دیا گیا ہے“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

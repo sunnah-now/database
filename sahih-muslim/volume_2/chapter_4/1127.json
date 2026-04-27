@@ -1,0 +1,41 @@
+{
+  "id": 1127,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَا: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ. وَلَمْ يَذْكُرْ فِيهِ مِنًى وَلَا عَرَفَةَ. وَقَالَ: فِي حَجَّةِ الْوَدَاعِ أَوْ يَوْمَ الْفَتْحِ."
+    },
+    "en": {
+      "narrator": "This hadith has been reported by Ma'mar on the authority of al-Zuhri with the came chain of transmitters:",
+      "text": "But here no mention has been made of Mina or 'Arafa, and he said: It was in the Farewell Pilgrimage or on the Day of Victory."
+    },
+    "ur": {
+      "narrator": "ہم سے اسحاق بن ابراہیم اور عبد بن حمید نے بیان کیا، کہا کہ ہم سے عبدالرزاق نے بیان کیا,معمر نے بھی زہری سے اسی سند کے ساتھ یہی حدیث بیان کی ہے اور",
+      "text": "اس میں منیٰ یا عرفہ کا تذکرہ کرنے کے بجائے حجۃ الوداع یا فتح مکہ کے دن کا ذکر کیا ہے"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

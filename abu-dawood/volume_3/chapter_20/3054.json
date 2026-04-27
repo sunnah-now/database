@@ -1,0 +1,41 @@
+{
+  "id": 3054,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 20,
+      "language": {
+        "en": {
+          "text": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+        },
+        "ar": {
+          "text": "كتاب الخراج والإمارة والفىء"
+        },
+        "ur": {
+          "text": "محصورات اراضی اور امارت سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سُئِلَ سُفْيَانُ، ‏‏‏‏‏‏عَنْ تَفْسِيرِ هَذَا فَقَالَ:‏‏‏‏ إِذَا أَسْلَمَ فَلَا جِزْيَةَ عَلَيْهِ."
+    },
+    "en": {
+      "narrator": "Muhammad bin Kathir said:",
+      "text": "“Sufyan was asked to explain the tradition mentioned above. ” He said “When he embraces Islam, no jizyah will be levied on him. ”"
+    },
+    "ur": {
+      "narrator": "محمد بن کثیر کہتے ہیں",
+      "text": "سفیان سے اس حدیث کا مطلب  پوچھا گیا تو انہوں نے کہا کہ جب ذمی اسلام قبول کر لے تو اس پر ( اسلام لاتے وقت سال میں سے گزرے ہوئے دنوں کا ) جزیہ نہ ہو گا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 750,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الزُّهْرِيُّ، حَدَّثَنَا سُفْيَانُ، عَنْ يَزِيدَ، نَحْوَ حَدِيثِ شَرِيكٍ لَمْ يَقُلْ ثُمَّ لاَ يَعُودُ ‏.‏ قَالَ سُفْيَانُ قَالَ لَنَا بِالْكُوفَةِ بَعْدُ ثُمَّ لاَ يَعُودُ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَى هَذَا الْحَدِيثَ هُشَيْمٌ وَخَالِدٌ وَابْنُ إِدْرِيسَ عَنْ يَزِيدَ لَمْ يَذْكُرُوا ثُمَّ لاَ يَعُودُ ‏.‏"
+    },
+    "en": {
+      "narrator": "",
+      "text": "(This is another chain) that sufyan narrated from Yazid similar similar to the narration of shark (no. 749), but he did not say: then he would not repeat (that). \"...then he would not repeat (that). '\" \r\nAbu Dawood said: Hushaim, Khalid, and Ibn Idris reported this hadith from Yazid, and they did not mention: then he would not repeat (that)."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عبداللہ بن محمد الزہری نے بیان کیا، کہا ہم سے سفیان نے بیان کیا، یزید کی سند سے شرک کی حدیث کے مشابہ ہے۔ اس نے یہ نہیں کہا، \"پھر وہ واپس نہیں آئے گا۔\" سفیان نے کہا کہ اس کے بعد اس نے کوفہ میں ہم سے کہا پھر واپس نہیں آئے گا۔ابوداؤد کہتے ہیں: اس حدیث کو ہشام، خالد اور ابن ادریس نے یزید کی سند سے روایت کیا ہے۔ انہوں نے \"پھر وہ واپس نہیں آتا\" کا ذکر نہیں کیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

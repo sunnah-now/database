@@ -1,0 +1,41 @@
+{
+  "id": 1908,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+        },
+        "ar": {
+          "text": "كتاب المناسك"
+        },
+        "ur": {
+          "text": "اعمال حج اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، ‏‏‏‏‏‏عَنْ جَعْفَرٍ بِإِسْنَادِهِ، ‏‏‏‏‏‏زَادَ:‏‏‏‏ فَانْحَرُوا فِي رِحَالِكُمْ ."
+    },
+    "en": {
+      "narrator": "The aforesaid tradition has also been transmitted by Hafs bin Ghiyath from Jafar with the same chain of narrators:",
+      "text": "But this version adds “Sacrifice in your dwellings. ”"
+    },
+    "ur": {
+      "narrator": "ہم سے مسدد نے بیان کیا، ہم سے حفص بن غیاث نے ,اس سند سے بھی جعفر سے یہی حدیث مروی ہے",
+      "text": "اس میں اتنا اضافہ ہے: «فانحروا في رحالكم» کہ تم لوگ اپنی قیام گاہوں میں نحر کرو۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

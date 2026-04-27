@@ -1,0 +1,41 @@
+{
+  "id": 4592,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا وَكِيعٌ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا مُوسَى بْنُ نَافِعٍ،‏‏‏‏ عَنْ سَعِيدِ بْنِ جُبَيْرٍ بِمِثْلِهِ. قَالَ أَبُو عَبْد الرَّحْمَنِ:‏‏‏‏ كَذَا وَجَدْتُهُ فِي هَذَا الْمَوْضِعِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Something similar was narrated form Saeed bin Jubair. Abu 'Abdur-Rehman (An-Nasai) said: This is what I have found on this topic."
+    },
+    "ur": {
+      "narrator": "اس سند سے بھی",
+      "text": "سعید بن جبیر سے اسی طرح مروی ہے۔ ابوعبدالرحمٰن نسائی کہتے ہیں: میں نے اس مقام میں اسے اسی طرح پایا ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

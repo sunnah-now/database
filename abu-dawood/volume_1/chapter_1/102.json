@@ -1,0 +1,41 @@
+{
+  "id": 102,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Purification (Kitab Al-Taharah)"
+        },
+        "ar": {
+          "text": "كتاب الطهارة"
+        },
+        "ur": {
+          "text": "طہارت کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ وَهْبٍ، ‏‏‏‏‏‏عَنِ الدَّرَاوَرْدِيِّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ وَذَكَرَ رَبِيعَةُ، ‏‏‏‏‏‏أَنَّ تَفْسِيرَ حَدِيثِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ لَا وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللَّهِ عَلَيْهِ ، ‏‏‏‏‏‏أَنَّهُ الَّذِي يَتَوَضَّأُ وَيَغْتَسِلُ، ‏‏‏‏‏‏وَلَا يَنْوِي وُضُوءًا لِلصَّلَاةِ وَلَا غُسْلًا لِلْجَنَابَةِ."
+    },
+    "en": {
+      "narrator": "Ibn Wahb narrated from Ad-Darawardi:",
+      "text": "Explaining the tradition of the Prophet صلی ‌اللہ ‌علیہ ‌وسلم that the ablution of a person who does not mention the name of Allah is valid, Rabiah said: This tradition means that if a person performs ablution and takes a bath but does not have the intention to perform ablution for prayer and purify himself from sexual defilement, his ablution or bath is not valid."
+    },
+    "ur": {
+      "narrator": "ہم سے احمد بن عمرو بن سرح نے بیان کیا، ہم سے ابن وہب نے بیان کیا, عبدالعزیز دراوردی کہتے ہیں کہ ربیعہ نے ذکر کیا ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم کی حدیث: «لا وضوء لمن لم يذكر اسم تفسیر یہ ہے کہ اس سے مراد وہ شخص ہے جو وضو اور غسل کرے لیکن نماز کے وضو اور جنابت کے غسل کی نیت نہ کرے۔الله عليه» کی"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

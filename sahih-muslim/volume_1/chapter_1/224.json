@@ -1,0 +1,41 @@
+{
+  "id": 224,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ وَاقِدِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "A similar Hadith was narrated from Ibn-'Umer, from the prophet ﷺ.\r\nAbdullah b. Mu'adh narrated from the Apostle (may peace and blessings be upon him) a hadith like this on the authority on Ibn Umar."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "معاذ بن معاذ نے شعبہ سے ، انہوں نے واقد بن محمد سے ، انہوں نے اپنےوالد سے ، ا نہوں نے حضرت ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے نبی کریم ﷺ سے سابقہ حدیث کے مطابق روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

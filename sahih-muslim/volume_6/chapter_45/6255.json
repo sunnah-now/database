@@ -1,0 +1,41 @@
+{
+  "id": 6255,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of the Merits of the Companions"
+        },
+        "ar": {
+          "text": "كتاب فَضَائِلِ الصَّحَابَةِ"
+        },
+        "ur": {
+          "text": "صحابہ کرام رضی اللہ عنھم کے فضائل و مناقب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا أَبُو دَاوُدَ الْحَفَرِيُّ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been reported on the authority of Abu Ishaq with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے ابوداؤد الحفری نے بیان کیا, سفیان نے ابو اسحٰق سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

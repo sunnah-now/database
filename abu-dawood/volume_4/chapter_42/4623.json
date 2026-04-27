@@ -1,0 +1,41 @@
+{
+  "id": 4623,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+        },
+        "ar": {
+          "text": "كتاب السنة"
+        },
+        "ur": {
+          "text": "سنتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ الْمُثَنَّى، ‏‏‏‏‏‏أَنَّ يَحْيَى بْنَ كَثِيرٍ الْعَنْبَرِيَّ حَدَّثَهُمْ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ قُرَّةُ بْنُ خَالِدٍ، ‏‏‏‏‏‏يَقُولُ لَنَا:‏‏‏‏ يَا فِتْيَانُ لَا تُغْلَبُوا عَلَى الْحَسَنِ، ‏‏‏‏‏‏فَإِنَّهُ كَانَ رَأْيُهُ السُّنَّةَ وَالصَّوَابَ ."
+    },
+    "en": {
+      "narrator": "Yahya bin Kathir al-Anbari said:",
+      "text": "Qurrah bin Khalid used to tell us: O young people! Do not think that al-Hasan denied predestination, for his opinion (i. e., belief) was sunnah and sight."
+    },
+    "ur": {
+      "narrator": "ہم سے ابن المثنی نے بیان کیا, یحییٰ بن کثیر بن عنبری کہتے ہیں کہ",
+      "text": "قرہ بن خالد ہم سے کہا کرتے تھے: اے نوجوانو! حسن کو قدریہ مت سمجھو، ان کی رائے سنت اور صواب تھی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

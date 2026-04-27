@@ -1,0 +1,41 @@
+{
+  "id": 2400,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصيام"
+        },
+        "ur": {
+          "text": "روزوں کے احکام و مسائل و فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَلِيُّ بْنُ الْحُسَيْنِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا أُمَيَّةُ، ‏‏‏‏‏‏عَنْ شُعْبَةَ، ‏‏‏‏‏‏عَنْ حَبِيبٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي أَبُو الْعَبَّاسِ وَكَانَ رَجُلًا مِنْ أَهْلِ الشَّامِ وَكَانَ شَاعِرًا وَكَانَ صَدُوقًا، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَسَاقَ الْحَدِيثَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdullah bin 'Amr said: The Messenger of Allah said to me and he quoted the same Hadith. 'Ata said: someone who heard him told me that Ibn 'Umar (said) that the Prophet said: 'Whoever fasts every day of his life, then he has not fasted."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمرو رضی الله عنہما کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا، پھر راوی نے پوری حدیث ذکر کی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

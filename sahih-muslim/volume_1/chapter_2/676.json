@@ -1,0 +1,41 @@
+{
+  "id": 676,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book of Purification"
+        },
+        "ar": {
+          "text": "كتاب الطَّهَارَةِ"
+        },
+        "ur": {
+          "text": "پاکی کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ نُمَيْرٍ ح، وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنِي ابْنُ وَهْبٍ، أَخْبَرَنِي يَحْيَى بْنُ عَبْدِ اللهِ بْنِ سَالِمٍ، وَمَالِكُ بْنُ أَنَسٍ، وَعَمْرُو بْنُ الْحَارِثِ، كُلُّهُمْ عَنْ هِشَامِ بْنِ عُرْوَةَ بِهَذَا الْإِسْنَادِ مِثْلَ حَدِيثِ يَحْيَى بْنِ سَعِي."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This tradition is narrated by Abu Kuraib, Ibn Numair, Abu Tahir, Ibn Wahb, Yahya bin 'Abdullah bin Salim, Malik bin Anas, 'Amr bin Harith on the authority of Hisham bin 'Urwa, with the same chain of transmitters like one transmitted by Yahya bin Sa'id like the above-mentioned."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابو کریب نے بیان کیا، کہا ہم سے ابن نمیر نے بیان کیا، کہا کہ مجھ سے ابو الطاہر نے بیان کیا، مجھ سے ابن وہب نے بیان کیا,یحییٰ بن عبد اللہ بن سالم ، مالک بن انس اور عمرو بن حارث تینوں نے ہشام بن عروہ کی مذکورہ بالا سند کے ساتھ یہی روایت اسی طرح بیان کی جس طرح یحییٰ بن سعید نے بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

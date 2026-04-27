@@ -1,0 +1,41 @@
+{
+  "id": 5717,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "The Book of Drinks"
+        },
+        "ar": {
+          "text": "كتاب الأشربة"
+        },
+        "ur": {
+          "text": "مشروبات ( پینے والی چیزوں ) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا سُوَيْدُ،‏‏‏‏ قَالَ:‏‏‏‏ أَنْبَأَنَا عَبْدُ اللَّهِ،‏‏‏‏ عَنْ هَارُونَ بْنِ إِبْرَاهِيمَ،‏‏‏‏ عَنْ ابْنِ سِيرِينَ،‏‏‏‏ قَالَ:‏‏‏‏ بِعْهُ عَصِيرًا مِمَّنْ يَتَّخِذُهُ طِلَاءً،‏‏‏‏ وَلَا يَتَّخِذُهُ خَمْرًا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibn Sirin said: Sell it as juice to one who will make At-Tila' (thickened grape juice) with it, and not Khamr (wine) with it."
+    },
+    "ur": {
+      "narrator": "ابن سیرین کہتے ہیں کہ",
+      "text": "رس اس کے ہاتھ بیچو جو اس کا طلاء بنائے اور شراب نہ بنائے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

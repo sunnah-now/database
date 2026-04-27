@@ -1,0 +1,41 @@
+{
+  "id": 6078,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The Book of Virtues"
+        },
+        "ar": {
+          "text": "كتاب الْفَضَائِلِ"
+        },
+        "ur": {
+          "text": "انبیائے کرام علیہم السلام کے فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا الْمُثَنَّى بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Muthanna through the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے محمد بن المثنیٰ نے بیان کیا,عبدالصمد نے مثنیٰ ( بن سعید ) سے اسی سند کے ساتھ حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

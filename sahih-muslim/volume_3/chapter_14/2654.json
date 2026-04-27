@@ -1,0 +1,41 @@
+{
+  "id": 2654,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي أَبُو الطَّاهِرِ، حَدَّثَنَا عَبْدُ اللهِ بْنُ وَهْبٍ، أَخْبَرَنِي مَالِكُ بْنُ أَنَسٍ، عَنِ ابْنِ شِهَابٍ، فِي هَذَا الْإِسْنَادِ، بِمِثْلِهِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "A hadith like this has been narrated on the authority of Ibn Shihab رضی اللہ تعالیٰ عنہ  through the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ابو طاہر عبداللہ ، عبداللہ بن وہب ، مالک بن انس ، حضرت ابن شہاب رضی اللہ تعالیٰ عنہ سے اس سند کے ساتھ مذکورہ حدیث کی طرح روایت کیا گیا ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2032,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The Book of Prayer - Friday"
+        },
+        "ar": {
+          "text": "كتاب الْجُمُعَةِ"
+        },
+        "ur": {
+          "text": "جمعہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا أَبِي ح و حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا وَكِيعٌ كِلَاهُمَا عَنْ سُفْيَانَ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "A hadith like this has been narrated by Sufyan with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "عبداللہ بن نمیر اور وکیع دونوں نے سفیان سے اسی سند کے ساتھ اسی ( سابقہ حدیث ) کے مانند روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 163,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book on Salat (Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا بِشْرُ بْنُ مُعَاذٍ الْبَصْرِيُّ، قَالَ:‏‏‏‏ حَدَّثَنَا إِسْمَاعِيل ابْنُ عُلَيَّةَ، عَنْ ابْنِ جُرَيْجٍ بِهَذَا الْإِسْنَادِ نَحْوَهُ وَهَذَا أَصَحُّ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Similar narration is reported by Bishr ibn Mu'adh Al-Bari who said that : Isma'il ibn Ulayyah narrated to him from Ibn Juraij. This latter chain is more correct."
+    },
+    "ur": {
+      "narrator": "اسماعیل بن علیہ کی",
+      "text": "ابن جریج سے روایت زیادہ صحیح ہے ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 17,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي أَبُو سَعِيدٍ الْأَشَجُّ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الْأَعْمَشُ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ عَامِرِ بْنِ عَبْدَةَ، قَالَ: قَالَ عَبْدُ اللهِ: إِنَّ الشَّيْطَانَ لِيَتَمَثَّلُ فِي صُورَةِ الرَّجُلِ، فَيَأْتِي الْقَوْمَ، فَيُحَدِّثُهُمْ بِالْحَدِيثِ مِنَ الْكَذِبِ، فَيَتَفَرَّقُونَ، فَيَقُولُ الرَّجُلُ مِنْهُمْ: سَمِعْتُ رَجُلًا أَعْرِفُ وَجْهَهُ، وَلَا أَدْرِي مَا اسْمُهُ يُحَدِّثُ"
+    },
+    "en": {
+      "narrator": "Abū Sa’īd al-Ashajj narrated to me, Wakī’ narrated to us, al-A’mash narrated to us, on authority of al-Musayyab bin Rāfi’, on authority of Āmir bin Abdah:",
+      "text": "He said, Abdullah [bin Mas’ood] said: \"Indeed Satan will appear in the form of a man and he will come to the people, narrating to them false Ḥadīth, and they will then depart. Then a man among them will say: ‘I heard a man whose face I recognize but I do not know his name narrating [such and such]…\""
+    },
+    "ur": {
+      "narrator": "ابو سعید اشج ‘ وکیع ‘ اعمش ‘ مسیب بن رافع ‘ عامر بن عبدہ سے روایت ہے",
+      "text": "انہوں نےکہا : حضرت عبد اللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے فرمایا : بلاشبہ شیطان کسی آدمی کی شکل اختیار کرتا ہے ، پھر لوگوں کے پاس آتا ہے اور انہیں جھوٹ ( پر مبنی ) کوئی حدیث سناتا ہے ، پھر وہ بکھر جاتے ہیں ، ان میں سے کوئی آدمی کہتا ہے : میں نے ایک آدمی سے ( حدیث ) سنی ہے ، میں اس کا چہرہ تو پہنچانتا ہوں پر اس کا نام نہیں جانتا ، وہ حدیث سنا رہا تھا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

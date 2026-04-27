@@ -1,0 +1,41 @@
+{
+  "id": 7,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ قَالَا: حَدَّثَنَا شُعْبَةُ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «كَفَى بِالْمَرْءِ كَذِبًا أَنْ يُحَدِّثَ بِكُلِّ مَا سَمِعَ»"
+    },
+    "en": {
+      "narrator": "Ubayd Allah bin Mu’ādh al-Anbarī narrated to us, my father narrated to us; and Muhammad bin ul-Muthannā narrated to us, Abd ur-Rahman bin Mahdī both narrated to us: Shu’bah narrated to us, on authority of Khubayb bin Abd ir-Rahman, on authority of Hafs bin Āsim, on authority of Abī Hurayrah:",
+      "text": "He said, the Messenger of Allah, peace and blessings of Allah upon him, said: ‘It is enough of a lie for a man to narrate everything he hears’."
+    },
+    "ur": {
+      "narrator": "عبیداللہ بن معاذ بن عنبری اور عبد الرحمن بن مہدی دونوں نے کہا : ہم سے شعبہ نے بیان کیا ، انہوں نے خبیب بن عبد الرحمن سے ، انہوں نے حفص بن عاصم سے روایت کی ابوہریرہ رضی اللہ عنہ سے مروی ہے کہ",
+      "text": "انہوں نے کہا : رسول اللہﷺ نے فرمایا : ’’آدمی کے جھوٹا ہونے کے لیے یہی کافی ہے کہ وہ ہر سنی ہوئی بات بیان کر دے ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

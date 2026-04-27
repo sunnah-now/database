@@ -1,0 +1,41 @@
+{
+  "id": 4556,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا أَبُو الْأَحْوَصِ،‏‏‏‏ عَنْ الْأَعْمَشِ،‏‏‏‏ عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ،‏‏‏‏ عَنْ أَبِي صَالِحٍ،‏‏‏‏ أَنَّ رَجُلًا مَنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَخْبَرَهُ،‏‏‏‏ قَالَ:‏‏‏‏ يَا رَسُولَ اللَّهِ،‏‏‏‏ إِنَّا لَا نَجِدُ الصَّيْحَانِيَّ وَلَا الْعِذْقَ بِجَمْعِ التَّمْرِ حَتَّى نَزِيدَهُمْ ؟،‏‏‏‏ فَقَالَ:‏‏‏‏ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ بِعْهُ بِالْوَرِقِ،‏‏‏‏ ثُمَّ اشْتَرِ بِهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrate from Abu Salih that: a man form among the companions of the Prophet told him, he said: O Messenger of Allah we cannot buy Saihani dates or 'idhq dates for the same amount of mixed dates (which are of inferior quality). Should we increase (the amount we give in payment for the better quality dates)? The messenger of Allah said: Sell them for silver them buy with it"
+    },
+    "ur": {
+      "narrator": "ایک صحابی رسول رضی اللہ عنہ نے کہا کہ",
+      "text": "اللہ کے رسول! ہم «صیحانی» ( نامی کھجور ) اور «عذق» ( نامی کھجور ) ردی کھجور کے بدلے نہیں پاتے جب تک کہ ہم زیادہ نہ دیں، تو آپ نے فرمایا: ”اسے درہم سے بیچ دو پھر اس سے ( «صیحانی» اور «عذق» کو ) خرید لو“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

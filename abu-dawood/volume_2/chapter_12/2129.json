@@ -1,0 +1,41 @@
+{
+  "id": 2129,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "Marriage (Kitab Al-Nikah)"
+        },
+        "ar": {
+          "text": "كتاب النكاح"
+        },
+        "ur": {
+          "text": "نکاح کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، ‏‏‏‏‏‏حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ، ‏‏‏‏‏‏أَخْبَرَنَا ابْنُ جُرَيْجٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ أَيُّمَا امْرَأَةٍ نُكِحَتْ عَلَى صَدَاقٍ أَوْ حِبَاءٍ أَوْ عِدَّةٍ قَبْلَ عِصْمَةِ النِّكَاحِ فَهُوَ لَهَا، ‏‏‏‏‏‏وَمَا كَانَ بَعْدَ عِصْمَةِ النِّكَاحِ فَهُوَ لِمَنْ أُعْطِيَهُ وَأَحَقُّ مَا أُكْرِمَ عَلَيْهِ الرَّجُلُ ابْنَتُهُ أَوْ أُخْتُهُ."
+    },
+    "en": {
+      "narrator": "Amr bin Shuaib on his father's authority said that his grandfather reported:",
+      "text": "The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم said: A woman who marries on a dower or a reward or a promise before the solemnisation of marriage is entitled to it; and whatever is fixed for her after solemnisation of marriage belongs to whom it is given. A man is more entitled to receive a thing given as a gift on account of his daughter or sister (than other kinds of gifts)."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن معمر نے بیان کیا، ہم سے محمد بن بکر البرسانی نے بیان کیا، انہیں ابن جریج نے خبر دی، وہ عمرو بن شعیب سے، اپنے والد سے اور اپنے دادا سے، انہوں نے کہا",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس عورت نے مہر یا عطیہ یا وعدے پر نکاح کیا تو نکاح سے قبل ملنے والی چیز عورت کی ہو گی اور جو کچھ نکاح کے بعد ملے گا وہ اسی کا ہے جس کو دیا گیا ( انعام وغیرہ ) ، مرد جس چیز کے سبب اپنے اکرام کا مستحق ہے وہ اس کی بیٹی یا بہن ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

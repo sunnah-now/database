@@ -1,0 +1,41 @@
+{
+  "id": 1270,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح قَالَ: وَحَدَّثَنَا ابْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنِ الْأَعْرَجِ، عَنْ عَبْدِ اللهِ ابْنِ بُحَيْنَةَ الْأَسْدِيِّ، حَلِيفِ بَنِي عَبْدِ الْمُطَّلِبِ: «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَامَ فِي صَلَاةِ الظُّهْرِ وَعَلَيْهِ جُلُوسٌ، فَلَمَّا أَتَمَّ صَلَاتَهُ سَجَدَ سَجْدَتَيْنِ يُكَبِّرُ فِي كُلِّ سَجْدَةٍ وَهُوَ جَالِسٌ، قَبْلَ أَنْ يُسَلِّمَ، وَسَجَدَهُمَا النَّاسُ مَعَهُ، مَكَانَ مَا نَسِيَ مِنَ الْجُلُوسِ»."
+    },
+    "en": {
+      "narrator": "Abdullah bin Buhaina al-Asadi ‌رضی ‌اللہ ‌عنہ ‌, the ally of Abual-Muttalib, reported:",
+      "text": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) stood up in the noon prayer (though) he hadith sit (after the two rak'ahs). When he completed the prayer he performed two prostrations and said, Allah is the Most Great in each prostration, while he was sitting before pronouncing salutation, and the people performed prostration along with him. That was a compensation for he had forgotten to observe jalsa (after two rak'ahs)."
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ بن سعید نے بیان کیا، ہم سے انہوں نے بیان کیا,لیث نے ابن شہاب سے ، انھوں نےاعرج سے اور انھوں نے حضرت عبداللہ بن بحینہ اسدی ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ، جو بنو عبدالمطلب کے حلیف تھے ، روایت کی کہ",
+      "text": "رسول اللہ ﷺ ظہر کی نماز میں ، جب آپ کو ( دوسری رکعت کےبعد ) بیٹھنا تھا ، کھڑے ہوگئے ، پھر جب آپ نے اپنی نماز مکمل کر لی تو آپ نے بیٹھے بیٹھے ہر سجدے کے لیے تکبیر کہتےہوئے سلام سے پہلے دو سجدے کیے ، اور لوگوں نے بھی ( تشہد کے لیے ) بیٹھے کی جگہ ، جو آپ بھول گئے تھے ، آپ کے ساتھ د و سجدے کیے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

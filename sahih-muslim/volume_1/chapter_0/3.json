@@ -1,0 +1,41 @@
+{
+  "id": 3,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ يَعْنِي ابْنَ عُلَيَّةَ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ قَالَ: إِنَّهُ لَيَمْنَعُنِي أَنْ أُحَدِّثَكُمْ حَدِيثًا كَثِيرًا أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «مَنْ تَعَمَّدَ عَلَيَّ كَذِبًا، فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ»"
+    },
+    "en": {
+      "narrator": "Zuhayr bin Harb narrated to me, Ismā’īl, rather, Ibn Ulayyah narrated to us, on authority of Abd il-Azīz Ibn Suhayb, on authority of Anas bin Mālik ‌رضی ‌اللہ ‌عنہ ‌, that:",
+      "text": "He said: \"Indeed what prevents me from relating to you a great number of Hadith is that the Messenger of Allah, peace and blessings of Allah upon him, said: ‘Whoever intends to lie upon me, then let him take his seat in the Fire.\""
+    },
+    "ur": {
+      "narrator": "مجھ سے زہیر بن حرب نے بیان کیا، کہا ہم سے اسماعیل نے، یعنی ابن الیہ نے، ہم سے عبدالعزیز بن صہیب نے بیان کیا,حضرت انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ",
+      "text": "کہا : مجھے تمہارے سامنے زیادہ احادیث بیان کرنے سے یہ بات روکتی ہے کہ رسول اللہﷺ نے فرمایا تھا : ’’جس نے عمداً مجھ پر جھوٹ بولا وہ آگ میں اپنا ٹھکانا بنا لے.‘‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

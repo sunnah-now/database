@@ -1,0 +1,41 @@
+{
+  "id": 4540,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ،‏‏‏‏ عَنْ الزُّهْرِيِّ،‏‏‏‏ عَنْ سَالِمٍ،‏‏‏‏ عَنْ أَبِيهِ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنِي زَيْدُ بْنُ ثَابِتٍ،‏‏‏‏ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ رَخَّصَ فِي الْعَرَايَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Salim that his father said: Zaid bin Thabit told me that the Messenger of Allah granted a concession regarding the sale of 'Arays."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ",
+      "text": "مجھ سے زید بن ثابت رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے بیع عرایا میں اجازت دی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

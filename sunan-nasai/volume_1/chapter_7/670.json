@@ -1,0 +1,41 @@
+{
+  "id": 670,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book of the Adhan (The Call to Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الأذان"
+        },
+        "ur": {
+          "text": "اذان کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، ‏‏‏‏‏‏قال:‏‏‏‏ أَنْبَأَنَا إِسْمَاعِيلُ، ‏‏‏‏‏‏عَنْ خَالِدٍ الْحَذَّاءِ، ‏‏‏‏‏‏عَنْ أَبِي قِلَابَةَ، ‏‏‏‏‏‏عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ، ‏‏‏‏‏‏قال:‏‏‏‏ قال لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَلِصَاحِبٍ لِي:‏‏‏‏ إِذَا حَضَرَتِ الصَّلَاةُ، ‏‏‏‏‏‏فَأَذِّنَا ثُمَّ أَقِيمَا، ‏‏‏‏‏‏ثُمَّ لِيَؤُمَّكُمَا أَحَدُكُمَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Malik bin Al-Huwayrith said: The Messenger of Allah (ﷺ) said to me and to a companion of mine: 'When the time for prayer comes, let the two of you call the Adhan then the two of you say Iqamah, then let one of you lead the prayer.'"
+    },
+    "ur": {
+      "narrator": "مالک بن حویرث رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اکرم صلی اللہ علیہ وسلم نے مجھ سے اور میرے ایک ساتھی سے فرمایا:  جب نماز کا وقت آ جائے تو تم دونوں اذان دو، پھر دونوں اقامت کہو، پھر تم دونوں میں سے کوئی ایک امامت کرے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

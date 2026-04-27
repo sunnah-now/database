@@ -1,0 +1,41 @@
+{
+  "id": 52,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو غَسَّانَ مُحَمَّدُ بْنُ عَمْرٍو الرَّازِيُّ، قَالَ: سَمِعْتُ جَرِيرًا، يَقُولُ: «لَقِيتُ جَابِرَ بْنَ يَزِيدَ الْجُعْفِيَّ فَلَمْ أَكْتُبْ عَنْهُ، كَانَ يُؤْمِنُ بِالرَّجْعَةِ"
+    },
+    "en": {
+      "narrator": "Abū Ghassān Muhammad bin Amr ar-Rāzī narrated to us, he said, I heard Jarīr رضی اللہ عنہ [bin Abd al-Hamīd bin Qurt aḍ-Ḍabbī] saying:",
+      "text": "‘I met Jābir bin Yazīd al-Ju’fī and did not write [Ḥadīth] from him; he believed in ar-Raj’ah’ [A Rāfiḍī belief regarding Alī returning]."
+    },
+    "ur": {
+      "narrator": "ہم سے ابو غسان محمد بن عمرو رازی نے بیان کیا، کہا کہ میں نے جریر رضی اللہ عنہ کو کہتے سنا:",
+      "text": "جریر کہتے ہیں : میں جابر بن یزید جعفی سے ملا تو میں نے اس سے حدیث نہ لکھی ، وہ رجعت پر ایمان رکھتا تھا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

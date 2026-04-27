@@ -1,0 +1,41 @@
+{
+  "id": 2024,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+        },
+        "ar": {
+          "text": "كتاب المناسك"
+        },
+        "ur": {
+          "text": "اعمال حج اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ إِسْحَاقَ الْأَذْرَمِيُّ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏بِهَذَا الْحَدِيثِ، ‏‏‏‏‏‏لَمْ يَذْكُرِ السَّوَارِيَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ ثُمَّ صَلَّى وَبَيْنَهُ وَبَيْنَ الْقِبْلَةِ ثَلَاثَةُ أَذْرُعٍ."
+    },
+    "en": {
+      "narrator": "The aforesaid tradition has also been transmitted by Malik through a different chain of narrators:",
+      "text": "He (Abd Al Rahman bin Mahdi) did not mention the words “pillars”. This version adds “He then prayed and there was a distance of three cubits between him and the qiblah. ”"
+    },
+    "ur": {
+      "narrator": "ہم سے عبداللہ بن محمد بن اسحاق الاذرمی نے بیان کیا، کہا ہم سے عبدالرحمٰن بن مہدی نے بیان کیا, اس سند سے بھی مالک سے یہی حدیث مروی ہے",
+      "text": "اس میں ستونوں کا ذکر نہیں، البتہ اتنا اضافہ ہے پھر آپ صلی اللہ علیہ وسلم نے نماز پڑھی، آپ کے اور قبلے کے درمیان تین ہاتھ کا فاصلہ تھا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

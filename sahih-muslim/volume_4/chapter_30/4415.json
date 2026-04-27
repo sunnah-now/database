@@ -1,0 +1,41 @@
+{
+  "id": 4415,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "The Book Of Legal Punishments"
+        },
+        "ar": {
+          "text": "كتاب الْحُدُودِ"
+        },
+        "ur": {
+          "text": "حدود کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا مَنْصُورٌ، بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Mansur narrated a similar report (as no. 4414) with this chain."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "عمرو الناقد نے کہا : ہمیں ہشیم نے حدیث بیان کی ، کہا : ہمیں منصور نے اسی سند کے ساتھ اسی کے مانند خبر دی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

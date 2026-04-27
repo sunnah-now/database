@@ -1,0 +1,41 @@
+{
+  "id": 1416,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Jumu`ah (Friday Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الجمعة"
+        },
+        "ur": {
+          "text": "کتاب جمعہ کے بیان میں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا شَرِيكٌ، ‏‏‏‏‏‏عَنْ سِمَاكٍ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ سَمُرَةَ، ‏‏‏‏‏‏قال:‏‏‏‏ جَالَسْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَمَا رَأَيْتُهُ يَخْطُبُ إِلَّا قَائِمًا وَيَجْلِسُ، ‏‏‏‏‏‏ثُمَّ يَقُومُ فَيَخْطُبُ الْخُطْبَةَ الْآخِرَةَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Jabir bin Samurah said: I sat with the Prophet (ﷺ) and I did not see him deliver the khutbah except standing, and he sat, then he stood up and delivered the second khutbah."
+    },
+    "ur": {
+      "narrator": "جابر بن سمرہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "میں نے نبی اکرم صلی اللہ علیہ وسلم کی ہم نشینی کی، تو میں نے آپ کو کھڑے ہو کر ہی خطبہ دیتے دیکھا، آپ بیچ میں بیٹھتے، پھر کھڑے ہوتے، اور دوسرا خطبہ دیتے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

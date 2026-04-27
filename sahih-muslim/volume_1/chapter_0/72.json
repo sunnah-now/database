@@ -1,0 +1,41 @@
+{
+  "id": 72,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عُبَيْدُ اللهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، قَالَ: كَتَبْتُ إِلَى شُعْبَةَ أَسْأَلُهُ عَنْ أَبِي شَيْبَةَ قَاضِي وَاسِطَ، فَكَتَبَ إِلَيَّ: «لَا تَكْتُبْ عَنْهُ شَيْئًا وَمَزِّقْ كِتَابِي»"
+    },
+    "en": {
+      "narrator": "Ubayd Allah bin Mu’ādh al-Anbarī narrated to me, my father narrated to us, he said:",
+      "text": "‘I wrote to Shu’bah asking him about Abū Shaybah , a judge of Wāsit, so he wrote to me: ‘Do not write anything from him [of Ḥadīth] and tear up my letter [to you about this]’."
+    },
+    "ur": {
+      "narrator": "مجھ سے عبید اللہ بن معاذ عنبری  نے بیان کیا، ہم سے میرے والد نے بیان کیا، انہوں نے کہا,",
+      "text": "میں نے واسط کے قاضی ابو شیبہ کے بارے میں دریافت کرنے کے لیے شعبہ کی طرف لکھا تو انہوں نے جواب میں میری طرف لکھ بھیجا ، اس سے کوئی چیز روایت نہ کرو اور میرا خط پھاڑ دو ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

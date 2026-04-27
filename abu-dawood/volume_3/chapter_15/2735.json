@@ -1,0 +1,41 @@
+{
+  "id": 2735,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 15,
+      "language": {
+        "en": {
+          "text": "Jihad (Kitab Al-Jihad)"
+        },
+        "ar": {
+          "text": "كتاب الجهاد"
+        },
+        "ur": {
+          "text": "جہاد کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا أُمَيَّةُ بْنُ خَالِدٍ، ‏‏‏‏‏‏حَدَّثَنَا الْمَسْعُودِيُّ، ‏‏‏‏‏‏عَنْ رَجُلٍ مِنْ آلِ أَبِي عَمْرَةَ، ‏‏‏‏‏‏عَنْ أَبِي عَمْرَةَ بِمَعْنَاهُ إِلَّا أَنَّهُ قَالَ:‏‏‏‏ ثَلَاثَةُ نَفَرٍ زَادَ فَكَانَ لِلْفَارِسِ ثَلَاثَةُ أَسْهُمٍ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Abu ‘Umrah through a different chain of narrators to the same effect:",
+      "text": "But this version has “Three Persons” and added “To the horseman three portions. ”"
+    },
+    "ur": {
+      "narrator": "ہم سے مسدد نے بیان کیا، کہا ہم سے امیہ بن خالد نے بیان کیا، کہا ہم سے مسعودی نے بیان کیا، ان کے خاندان کے ایک آدمی کی سند سے,اس سند سے بھی ابو عمرہ سے اسی حدیث کے ہم معنی مروی ہے",
+      "text": "مگر اس میں یہ ہے کہ ہم تین آدمی تھے اور اس میں یہ اضافہ ہے کہ سوار کو تین حصے ملے تھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

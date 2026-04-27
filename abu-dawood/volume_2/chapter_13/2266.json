@@ -1,0 +1,41 @@
+{
+  "id": 2266,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "Divorce (Kitab Al-Talaq)"
+        },
+        "ar": {
+          "text": "كتاب الطلاق"
+        },
+        "ur": {
+          "text": "طلاق کے فروعی احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، ‏‏‏‏‏‏حَدَّثَنَا أَبِي، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ رَاشِدٍ، ‏‏‏‏‏‏بِإِسْنَادِهِ وَمَعْنَاهُ، ‏‏‏‏‏‏زَادَ:‏‏‏‏ وَهُوَ وَلَدُ زِنَا لِأَهْلِ أُمِّهِ مَنْ كَانُوا حُرَّةً أَوْ أَمَةً، ‏‏‏‏‏‏وَذَلِكَ فِيمَا اسْتُلْحِقَ فِي أَوَّلِ الْإِسْلَامِ، ‏‏‏‏‏‏فَمَا اقْتُسِمَ مِنْ مَالٍ قَبْلَ الْإِسْلَامِ فَقَدْ مَضَى ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Muhammad bin Rashid through a different chain of narrators to the same effect. This version adds:",
+      "text": "“He is the child of fornication for the people of his mother whether she was free or a slave. This attribution of a child to the parents was practiced in the beginning of Islam. The property divided before Islam will not be taken into account."
+    },
+    "ur": {
+      "narrator": "ہم سے محمود بن خالد نے بیان کیا، ہم سے میرے والد نے بیان کیا، اس سند سے بھی محمد بن راشد سے اسی مفہوم کی روایت منقول ہے",
+      "text": "لیکن اس میں یہ الفاظ زائد ہیں کہ وہ ولد الزنا ہے اور اپنی ماں کے خاندان سے ملے گا چاہے وہ آزاد ہوں یا غلام، یہ شروع اسلام میں پیش آمدہ معاملہ کا حکم ہے، رہا جو مال قبل از اسلام تقسیم ہو چکا اس سے کچھ سروکار نہیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 39,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي الْفَضْلُ بْنُ سَهْلٍ، قَالَ: سَأَلْتُ مُعَلًّى الرَّازِيَّ، عَنْ مُحَمَّدِ بْنِ سَعِيدٍ، الَّذِي رَوَى عَنْهُ عَبَّادٌ، فَأَخْبَرَنِي عَنْ عِيسَى بْنِ يُونُسَ، قَالَ: «كُنْتُ عَلَى بَابِهِ، وَسُفْيَانُ عِنْدَهُ، فَلَمَّا خَرَجَ سَأَلْتُهُ عَنْهُ، فَأَخْبَرَنِي أَنَّهُ كَذَّابٌ"
+    },
+    "en": {
+      "narrator": "Al-Faḍl bin Sahl narrated to me, he said, I asked Mu’allā ar-Rāzī about Muhammad bin Sa’īd whom Abbād transmitted from, so he informed me about what Īsā bin Yūnus said:",
+      "text": "‘I was at his door and Sufyān was with [Muhammad bin Sa’īd], then when he came out I asked [Sufyān] about him. So he informed me that he was a liar.’"
+    },
+    "ur": {
+      "narrator": "فضل بن سہل نے بتایا ، کہا : میں نے معلیٰ رازی سے محمد بن سعید کے بارے میں ، جس سے عباد بن کثیر نے روایت کی ، پوچھا تو انہوں نے مجھے عیسیٰ بن یونس کے حوالے سے بیان کیا ، کہا",
+      "text": "میں اس کے دروزاے پر تھا ، سفیان اس کے پاس موجود تھے جب وہ باہر نکل گیا تو میں نے ان ( سفیان ) سے اس کے بارے میں پوچھا تو انہوں نے مجھے بتایا کہ وہ کذاب ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

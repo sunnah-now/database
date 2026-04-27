@@ -1,0 +1,41 @@
+{
+  "id": 3065,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 20,
+      "language": {
+        "en": {
+          "text": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+        },
+        "ar": {
+          "text": "كتاب الخراج والإمارة والفىء"
+        },
+        "ur": {
+          "text": "محصورات اراضی اور امارت سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حدَّثَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ مُحَمَّدُ بْنُ الْحَسَنِ الْمَخْزُومِيُّ:‏‏‏‏ مَا لَمْ تَنَلْهُ أَخْفَافُ الإِبِلِ يَعْنِي أَنَّ الإِبِلَ تَأْكُلُ مُنْتَهَى رُءُوسِهَا وَيُحْمَى مَا فَوْقَهُ."
+    },
+    "en": {
+      "narrator": "Muhammad bin Al hasan Al Mukhzumi said:",
+      "text": "“The sentence “that which is not reached by the Camel hoofs” means that the Camels eat (the arak trees) within the reach of their heads. So the land (where the arak trees are growing) may be protected beyond such a region."
+    },
+    "ur": {
+      "narrator": "ہارون بن عبداللہ کہتے ہیں کہ محمد بن حسن مخزومی نے کہا",
+      "text": "«ما لم تنله أخفاف الإبل» کا مطلب یہ ہے کہ اونٹ کا سر جہاں تک پہنچے گا وہاں تک وہ کھائے ہی کھائے گا اس سے اوپر کا حصہ بچایا جا سکتا ہے ( اس لیے ایسی جگہ گھیرو جہاں اونٹ جاتے ہی نہ ہوں ) ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

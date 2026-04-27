@@ -1,0 +1,41 @@
+{
+  "id": 5664,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of Greetings"
+        },
+        "ar": {
+          "text": "كتاب السَّلَامِ"
+        },
+        "ur": {
+          "text": "سلامتی اور صحت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنِيهِ إِسْمَعِيلُ بْنُ سَالِمٍ أَخْبَرَنَا هُشَيْمٌ أَخْبَرَنَا سَيَّارٌ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Sayyar with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اسماعیل بن سالم نے کہا : ہمیں ہشیم نے خبر دی کہا : ہمیں سیار نے اسی سند کے ساتھ خبر دی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

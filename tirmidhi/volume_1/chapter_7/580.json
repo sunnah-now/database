@@ -1,0 +1,41 @@
+{
+  "id": 580,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book on Traveling"
+        },
+        "ar": {
+          "text": "أَبْوَابُ السَّفَرِ"
+        },
+        "ur": {
+          "text": "سفر کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنْ أَبِي الْعَالِيَةِ، عَنْ عَائِشَةَ، قَالَتْ:‏‏‏‏ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ فِي سُجُودِ الْقُرْآنِ بِاللَّيْلِ:‏‏‏‏ سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ . قَالَ أَبُو عِيسَى:‏‏‏‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Aisha narrated: When the Messenger of Allah would prostrate (for recitation of) the Qur'an, he would say: (Sajada wajhiya lilladhi khalaqahu wa shaqqa sam'ahu wa basarahu bihawlihi wa quwwatihi.) (I have prostrated my face to the One Who created it, and made its hearing and vision, though His ability and power.)"
+    },
+    "ur": {
+      "narrator": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم رات کے وقت قرآن کے سجدوں کہتے: «سجد وجهي للذي خلقه وشق سمعه وبصره بحوله وقوته» ”میرے چہرے نے اس ذات کو سجدہ کیا ہے جس نے اسے بنایا، اور اپنی طاقت و قوت سے اس کے کان اور اس کی آنکھیں پھاڑیں“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

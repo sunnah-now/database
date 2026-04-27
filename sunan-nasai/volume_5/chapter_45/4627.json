@@ -1,0 +1,41 @@
+{
+  "id": 4627,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ،‏‏‏‏ عَنْ أَيُّوبَ،‏‏‏‏ عَنْ سَعِيدِ بْنِ جُبَيْرٍ،‏‏‏‏ عَنْ ابْنِ عُمَرَ،‏‏‏‏ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ نَهَى عَنْ بَيْعِ حَبَلِ الْحَبَلَةِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ibn 'Umar that: the Prophet forbade selling the offspring of the offspring of a pregnant animal (Habal Al-Habalah)"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے حاملہ کے حمل کو بیچنے سے منع فرمایا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

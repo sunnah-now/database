@@ -1,0 +1,41 @@
+{
+  "id": 5216,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "General Behavior (Kitab Al-Adab)"
+        },
+        "ar": {
+          "text": "كتاب الأدب"
+        },
+        "ur": {
+          "text": "آداب و اخلاق کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،‏‏‏‏ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،‏‏‏‏ عَنْ شُعْبَةَ،‏‏‏‏ بِهَذَا الْحَدِيثِ،‏‏‏‏ قَالَ:‏‏‏‏ فَلَمَّا كَانَ قَرِيبًا مِنَ الْمَسْجِدِ،‏‏‏‏ قال لِلْأَنْصَارِ:‏‏‏‏ قُومُوا إِلَى سَيِّدِكُمْ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Shubah through a different chain of narrators. This version has:",
+      "text": "when he came near the mosque, he said to the Ansar; stand up showing respect to your chief."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن بشار نے بیان کیا، ہم سے محمد بن جعفر نے بیان کیا, اس سند سے بھی شعبہ سے یہی حدیث مروی ہے , اس میں ہے",
+      "text": "جب وہ مسجد سے قریب ہوئے تو آپ نے انصار سے فرمایا: اپنے سردار کی طرف بڑھو ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

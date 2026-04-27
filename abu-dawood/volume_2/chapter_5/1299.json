@@ -1,0 +1,41 @@
+{
+  "id": 1299,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+        },
+        "ar": {
+          "text": "كتاب التطوع"
+        },
+        "ur": {
+          "text": "نوافل اور سنتوں کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو تَوْبَةَ الرَّبِيعُ بْنُ نَافِعٍ، ‏‏‏‏‏‏حَدَّثَنَا مُحَمَّدُ بْنُ مُهَاجِرٍ، ‏‏‏‏‏‏عَنْ عُرْوَةَ بْنِ رُوَيْمٍ، ‏‏‏‏‏‏حَدَّثَنِي الْأَنْصَارِيُّ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ لِجَعْفَرٍ:‏‏‏‏ بِهَذَا الْحَدِيثِ، ‏‏‏‏‏‏فَذَكَرَ نَحْوَهُمْ، ‏‏‏‏‏‏قَالَ فِي السَّجْدَةِ الثَّانِيَةِ مِنَ الرَّكْعَةِ الْأُولَى كَمَا قَالَ فِي حَدِيثِ مَهْدِيِّ بْنِ مَيْمُونٍ."
+    },
+    "en": {
+      "narrator": "Narrated Urwah bin Ruwaim:",
+      "text": "That an al-Ansari narrated to him: The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم said to Jafar. He then narrated the tradition in like manner. This version has the words: In the second prostration of the first rak'ah in addition to the words transmitted by Mahdi bin Maimun (in the previous tradition)."
+    },
+    "ur": {
+      "narrator": "ہم سے ابو توبہ الربیع بن نافع نے بیان کیا، ہم سے محمد بن مہاجر نے بیان کیا، عروہ بن رویم کہتے ہیں کہ",
+      "text": "مجھ سے انصاری نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے جعفر سے یہی حدیث بیان فرمائی، پھر انہوں نے انہی لوگوں کی طرح ذکر کیا، البتہ اس میں ہے: پہلی رکعت کے دوسرے سجدہ میں بھی یہی کہا جیسے مہدی بن میمون کی حدیث میں ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

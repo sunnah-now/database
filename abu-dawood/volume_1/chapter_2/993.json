@@ -1,0 +1,41 @@
+{
+  "id": 993,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، سَأَلْتُ نَافِعًا عَنِ الرَّجُلِ، يُصَلِّي وَهُوَ مُشَبِّكٌ يَدَيْهِ قَالَ قَالَ ابْنُ عُمَرَ تِلْكَ صَلاَةُ الْمَغْضُوبِ عَلَيْهِمْ ‏.‏"
+    },
+    "en": {
+      "narrator": "Isma’il bin Umayyah said:",
+      "text": "I asked Nafi' regarding a man who intertwines his fingers while he is engaged in prayer. He said that Ibn ‘Umar had said: This is the prayer of those who earn the anger of Allah."
+    },
+    "ur": {
+      "narrator": "ہم سے بشر بن ہلال نے بیان کیا، کہا ہم سے عبدالوارث نے اسماعیل بن امیہ سے بیان کیا",
+      "text": "میں نے نافع سے اس آدمی کے بارے میں پوچھا جو ہاتھ باندھ کر نماز پڑھتا ہے۔ انہوں نے کہا: ابن عمر نے کہا: یہ ان لوگوں کی دعا ہے جن پر اللہ کا غضب نازل ہوتا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

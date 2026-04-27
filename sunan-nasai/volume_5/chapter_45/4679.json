@@ -1,0 +1,41 @@
+{
+  "id": 4679,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا وَاصِلُ بْنُ عَبْدِ الْأَعْلَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا ابْنُ فُضَيْلٍ، ‏‏‏‏‏‏عَنِ الْأَعْمَشِ، ‏‏‏‏‏‏عَنْ أَبِي حَازِمٍ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ثَمَنِ الْكَلْبِ وَعَسْبِ الْفَحْلِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that (Abu Hurairah) said: The Messenger of Allah forbade the price of a dog and stud fees the price of a dog and stud fees for a stallion."
+    },
+    "ur": {
+      "narrator": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے کتے کی قیمت سے اور نر کو مادہ پر چھوڑنے کی اجرت سے منع فرمایا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 7401,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 53,
+      "language": {
+        "en": {
+          "text": "The Book of Tribulations and Portents of the Last Hour"
+        },
+        "ar": {
+          "text": "كتاب الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ"
+        },
+        "ur": {
+          "text": "فتنے اور علامات قیامت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنِيهِ أَبُو كَامِلٍ حَدَّثَنَا حَمَّادٌ بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The previous hadith is narrated through Abu Kamil from Hammad with the same chain."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "یہی حدیث مجھے ابو کامل نے بیان کی ، انھوں نے کہا : ہمیں حماد نے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

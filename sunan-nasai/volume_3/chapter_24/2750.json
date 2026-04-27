@@ -1,0 +1,41 @@
+{
+  "id": 2750,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The Book of Hajj"
+        },
+        "ar": {
+          "text": "كتاب مناسك الحج"
+        },
+        "ur": {
+          "text": "حج کے احکام و مناسک"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، ‏‏‏‏‏‏عَنْ مَالِكٍ،‏‏‏‏ عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ تَلْبِيَةُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، ‏‏‏‏‏‏لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، ‏‏‏‏‏‏إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، ‏‏‏‏‏‏لَا شَرِيكَ لَكَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdullah bin 'Umar said: The Talbiyah of the Messenger of Allah was: Labbaika Allahumma Labbaik, Labbaika la sharika laka labbaik. Innal-hamda wan-ni'mata laka wal-mulk, la sharika lak (Here I am, O Allah, here I am. Here I am, You have no partner, here I am. Verily all praise and blessings are Yours, and all sovereignty, You have no partner."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی الله عنہما کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم کا تلبیہ یہ تھا «لبيك اللہم لبيك لبيك لا شريك لك لبيك إن الحمد والنعمة لك والملك لا شريك لك» ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

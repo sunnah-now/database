@@ -1,0 +1,41 @@
+{
+  "id": 5721,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "The Book of Drinks"
+        },
+        "ar": {
+          "text": "كتاب الأشربة"
+        },
+        "ur": {
+          "text": "مشروبات ( پینے والی چیزوں ) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا سُوَيْدُ،‏‏‏‏ قَالَ:‏‏‏‏ أَنْبَأَنَا عَبْدُ اللَّهِ،‏‏‏‏ عَنْ جَرِيرٍ،‏‏‏‏ عَنْ مُغِيرَةَ،‏‏‏‏ عَنْ الشَّعْبِيِّ،‏‏‏‏ قَالَ:‏‏‏‏ كَانَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ يَرْزُقُ النَّاسَ الطِّلَاءَ يَقَعُ فِيهِ الذُّبَابُ،‏‏‏‏ وَلَا يَسْتَطِيعُ أَنْ يَخْرُجَ مِنْهُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ash-Sha'bi said: Ali, may Allah be pleased with him, used to give the people thickened grape juice into which flies would fall and not be able to get out again."
+    },
+    "ur": {
+      "narrator": "عامر شعبی کہتے ہیں کہ",
+      "text": "علی رضی اللہ عنہ لوگوں کو اتنا گاڑھا طلاء پلاتے کہ اگر اس میں مکھی گر جائے تو وہ اس میں سے نکل نہ سکے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

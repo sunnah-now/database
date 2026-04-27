@@ -1,0 +1,41 @@
+{
+  "id": 4629,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ،‏‏‏‏ وَالْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ وَاللَّفْظُ لَهُ،‏‏‏‏ عَنْ ابْنِ الْقَاسِمِ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنِي مَالِكٌ،‏‏‏‏ عَنْ نَافِعٍ،‏‏‏‏ عَنْ ابْنِ عُمَرَ،‏‏‏‏ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ نَهَى عَنْ بَيْعِ حَبَلِ الْحَبَلَةِ،‏‏‏‏ وَكَانَ بَيْعًا يَتَبَايَعُهُ أَهْلُ الْجَاهِلِيَّةِ،‏‏‏‏ كَانَ الرَّجُلُ يَبْتَاعُ جَزُورًا إِلَى أَنْ تُنْتِجَ النَّاقَةُ،‏‏‏‏ ثُمَّ تُنْتِجُ الَّتِي فِي بَطْنِهَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ibn 'Umar that: the Messenger of Allah forbade selling the offspring of the offspring of a pregnant animal (Habal Al-Habalah), which was a transaction practiced by the people of the Jahiliyyah, whereby a man would buy camel to slaughter, but he would wait until the she-camel had produced offspring and the offspring in her belly had then produced offspring."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے حاملہ کے حمل کی بیع سے منع فرمایا اور یہ ایسی بیع تھی جو جاہلیت کے لوگ کیا کرتے تھے، ایک شخص اونٹ خریدتا اور پیسے دینے کا وعدہ اس وقت تک کے لیے کرتا جب وہ اونٹنی جنے اور پھر اس کا بچہ جنے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

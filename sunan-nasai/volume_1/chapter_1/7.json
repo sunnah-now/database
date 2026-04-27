@@ -1,0 +1,41 @@
+{
+  "id": 7,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Purification"
+        },
+        "ar": {
+          "text": "كتاب الطهارة"
+        },
+        "ur": {
+          "text": "طہارت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ بِالسِّوَاكِ عِنْدَ كُلِّ صَلاَةٍ ‏\"‏ ‏.‏"
+    },
+    "en": {
+      "narrator": "It was narrated from Abu Hurairah رضی اللہ عنہ that:",
+      "text": "The Messenger of Allah (ﷺ) said: Were it not that it would be too difficult for my Ummah, I would have commanded them to use the Siwak at (the time of) every Salah."
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ بن سعید نے مالک کی سند سے، ابو الزناد کی سند سے، العرج کی سند سے, ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  اگر میں اپنی امت کے لیے باعث مشقت نہ سمجھتا تو انہیں ہر نماز کے وقت مسواک کرنے کا حکم دیتا  ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

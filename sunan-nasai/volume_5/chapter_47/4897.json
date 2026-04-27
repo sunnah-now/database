@@ -1,0 +1,41 @@
+{
+  "id": 4897,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 47,
+      "language": {
+        "en": {
+          "text": "The Book of Cutting off the Hand of the Thief"
+        },
+        "ar": {
+          "text": "كتاب قطع السارق"
+        },
+        "ur": {
+          "text": "چور کا ہاتھ کاٹنے سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَبْدُ الصَّمَدِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا هَمَّامٌ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا قَتَادَةُ، ‏‏‏‏‏‏عَنْ دَاوُدَ بْنِ أَبِي عَاصِمٍ، ‏‏‏‏‏‏أَنَّ:‏‏‏‏ سَعِيدَ بْنَ الْمُسَيِّبِ حَدَّثَهُ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Dawud bin Abi Asim that: Saeed bin Al-Musayyb narrated something similar to that."
+    },
+    "ur": {
+      "narrator": "اس سند سے بھی",
+      "text": "سعید بن مسیب سے اسی طرح سے مروی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

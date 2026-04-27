@@ -1,0 +1,41 @@
+{
+  "id": 308,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي، قَالَ: سَمِعْتُ الْحَسَنَ، يَقُولُ: حَدَّثَنَا جُنْدَبُ بْنُ عَبْدِ اللهِ الْبَجَلِيُّ فِي هَذَا الْمَسْجِدِ، فَمَا نَسِينَا، وَمَا نَخْشَى أَنْ يَكُونَ كَذَبَ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: خَرَجَ بِرَجُلٍ فِيمَنْ كَانَ قَبْلَكُمْ خُرَّاجٌ، فَذَكَرَ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "It is reported on the authority of Hasan:",
+      "text": "Jundab bin 'Abdullah al-Bajali رضی ‌اللہ ‌عنہ ‌narrated this hadith in this mosque which we can neither forget and at the same time we have no apprehension that Jundab رضی ‌اللہ ‌عنہ ‌could attribute a lie to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). He (the Holy Prophet) observed: A person belonging to the people of the past suffered from a boil, and then the rest of the hadith was narrated."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن ابی بکر المقدمی نے بیان کیا,( شیبان کے بجائے ) جریر نے بیان کیا کہ میں نے حسن کو کہتے ہوئے سنا",
+      "text": "’’ ہمیں جندب بن عبد اللہ بجلی ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے اسی مسجد میں یہ حدیث سنائی ، نہ ہم بھولے ہیں اور نہ ہمیں یہ خدشہ ہے کہ جندب نے رسول اللہ ﷺ پر جھوٹ باندھا ہے ۔ جندب ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : رسول اللہ ﷺ : ’’تم سے پہلے لوگوں میں سے ایک آدمی کو پھوڑا نکلا .... ‘ ‘ پھر اسی ( سابقہ حدیث ) جیسی حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1277,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عُبَيْدُ بْنُ سَعِيدٍ الْأُمَوِيُّ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، بِهَذَا الْإِسْنَادِ، وَقَالَ: «فَلْيَتَحَرَّ الصَّوَابَ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated by Mansur with the same chain of transmitters with the words:",
+      "text": "He should aim at what is correct and complete."
+    },
+    "ur": {
+      "narrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے عبید بن سعید اموی نے بیان کیا,سفیان نے منصور سے مذکورہ سند کے ساتھ یہی حدیث بیان کی اور کہا",
+      "text": "’’وہ صحیح کی جستجو کرے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

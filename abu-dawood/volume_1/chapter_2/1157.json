@@ -1,0 +1,41 @@
+{
+  "id": 1157,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ جَعْفَرِ بْنِ أَبِي وَحْشِيَّةَ، عَنْ أَبِي عُمَيْرِ بْنِ أَنَسٍ، عَنْ عُمُومَةٍ، لَهُ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَكْبًا جَاءُوا إِلَى النَّبِيِّ صلى الله عليه وسلم يَشْهَدُونَ أَنَّهُمْ رَأَوُا الْهِلاَلَ بِالأَمْسِ فَأَمَرَهُمْ أَنْ يُفْطِرُوا وَإِذَا أَصْبَحُوا أَنْ يَغْدُوا إِلَى مُصَلاَّهُمْ ‏.‏"
+    },
+    "en": {
+      "narrator": "Narrated Abu Umair ibn Anas:",
+      "text": "He reported on the authority of some of his paternal uncles who were Companions of the Prophet (ﷺ): Some men came riding to the Prophet (ﷺ) and testified that they had sighted the new moon the previous day. He (the Holy Prophet), therefore, commanded the people to break the fast and to go out to their place of prayer in the morning."
+    },
+    "ur": {
+      "narrator": "ہم سے حفص بن عمر نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے جعفر بن ابی وحشیہ نے، انہوں نے ابو عمیر بن انس سے",
+      "text": "وہ اپنے چچا سے، جو رسول اللہ صلی اللہ علیہ وسلم کے اصحاب میں سے تھے، ان سے بیان کیا کہ لوگوں کی ایک جماعت نبی اکرم صلی اللہ علیہ وسلم کے پاس آئی ، وہ گواہی دیتے ہیں کہ انہوں نے ایک دن پہلے ہلال کا چاند دیکھا تھا۔ چنانچہ آپ صلی اللہ علیہ وسلم نے ان کو افطار کرنے کا حکم دیا اور جب صبح ہوئی تو اپنی نماز کی جگہ پر چلے گئے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

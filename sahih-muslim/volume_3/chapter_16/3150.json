@@ -1,0 +1,41 @@
+{
+  "id": 3150,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، وَأَبُو دَاوُدَ الطَّيَالِسِيُّ، عَنْ شُعْبَةَ، عَنْ يَحْيَى بْنِ الْحُصَيْنِ، عَنْ جَدَّتِهِ، أَنَّهَا سَمِعَتِ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي حَجَّةِ الْوَدَاعِ «دَعَا لِلْمُحَلِّقِينَ ثَلَاثًا، وَلِلْمُقَصِّرِينَ مَرَّةً» وَلَمْ يَقُلْ وَكِيعٌ: فِي حَجَّةِ الْوَدَاعِ."
+    },
+    "en": {
+      "narrator": "Yahya bin al-Husain reported on the authority of his grandfather:",
+      "text": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) invoked blessing on the occasion of the Farewell Pilgrimage three times for those who got their heads shaved and once for those who got their hair clipped. In the narration transmitted by Waki' there is no mention of the Farewell Pilgrimage."
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، انہوں نے کہا وکیع اورابو داود طیالسی نے ہمیں شعبہ سے حدیث بیان کی ، انھوں نے یحییٰ بن حصین سے اور انھوں نے اپنی دادی ( ام حصین رضی اللہ تعالیٰ عنہا ) سے روایت کی کہ",
+      "text": "انھوں نے حجۃ الوداع کے موقع پر نبی صلی اللہ علیہ وسلم سے سنا ، آپ صلی اللہ علیہ وسلم نےسر منڈانے والوں کے لئے تین بار اور بال کٹوانے والوں کے لئے ایک باردعا کی ۔ اور وکیع نے \" حجۃ الوداع کے موقع پر \" کا جملہ نہیں کہا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

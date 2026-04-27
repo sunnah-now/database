@@ -1,0 +1,41 @@
+{
+  "id": 3475,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "Wages (Kitab Al-Ijarah)"
+        },
+        "ar": {
+          "text": "كتاب الإجارة"
+        },
+        "ur": {
+          "text": "اجارے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا جَرِيرٌ، ‏‏‏‏‏‏عَنِ الْأَعْمَشِ، ‏‏‏‏‏‏بِإِسْنَادِهِ وَمَعْنَاهُ قَالَ:‏‏‏‏ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ، ‏‏‏‏‏‏وَقَالَ فِي السِّلْعَةِ:‏‏‏‏ بِاللَّهِ لَقَدْ أُعْطِيَ بِهَا كَذَا وَكَذَا، ‏‏‏‏‏‏فَصَدَّقَهُ الْآخَرُ فَأَخَذَهَا."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been related by al-'Amash to the same effect through a different chain of narrators. This version adds:",
+      "text": "He used: 'Not purify them ; grievously will be their penalty. ' He said about (selling) the goods: I swear by Allah, I was given (the price) so and so for it. The other man considered it to be correct and bought it."
+    },
+    "ur": {
+      "narrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا، ہم سے جریر نے بیان کیا, اس سند سے بھی اعمش سے اسی طریق سے اسی مفہوم کی حدیث مروی ہے",
+      "text": "اس میں ہے: ان کو گناہوں سے پاک نہیں کرے گا اور ان کے لیے درد ناک عذاب ہو گا اور سامان کے سلسلہ میں یوں کہے: قسم اللہ کی اس مال کے تو اتنے اتنے روپے مل رہے تھے، یہ سن کر خریدار اس کی بات کو سچ سمجھ لے اور اسے ( منہ مانگا پیسہ دے کر ) لے لے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

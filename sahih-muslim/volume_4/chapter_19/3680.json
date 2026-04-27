@@ -1,0 +1,41 @@
+{
+  "id": 3680,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 19,
+      "language": {
+        "en": {
+          "text": "The Book of Divorce"
+        },
+        "ar": {
+          "text": "كتاب الطَّلَاقِ"
+        },
+        "ur": {
+          "text": "طلاق کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ بِهَذَا الْإِسْنَادِ، نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "Ibn Abbas (Allah be pleased with them) reported:",
+      "text": "A similar report (as no. 3679) was narrated from Hisham bin Urwah with this chain."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے سوید بن سعید نے بیان کیا، انہوں نے ہم سے بیان کیا علی بن مسہر نے ہشام بن عروہ سے اسی سند کے ساتھ اسی کے ہم معنی حدیث بیان کی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

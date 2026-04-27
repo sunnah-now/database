@@ -1,0 +1,41 @@
+{
+  "id": 2425,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Zakat"
+        },
+        "ar": {
+          "text": "كتاب الزَّكَاةِ"
+        },
+        "ur": {
+          "text": "زکوٰۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ الزُّهْرِيِّ بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Zuhri with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عبد بن حمید نے بیان کیا,معمر نے زہری سے اسی سند کے ساتھ اسی طرح روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

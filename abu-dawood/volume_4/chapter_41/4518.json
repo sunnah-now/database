@@ -1,0 +1,41 @@
+{
+  "id": 4518,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 41,
+      "language": {
+        "en": {
+          "text": "Types of Blood-Wit (Kitab Al-Diyat)"
+        },
+        "ar": {
+          "text": "كتاب الديات"
+        },
+        "ur": {
+          "text": "دیتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏حَدَّثَنَا هِشَامٌ، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏عَنْ الْحَسَنِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا يُقَادُ الْحُرُّ بِالْعَبْدِ ."
+    },
+    "en": {
+      "narrator": "It was narrated from Hisham, from Qatadah, from Al-Hasan, who said:",
+      "text": "A free man should not be subjected to retaliation in return for a slave."
+    },
+    "ur": {
+      "narrator": "ہم سے مسلم بن ابراہیم نے بیان کیا، ہم سے ہشام نے بیان کیا، قتادہ کی سند سے,حسن بصری کہتے ہیں",
+      "text": "آزاد غلام کے بدلے قتل نہیں کیا جائے گا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

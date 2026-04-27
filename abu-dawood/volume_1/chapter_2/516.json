@@ -1,0 +1,41 @@
+{
+  "id": 516,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْقَعْنَبِيُّ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ أَبِي الزِّنَادِ، ‏‏‏‏‏‏عَنِ الْأَعْرَجِ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ إِذَا نُودِيَ بِالصَّلَاةِ أَدْبَرَ الشَّيْطَانُ وَلَهُ ضُرَاطٌ حَتَّى لَا يَسْمَعَ التَّأْذِينَ، ‏‏‏‏‏‏فَإِذَا قُضِيَ النِّدَاءُ أَقْبَلَ حَتَّى إِذَا ثُوِّبَ بِالصَّلَاةِ أَدْبَرَ، ‏‏‏‏‏‏حَتَّى إِذَا قُضِيَ التَّثْوِيبُ أَقْبَلَ حَتَّى يَخْطُرَ بَيْنَ الْمَرْءِ وَنَفْسِهِ، ‏‏‏‏‏‏وَيَقُولُ:‏‏‏‏ اذْكُرْ كَذَا اذْكُرْ كَذَا لِمَا لَمْ يَكُنْ يَذْكُرُ حَتَّى يَضِلَّ الرَّجُلُ أَنْ يَدْرِيَ كَمْ صَلَّى ."
+    },
+    "en": {
+      "narrator": "Abu Hurairah reported:",
+      "text": "The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم as saying: when the call to prayer is made; the devil turns his back and breaks wind so as not to hear the call being made; but when the call is finished, he turns round. When the second call to prayer (iqamah) is made, he turns his back, and when the second call is finished, he turns round and suggest notions in the mind of the man (at prayer) to distract his attention, saying: remember such and such, referring to something the man did not have n mind, with the result that he does not know how much he has prayed."
+    },
+    "ur": {
+      "narrator": "ہم سے قعنبی نے مالک کی سند سے، ابو الزناد کی سند سے، العراج کی سند سے، ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب نماز کے لیے اذان دی جاتی ہے تو شیطان گوز مارتا ہوا پیٹھ پھیر کر بھاگتا ہے یہاں تک کہ ( وہ اتنی دور چلا جاتا ہے کہ ) اذان نہیں سنتا، پھر جب اذان ختم ہو جاتی ہے تو واپس آ جاتا ہے، لیکن جوں ہی تکبیر شروع ہوتی ہے وہ پھر پیٹھ پھیر کر بھاگتا ہے، جب تکبیر ختم ہو جاتی ہے تو شیطان دوبارہ آ جاتا ہے اور مصلی کے دل میں وسوسے ڈالتا ہے، کہتا ہے: فلاں بات یاد کرو، فلاں بات یاد کرو، ایسی باتیں یاد دلاتا ہے جو اسے یاد نہیں تھیں یہاں تک کہ اس شخص کو یاد نہیں رہ جاتا کہ اس نے کتنی رکعتیں پڑھی ہیں؟ ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

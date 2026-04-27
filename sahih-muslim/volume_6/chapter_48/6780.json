@@ -1,0 +1,41 @@
+{
+  "id": 6780,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 48,
+      "language": {
+        "en": {
+          "text": "The Book of Knowledge"
+        },
+        "ar": {
+          "text": "كتاب الْعِلْمِ"
+        },
+        "ur": {
+          "text": "علم کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ عَنْ ابْنِ جُرَيْجٍ عَنْ ابْنِ أَبِي مُلَيْكَةَ عَنْ عَائِشَةَ قَالَتْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ أَبْغَضَ الرِّجَالِ إِلَى اللَّهِ الْأَلَدُّ الْخَصِمُ."
+    },
+    "en": {
+      "narrator": "A'isha رضی اللہ عنہا reported:",
+      "text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The most despicable amongst persons in the eye of Allah is one who tries to fall into dispute with others (for nothing but only to display his knowledge and power of argumentation)."
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا کہ ہم سے وکیع نے بیان کیا، وہ ابن جریج کی سند سے، ابن ابی ملیکہ کی سند سے, حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ تعالیٰ کے نزدیک سب سے بڑھ کر بغض کے قابل وہ شخص ہے جو سخت جھگڑالو ہو ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

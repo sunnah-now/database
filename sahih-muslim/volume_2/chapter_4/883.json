@@ -1,0 +1,41 @@
+{
+  "id": 883,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، - وَاللَّفْظُ لِعَمْرٍو -، قَالَا: حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، قَالَ: قَالَ أَبُو هُرَيْرَةَ: «فِي كُلِّ الصَّلَاةِ يَقْرَأُ، فَمَا أَسْمَعَنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، أَسْمَعْنَاكُمْ، وَمَا أَخْفَى مِنَّا، أَخْفَيْنَا مِنْكُمْ» فَقَالَ لَهُ رَجُلٌ: إِنْ لَمْ أَزِدْ عَلَى أُمِّ الْقُرْآنِ؟ فَقَالَ: «إِنْ زِدْتَ عَلَيْهَا فَهُوَ خَيْرٌ، وَإِنِ انْتَهَيْتَ إِلَيْهَا أَجْزَأَتْ عَنْكَ»."
+    },
+    "en": {
+      "narrator": "Ata' narrated on the authority of Abu Huraira:",
+      "text": "Who said that one should recite (al-Fatiha) in every (rak'ah of) prayer. What we heard (i. e. recitation) from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), we made you listen to that. And that which he (recited) inwardly, we (recited) inwardly for you. A person said to him: If I add nothing to the (recitation) of the Umm al Qur'an (Surat al-Fatiha), would it make the prayer incomplete? He (AbuHuraira) said: If you add to that (if you recite some of verses of the Qur'an along with Surat at-Fatiha) that is better for you. But if you are contented with it (Surat al-Fatiha) only, it is sufficient for you."
+    },
+    "ur": {
+      "narrator": "ہم سے عمرو ناقد اور زہیر بن حرب نے بیان کیا اور یہ لفظ عمرو کے لیے ہے، انہوں نے کہا: ہم سے اسماعیل بن ابراہیم نے بیان کیا،ابن جریج نے عطا سے خبر دی ، کہا : حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا",
+      "text": "( نماز پڑھنے والا ) پوری نماز میں ( ہر رکعت میں ) قراءت کرے ۔ رسول اللہﷺ نے جو ( قراءت ) ہمیں ( بلند آواز سے ) سنائی ، ہم نے بھی تمہیں سنائی اور جو آ پ نے ہم سے ( آواز آہستہ کر کے ) مخفی رکھی ہم نے اسے تم سے مخفی رکھا ۔ ایک آدمی نے ان سے کہا : اگر میں ام القرآن سے زیادہ نہ پڑھوں؟ تو انہوں نے کہا : اگر اس سے زیادہ پڑھو تو بہتر ہے اور اگر اس ( فاتحہ ) پر رک جاؤ تو وہ تمہیں کفایت کرے گی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

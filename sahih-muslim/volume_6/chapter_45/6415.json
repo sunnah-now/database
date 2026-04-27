@@ -1,0 +1,41 @@
+{
+  "id": 6415,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of the Merits of the Companions"
+        },
+        "ar": {
+          "text": "كتاب فَضَائِلِ الصَّحَابَةِ"
+        },
+        "ur": {
+          "text": "صحابہ کرام رضی اللہ عنھم کے فضائل و مناقب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا خَالِدٌ يَعْنِي ابْنَ الْحَارِثِ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Shulba with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے یحییٰ بن حبیب نے کہا, خالد بن حارث نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 385,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَا مِنَ الْأَنْبِيَاءِ مِنْ نَبِيٍّ إِلَّا قَدِ اُعْطِيَ مِنَ الْآيَاتِ مَا مِثْلُهُ آمَنَ عَلَيْهِ الْبَشَرُ، وَإِنَّمَا كَانَ الَّذِي أُوتِيتُ وَحْيًا أَوْحَى اللهُ إِلَيَّ، فَأَرْجُو أَنْ أَكُونَ أَكْثَرَهُمْ تَابِعًا يَوْمَ الْقِيَامَةِ»."
+    },
+    "en": {
+      "narrator": "It is narrated on the authority of Abu Huraira رضی ‌اللہ ‌عنہ :",
+      "text": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) observed: There has never been a Prophet amongst the prophets who was not bestowed with a sign amongst the signs which were bestowed (on the earlier prophets). Human beings believed in it and verily I have been conferred upon revelation (the Holy Qur'an) which Allah revealed to me. I hope that I will have the greatest following on the Day of Resurrection."
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے لیث نے بیان کیا، ان سے سعید بن ابی سعید نے اپنے والد سے,حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ",
+      "text": "رسو ل اللہ ﷺ نے فرمایا : ’’ انبیاء میں سے ہر ایک نبی کوایسی نشانیاں ( معجزے ) دی گئیں جن ( کو دیکھ کر ) لوگ ایمان لائے ، اور وحی مجھی کو دی گئی ، جو اللہ نے مجھ پر نازل فرمائی ، ( وہ معجزہ بھی ہے ، اور نور بھی ’’ولكن جعلنه نورا ‘ ‘ ) اس لیے میں امید کرتا ہوں کہ قیامت کے دن ان سب سے زیادہ پیروکار میرے ہو ں گے ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

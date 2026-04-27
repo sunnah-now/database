@@ -1,0 +1,41 @@
+{
+  "id": 2234,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصيام"
+        },
+        "ur": {
+          "text": "روزوں کے احکام و مسائل و فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنِي زَكَرِيَّا بْنُ يَحْيَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا أَبُو مُصْعَبٍ، ‏‏‏‏‏‏عَنِ الْمُغِيرَةِ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ سَعِيدِ بْنِ أَبِي هِنْدٍ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، ‏‏‏‏‏‏عَنْ سَعِيدِ بْنِ أَبِي هِنْدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ دَخَلَ مُطَرِّفٌ عَلَى عُثْمَانَ نَحْوَهُ مُرْسَلٌ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Saeed bin Abi Hind said: Mutarrif entered upon 'Uthman and he narrated something similar in Mursal from. Abu Hurairah said: The Messenger of Allah said: 'Fasting is a shield. ' (Sahih"
+    },
+    "ur": {
+      "narrator": "سعید بن ابی ہند کہتے ہیں کہ",
+      "text": "مطرف عثمان رضی اللہ عنہ کے پاس آئے۔ آگے راوی نے اس طرح کی روایت بیان کی، یہ روایت مرسل ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

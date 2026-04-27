@@ -1,0 +1,41 @@
+{
+  "id": 384,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَاهُ عَبْدُ بْنُ حُمَيْدٍ، قَالَ: حَدَّثَنِي يَعْقُوبُ يَعْنِي ابْنَ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبُو أُوَيْسٍ، عَنِ الزُّهْرِيِّ، كَرِوَايَةِ مَالِكٍ بِإِسْنَادِهِ، وَقَالَ: ثُمَّ قَرَأَ هَذِهِ الْآيَةَ حَتَّى أَنْجَزَهَا."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has also been narrated by Abd bin Humaid Ya'qub, i. e. son of Ibrahim bin Sa'd, Abu Uwais, Zuhri, like the one narrated by Malik with the same chain of transmission and said: He recited this verse till he completed it."
+    },
+    "ur": {
+      "narrator": "ہم سے عبد بن حمید نے بیان کیا، انہوں نے کہا: مجھ سے یعقوب یعنی ابن ابراہیم بن سعد نے بیان کیا",
+      "text": "ابو اویس نے بھی زہری سے اسی طرح روایت کی ہے جس طرح مالک نے کی ہے البتہ اس نے ( حتی جازھا ) حتی کہ اس سے آگے نکل گئے کے بجائےئ ) حتی أنجزها ( حتی کہ اس کو مکمل کیا ) کہا ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

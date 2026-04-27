@@ -1,0 +1,41 @@
+{
+  "id": 53,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Purification"
+        },
+        "ar": {
+          "text": "كتاب الطهارة"
+        },
+        "ur": {
+          "text": "طہارت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا حَمَّادٌ، ‏‏‏‏‏‏عَنْ ثَابِتٍ، ‏‏‏‏‏‏عَنْ أَنَسٍ، ‏‏‏‏‏‏أَنَّ أَعْرَابِيًّا بَالَ فِي الْمَسْجِدِ، ‏‏‏‏‏‏فَقَامَ عَلَيْهِ بَعْضُ الْقَوْمِ، ‏‏‏‏‏‏فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ دَعُوهُ لَا تُزْرِمُوهُ، ‏‏‏‏‏‏فَلَمَّا فَرَغَ دَعَا بِدَلْوٍ فَصَبَّهُ عَلَيْهِ . قَالَ أَبُو عَبْد الرَّحْمَنِ:‏‏‏‏ يَعْنِي لَا تَقْطَعُوا عَلَيْهِ."
+    },
+    "en": {
+      "narrator": "It was narrated from Anas رضی اللہ عنہ that:",
+      "text": "A Bedouin urinated in the Masjid, and some of the people went after him, but the Messenger of Allah (ﷺ) said: Leave him and do not restrain him. When he had finished he called for a bucket (of water) and poured it over it. [1] Abu 'Abdur-Rahman (An-Nasa'i) said: Meaning: 'Do not interrupt him.' [1]The author will cite this narration again in No. 330 as a possible proof for setting the minimum, since it mentions a bucket as if this is the minium amount required."
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ نے بیان کیا، کہا: ہم سے حماد نے ثابت کی سند سے بیان کیا, انس رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "ایک اعرابی  ( دیہاتی )  مسجد میں پیشاب کرنے لگا، تو کچھ لوگ اس پر جھپٹے، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  اسے چھوڑ دو، کرنے دو روکو نہیں  ، جب وہ فارغ ہو گیا تو آپ نے پانی منگوایا، اور اس پر انڈیل دیا۔ ابوعبدالرحمٰن  ( امام نسائی رحمہ اللہ )  کہتے ہیں: یعنی بیچ میں نہ روکو پیشاب کر لینے دو۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

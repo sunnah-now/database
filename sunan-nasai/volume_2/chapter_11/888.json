@@ -1,0 +1,41 @@
+{
+  "id": 888,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Book of the Commencement of the Prayer"
+        },
+        "ar": {
+          "text": "كتاب الافتتاح"
+        },
+        "ur": {
+          "text": "نماز شروع کرنے کے مسائل و احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، ‏‏‏‏‏‏قال:‏‏‏‏ أَنْبَأَنَا عَبْدُ اللَّهِ، ‏‏‏‏‏‏عَنْ مُوسَى بْنِ عُمَيْرٍ الْعَنْبَرِيِّ، ‏‏‏‏‏‏وَقَيْسِ بْنِ سُلَيْمٍ الْعَنْبَرِيِّ، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَاعَلْقَمَةُ بْنُ وَائِلٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏قال:‏‏‏‏ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا كَانَ قَائِمًا فِي الصَّلَاةِ قَبَضَ بِيَمِينِهِ عَلَى شِمَالِهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Musa bin Umair Al-Anbari and Qais bin Sulaim Al-Anbari said: Alqamah bin Wa'il told us that his father said: I saw the Messenger of Allah (ﷺ), when he was standing in prayer, holding his left hand with his right.'"
+    },
+    "ur": {
+      "narrator": "وائل بن حجر رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا کہ جب آپ نماز میں کھڑے ہوتے تو اپنے داہنے ہاتھ سے اپنا بایاں ہاتھ پکڑتے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

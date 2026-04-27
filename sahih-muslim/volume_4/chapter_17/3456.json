@@ -1,0 +1,41 @@
+{
+  "id": 3456,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 17,
+      "language": {
+        "en": {
+          "text": "The Book of Marriage"
+        },
+        "ar": {
+          "text": "كتاب النِّكَاحِ"
+        },
+        "ur": {
+          "text": "نکاح کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ عُبَيْدِ اللهِ، بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "Narrated Ibn Umar:",
+      "text": "It was narrated from Ubaidullah with this chain (a hadith similar to no. 3455)."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے علی بن مسہر نے بیان کیا، عبید اللہ کی سند سے، اس سلسلہ کے ساتھ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

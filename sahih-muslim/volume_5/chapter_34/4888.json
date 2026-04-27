@@ -1,0 +1,41 @@
+{
+  "id": 4888,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Government"
+        },
+        "ar": {
+          "text": "كتاب الْإِمَارَةِ"
+        },
+        "ur": {
+          "text": "امور حکومت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا مُحَمَّدُ بْنُ يُوسُفَ، عَنِ الْأَوْزَاعِيِّ، عَنِ ابْنِ شِهَابٍ، بِهَذَا الْإِسْنَادِ، فَقَالَ: «وَرَجُلٌ فِي شِعْبٍ»، وَلَمْ يَقُلْ: ثُمَّ رَجُلٌ."
+    },
+    "en": {
+      "narrator": "It was narrated from Ibn Shihab with this chain of narration (a hadith similar to no. 4887). He said:",
+      "text": "A man in a mountain valley. but did not mention next to him a man who...."
+    },
+    "ur": {
+      "narrator": "ہم سے عبداللہ بن عبدالرحمٰن دارمی نے بیان کیا، کہا ہم سے محمد بن یوسف نے بیان کیا, اوزاعی نے ابن شہاب سے اسی سند کے ساتھ روایت کی اور",
+      "text": "آدمی جو کسی گھاٹی میں ہے کہا ۔ پھر وہ آدمی نہیں کہا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

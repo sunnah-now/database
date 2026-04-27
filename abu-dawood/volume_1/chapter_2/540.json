@@ -1,0 +1,41 @@
+{
+  "id": 540,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، ‏‏‏‏‏‏حَدَّثَنَا عِيسَى، ‏‏‏‏‏‏عَنْ مَعْمَرٍ، ‏‏‏‏‏‏عَنْ يَحْيَى، ‏‏‏‏‏‏بِإِسْنَادِهِ مِثْلَهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَتَّى تَرَوْنِي قَدْ خَرَجْتُ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ لَمْ يَذْكُرْ قَدْ خَرَجْتُ إِلَّا مَعْمَرٌ، ‏‏‏‏‏‏وَرَوَاهُ ابْنُ عُيَيْنَةَ، ‏‏‏‏‏‏عَنْ مَعْمَرٍ، ‏‏‏‏‏‏لَمْ يَقُلْ فِيهِ:‏‏‏‏ قَدْ خَرَجْتُ."
+    },
+    "en": {
+      "narrator": "This tradition has also been reported through a different chain of narrators in a similar way. This version says:",
+      "text": "“Until you see me that I have come out”.\r\nAbu dawud said: No one except Ma’mar has narrated the words “that I have come out”. And the version transmitted by Ibn ‘Uyainah from Ma’mar does not mention the words “that I have come out”."
+    },
+    "ur": {
+      "narrator": "مسلم بن ابراہیم اور موسیٰ بن اسماعیل نے کہا, ہم سے ابان نے یحییٰ کی سند سے اور عبداللہ بن ابوقتادہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "یہاں تک کہ تم مجھے دیکھ لو کہ میں نکل چکا ہوں ۔ ابوداؤد کہتے ہیں: معمر کے علاوہ کسی نے «قد خرجت» کا لفظ ذکر نہیں کیا۔ ابن عیینہ نے بھی اسے معمر سے روایت کیا ہے، اس میں بھی انہوں نے «قد خرجت» نہیں کہا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

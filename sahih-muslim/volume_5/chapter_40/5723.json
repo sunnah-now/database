@@ -1,0 +1,41 @@
+{
+  "id": 5723,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of Greetings"
+        },
+        "ar": {
+          "text": "كتاب السَّلَامِ"
+        },
+        "ur": {
+          "text": "سلامتی اور صحت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا أَبُو خَيْثَمَةَ عَنْ عَاصِمٍ الْأَحْوَلِ عَنْ يُوسُفَ بْنِ عَبْدِ اللَّهِ عَنْ أَنَسِ بْنِ مَالِكٍ فِي الرُّقَى قَالَ رُخِّصَ فِي الْحُمَةِ وَالنَّمْلَةِ وَالْعَيْنِ"
+    },
+    "en": {
+      "narrator": "Anas bin Malik رضی اللہ عنہ reported in connection with incantation:",
+      "text": "He had been granted sanction (to use incantation as a remedy) for the sting of the scorpion and for curing small pustules and dispelling the influence of an evil eye."
+    },
+    "ur": {
+      "narrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا , ابو خیثمہ نے عاصم احول سے ، انھوں نے یو سف بن عبد اللہ سے ، انھوں نے حضرت انس بن مالک رضی اللہ عنہ سے دم جھا ڑ کے بارے میں روایت بیان کی ، کہا",
+      "text": "زہریلے ڈنگ جلد نکلنے والے دانوں اور نظر بد ( کے عوارض ) میں دم کرانے کی اجا زت دی گئی ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

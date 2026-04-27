@@ -1,0 +1,41 @@
+{
+  "id": 6650,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
+        },
+        "ar": {
+          "text": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ"
+        },
+        "ur": {
+          "text": "حسن سلوک، صلہ رحمی اور ادب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ نَافِعٍ حَدَّثَنَا بَهْزٌ حَدَّثَنَا حَمَّادٌ بِهَذَا الْإِسْنَادِ نَحْوَه."
+    },
+    "en": {
+      "narrator": "",
+      "text": "A hadith like this has been narrated on the authority of Humaid with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابوبکر بن نافع نے بیان کیا, بہز نے کہا : ہمیں حماد نے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

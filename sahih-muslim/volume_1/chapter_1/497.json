@@ -1,0 +1,41 @@
+{
+  "id": 497,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ الْأَعْلَى، حَدَّثَنَا الْمُعْتَمِرُ، عَنْ أَبِيهِ، عَنْ أَنَسٍ، أَنَّ نَبِيَّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: فَذَكَرَ نَحْوَ حَدِيثِ قَتَادَةَ، عَنْ أَنَسٍ."
+    },
+    "en": {
+      "narrator": "Muhammad bin 'Abd al-A'la reported it to me: Mu'tamir narrated to us on the authority of his father who transmitted it from Anas ‌رضی ‌اللہ ‌عنہ ‌:",
+      "text": "Verity the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said, and then narrated the hadith like the one transmitted by Qatada on the authority of Anas رضی ‌اللہ ‌عنہ ‌."
+    },
+    "ur": {
+      "narrator": "محمد بن عبد العلا نے مجھ سے کہا,معتمر کے والد سلیمان بن طرخان نےحضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+      "text": "اللہ کے نبی ﷺ نے فرمایا......... آگے کی حضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ کی روایت کی طرح ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

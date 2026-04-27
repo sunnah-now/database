@@ -1,0 +1,41 @@
+{
+  "id": 6573,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
+        },
+        "ar": {
+          "text": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ"
+        },
+        "ur": {
+          "text": "حسن سلوک، صلہ رحمی اور ادب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِيهِ أَبُو بَكْرِ بْنُ إِسْحَقَ حَدَّثَنَا أَبُو مُسْهِرٍ حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّ مَرْوَانَ أَتَمُّهُمَا حَدِيثًا."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The hadith is narrated through Abu Mushir from Sa'id bin 'Abdul'Aziz except that the previous hadith through Marwan was the more complete of the two."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ابوبکر بن اسحٰق نے کہا : ہمیں ابومسہر نے حدیث بیان کی ، انہوں نے کہا : ہمیں سعید بن عبدالعزیز نے اسی سند کے ساتھ حدیث بیان کی ، البتہ مروان کی حدیث زیادہ مکمل ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 185,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «رَأْسُ الْكُفْرِ نَحْوَ الْمَشْرِقِ، وَالْفَخْرُ وَالْخُيَلَاءُ فِي أَهْلِ الْخَيْلِ وَالْإِبِلِ الْفَدَّادِينَ، أَهْلِ الْوَبَرِ وَالسَّكِينَةُ فِي أَهْلِ الْغَنَمِ»."
+    },
+    "en": {
+      "narrator": "It is narrated on the authority of Abu Huraira رضی ‌اللہ ‌عنہ ‌:",
+      "text": "The Messenger of Allah (may peace and blessings be upon him) remarked: The summit of unbelief is towards the East and the pride and conceitedness is found among the owners of horses and camels who are rude and uncivil, people of the tents, and tranquillity is found among those who rear goats and sheep."
+    },
+    "ur": {
+      "narrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: میں نے مالک رضی اللہ عنہ کو ابو الزناد   نے اعرج سے اور انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+      "text": "رسو ل اللہ ﷺ نے فرمایا : ’’کفر کی ریاست مشرق کی طرف ہے ۔ فخر و تکبر گھوڑوں اور اونٹوں والوں میں ہے ( جو اونچی آواز میں چلانے والے اوراون کے خیموں میں رہنے والے ہیں ) اور اطمینان و سکون بکریاں پالنے والوں میں ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

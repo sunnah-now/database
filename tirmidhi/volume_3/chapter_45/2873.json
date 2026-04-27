@@ -1,0 +1,41 @@
+{
+  "id": 2873,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "Chapter on Parables"
+        },
+        "ar": {
+          "text": "كتاب الأمثال عن رسول الله صلى الله عليه وسلم"
+        },
+        "ur": {
+          "text": "مثل اور کہاوت کا تذکرہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ بِهَذَا الْإِسْنَادِ نَحْوَهُ، ‏‏‏‏‏‏وَقَالَ:‏‏‏‏ لَا تَجِدُ فِيهَا رَاحِلَةً ، ‏‏‏‏‏‏أَوْ قَالَ:‏‏‏‏ لَا تَجِدُ فِيهَا إِلَّا رَاحِلَةً ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Narrated (Another route) from Az-Zuhri: with this chain, and it is similar, but he said: You can find a mount among them. - from Salim, from Ibn 'Umar that the Messenger of Allah (ﷺ) said: People are but like one hundred camels, you can not find a mount among them - or he said - you can not find but one mount among them."
+    },
+    "ur": {
+      "narrator": "سفیان بن عیینہ زہری سے اسی سند سے اسی طرح روایت کرتے ہیں",
+      "text": "اور انہوں نے کہا: تم ان میں ایک بھی سواری کے قابل نہ پاؤ گے، یا یہ کہا: تم ان میں سے صرف ایک سواری کے قابل پا سکو گے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

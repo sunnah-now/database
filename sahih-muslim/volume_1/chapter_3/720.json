@@ -1,0 +1,41 @@
+{
+  "id": 720,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 3,
+      "language": {
+        "en": {
+          "text": "The Book of Menstruation"
+        },
+        "ar": {
+          "text": "كتاب الْحَيْضِ"
+        },
+        "ur": {
+          "text": "حیض کا معنی و مفہوم"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اغْتَسَلَ مِنَ الْجَنَابَةِ فَبَدَأَ فَغَسَلَ كَفَّيْهِ ثَلاَثًا ثُمَّ ذَكَرَ نَحْوَ حَدِيثِ أَبِي مُعَاوِيَةَ وَلَمْ يَذْكُرْ غَسْلَ الرِّجْلَيْنِ ‏.‏"
+    },
+    "en": {
+      "narrator": "Hisham narrated it from his father, who narrated it on the authority of 'A'isha رضی اللہ عنہا :",
+      "text": "When the Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) took a bath because of sexual inter-course, he first washed the palms of his hands three times, and then the whole hadith was transmitted like that based on the authority of Abu Mu'awyia, but no mention is made of the washing of feet."
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سےوکیع نے ہشام کی اسی سند کے ساتھ حضرت عائشہ  رضی اللہ عنہا سے حدیث بیان کی کہ",
+      "text": "رسو ل اللہ ﷺ نے جنابت سےغسل فرمایا ، آغاز کرتے ہوئے تین بار ہتھلیاں دھوئیں ..... پھر ابو معاویہ کی حدیث کی طرح بیان کیا ، تاہم پاؤں دھونے کا ذکر نہ کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

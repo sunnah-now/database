@@ -1,0 +1,41 @@
+{
+  "id": 6860,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness"
+        },
+        "ar": {
+          "text": "كتاب الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ"
+        },
+        "ur": {
+          "text": "ذکر الٰہی‘دعا ‘توبہ اور استغفار"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَاه عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِي و حَدَّثَنَا ابْنُ الْمُثَنَّى حَدَّثَنَا أَبُو دَاوُدَ وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ كُلُّهُمْ عَنْ شُعْبَةَ فِي هَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "عبیداللہ کے والد معاذ ، ابوداؤد اور عبدالرحمٰن بن مہدی نے شعبہ سے اسی سند سے ( یہی ) روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 57,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي إِبْرَاهِيمُ بْنُ خَالِدٍ الْيَشْكُرِيُّ، قَالَ: سَمِعْتُ أَبَا الْوَلِيدِ، يَقُولُ: سَمِعْتُ سَلَّامَ بْنَ أَبِي مُطِيعٍ، يَقُولُ: سَمِعْتُ جَابِرًا الْجُعْفِيَّ، يَقُولُ: «عِنْدِي خَمْسُونَ أَلْفَ حَدِيثٍ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ»"
+    },
+    "en": {
+      "narrator": "Ibrāhīm bin Khālid al-Yashkurī narrated to me, he said, I heard Abūl-Walīd saying,",
+      "text": "I heard Sallām bin Abī Mutī’ saying, I heard Jābir al-Ju’fī saying: ‘I have fifty thousand Ḥadīth on authority of the Prophet, peace and blessings upon him’."
+    },
+    "ur": {
+      "narrator": "مجھ سے ابراہیم بن خالد یشکری نے بیان کیا کہ میں نے ابو الولید کو کہتے سنا",
+      "text": "میں نے سلام بن ابی مطیع کہتے ہیں : میں نے جابر جعفی کو یہ کہتے سنا : میرے پاس رسول اللہﷺ سے ( روایت کردہ ) پچاس ہزار احادیث ہیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

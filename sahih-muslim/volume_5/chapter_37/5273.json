@@ -1,0 +1,41 @@
+{
+  "id": 5273,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ الزُّهْرِيِّ بِهَذَا الْإِسْنَادِ مِثْلَهُ غَيْرَ أَنَّهُ قَالَ وَاخْتِنَاثُهَا أَنْ يُقْلَبَ رَأْسُهَا ثُمَّ يُشْرَبَ مِنْهُ."
+    },
+    "en": {
+      "narrator": "This hadith has been reported from Zuhri with the same chain of transmitters, but he also said that Ikhtinath means",
+      "text": "Its head (i.e. of the water skin) be turned upside down and then (water) be drank from that."
+    },
+    "ur": {
+      "narrator": "اور ہم سے عبد بن حمید نے بیان کیا , معمر نے زہری سے اسی سند کے ساتھ اسی کے مانند روایت کی ، البتہ انھوں نے کہا : ان ( مشکوں ) کا اختناث یہ ہے کہ",
+      "text": "مشک کا منہ الٹ کر اس میں سے ( براہ راست ) پانی پیا جائے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

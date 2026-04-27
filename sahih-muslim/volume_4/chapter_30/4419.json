@@ -1,0 +1,41 @@
+{
+  "id": 4419,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "The Book Of Legal Punishments"
+        },
+        "ar": {
+          "text": "كتاب الْحُدُودِ"
+        },
+        "ur": {
+          "text": "حدود کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَابْنُ أَبِي عُمَرَ، قَالُوا: حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Zuhri with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابوبکر بن ابی شیبہ، زہیر بن حرب اور ابن ابی عمر نے بیان کیا، انہوں نے کہا:سفیان نے زہری سے اسی سند کے ساتھ حدیث بیان کی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

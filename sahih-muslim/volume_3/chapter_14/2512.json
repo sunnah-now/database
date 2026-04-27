@@ -1,0 +1,41 @@
+{
+  "id": 2512,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنِ الْأَسْوَدِ بْنِ قَيْسٍ، بِهَذَا الْإِسْنَادِ وَلَمْ يَذْكُرْ لِلشَّهْرِ الثَّانِي ثَلَاثِينَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Aswad bin Qais with the same chain of transmitters, but herein no mention has been made of the other month (consisting of) thirty days."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے محمد بن حاتم نے بیان کیا، ہم سے ابن مہدی نے بیان کیا،سفیان نے اسود بن قیس سے اسی سندکے ساتھ روایت کی اور دوسرے مہینے کے تیس ( دنوں ) کا ذکر نہیں کیا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

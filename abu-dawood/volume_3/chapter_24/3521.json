@@ -1,0 +1,41 @@
+{
+  "id": 3521,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "Wages (Kitab Al-Ijarah)"
+        },
+        "ar": {
+          "text": "كتاب الإجارة"
+        },
+        "ur": {
+          "text": "اجارے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ اللَّهِ يَعْنِي ابْنَ وَهْبٍ، ‏‏‏‏‏‏أَخْبَرَنِي عَنِ يُونُسُ، ‏‏‏‏‏‏عَنْ ابْنِ شِهَابٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَخْبَرَنِي أَبُو بَكْرِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، ‏‏‏‏‏‏أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏فَذَكَرَ مَعْنَى حَدِيثِ مَالِكٍ، ‏‏‏‏‏‏زَادَ وَإِنْ قَضَى مِنْ ثَمَنِهَا شَيْئًا فَهُوَ أُسْوَةُ الْغُرَمَاءِ فِيهَا."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Abu Bakr bin Adb al-Rahman bin al-Harith bin Hisham from Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم through a different chain of narrators to the same effect as narrated by Malik. This version adds:",
+      "text": "If he paid something from the price (of the property), then he will be equal to the creditors in it."
+    },
+    "ur": {
+      "narrator": "یونس، ابن شہاب سے روایت کرتے ہیں، وہ کہتے ہیں کہ مجھے ابوبکر بن عبدالرحمٰن بن حارث بن ہشام نے خبر دی کہ رسول اللہ صلی اللہ علیہ وسلم نے۔ ۔ ۔ پھر آگے انہوں نے مالک کی حدیث جیسی روایت ذکر کی، اس میں اتنا اضافہ ہے کہ",
+      "text": "اگر مشتری اس مال کی کسی قدر قیمت دے چکا ہے، تو وہ مال والا دوسرے قرض خواہوں کے برابر ہو گا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

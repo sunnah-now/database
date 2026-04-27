@@ -1,0 +1,41 @@
+{
+  "id": 1150,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ السَّرْحِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي ابْنُ لَهِيعَةَ، عَنْ خَالِدِ بْنِ يَزِيدَ، عَنِ ابْنِ شِهَابٍ، بِإِسْنَادِهِ وَمَعْنَاهُ قَالَ سِوَى تَكْبِيرَتَىِ الرُّكُوعِ ‏.‏"
+    },
+    "en": {
+      "narrator": "The above mentioned tradition has also been narrated by Ibn Shihab through a different chain of transmitters to the same effect. This version adds:",
+      "text": "\"Except the two takers pronounced at the time of the bowing.\""
+    },
+    "ur": {
+      "narrator": "ہم سے ابن سرح نے بیان کیا، کہا کہ ہم سے ابن وہب نے بیان کیا، کہا کہ مجھ سے ابن لہیعہ نے خالد بن یزید سے اور ابن شہاب کی سند سے ان کی سند اور اس کے معنی کے ساتھ فرمایا",
+      "text": "\"سوائے رکوع کی دو تکبیروں کے۔\""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1395,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Jumu`ah (Friday Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الجمعة"
+        },
+        "ur": {
+          "text": "کتاب جمعہ کے بیان میں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْأَعْلَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا الْمُعْتَمِرُ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنِ الزُّهْرِيِّ، ‏‏‏‏‏‏عَنِ السَّائِبِ بْنِ يَزِيدَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ بِلَالٌ يُؤَذِّنُ إِذَا جَلَسَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى الْمِنْبَرِ يَوْمَ الْجُمُعَةِ، ‏‏‏‏‏‏فَإِذَا نَزَلَ أَقَامَ، ‏‏‏‏‏‏ثُمَّ كَانَ كَذَلِكَ فِي زَمَنِ أَبِي بَكْرٍ وَعُمَرَ رَضِيَ اللَّهُ عَنْهُمَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that As-Sa'ib bin Yazid said: Bilal used to call the adhan when the Messenger of Allah (ﷺ) sat on the minbar on Friday, and when he came down he would say the Iqamah. It continued like that during the time of Abu Bakr and 'Umar, may Allah (SWT) be pleased with them."
+    },
+    "ur": {
+      "narrator": "سائب بن یزید رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "بلال رضی اللہ عنہ اس وقت اذان دیتے جب رسول اللہ صلی اللہ علیہ وسلم جمعہ کے دن منبر پر بیٹھ جاتے، پھر جب آپ اترتے تو وہ اقامت کہتے، اسی طرح ابوبکر اور عمر رضی اللہ عنہم کے زمانے میں بھی ہوتا رہا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

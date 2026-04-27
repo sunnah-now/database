@@ -1,0 +1,41 @@
+{
+  "id": 4538,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ،‏‏‏‏ عَنْ مَالِكٍ،‏‏‏‏ عَنْ نَافِعٍ،‏‏‏‏ عَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا،‏‏‏‏ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ نَهَى عَنِ الْمُزَابَنَةِ،‏‏‏‏ وَالْمُزَابَنَةُ:‏‏‏‏ بَيْعُ الثَّمَرِ بِالتَّمْرِ كَيْلًا،‏‏‏‏ وَبَيْعُ الْكَرْمِ بِالزَّبِيبِ كَيْلًا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ibn 'Umar that: the messenger of Allah forbade Muzabana, and Muzabanah means selling fresh dates still on tree for dried dates by measure, and selling fresh grapes for raisins by measure."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے بیع مزابنہ سے منع فرمایا، مزانبہ درخت پر لگے کھجور کو توڑے ہوئے کھجور سے ناپ کر بیچنا، اور بیل پر لگے تازہ انگور کو توڑے ہوئے انگور ( کشمش ) سے ناپ کر بیچنا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

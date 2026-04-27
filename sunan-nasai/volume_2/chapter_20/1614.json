@@ -1,0 +1,41 @@
+{
+  "id": 1614,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 20,
+      "language": {
+        "en": {
+          "text": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+        },
+        "ar": {
+          "text": "كتاب قيام الليل وتطوع النهار"
+        },
+        "ur": {
+          "text": "تہجد (قیام اللیل) اور دن میں نفل نمازوں کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا أَبُو عَوَانَةَ، ‏‏‏‏‏‏عَنْ أَبِي بِشْرٍ، ‏‏‏‏‏‏عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ هُوَ ابْنُ عَوْفٍ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏قال:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ أَفْضَلُ الصِّيَامِ بَعْدَ شَهْرِ رَمَضَانَ شَهْرُ اللَّهِ الْمُحَرَّمُ، ‏‏‏‏‏‏وَأَفْضَلُ الصَّلَاةِ بَعْدَ الْفَرِيضَةِ صَلَاةُ اللَّيْلِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Humaid bin 'Abdur-Rahman- that is Ibn 'Awf, that Abu Hurairah said: The Messenger of Allah (ﷺ) said: 'The best fasting after the month of Ramadan is the month of Allah, Al-Muharram, and the best prayer is prayer at night.'"
+    },
+    "ur": {
+      "narrator": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  رمضان کے مہینے کے بعد سب سے افضل روزے اللہ کے مہینے محرم کے روزے ہیں ۱؎، اور فرض نماز کے بعد سب سے افضل نماز قیام اللیل  ( تہجد )  ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

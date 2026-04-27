@@ -1,0 +1,41 @@
+{
+  "id": 2331,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "Fasting (Kitab Al-Siyam)"
+        },
+        "ar": {
+          "text": "كتاب الصوم"
+        },
+        "ur": {
+          "text": "روزوں کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ الْوَاحِدِ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو مُسْهِرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ سَعِيدٌ يَعْنِي ابْنَ عَبْدِ الْعَزِيزِ، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ سِرُّهُ أَوَّلُهُ. قَالَ أَبُو دَاوُد:‏‏‏‏ وَقَالَ بَعْضُهُمْ:‏‏‏‏ سِرُّهُ وَسَطُهُ. وَقَالُوا:‏‏‏‏ آخِرُهُ."
+    },
+    "en": {
+      "narrator": "Narrated Ahmad bin Abdul-Wahid: On the authority of Abu Mushir He said:",
+      "text": "Saeed, that is, Ibn Abd al-Aziz said: The meaning of the word sirraha is in the beginning of it (the month).\r\nAbu Dawood said: Some of them said: Sirrahu is its middle, and they say that it is its end."
+    },
+    "ur": {
+      "narrator": "ہم سے احمد بن عبد الواحد نے بیان کیا, ابومسہر کہتے ہیں",
+      "text": "سعید یعنی ابن عبدالعزیز کہتے ہیں «سره» کے معنی «أوله» کے ہیں۔ ابوداؤد کہتے ہیں: «سره» کے معنی کچھ لوگ «وسطه»کے بتاتے ہیں اور کچھ لوگ «آخره» کے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

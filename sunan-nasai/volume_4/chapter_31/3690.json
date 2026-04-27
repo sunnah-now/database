@@ -1,0 +1,41 @@
+{
+  "id": 3690,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 31,
+      "language": {
+        "en": {
+          "text": "The Book of Wills"
+        },
+        "ar": {
+          "text": "كتاب الوصايا"
+        },
+        "ur": {
+          "text": "وصیت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "قَالَ:‏‏‏‏ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏عَنِ الزُّهْرِيِّ، ‏‏‏‏‏‏عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏أَنَّ سَعْدَ بْنَ عُبَادَةَ اسْتَفْتَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي نَذْرٍ كَانَ عَلَى أُمِّهِ فَتُوُفِّيَتْ قَبْلَ أَنْ تَقْضِيَهُ، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ اقْضِهِ عَنْهَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Al-Harith bin Miskin said, it being read to him while I was listening: From Sufyan, from Az-Zuhri, from 'Ubaidullah bin 'Abdullah, from Ibn 'Abbas, that Sa'd bin 'Ubadah consulted the Prophet about a vow which his mother had to fulfill, but she died before doing so. The Messenger of Allah said: 'Fulfill it on her behalf.'"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عباس رضی الله عنہما سے روایت ہے کہ",
+      "text": "سعد بن عبادہ رضی اللہ عنہ نے نبی اکرم صلی اللہ علیہ وسلم سے ایک نذر کے متعلق مسئلہ پوچھا جو ان کی ماں کے ذمہ تھی اور جسے پوری کرنے سے پہلے ہی وہ مر گئیں۔ تو آپ نے فرمایا: ”اسے تم ان کی طرف سے پوری کر دو“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

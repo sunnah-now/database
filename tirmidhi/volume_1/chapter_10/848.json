@@ -1,0 +1,41 @@
+{
+  "id": 848,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "The Book on Hajj"
+        },
+        "ar": {
+          "text": "كتاب الحج عن رسول الله صلى الله عليه وسلم"
+        },
+        "ur": {
+          "text": "حج کے احکام و مناسک"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي قَتَادَةَ فِي حِمَارِ الْوَحْشِ مِثْلَ حَدِيثِ أَبِي النَّضْرِ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ هَلْ مَعَكُمْ مِنْ لَحْمِهِ شَيْءٌ . قَالَ أَبُو عِيسَى:‏‏‏‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "(Another chain that) Abu Qatadah narrated: About the wild donkey, and it is similar to the (previous) narrated of Abu An-Nadr except that in the narration of Zaid bin Aslam he said that the Messenger of Allah said: Do you have any of its meat left with you?"
+    },
+    "ur": {
+      "narrator": "اس سند سے بھی",
+      "text": "ابوقتادہ سے نیل گائے کے بارے میں ابونضر ہی کی حدیث کی طرح مروی ہے البتہ زید بن اسلم کی اس حدیث میں اتنا زائد ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کیا تمہارے پاس اس کے گوشت میں سے کچھ ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

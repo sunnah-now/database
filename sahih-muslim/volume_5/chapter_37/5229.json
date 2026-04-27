@@ -1,0 +1,41 @@
+{
+  "id": 5229,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا جَرِيرٌ عَنْ الْأَعْمَشِ عَنْ يَحْيَى بْنِ أَبِي عُمَرَ عَنْ ابْنِ عَبَّاسٍ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُنْبَذُ لَهُ الزَّبِيبُ فِي السِّقَاءِ فَيَشْرَبُهُ يَوْمَهُ وَالْغَدَ وَبَعْدَ الْغَدِ فَإِذَا كَانَ مَسَاءُ الثَّالِثَةِ شَرِبَهُ وَسَقَاهُ فَإِنْ فَضَلَ شَيْءٌ أَهَرَاقَهُ"
+    },
+    "en": {
+      "narrator": "Ibn Abbas رضی اللہ عنہ reported:",
+      "text": "Nabidh was prepared from raisins for Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) in the waterskin and he would drink it on that day and on the next day and the day following and when It was the evening of the third day, and he would drink it and give it to (his Companions) and if something was left over, he threw that away."
+    },
+    "ur": {
+      "narrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا, جریر نے اعمش سے انھوں نے یحییٰ ابو عمر سے ، انھوں نے حضرت عباس رضی اللہ عنہ سے روایت کی ، کہا",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم کے لیے مشک میں کشمش ڈال دی جا تی تھی آپ اس کو اس دن پیتے اور اس کے اگلے دن اور اس کے بعد والے دن تک پیتے اور جب تیسرے دن کی شام ہو تی تو آپ اس کو خود پیتے کسی اور کو پلا تے پھر اگر بچ جا تا تو اس کو بہا دیتے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

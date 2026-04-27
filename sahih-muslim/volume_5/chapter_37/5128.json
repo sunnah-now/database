@@ -1,0 +1,41 @@
+{
+  "id": 5128,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنِي عَبْدُ الرَّزَّاقِ أَخْبَرَنِي ابْنُ جُرَيْجٍ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Juraij with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عبد بن حمید نے بیان کیا, عبد الرزاق نے ابن جریج سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

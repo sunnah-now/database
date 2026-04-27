@@ -1,0 +1,41 @@
+{
+  "id": 1993,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The Book of Prayer - Friday"
+        },
+        "ar": {
+          "text": "كتاب الْجُمُعَةِ"
+        },
+        "ur": {
+          "text": "جمعہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا هِشَامُ بْنُ عَبْدِ الْمَلِكِ حَدَّثَنَا يَعْلَى بْنُ الْحَارِثِ عَنْ إِيَاسِ بْنِ سَلَمَةَ بْنِ الْأَكْوَعِ عَنْ أَبِيهِ قَالَ كُنَّا نُصَلِّي مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْجُمُعَةَ فَنَرْجِعُ وَمَا نَجِدُ لِلْحِيطَانِ فَيْئًا نَسْتَظِلُّ بِهِ."
+    },
+    "en": {
+      "narrator": "Iyas bin Salama bin Akwa' reported on the authority of his father, saying:",
+      "text": "We used to observe the Friday prayer with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), and when we returned we did not find the shadow of the walls in which we could take protection (from the heat of the sun)."
+    },
+    "ur": {
+      "narrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے ہشام بن عبدالملک نے بیان کیا، کہا ہم سے علی بن حارث نے بیان کیا، وہ ایاس بن سلمہ بن اکوع کے والد سے، انہوں نے کہا",
+      "text": "ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ جمعہ پڑھتے پھر لوٹتے تو ہمیں دیواروں کا اتنا بھی سایہ نہ ملتا کہ ہم ( سورج سے ) اس کی اوٹ لے سکیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

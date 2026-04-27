@@ -1,0 +1,41 @@
+{
+  "id": 25,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا أَبُو بَكْرٍ يَعْنِي ابْنَ عَيَّاشٍ، قَالَ: سَمِعْتُ الْمُغِيرَةَ، يَقُولُ: «لَمْ يَكُنْ يَصْدُقُ عَلَى عَلِيٍّ رَضِيَ اللهُ عَنْهُ فِي الْحَدِيثِ عَنْهُ إِلَّا مِنْ أَصْحَابِ عَبْدِ اللهِ بْنِ مَسْعُودٍ»"
+    },
+    "en": {
+      "narrator": "Alī bin Khashram narrated to us, Abū Bakr, meaning Ibn Ayyāsh, informed us:",
+      "text": "He said ‘I heard al-Mughīrah saying: ‘There are no Ḥadīth on authority of Alī ‌رضی ‌اللہ ‌عنہ ‌, may Allah be pleased with him, that are confirmed except from the companions of Abdullah bin Mas’ūd ‌رضی ‌اللہ ‌عنہ.’"
+    },
+    "ur": {
+      "narrator": "علی بن خشرم ‘ ابو بکر بن عیاش نے ہمیں بتایا",
+      "text": "کہا : میں نے مغیرہ سے سنا ، فرماتے تھے : حضرت علی ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے مروی احادیث میں کسی چیز کی تصدیق نہ کی جاتی تھی ، سوائے اس کے جو عبد اللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے شاگردوں سے روایت کی گئی ہو ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

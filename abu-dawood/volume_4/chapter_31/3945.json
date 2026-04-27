@@ -1,0 +1,41 @@
+{
+  "id": 3945,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 31,
+      "language": {
+        "en": {
+          "text": "The Book of Manumission of Slaves"
+        },
+        "ar": {
+          "text": "كتاب العتق"
+        },
+        "ur": {
+          "text": "غلاموں کی آزادی سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ، ‏‏‏‏‏‏حَدَّثَنَا جُوَيْرِيَةُ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏بِمَعْنَى مَالِكٍ وَلَمْ يَذْكُرْ وَإِلَّا فَقَدْ عَتَقَ مِنْهُ مَا عَتَقَ انْتَهَى حَدِيثُهُ إِلَى وَأُعْتِقَ عَلَيْهِ الْعَبْدُ عَلَى مَعْنَاهُ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been narrated by Ibn Umar رضی اللہ عنہما through a different chain of transmitters to the same effect as mentioned by Malik:",
+      "text": "In this version there is no mention of the words otherwise he will be emancipated to the extent of the first man's share. His version ends and the slave be thus emancipated, to the same effect as he (Malik) mentioned."
+    },
+    "ur": {
+      "narrator": "ہم سے عبداللہ بن محمد بن اسماء نے بیان کیا، ہم سے جویریہ نے نافع کی سند سے بیان کیا, اس سند سے بھی ابن عمر رضی اللہ عنہما سے مالک کی روایت کے ہم معنی روایت مرفوعاً مروی ہے",
+      "text": "مگر اس میں: «وإلا فقد عتق منه ما عتق» کا ٹکڑا مذکور نہیں اس کی حدیث: «وأعتق عليه العبد» پرمکمل ہوئی ہے جو اسی  کے ہم معنی ہے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

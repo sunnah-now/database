@@ -1,0 +1,41 @@
+{
+  "id": 6103,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The Book of Virtues"
+        },
+        "ar": {
+          "text": "كتاب الْفَضَائِلِ"
+        },
+        "ur": {
+          "text": "انبیائے کرام علیہم السلام کے فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنْ خَالِدٍ، بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Khalid with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, ابن علیہ نے خالد سے اسی سند کے ساتھ ہمیں حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4038,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Fighting [The Prohibition of Bloodshed]"
+        },
+        "ar": {
+          "text": "كتاب تحريم الدم"
+        },
+        "ur": {
+          "text": "قتل و خون ریزی کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، ‏‏‏‏‏‏عَنْ عَبْدِ الْأَعْلَى نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Narrated from 'Abdul-A'la: A similar report was narrated from 'Abdul-A'la."
+    },
+    "ur": {
+      "narrator": "اس سند سے بھی",
+      "text": "عبدالاعلی سے اسی طرح روایت ہے"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

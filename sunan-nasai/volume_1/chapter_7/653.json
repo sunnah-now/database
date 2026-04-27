@@ -1,0 +1,41 @@
+{
+  "id": 653,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book of the Adhan (The Call to Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الأذان"
+        },
+        "ur": {
+          "text": "اذان کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا سُوَيْدٌ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا عَبْدُ اللَّهِ، ‏‏‏‏‏‏عَنْ يُونُسَ بْنِ أَبِي إِسْحَاقَ، ‏‏‏‏‏‏عَنْ مُحَارِبِ بْنِ دِثَارٍ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنِي الْأَسْوَدُ بْنُ يَزِيدَ، ‏‏‏‏‏‏عَنْ أَبِي مَحْذُورَةَ، ‏‏‏‏‏‏ أَنّ آخِرَ الْأَذَانِ:‏‏‏‏ لَا إِلَهَ إِلَّا اللَّهُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Muharib bin Dithar said: Al-Aswad bin Yazid narrated to me from Abu Mahdhurah that the final words of the Adhan are: 'La ilaha illahha (there is none worthy of worship except Allah).'"
+    },
+    "ur": {
+      "narrator": "ابو محذورہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "اذان کا آخری کلمہ «لا إله إلا اللہ» ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

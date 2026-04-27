@@ -1,0 +1,41 @@
+{
+  "id": 4498,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنِي سَالِمُ بْنُ نُوحٍ،‏‏‏‏ قَالَ:‏‏‏‏ أَنْبَأَنَا يُونُسُ،‏‏‏‏ عَنْ مُحَمَّدِ بْنِ سِيرِينَ،‏‏‏‏ عَنْ أَنَسِ بْنِ مَالِكٍ،‏‏‏‏ قَالَ:‏‏‏‏ نُهِينَا أَنْ يَبِيعَ حَاضِرٌ لِبَادٍ،‏‏‏‏ وَإِنْ كَانَ أَخَاهُ أَوْ أَبَاهُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Anas bin Malik said: It was forbidden to us for a town-dweller to sell for a desert-dweller, even if he was his father or brother. (Sahih )"
+    },
+    "ur": {
+      "narrator": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "ہمیں اس بات سے روکا گیا کہ کوئی شہری کسی دیہاتی کا سامان بیچے، گرچہ وہ اس کا بھائی یا باپ ہی کیوں نہ ہو۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

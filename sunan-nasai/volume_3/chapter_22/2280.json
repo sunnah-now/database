@@ -1,0 +1,41 @@
+{
+  "id": 2280,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصيام"
+        },
+        "ur": {
+          "text": "روزوں کے احکام و مسائل و فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا عَبْدُ اللَّهِ، ‏‏‏‏‏‏عَنْ خَالِدٍ الْحَذَّاءِ، ‏‏‏‏‏‏عَنْ أَبِي الْعَلَاءِ بْنِ الشِّخِّيرِ، ‏‏‏‏‏‏عَنْ رَجُلٍ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Narrated from Abu Al-Ala bin Ash-Shikhkhir: A similar report was narrated from Abu Al-Ala bin Ash-Shikhkhir, from a man."
+    },
+    "ur": {
+      "narrator": "ابو العلاء بن شخیر بھی",
+      "text": "ایک شخص سے اسی جیسی حدیث روایت کرتے ہیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

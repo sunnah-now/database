@@ -1,0 +1,41 @@
+{
+  "id": 1423,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، بِهَذَا الْإِسْنَادِ، وَقَالَ: «بُيُوتَهُمْ وَقُبُورَهُمْ»، وَلَمْ يَشُكَّ."
+    },
+    "en": {
+      "narrator": "This hadith has heed narrated by Qatada with the same chain of transmitters. And he said:",
+      "text": "Their houses and their graves (be filled with fire), and did not express doubt over the words, houses and graves ."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن المثنی نے بیان کیا، کہا ہم سے ابن ابی عدی نے بیان کیا, سعید نے قتادہ سے اسی سند کے ساتھ مذکورہ بالا روایت بیان کی",
+      "text": "ان کے گھر اور ان کی قبریں (آگ سے بھر جائیں) اور الفاظ، گھروں اور قبروں پر شک کا اظہار نہ کیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

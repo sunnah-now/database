@@ -1,0 +1,41 @@
+{
+  "id": 930,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Book of the Commencement of the Prayer"
+        },
+        "ar": {
+          "text": "كتاب الافتتاح"
+        },
+        "ur": {
+          "text": "نماز شروع کرنے کے مسائل و احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ سُمَيٍّ، ‏‏‏‏‏‏عَنْ أَبِي صَالِحٍ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ إِذَا قَالَ الْإِمَامُ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلا الضَّالِّينَ سورة الفاتحة آية 7 فَقُولُوا:‏‏‏‏ آمِينَ فَإِنَّهُ مَنْ وَافَقَ قَوْلُهُ قَوْلَ الْمَلَائِكَةِ غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Abu Hurairah, may Allah be pleased with him, that: The Messenger of Allah (ﷺ) said: When the Imam says: Not (the way) of those who earned Your anger, nor of those who went astray, say: 'Amin,' for if a person's Amin coincides with the Amin of the angels, his previous sins will be forgiven.'"
+    },
+    "ur": {
+      "narrator": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  جب امام «غير المغضوب عليهم ولا الضالين» کہے تو تم لوگ آمین کہو، کیونکہ جس کا آمین کہنا فرشتوں کے آمین کہنے کے موافق ہو جائے گا اس کے تمام سابقہ گناہ بخش دیئے جائیں گے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

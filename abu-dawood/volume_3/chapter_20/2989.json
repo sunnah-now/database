@@ -1,0 +1,41 @@
+{
+  "id": 2989,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 20,
+      "language": {
+        "en": {
+          "text": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+        },
+        "ar": {
+          "text": "كتاب الخراج والإمارة والفىء"
+        },
+        "ur": {
+          "text": "محصورات اراضی اور امارت سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ الْمَرْوَزِيُّ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الرَّزَّاقِ، ‏‏‏‏‏‏أَخْبَرَنَا مَعْمَرٌ،‏‏‏‏عَنْ الزُّهْرِيِّ، ‏‏‏‏‏‏عَنْ عَلِيِّ بْنِ حُسَيْنٍ بِهَذِهِ الْقِصَّةِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ وَلَمْ يُخْدِمْهَا."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Ali bin Hussain through a different chain of narrators. This version adds:",
+      "text": "“He (the Prophet) did not provide her with a slave. ”"
+    },
+    "ur": {
+      "narrator": "ہم سے احمد بن محمد مروزی نے بیان کیا، ہم سے عبدالرزاق نے بیان کیا، انہیں معمر نے زہری کی سند سے بیان کیا, علی بن حسین سے بھی یہی واقعہ مروی ہے اس میں یہ ہے کہ اس میں یہ ہے کہ",
+      "text": "آپ صلی اللہ علیہ وسلم نے انہیں خادم نہیں دیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

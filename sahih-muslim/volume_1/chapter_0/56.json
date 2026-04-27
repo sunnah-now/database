@@ -1,0 +1,41 @@
+{
+  "id": 56,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، قَالَ: سَمِعْتُ زُهَيْرًا، يَقُولُ: قَالَ جَابِرٌ - أَوْ سَمِعْتُ جَابِرًا - يَقُولُ: «إِنَّ عِنْدِي لَخَمْسِينَ أَلْفَ حَدِيثٍ، مَا حَدَّثْتُ مِنْهَا بِشَيْءٍ»، قَالَ: ثُمَّ حَدَّثَ يَوْمًا بِحَدِيثٍ، فَقَالَ: «هَذَا مِنَ الْخَمْسِينَ أَلْفًا»"
+    },
+    "en": {
+      "narrator": "",
+      "text": "Hajjāj bin ash-Shā’ir narrated to me, Ahmad bin Yūnus narrated to us, he said, I heard Zuhayr saying, Jābir said, or, I heard Jābir saying: ‘Indeed I have fifty thousand Ḥadīth that I have not narrated from at all’. [Zuhayr] said: ‘Then that day he related a Ḥadīth and said, ‘This is from the fifty thousand’."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "۔ زہیر کہتے ہیں : جابر نے کہا یا میں نے جابر ( بن یزید ) کو یہ کہتے سنا : بلاشبہ میرے پاس پچاس ہزار حدیثیں ( ایسی ) ہیں جن میں سے میں نے کوئی حدیث بیان نہیں کی ، پھر ایک دن اس نے ایک حدیث بیان کی اور کہا : یہ ( ان ) پچاس ہزار حدیثوں میں سے ( ایک ) ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

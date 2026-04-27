@@ -1,0 +1,41 @@
+{
+  "id": 4705,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلَاءِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا ابْنُ إِدْرِيسَ، ‏‏‏‏‏‏عَنْ ابْنِ جُرَيْجٍ، ‏‏‏‏‏‏عَنْ أَبِي الزُّبَيْرِ، ‏‏‏‏‏‏عَنْ جَابِرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَضَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالشُّفْعَةِ فِي كُلِّ شَرِكَةٍ لَمْ تُقْسَمْ رَبْعَةٍ وَحَائِطٍ لَا يَحِلُّ لَهُ أَنْ يَبِيعَهُ حَتَّى يُؤْذِنَ شَرِيكَهُ، ‏‏‏‏‏‏فَإِنْ شَاءَ أَخَذَ، ‏‏‏‏‏‏وَإِنْ شَاءَ تَرَكَ، ‏‏‏‏‏‏وَإِنْ بَاعَ وَلَمْ يُؤْذِنْهُ فَهُوَ أَحَقُّ بِهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Jabir said: The Messenger of Allah ruled that pre-emption is to be given in everything that is shared in which the division is not clear, whether it is a house or a garden. It is not permissible to sell it before informing one's partner, who may take it or leave it, as he wishes. He (the share-owner) sells it without informing him, and then he has more right to it."
+    },
+    "ur": {
+      "narrator": "جابر رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے ہر مشترک مال جو تقسیم نہ ہوا ہو جیسے زمین یا باغ، میں شفعہ کا حکم دیا، اس کے لیے صحیح نہیں کہ وہ اسے بیچے جب تک کہ حصہ دار سے اجازت نہ لے لے، اگر وہ ( شریک ) چاہے تو اسے لے لے اور اگر چاہے تو چھوڑ دے، اور اگر اس ( شریک ) سے اس کی اجازت لیے بغیر بیچ دیا تو وہ اس کا زیادہ حقدار ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4479,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا هُشَيْمٌ،‏‏‏‏ عَنْ يَحْيَى بْنِ سَعِيدٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا نَافِعٌ،‏‏‏‏ عَنْ ابْنِ عُمَرَ،‏‏‏‏ قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْمُتَبَايِعَانِ لَا بَيْعَ بَيْنَهُمَا حَتَّى يَتَفَرَّقَا،‏‏‏‏ إِلَّا بَيْعَ الْخِيَارِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Yahya bin Sa 'eed , who said: Nafi narrated to us from Ibn 'Umar, who said: 'The Messenger of Allah said: There is no transaction between the two parties until they separate, unless they have chosen to conclude the transaction. (Sahih )"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”خرید و فروخت کرنے والے دونوں کے درمیان اس وقت تک بیع پوری نہیں ہوتی جب تک وہ جدا نہ ہو جائیں، سوائے بیع خیار کے“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

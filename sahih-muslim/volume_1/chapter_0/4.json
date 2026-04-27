@@ -1,0 +1,41 @@
+{
+  "id": 4,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ كَذَبَ عَلَيَّ مُتَعَمِّدًا، فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ»\r\nوَحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، أَخْبَرَنَا مُحَمَّدُ بْنُ قَيْسٍ الأَسَدِيُّ، عَنْ عَلِيِّ بْنِ رَبِيعَةَ الأَسَدِيِّ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ وَلَمْ يَذْكُرْ ‏ \"‏ إِنَّ كَذِبًا عَلَىَّ لَيْسَ كَكَذِبٍ عَلَى أَحَدٍ ‏\"‏ ‏.‏"
+    },
+    "en": {
+      "narrator": "Muhammad bin Ubayd il-Ghubarī narrated to us, Abū Awānah narrated to us, on authority of Abī Hasīn, on authority of Abī Sālih, on authority of Abū Hurayrah ‌رضی ‌اللہ ‌عنہ ‌:",
+      "text": "He said, the Messenger of Allah, peace and blessings of Allah upon him, said: ‘Whoever lies upon me intentionally, then let him take his seat in the Fire’.\r\n’ Ali bin Hujr as-Sa’di narrated to us, Ali bin Mushir narrated to us, Muhammad bin Qays il-Asadi informed us, on authority of Ali ibn Rabi’at al-Asadi, on authority of al-Mughirat ibn Shu’bah, on authority of the Prophet, peace and blessings of Allah upon him a similar narration, however he did not mention the words ‘Indeed a lie upon me is not like a lie upon anyone else’."
+    },
+    "ur": {
+      "narrator": "حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے",
+      "text": "کہا : رسول اللہﷺ نے فرمایا : ’’جس نے عمداً مجھ پر جھوٹ بولا وہ آگ میں اپنا ٹھکانا بنا لے ۔ \r\nہم سے علی بن حجر السعدی نے بیان کیا، ہم سے علی بن مشیر نے بیان کیا، انہیں محمد بن قیس الاسدی نے خبر دی، انہیں علی بن ربیعۃ الاسدی نے، وہ المغیرت بن شوع کی سند سے۔ بہ، نبی صلی اللہ علیہ وسلم سے اسی طرح کی روایت ہے، تاہم آپ صلی اللہ علیہ وسلم نے یہ الفاظ ذکر نہیں کیے کہ 'بے شک مجھ پر جھوٹ کسی اور پر جھوٹا نہیں ہے'۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

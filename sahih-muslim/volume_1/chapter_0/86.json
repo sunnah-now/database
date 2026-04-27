@@ -1,0 +1,41 @@
+{
+  "id": 86,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي الْفَضْلُ بْنُ سَهْلٍ، قَالَ: حَدَّثَنِي يَحْيَى بْنُ مَعِينٍ، حَدَّثَنَا حَجَّاجٌ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، «عَنْ شُرَحْبِيلَ بْنِ سَعْدٍ وَكَانَ مُتَّهَمًا"
+    },
+    "en": {
+      "narrator": "Al-Faḍl bin Sahl narrated to me, he said: ‘Yahyā bin Ma’īn narrated to me, Hajjāj narrated to us:",
+      "text": "Ibn Abī Dhi’b narrated to us on authority of Shurahbīl bin Sa’d , and he was imputed [with lying regarding Ḥadīth near the end of his life]’."
+    },
+    "ur": {
+      "narrator": "مجھ سے الفضل بن سہل نے بیان کیا، انہوں نے کہا: مجھ سے یحییٰ بن معین نے بیان کیا، ہم سے حجاج نے بیان کیا,ہم حجاج نے بیان کیا ، کہا",
+      "text": "ہم سے ابن ابی ذئب نے شرحبیل بن سعد کے حوالے سے حدیث بیان کی اور وہ متہم تھا"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

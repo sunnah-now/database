@@ -1,0 +1,41 @@
+{
+  "id": 3737,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Ar-Ruqba"
+        },
+        "ar": {
+          "text": "كتاب الرقبى"
+        },
+        "ur": {
+          "text": "رقبیٰ ( یعنی زندگی سے مشروط ہبہ ) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنِي مُحَمَّدُ بْنُ عَلِيِّ بْنِ مَيْمُونٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا مُحَمَّدٌ وَهُوَ ابْنُ يُوسُفَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ ابْنِ أَبِي نَجِيحٍ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنْ رَجُلٍ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جَعَلَ الرُّقْبَى لِلَّذِي أُرْقِبَهَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Muhammad bin 'Ali bin Maimun informed us, he said: Muhammad -he is, Ibn Yusuf- narrated to us, he said: 'Sufyan narrated to us from Ibn Abi Najih, from Tawus, from a man, from Zaid bin Thabit that the Prophet ruled that the Ruqba belongs to the one to whom it is given.'"
+    },
+    "ur": {
+      "narrator": "زید بن ثابت رضی الله عنہ سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے رقبیٰ کو اسی کا حق قرار دیا ہے جسے رقبیٰ کیا گیا ہے ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

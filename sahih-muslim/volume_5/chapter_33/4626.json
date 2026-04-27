@@ -1,0 +1,41 @@
+{
+  "id": 4626,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 33,
+      "language": {
+        "en": {
+          "text": "The Book Of Jihad And Expeditions"
+        },
+        "ar": {
+          "text": "كتاب الْجِهَادِ وَالسِّيَرِ"
+        },
+        "ur": {
+          "text": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ حَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، كِلَاهُمَا عَنْ عَبْدِ الرَّزَّاقِ، أَخْبَرَنَا الثَّوْرِيُّ، عَنِ ابْنِ أَبِي نَجِيحٍ، بِهَذَا الْإِسْنَادِ إِلَى قَوْلِهِ: زَهُوقًا، وَلَمْ يَذْكُرِ الْآيَةَ الْأُخْرَى، وَقَالَ: بَدَلَ نُصُبًا صَنَمًا."
+    },
+    "en": {
+      "narrator": "This tradition has been narrated by Ibn Abu Najah through a different chain of transmitters up to the word:",
+      "text": "Zahaqa, (This version) does not contain the second verse and substitutes Sanam for Nusub (both the words mean idol or image that is worshipped)."
+    },
+    "ur": {
+      "narrator": "ہم سے حسن بن علی الحلوانی اور عبد بن حمید نے بیان کیا، ان دونوں نے عبد الرزاق کی سند سے, ثوری نے ابن ابی نجیح سے اسی سند کے ساتھ",
+      "text": "زهوقا ( پہلی آیت کے آخر ) تک روایت کی ، دوسری آیت بیان نہیں کی اور ۔ ۔ نصبا کے بجائے ‘ صنما کہا : ( دونوں کے معنی بت کے ہیں."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}
