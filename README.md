@@ -1,6 +1,6 @@
 # Sunnah.now Database
 
-![db.sunnah.now](test/img.png)
+![db.sunnah.now](website/img.png)
 
 This directory contains Hadith data in JSON format and multiple groupings. These files are used to populate the Redis database for the sunnah.now API, but can also be used for offline use cases.
 
