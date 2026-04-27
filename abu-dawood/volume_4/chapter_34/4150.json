@@ -1,0 +1,41 @@
+{
+  "id": 4150,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "Clothing (Kitab Al-Libas)"
+        },
+        "ar": {
+          "text": "كتاب اللباس"
+        },
+        "ur": {
+          "text": "لباس سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الْأَعْلَى الْأَسَدِيُّ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ فُضَيْلٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏بِهَذَا الْحَدِيثِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ وَكَانَ سِتْرًا مَوْشِيًّا."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted through a different chain of narrators by Ibn Fudail on his father's authority. This version has:",
+      "text": "The curtain was embellished."
+    },
+    "ur": {
+      "narrator": "ہم سے واصل بن عبد الاعلی اسدی نے بیان کیا, فضیل سے یہی حدیث مروی ہے,اس میں ہے کہ",
+      "text": "وہ ایک منقش پردہ تھا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

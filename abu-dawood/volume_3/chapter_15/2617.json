@@ -1,0 +1,41 @@
+{
+  "id": 2617,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 15,
+      "language": {
+        "en": {
+          "text": "Jihad (Kitab Al-Jihad)"
+        },
+        "ar": {
+          "text": "كتاب الجهاد"
+        },
+        "ur": {
+          "text": "جہاد کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَمْرٍو الْغَزِّيُّ، ‏‏‏‏‏‏سَمِعْتُ أَبَا مُسْهِرٍ قِيلَ لَهُ:‏‏‏‏ أُبْنَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ نَحْنُ أَعْلَمُ هِيَ يُبْنَى فِلَسْطِينَ."
+    },
+    "en": {
+      "narrator": "Abdullah bin Amr Al-Gazzi narrated:",
+      "text": "Abu Mishar was told about Ubna. He said “We know it better. This is Yubna of Palestine."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمرو غزی کہتے ہیں کہ",
+      "text": "ابومسہر کے سامنے ابنیٰ کا تذکرہ آیا تو میں نے ان کو کہتے ہوئے سنا: ہم جانتے ہیں یہ یُبنی ہے جو فلسطین میں ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

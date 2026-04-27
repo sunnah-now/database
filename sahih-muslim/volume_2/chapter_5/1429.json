@@ -1,0 +1,41 @@
+{
+  "id": 1429,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "قَالَ مُسْلِمٌ: وَرَوَاهُ الْأَشْجَعِيُّ، عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنِ الْأَسْوَدِ بْنِ قَيْسٍ، عَنْ شَقِيقِ بْنِ عُقْبَةَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ: قَرَأْنَاهَا مَعَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ زَمَانًا بِمِثْلِ حَدِيثِ فُضَيْلِ بْنِ مَرْزُوقٍ."
+    },
+    "en": {
+      "narrator": "Imam Muslim said: Ashja'i narrated it from Sufyan al-Thauri, who narrated it from al-Aswad bin Qais, who narrated it from 'Uqba, who narrated it from al-Bara' bin 'Azib رضی ‌اللہ ‌عنہ who said:",
+      "text": "We recited with the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) (the above-mentioned verse like this, i. e. instead of Salat al- Wusta, Salat al-'Asr) for a certain period. as It has been mentioned (in the above-quoted hadith)."
+    },
+    "ur": {
+      "narrator": "مسلم نے کہا: اسے اشجعی نے سفیان ثوری کی سند سے،اسود بن قیس نے شقیق بن عبہ سے ، انہوں نے حضرت براء بن عازب ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی انھوں نے کہا",
+      "text": "ہم یہ آیت ایک عرصے تک نبی اکرم ﷺ کے ساتھ ( اسی طرح ) پڑھتے رہے ۔ ۔ ۔ ۔ ۔ ( آگے ) فضیل بن مرزوق کی ( سابقہ ) حدیث کی مانند ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

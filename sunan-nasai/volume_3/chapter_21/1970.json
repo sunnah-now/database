@@ -1,0 +1,41 @@
+{
+  "id": 1970,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 21,
+      "language": {
+        "en": {
+          "text": "The Book of Funerals"
+        },
+        "ar": {
+          "text": "كتاب الجنائز"
+        },
+        "ur": {
+          "text": "جنازہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا عَبْدُ اللَّهِ، ‏‏‏‏‏‏عَنْ مُوسَى بْنِ عُقْبَةَ، ‏‏‏‏‏‏عَنْ عَبْدِ الْوَاحِدِ بْنِ حَمْزَةَ، ‏‏‏‏‏‏أَنَّ عَبَّادَ بْنَ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ أَخْبَرَهُ، ‏‏‏‏‏‏أَنَّ عَائِشَةَ، ‏‏‏‏‏‏قَالَتْ:‏‏‏‏ مَا صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى سُهَيْلِ ابْنِ بَيْضَاءَ إِلَّا فِي جَوْفِ الْمَسْجِدِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from 'Abdul-Wahid bin Hamzah that 'Abbad bin 'Abdullah bin Az-Zubair told him that 'Aishah said: the Messenger of Allah did not offer the funeral prayer for Suhail bin Baida anywhere but inside the Masjid."
+    },
+    "ur": {
+      "narrator": "ام المؤمنین عائشہ رضی الله عنہا بیان کرتی ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے سہیل بن بیضاء ۱؎ کی نماز جنازہ مسجد کے صحن ہی میں پڑھی تھی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

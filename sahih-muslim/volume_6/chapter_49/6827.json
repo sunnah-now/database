@@ -1,0 +1,41 @@
+{
+  "id": 6827,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness"
+        },
+        "ar": {
+          "text": "كتاب الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ"
+        },
+        "ur": {
+          "text": "ذکر الٰہی‘دعا ‘توبہ اور استغفار"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه إِسْحَقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ أَخْبَرَنِي جَرِيرٌ عَنْ مُطَرِّفٍ بِهَذَا الْإِسْنَادِ نَحْوَ حَدِيثِ عَبْثَرٍ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been reported on the authority of Mutarrif with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اور مجھ سے اسحاق بن ابراہیم الحنظَلی نے کہا,  جریر نے مطرف سے اسی سند کے ساتھ عبثر کی حدیث کے مانند خبر دی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

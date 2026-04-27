@@ -1,0 +1,41 @@
+{
+  "id": 370,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي ابْنُ أَبِي عُمَرَ، حَدَّثَنَا مَرْوَانُ الْفَزَارِيُّ، حَدَّثَنَا أَبُو مَالِكٍ الْأَشْجَعِيُّ، عَنْ رِبْعِيٍّ، قالَ: لَمَّا قَدِمَ حُذَيْفَةُ مِنْ عِنْدِ عُمَرَ جَلَسَ، فَحَدَّثَنَا، فَقَالَ: إِنَّ أَمِيرَ الْمُؤْمِنِينَ أَمْسِ لَمَّا جَلَسْتُ إِلَيْهِ سَأَلَ أَصْحَابَهُ، أَيُّكُمْ يَحْفَظُ قَوْلَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي الْفِتَنِ؟ وَسَاقَ الْحَدِيثَ بِمِثْلِ حَدِيثِ أَبِي خَالِدٍ، وَلَمْ يَذْكُرْ تَفْسِيرَ أَبِي مَالِكٍ لِقَوْلِهِ: «مُرْبَادًّا مُجَخِّيًا»."
+    },
+    "en": {
+      "narrator": "It is narrated on the authority of Rib'i (bin Hirash):",
+      "text": "When Hudhaifa رضی ‌اللہ ‌عنہ came from 'Umar رضی ‌اللہ ‌عنہ ‌he sat down to narrate to us and said: Verily yesterday when I was sitting with the Commander of the believers he asked his companions: When amongst you retains in his memory the utterance of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) with regard to the turmoil? -and he cited the hadith like the hadith narrated on the authority of Abu Khalid, but he did not mention the exposition of his words (Murbaddan) and (Mujakhiyyan)."
+    },
+    "ur": {
+      "narrator": "ابن ابی عمر نے مجھ سے کہا,مروان فزاری نے کہا , ہمیں ابو مالک اشجعی نے حضرت ربعی سے حدیث سنائی ، انہوں نےکہا",
+      "text": "جب حذیفہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ حضرت عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ کی مجلس سے آئے تو بیٹھ کر ہمیں باتیں سنانے لگے اور کہا : کل جب میں امیر المومنین کی مجلس میں بیٹھا تو انہوں نے اپنے رفقاء سے پوچھا : تم میں سے کس نے فتنوں کے بارے میں رسو ل اللہ ﷺ کا فرمان یاد رکھا ہواہے ؟....... پھر ( مروان فزاری نے ) ابو خالد کی حدیث کی طرح حدیث بیان کی لیکن مرباداً مجخیاً سے متعلق ابو مالک کی تفسیر ذکر نہیں کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

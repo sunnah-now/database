@@ -1,0 +1,41 @@
+{
+  "id": 976,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ كَعْبِ بْنِ عُجْرَةَ، قَالَ قُلْنَا أَوْ قَالُوا يَا رَسُولَ اللَّهِ أَمَرْتَنَا أَنْ نُصَلِّيَ عَلَيْكَ وَأَنْ نُسَلِّمَ عَلَيْكَ فَأَمَّا السَّلاَمُ فَقَدْ عَرَفْنَاهُ فَكَيْفَ نُصَلِّي عَلَيْكَ قَالَ ‏ \"‏ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ ‏\"‏ ‏.‏"
+    },
+    "en": {
+      "narrator": "Ka’b bin ‘Ujrah said:",
+      "text": "We said or the people said: Messenger of Allah, you have commanded us to invoke blessing on you and to salute you. As regards salutation we have already learnt it. How should we invoke blessing? He said: Say: “O Allah, bless Muhammad and Muhammad’s family as Thou didst bless Abraham and Abraham’s family. O Allah, grant favours to Muhammad and Muhammad’s family as Thou didst grant favours to Abraham; Thou art indeed praiseworthy and glorious."
+    },
+    "ur": {
+      "narrator": "ہم سے حفص بن عمر نے بیان کیا، ہم سے شعبہ نے بیان کیا، انہوں نے الحکم کی سند سے، انہوں نے ابن ابی لیلیٰ کی سند سے، وہ کعب بن عجرہ سے، انہوں نے کہا",
+      "text": "ہم نے کہا یا انہوں نے کہا: یا رسول اللہ، آپ نے ہمیں آپ پر درود بھیجنے اور آپ کو سلام کرنے کا حکم دیا ہے۔ جہاں تک سلام کا تعلق ہے تو ہم نے اسے سیکھ لیا ہے لیکن ہم آپ پر درود کیسے بھیجیں؟ فرمایا: کہو ! اے خدا محمد اور آل محمد پر رحمت نازل فرما جیسا کہ تو نے ابراہیم پر رحمت نازل کی، اور برکت نازل فرما محمد اور آل محمد پر جس طرح تو نے ابراہیم کی آل پر برکتیں نازل کیں۔ بے شک تو قابل تعریف اور بزرگی والا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

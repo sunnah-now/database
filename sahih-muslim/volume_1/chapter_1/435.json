@@ -1,0 +1,41 @@
+{
+  "id": 435,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ عَبْدِ الْمَلِكِ، عَنْ عَطَاءٍ، عَنْ أَبِي هُرَيْرَةَ، {وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى} [النجم: 13]، قَالَ: «رَأَى جِبْرِيلَ»."
+    },
+    "en": {
+      "narrator": "It is narrated on the authority of Abu Huraira رضی اللہ عنہ :",
+      "text": "The (words of Allah): And certainly he saw him in another descent (al-Qur'an, Iiii. 13) imply that he saw Gabriel."
+    },
+    "ur": {
+      "narrator": "حضرت ابو ھریرہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "( اللہ کے فرمان ) آپ ﷺنے اسے ایک اور بار اترتےہوئے دیکھا ( کے بارے میں کہا’’آپﷺ نے جبرائیل علیہ سلام کو دیکھا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

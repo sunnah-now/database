@@ -1,0 +1,41 @@
+{
+  "id": 3397,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ عَبْدُ اللهِ بْنُ هَاشِمٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنِ ابْنِ دِينَارٍ، بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ كُلَّ سَبْتٍ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Ibn Dinar:",
+      "text": "But he made no mention of: Every Saturday."
+    },
+    "ur": {
+      "narrator": "مجھ سے عبداللہ بن ہاشم نے بیان کیا، ہم سے وکیع نے بیان کیا،سفیان ثوری نے ابن دینار سے اسی سند کے ساتھ روایت کی",
+      "text": "مگر ہر ہفتے کے روز کا ذکر نہیں کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

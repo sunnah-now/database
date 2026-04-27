@@ -1,0 +1,41 @@
+{
+  "id": 899,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا حُسَيْنٌ الْجُعْفِيُّ، عَنْ زَائِدَةَ، عَنْ مَنْصُورٍ بِهَذَا الْإِسْنَادِ مِثْلَ حَدِيثِهِمَا وَذَكَرَ فِي الْحَدِيثِ: «ثُمَّ لْيَتَخَيَّرْ بَعْدُ مِنَ الْمَسْأَلَةِ مَا شَاءَ - أَوْ مَا أَحَبَّ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Mansur with the same chain of transmitters and he made a mention of this:",
+      "text": "Then he may choose any supplication which pleases him or which he likes."
+    },
+    "ur": {
+      "narrator": "ہم سے عبد بن حمید نے بیان کیا، کہا ہم سے حسین الجعفی نے بیان کیا، زیدہ رضی اللہ عنہ سے,منصور کے ایک اور شاگرد زائدہ نے ان سے اسی سند کے ساتھ ان دونوں ( جریر اور شعبہ ) کی حدیث کی طرح حدیث بیان کی",
+      "text": "لیکن آخری کلمات میں ماشاء ( جو چاہے ) کی جگہ ما أحب ( جو پسند کرے ) کے الفاظ کہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

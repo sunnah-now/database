@@ -1,0 +1,41 @@
+{
+  "id": 344,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا مَحْمُودُ بْنُ غَيْلَانَ، حَدَّثَنَا أَبُو النَّضْرِ، حَدَّثَنَا أَبُو سَعِيدٍ الْمُؤَدِّبُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، بِهَذَا الْإِسْنَادِ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: يَأْتِي الشَّيْطَانُ أَحَدَكُمْ فَيَقُولُ: مَنْ خَلَقَ السَّمَاءَ؟ مَنْ خَلَقَ الْأَرْضَ؟ فَيَقُولُ: اللهُ ثُمَّ ذَكَرَ بِمِثْلِهِ وَزَادَ، وَرُسُلِهِ."
+    },
+    "en": {
+      "narrator": "This hadith has been transmitted by Mahmud bin Ghailan by another chain of transmitters (and the words are):",
+      "text": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: The Satan will come to everyone of you and say: Who created the heaven, who created the earth? (And the man) replies: It is Allah, Then the remaining part of the hadith was narrated as mentioned above and the words 'His prophets were added to it."
+    },
+    "ur": {
+      "narrator": "ہم سے محمود بن غیلان نے بیان کیا، ہم سے ابو النضر نے بیان کیا،ابو سعید مؤدب نے ہشام بن عروہ سے اسی سند کے ساتھ روایت کی کہ",
+      "text": "رسول ا للہ ﷺ نے فرمایا : ’’ تم میں سے کسی کے پاس شیطان آتا ہے او رکہتا ہے : آسمان کو کس نے پیدا کیا ؟ زمین کو کس نے پیدا کیا تو وہ ( جواب میں ) کہتا ہے اللہ نے ..... ‘ ‘ پھر اوپر والی روایت کی طرح بیان کی ’’اور اس کے رسولوں پر ( ایمان لایا ) ‘ ‘ کے الفاظ کا اضافہ کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

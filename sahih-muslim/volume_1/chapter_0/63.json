@@ -1,0 +1,41 @@
+{
+  "id": 63,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي الْفَضْلُ بْنُ سَهْلٍ، قَالَ: حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ، حَدَّثَنَا هَمَّامٌ، قَالَ: قَدِمَ عَلَيْنَا أَبُو دَاوُدَ الْأَعْمَى، فَجَعَلَ يَقُولُ: حَدَّثَنَا الْبَرَاءُ، قَالَ: وَحَدَّثَنَا زَيْدُ بْنُ أَرْقَمَ، فَذَكَرْنَا ذَلِكَ لِقَتَادَةَ، فَقَالَ: «كَذَبَ، مَا سَمِعَ مِنْهُمْ، إِنَّمَا كَانَ ذَلِكَ سَائِلًا يَتَكَفَّفُ النَّاسَ زَمَنَ طَاعُونِ الْجَارِفِ»"
+    },
+    "en": {
+      "narrator": "Al-Faḍl bin Sahl narrated to me, he said Affān bin Muslim narrated to us, Hammām narrated to us, he said, Abū Dāwud al-A’mā came to us and began saying: ‘Al-Barā’ [bin Āzib, the Companion] narrated to us’; he said: ‘",
+      "text": "Zayd bin Arqam narrated to us’- and he mentioned that [those chains] to Qatādah. [Qatādah] said ‘He lied; he did not hear from them. He would beg the people asking [about Ḥadīth] at the time of the plague’ [circa 67H]."
+    },
+    "ur": {
+      "narrator": "مجھ سے الفضل بن سہل نے بیان کیا، انہوں نے کہا: ہم سے عفان بن مسلم نے بیان کیا، ہم سے ہمام نے بیان کیا، انہوں نے کہا: ہمارے پاس ابوداؤد نابینا آیا تو کہنے لگا: ہمیں براء ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے حدیث سنائی",
+      "text": "ہمیں زید بن ارقم ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے حدیث بیان کی ۔ ہم نے یہ بات قتادہ کو بتائی ، انہوں نے کہا : اس نے جھوٹ بولا ۔ اس نے ان سے نہیں سنا ، وہ تو ایک منگتا تھا ، انسانوں کی بیخ کنی کرنے والے طاعون ( کے دوران ) میں لوگوں کے سامنے ہاتھ پھیلاتا پھرتا تھا"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

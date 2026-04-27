@@ -1,0 +1,41 @@
+{
+  "id": 2628,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا ابْنُ نُمَيْرٍ، وَقَالَ أَبُو بَكْرٍ: حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، كِلَاهُمَا عَنْ هِشَامٍ، بِهَذَا الْإِسْنَادِ أَنَّ حَمْزَةَ قَالَ: إِنِّي رَجُلٌ أَصُومُ، أَفَأَصُومُ فِي السَّفَرِ؟"
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Hisham with the same chain of transmitters that Hamza رضی اللہ تعالیٰ عنہ said:",
+      "text": "I am a person much used to fasting. Should I fast during the journey? (The rest of the hadith is the same.)"
+    },
+    "ur": {
+      "narrator": "ابو بکر بن ابی شیبہ ابو کریب ، ابن نمیر ، ابو بکر عبداالرحیم بن سلیمان ، حضرت ہشام سے اس سند کے ساتھ روایت ہے کہ حضرت حمزہ رضی اللہ تعالیٰ عنہ نے کہا کہ",
+      "text": "میں ایک روزے دار آدمی ہوں تو کیا میں سفر میں بھی روزہ رکھوں؟"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

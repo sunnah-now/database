@@ -1,0 +1,41 @@
+{
+  "id": 1674,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "Zakat (Kitab Al-Zakat)"
+        },
+        "ar": {
+          "text": "كتاب الزكاة"
+        },
+        "ur": {
+          "text": "زکوۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ إِدْرِيسَ، ‏‏‏‏‏‏عَنْ ابْنِ إِسْحَاقَ، ‏‏‏‏‏‏بِإِسْنَادِهِ، ‏‏‏‏‏‏وَمَعْنَاهُ، ‏‏‏‏‏‏زَادَ:‏‏‏‏ خُذْ عَنَّا مَالَكَ لَا حَاجَةَ لَنَا بِهِ ."
+    },
+    "en": {
+      "narrator": "The above mentioned tradition has also been transmitted by Ibn Ishaq through a different chain of narrators to the same effect:",
+      "text": "This version adds have your property with you from us. We have no need of it."
+    },
+    "ur": {
+      "narrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا، کہا ہم سے ابن ادریس نے بیان کیا, اس سند سے بھی ابن اسحاق سے اسی مفہوم کی حدیث اسی طریق سے مروی ہے",
+      "text": "البتہ اس میں اتنا اضافہ ہے: «خذ عنا مالك لا حاجة لنا به» اپنا مال ہم سے لے لو ہمیں اس کی ضرورت نہیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

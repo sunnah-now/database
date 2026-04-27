@@ -1,0 +1,41 @@
+{
+  "id": 3424,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "The Book of Divorce"
+        },
+        "ar": {
+          "text": "كتاب الطلاق"
+        },
+        "ur": {
+          "text": "طلاق کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏عَنْ أَبِي إِسْحَاق، ‏‏‏‏‏‏عَنْ أَبِي الْأَحْوَصِ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ طَلَاقُ السُّنَّةِ، ‏‏‏‏‏‏أَنْ يُطَلِّقَهَا طَاهِرًا فِي غَيْرِ جِمَاعٍ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdullah said: The Sunnah divorce is to divorce her when she is pure (not menstruating) without having had intercourse with her."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن مسعود رضی الله عنہ کہتے ہیں کہ",
+      "text": "طلاق سنت یہ ہے کہ عورت کو طہر کی حالت میں بغیر جماع کیے ہوئے طلاق دے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

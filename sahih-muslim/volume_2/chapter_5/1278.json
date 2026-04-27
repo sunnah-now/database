@@ -1,0 +1,41 @@
+{
+  "id": 1278,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، بِهَذَا الْإِسْنَادِ، وَقَالَ: «فَلْيَتَحَرَّ أَقْرَبَ ذَلِكَ إِلَى الصَّوَابِ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated by Mansur with the same chain of transmitters and said:",
+      "text": "He should aim at correctness and that is right."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن المثنی نے بیان کیا، کہا ہم سے محمد بن جعفر نے بیان کیا,شعبہ نے منصور سے اسی سند کے ساتھ یہی حدیث بیان کی اور کہا",
+      "text": "’’ اس میں جو صحیح کے قریب تر ہے اس کی جستجو کرے ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

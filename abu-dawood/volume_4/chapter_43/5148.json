@@ -1,0 +1,41 @@
+{
+  "id": 5148,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "General Behavior (Kitab Al-Adab)"
+        },
+        "ar": {
+          "text": "كتاب الأدب"
+        },
+        "ur": {
+          "text": "آداب و اخلاق کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يُوسُفُ بْنُ مُوسَى، ‏‏‏‏‏‏حَدَّثَنَا جَرِيرٌ، ‏‏‏‏‏‏عَنْ سُهَيْلٍ بِهَذَا الْإِسْنَادِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ ثَلَاثُ أَخَوَاتٍ أَوْ ثَلَاثُ بَنَاتٍ، ‏‏‏‏‏‏أَوْ بِنْتَانِ، ‏‏‏‏‏‏أَوْ أُخْتَانِ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Suhail through a different chain of narrators to the same effect. This version has:",
+      "text": "“Three sisters, or three daughter, or two daughter, or two sisters”."
+    },
+    "ur": {
+      "narrator": "ہم سے یوسف بن موسیٰ نے بیان کیا، ہم سے جریر نے بیان کیا, سہل سے اسی سند سے اسی مفہوم کی حدیث مروی ہے, اس میں ہے کہ",
+      "text": "تین بہنیں ہوں، یا تین بیٹیاں، یا دو بہنیں ہوں یا دو بیٹیاں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

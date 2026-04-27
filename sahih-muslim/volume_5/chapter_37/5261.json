@@ -1,0 +1,41 @@
+{
+  "id": 5261,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنِيهِ أَبُو بَكْرِ بْنُ نَافِعٍ حَدَّثَنَا عَبْدُ الرَّحْمَنِ حَدَّثَنَا سُفْيَانُ عَنْ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ وَقَدَّمَ مَجِيءَ الْجَارِيَةِ قَبْلَ مَجِيءِ الْأَعْرَابِيِّ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Al-A'mash with this chain of narrators (a Hadith similar to no. 5260), but he did not mentioned the girl arrival before that of the Bedouin."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے ابوبکر بن نافع نے بیان کیا، ہم سے عبدالرحمٰن نے بیان کیا, سفیان نے اعمش سے اسی سند کے ساتھ حدیث بیان کی اور لڑکی کا آنا ، اعرابی کے آنے سے پہلے بیان کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

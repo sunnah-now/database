@@ -1,0 +1,41 @@
+{
+  "id": 3885,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Transactions"
+        },
+        "ar": {
+          "text": "كتاب الْبُيُوعِ"
+        },
+        "ur": {
+          "text": "لین دین کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ ابْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللهِ، بِهَذَا الْإِسْنَادِ، وَقَالَ: أَنْ تُؤْخَذَ بِخَرْصِهَا."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Ubaidullah reported this hadith with a slight change of words on the same authority (as quoted above)."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابن المثنی نے بیان کیا, یحییٰ بن سعید نے عبیداللہ سے اسی سند کے ساتھ حدیث روایت کی ، اور ( فروخت کر دیا جائے کی بجائے ) \" حاصل کر لیا جائے \" کے الفاظ بیان کیے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

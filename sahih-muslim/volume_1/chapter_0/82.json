@@ -1,0 +1,41 @@
+{
+  "id": 82,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي أَحْمَدُ بْنُ يُوسُفَ الْأَزْدِيُّ، قَالَ: سَمِعْتُ عَبْدَ الرَّزَّاقِ، يَقُولُ: مَا رَأَيْتُ ابْنَ الْمُبَارَكِ يُفْصِحُ بِقَوْلِهِ كَذَّابٌ إِلَّا لِعَبْدِ الْقُدُّوسِ، فَإِنِّي سَمِعْتُهُ يَقُولُ لَهُ: «كَذَّابٌ»"
+    },
+    "en": {
+      "narrator": "Ahmad bin Yūsuf al-Azdī narrated to me, he said, I heard Abd ar-Razzāq saying:",
+      "text": "‘I did not see Ibn al-Mubārak express so plainly the charge of ‘lying’ except towards Abd ul-Quddūs; for indeed I heard him saying to him ‘[You are] a liar’.’"
+    },
+    "ur": {
+      "narrator": "مجھ سے احمد بن یوسف ایزدی نے بیان کیا، کہا: میں نے سناعبد الرزاق کہتے ہیں",
+      "text": "میں نے ابن مبارک کو ( ایسا کرتے ) نہیں دیکھا کہ وہ کھل کر اپنی یہ بات ( رائے ) کہہ دیں کہ فلاں جھوٹا ہے ، سوائے عبد القدوس کے ۔ میں نے انہیں خود یہ کہتے سنا کہ وہ جھوٹا ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

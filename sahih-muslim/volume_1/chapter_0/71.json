@@ -1,0 +1,41 @@
+{
+  "id": 71,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، قَالَ: سَمِعْتُ أَبَا مُوسَى، يَقُولُ: «حَدَّثَنَا عَمْرُو بْنُ عُبَيْدٍ قَبْلَ أَنْ يُحْدِثَ»"
+    },
+    "en": {
+      "narrator": "Salamah bin Shabīb narrated to me, al-Humaydī narrated to us, Sufyān narrated to us, he said I heard Abū Mūsā [Isrā’īl bin Mūsā al-Basrī] saying:",
+      "text": "‘Amr bin Ubayd narrated to us before what happened’ [i.e. before he became Mu’tazilī]."
+    },
+    "ur": {
+      "narrator": "مجھ سے سلمہ بن شبیب نے بیان کیا، کہا ہم سے حمیدی نے بیان کیا، کہا ہم سےسفیان نے بیان کیا ، کہا : میں نے ابو موسیٰ ( اسرائیل بن موسیٰ بصری ، نزیل ہند ) سے سنا ، کہہ رہے تھے",
+      "text": "ہمیں عمرو بن عبید نے بدعت کا شکار ہونے سے پہلے حدیث سنائی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

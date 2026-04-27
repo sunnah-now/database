@@ -1,0 +1,41 @@
+{
+  "id": 1508,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ السَّخْتِيَانِيِّ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: إِنَّ الْمَلَائِكَةَ تُصَلِّي عَلَى أَحَدِكُمْ مَا دَامَ فِي مَجْلِسِهِ، تَقُولُ: اللهُمَّ اغْفِرْ لَهُ، اللهُمَّ ارْحَمْهُ، مَا لَمْ يُحْدِثْ، وَأَحَدُكُمْ فِي صَلَاةٍ مَا كَانَتِ الصَّلَاةُ تَحْبِسُهُ."
+    },
+    "en": {
+      "narrator": "Abu Huraira رضی اللہ عنہ reported:",
+      "text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The angels invoke blessings on everyone among you so long as he is in a place of worship with these words: O Allah! pardon him, O Allah, have mercy upon him, (and they continue to do so) as long as, he ablution (of the worshipper) is not broken, and one among you is in prayer and so long as he is detained for the prayer."
+    },
+    "ur": {
+      "narrator": "ہم سے ابن ابی عمر نے بیان کیا، کہا ہم سے سفیان نے بیان کیا، ایوب سختیانی سے,ابن سیرین نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی ، کہا",
+      "text": "رسول اللہ ﷺنے فرمایا : ‘ ‘ تم میں سے کوئی شخص جب تک اپنی ( نماز پڑھنے کی ) جگہ پر بیٹھا رہتا ہے ، فرشتے اس کے حق میں دعا کرتے رہتے ہیں ، کہتے ہیں : اے اللہ! اسے بخش دے! اے اللہ اس پر رحم فرما! جب تک وہ بے وضو نہیں ہوتا ، نیز جب تک تم میں سے کسی شخض کو نماز روکے رکھتی ہے ، وہ نماز ہی میں ہوتا ہے ۔ ’’"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

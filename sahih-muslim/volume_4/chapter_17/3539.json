@@ -1,0 +1,41 @@
+{
+  "id": 3539,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 17,
+      "language": {
+        "en": {
+          "text": "The Book of Marriage"
+        },
+        "ar": {
+          "text": "كتاب النِّكَاحِ"
+        },
+        "ur": {
+          "text": "نکاح کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا خَالِدٌ يَعْنِي ابْنَ الْحَارِثِ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ، وَقَالَ: «حَتَّى تَرْجِعَ»."
+    },
+    "en": {
+      "narrator": "Shobah narrated it with this chain of transmitters (with a slight variation):",
+      "text": "He said: Until she comes back."
+    },
+    "ur": {
+      "narrator": "مجھ سے یحییٰ بن حبیب نے بیان کیا, خالد بن حارث نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ یہی حدیث بیان کی ، اور کہا",
+      "text": "\" یہاں تک کہ وہ ( اس کے بستر پر ) لوٹ آئے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

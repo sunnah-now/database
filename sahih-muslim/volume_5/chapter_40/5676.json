@@ -1,0 +1,41 @@
+{
+  "id": 5676,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of Greetings"
+        },
+        "ar": {
+          "text": "كتاب السَّلَامِ"
+        },
+        "ur": {
+          "text": "سلامتی اور صحت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنِي أَبُو الطَّاهِرِ أَخْبَرَنَا ابْنُ وَهْبٍ قَالَ وَسَمِعْتُ اللَّيْثَ بْنَ سَعْدٍ يَقُولُ الْحَمْوُ أَخُ الزَّوْجِ وَمَا أَشْبَهَهُ مِنْ أَقَارِبِ الزَّوْجِ ابْنُ الْعَمِّ وَنَحْوُهُ."
+    },
+    "en": {
+      "narrator": "Ibn Wahb reported:",
+      "text": "I heard Laith bin Said as saying: Al-Hamv means the brother of husband or like it from amongst the relatives of the husband, for example, cousin, etc."
+    },
+    "ur": {
+      "narrator": "ابو الطاہر نے مجھے بتایا, ابن وہب نے کہا",
+      "text": "میں نے لیث بن سعد سے سنا ، کہہ رہے تھے : حمو ( دیور/جیٹھ ) خاوند کابھائی ہے یا خاوند کے رشتہ داروں میں اس جیسا رشتہ رکھنے والا ، مثلاً : اس کا چچا زاد وغیرہ ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

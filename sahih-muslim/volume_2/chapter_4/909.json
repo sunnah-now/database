@@ -1,0 +1,41 @@
+{
+  "id": 909,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا وَكِيعٌ، عَنْ شُعْبَةَ، وَمِسْعَرٍ، عَنِ الْحَكَمِ، بِهَذَا الْإِسْنَادِ مِثْلَهُ وَلَيْسَ فِي حَدِيثِ مِسْعَرٍ: أَلَا أُهْدِي لَكَ هَدِيَّةً."
+    },
+    "en": {
+      "narrator": "A hadith like this has been narrated by Mis'ar on the authority of al-Hakam, but in the hadith transmitted by Mis'ar these words are not found:",
+      "text": "Should I not offer you a present?"
+    },
+    "ur": {
+      "narrator": "ہم سے زہیر بن حرب اور ابو کریب نے بیان کیا, وکیع نے شعبہ اور مسعر سے اسی سند کے ساتھ حکم سے اسی کی مانند روایت کی اور مسعر کی حدیث میں یہ جملہ نہیں ہے",
+      "text": "کیا میں تمہیں ایک تحفہ نہ دوں؟"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

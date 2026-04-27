@@ -1,0 +1,41 @@
+{
+  "id": 1386,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَبِي أَيُّوبَ، وَاسْمُهُ يَحْيَى بْنُ مَالِكٍ الْأَزْدِيُّ وَيُقَالُ الْمَرَاغِيُّ، وَالْمَرَاغُ حَيٌّ مِنَ الْأَزْدِ، عَنْ عَبْدِ اللهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «وَقْتُ الظُّهْرِ مَا لَمْ يَحْضُرِ الْعَصْرُ، وَوَقْتُ الْعَصْرِ مَا لَمْ تَصْفَرَّ الشَّمْسُ، وَوَقْتُ الْمَغْرِبِ مَا لَمْ يَسْقُطْ ثَوْرُ الشَّفَقِ، وَوَقْتُ الْعِشَاءِ إِلَى نِصْفِ اللَّيْلِ، وَوَقْتُ الْفَجْرِ مَا لَمْ تَطْلُعِ الشَّمْسُ»."
+    },
+    "en": {
+      "narrator": "Abdullah bin 'Amr reported:",
+      "text": "The Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) saying: The time of the noon prayer (lasts) as long as it is not afternoon, and the time of the afternoon prayer (lasts) as long as the sun does not turn pale and the time of the evening prayer (lasts) as long as the spreading appearance of the redness above the horizon after sunset does not sink down, and the, time of the night prayer (lasts) by midnight and the time of the morning prayer (lasts) as long as the sun dots not rise."
+    },
+    "ur": {
+      "narrator": "معاذ عنبری نے کہا : ہمیں شعب نے قتادہ سے ، انھوں نے ابو ایوب سے حدیث سنائی ۔ ابو ایوب کا نام یحییٰ بن مالک ازدی ہے ۔ ان کو مراغی بھی کہا جاتا ہے اور مراغ قبیلہ ازدہی کی ایک شاخ ہے ۔ انھوں نے حضرت عبداللہ بن عمرو رضی اللہ تعالیٰ عنہا سے اور انھوں نے نبی اکرم ﷺ سے روایت کی کہ",
+      "text": "آپ ﷺ نے فرمایا ’’ظہر کا وقت تب تک ہےجب تک عصر کا وقت شروع نہ ہو ، اور عصر کا وقت ہے جب تک سورج زرد نہ ہو ، اور مغرب کا وقت ہے جب تک شفق غروب نہ ہو ، اور عشاء کا وقت آدھی رات تک ہے اور فجر کا وقت ہے جب تک سورج طلوع نہ ہو ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4103,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "Clothing (Kitab Al-Libas)"
+        },
+        "ar": {
+          "text": "كتاب اللباس"
+        },
+        "ur": {
+          "text": "لباس سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ السَّرْحِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ رَأَيْتُ فِي كِتَابِ خَالِي عَنْ عُقَيْلٍ، ‏‏‏‏‏‏عَنِ ابْنِ شِهَابٍ بِإِسْنَادِهِ وَمَعْنَاهُ."
+    },
+    "en": {
+      "narrator": "Ibn al-Sarh said:",
+      "text": "I saw (this tradition) in the writing of my maternal uncle from Aqil, from Ibn Shihab through a different chain of narrators and to the same effect."
+    },
+    "ur": {
+      "narrator": "ابن سرح کہتے ہیں",
+      "text": "میں نے اپنے ماموں کی کتاب میں «عقيل عن ابن شهاب» کے طریق سے اسی مفہوم کی روایت دیکھی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

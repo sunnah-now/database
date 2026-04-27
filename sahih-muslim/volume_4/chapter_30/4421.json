@@ -1,0 +1,41 @@
+{
+  "id": 4421,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "The Book Of Legal Punishments"
+        },
+        "ar": {
+          "text": "كتاب الْحُدُودِ"
+        },
+        "ur": {
+          "text": "حدود کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَرَوَاهُ اللَّيْثُ، أَيْضًا عَنْ عَبْدِ الرَّحْمَنِ بْنِ خَالِدِ بْنِ مُسَافِرٍ، عَنِ ابْنِ شِهَابٍ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated through another chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اسے لیث نے بھی روایت کیا ہے,عبدالرحمن بن خالد بن مسافر نے ابن شہاب سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

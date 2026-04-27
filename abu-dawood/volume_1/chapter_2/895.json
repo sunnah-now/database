@@ -1,0 +1,41 @@
+{
+  "id": 895,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الرَّزَّاقِ، ‏‏‏‏‏‏عَنْ مَعْمَرٍ، ‏‏‏‏‏‏نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The above mentioned tradition has also been transmitted by Mamar رضی اللہ عنہ through a different chain of narrators to the same effect."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے محمد بن یحییٰ نے بیان کیا، کہا ہم سے عبدالرزاق نے، معمر رضی اللہ عنہ سے ایسا ہی کچھ بیان کیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 630,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The Book on Zakat"
+        },
+        "ar": {
+          "text": "كتاب الزكاة عن رسول الله صلى الله عليه وسلم"
+        },
+        "ur": {
+          "text": "زکاۃ و صدقات کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، قَالَ:‏‏‏‏ سَأَلَنِي عُمَرُ بْنُ عَبْدِ الْعَزِيزِ، ‏‏‏‏‏‏عَنْ صَدَقَةِ الْعَسَلِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قُلْتُ:‏‏‏‏ مَا عِنْدَنَا عَسَلٌ نَتَصَدَّقُ مِنْهُ، ‏‏‏‏‏‏وَلَكِنْ أَخْبَرَنَا الْمُغِيرَةُ بْنُ حَكِيمٍ، أَنَّهُ قَالَ:‏‏‏‏ لَيْسَ فِي الْعَسَلِ صَدَقَةٌ . فَقَالَ عُمَرُ:‏‏‏‏ عَدْلٌ مَرْضِيٌّ فَكَتَبَ إِلَى النَّاسِ أَنْ تُوضَعَ يَعْنِي عَنْهُمْ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Ubaidulah bin Umar narrated that : Nafi said: Umar bin Adbul-Aziz asked me about charity due on honey, so I said to him: 'We do not have honey that we could give charity from, but Al-Mughirah bin Hakim informed us that he (pbuh) said: 'There is no charity due on honey.' So Umar said: 'That is fair enough for me.' So he wrote to the people that is be lifted, meaning (the duty of paying it) from them."
+    },
+    "ur": {
+      "narrator": "نافع کہتے ہیں کہ",
+      "text": "مجھ سے عمر بن عبدالعزیز نے شہد کی زکاۃ کے بارے میں پوچھا تو میں نے کہا کہ ہمارے پاس شہد نہیں کہ ہم اس کی زکاۃ دیں، لیکن ہمیں مغیرہ بن حکیم نے خبر دی ہے کہ شہد میں زکاۃ نہیں ہے۔ تو عمر بن عبدالعزیز نے کہا: یہ مبنی برعدل اور پسندیدہ بات ہے۔ چنانچہ انہوں نے لوگوں کو لکھا کہ ان سے شہد کی زکاۃ معاف کر دی جائے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

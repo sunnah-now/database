@@ -1,0 +1,41 @@
+{
+  "id": 4111,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Fighting [The Prohibition of Bloodshed]"
+        },
+        "ar": {
+          "text": "كتاب تحريم الدم"
+        },
+        "ur": {
+          "text": "قتل و خون ریزی کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا يَحْيَى بْنُ حَكِيمٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، ‏‏‏‏‏‏عَنْ شُعْبَةَ، ‏‏‏‏‏‏عَنْ أَبِي إِسْحَاق، ‏‏‏‏‏‏عَنْ أَبِي الْأَحْوَصِ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سِبَابُ الْمُسْلِمِ فِسْقٌ،‏‏‏‏ وَقِتَالُهُ كُفْرٌ . فَقَالَ لَهُ أَبَانُ:‏‏‏‏ يَا أَبَا إِسْحَاق، ‏‏‏‏‏‏أَمَا سَمِعْتَهُ إِلَّا مِنْ أَبِي الْأَحْوَصِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ بَلْ، ‏‏‏‏‏‏سَمِعْتُهُ مِنَ الْأَسْوَدِ، ‏‏‏‏‏‏وَهُبَيْرَةَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Shu'bah, from Abu Ishaq who said: I heard Abu Al-Ahwas (narrate) that 'Abdullah said: 'Defaming a Muslim is evildoing and fighting him is Kufr.' So Aban said to him: O Abu Ishaq! You heard it only from Abu Al-Ahwas? He said: Rather, I heard it from Al-Aswad and Hubairah."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "مسلمان کو گالی دینا فسق اور اس سے لڑنا کفر ( کا کام ) ہے۔ ابان نے ابواسحاق سبیعی سے پوچھا: ابواسحاق! کیا آپ نے اسے ابوالاحوص کے علاوہ کسی سے نہیں سنا؟ کہا: میں نے اسود اور ہبیرہ سے بھی سنا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

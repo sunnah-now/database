@@ -1,0 +1,41 @@
+{
+  "id": 2445,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Zakat"
+        },
+        "ar": {
+          "text": "كتاب الزَّكَاةِ"
+        },
+        "ur": {
+          "text": "زکوٰۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا مَخْلَدُ بْنُ خَالِدٍ الشَّعِيرِيُّ حَدَّثَنَا سُفْيَانُ حَدَّثَنِي عُمَرُ بْنُ سَعِيدٍ بِهَذَا الْإِسْنَادِ وَلَمْ يَذْكُرْ فِي الْحَدِيثِ عَلْقَمَةَ بْنَ عُلَاثَةَ وَلَا صَفْوَانَ بْنَ أُمَيَّةَ وَلَمْ يَذْكُرْ الشِّعْرَ فِي حَدِيثِهِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Sa'id with the same chain of transmitters, but no mention has been made of Alqama bin 'Ulatha, nor of safwin bin Umayya, and he did not mention the verse in his hadith."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مخلد بن خالد شعیری نے کہا : ہمیں سفیان ( بن عینیہ ) نے حدیث سنائی ، کہا : مجھے عمر بن سعید نے اسی سند کے ساتھ حدیث بیان کی اور اس میں نہ علقمہ بن علاثہ رضی اللہ تعالیٰ عنہ کا ذکر کیا نہ صفوان بن امیہ کا اور نہ اپنی حدیث میں اشعار ہی ذکر کیے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

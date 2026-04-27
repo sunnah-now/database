@@ -1,0 +1,41 @@
+{
+  "id": 5899,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "The Book of Dreams"
+        },
+        "ar": {
+          "text": "كتاب الرُّؤْيَا"
+        },
+        "ur": {
+          "text": "خواب کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَا: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ كِلَاهُمَا، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ، وَلَيْسَ فِي حَدِيثِهِمَا أُعْرَى مِنْهَا، وَزَادَ فِي حَدِيثِ يُونُسَ «فَلْيَبْصُقْ عَلَى يَسَارِهِ، حِينَ يَهُبُّ مِنْ نَوْمِهِ، ثَلَاثَ مَرَّاتٍ»."
+    },
+    "en": {
+      "narrator": "This hadith has been reported on the authority of Zuhri with the same chain of transmitters, but it does not contain the words:",
+      "text": "I felt disturbed because of that, and there is an addition of these words in the hadith transmitted on the authority of Yunus: Then spit thrice on the left side when you get up from sleep."
+    },
+    "ur": {
+      "narrator": "مجھ سے حرملہ بن یحییٰ نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا, یو نس اور معمر دونوں نے زہری سے اسی سند کے ساتھ روایت بیان کی ، ان دونوں کی حدیث میں یہ الفا ظ نہیں ہیں",
+      "text": "اس کی وجہ سے میں پریشان ہوا۔ \" یونس کی حدیث میں مزید یہ الفا ظ ہیں : \" وہ جب نیند سے بیدار ہو تو اپنی بائیں جانب تین بار تھوکے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

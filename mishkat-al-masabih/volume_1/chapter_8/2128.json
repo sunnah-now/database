@@ -1,0 +1,41 @@
+{
+  "id": 2128,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The Excellent Qualities of the Qur'an"
+        },
+        "ar": {
+          "text": "كتاب فضائل القرآن"
+        },
+        "ur": {
+          "text": "فضائل قرآن کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَرَوَاهُ البُخَارِيّ عَن أبي سعيد"
+    },
+    "en": {
+      "narrator": "",
+      "text": ""
+    },
+    "ur": {
+      "narrator": "",
+      "text": "امام بخاری ؒ نے اسے ابوسعید ؓ سے روایت کیا ہے ۔ رواہ البخاری ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

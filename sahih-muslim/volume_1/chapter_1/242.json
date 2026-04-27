@@ -1,0 +1,41 @@
+{
+  "id": 242,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِيهِ أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ بَكْرِ بْنِ مُضَرَ، عَنِ ابْنِ الْهَادِ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Abu Tahir with this chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھے ابو الطاہر نے ابن وہب نے بکر بن مدر سے اور ابن الحاد کی سند سے اس روایت سے روایت کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

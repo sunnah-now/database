@@ -1,0 +1,41 @@
+{
+  "id": 2737,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَاه أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ بِشْرٍ، عَنْ مِسْعَرٍ، حَدَّثَنَا حَبِيبُ بْنُ أَبِي ثَابِتٍ، بِهَذَا الْإِسْنَادِ، وَقَالَ «وَنَفِهَتِ النَّفْسُ»."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith is narrated on the authority of Habib b. Abu Thabit with the same chain of transmitters and he said: And you would become exhausted."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابو کریب نے بیان کیا، ہم سے ابن بشر نے مسعر کی سند سے بیان کیا، ہم سے  حبیب بن ابی ثابت نے اسی سند کےساتھ ( سابقہ حدیث کے مانند ) حدیث سنائی اور کہا : \" اور ( ہمیشہ روزے رکھنے والے کی ) جان درماندہ ہوجائے گی ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

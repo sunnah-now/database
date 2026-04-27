@@ -1,0 +1,41 @@
+{
+  "id": 3209,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا الْمُغِيرَةُ بْنُ عَبْدِ الرَّحْمَنِ الْحِزَامِيُّ، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، بِهَذَا الْإِسْنَادِ، وَقَالَ: بَيْنَمَا رَجُلٌ يَسُوقُ بَدَنَةً مُقَلَّدَةً."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated by A'raj with the same chain of transmitters (and the words are):",
+      "text": "Whereas the person was driving a sacrificial camel which was garlanded."
+    },
+    "ur": {
+      "narrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, مغیرہ بن عبد الرحمٰن حزامی نے ابو زناد سے اور انھوں نے اعرج سے اسی سند کے ساتھ روایت کی اور کہا اس اثنا میں کہ",
+      "text": "ایک آدمی ہار ڈالے گئے اونٹ کو ہانک رہاتھا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4783,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "General Behavior (Kitab Al-Adab)"
+        },
+        "ar": {
+          "text": "كتاب الأدب"
+        },
+        "ur": {
+          "text": "آداب و اخلاق کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، ‏‏‏‏‏‏عَنْ خَالِدٍ، ‏‏‏‏‏‏عَنْ دَاوُدَ، ‏‏‏‏‏‏عَنْ بَكْرٍ:‏‏‏‏ أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعَثَ أَبَا ذَرٍّ بِهَذَا الْحَدِيثِ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ وَهَذَا أَصَحُّ الْحَدِيثَيْنِ."
+    },
+    "en": {
+      "narrator": "Bakr said:",
+      "text": "The Prophet صلی ‌اللہ ‌علیہ ‌وسلم sent Muadh for some of his work. He then transmitted the rest of the tradition mentioned above. Abu Dawud said: This tradition is sounder of the two traditions."
+    },
+    "ur": {
+      "narrator": "ہم سے وہب بن بقیہ نے خالد سے اور داؤد کی سند سے بیان کیا, بکر سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے ابوذر کو بھیجا آگے یہی حدیث مروی ہے۔ ابوداؤد کہتے ہیں: دونوں حدیثوں میں یہ زیادہ صحیح ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

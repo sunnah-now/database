@@ -1,0 +1,41 @@
+{
+  "id": 3882,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Transactions"
+        },
+        "ar": {
+          "text": "كتاب الْبُيُوعِ"
+        },
+        "ur": {
+          "text": "لین دین کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، بِهَذَا الْإِسْنَادِ، غَيْرَ أَنَّهُ قَالَ: وَالْعَرِيَّةُ: النَّخْلَةُ تُجْعَلُ لِلْقَوْمِ فَيَبِيعُونَهَا بِخَرْصِهَا تَمْرًا."
+    },
+    "en": {
+      "narrator": "Yahya bin Sa'id reported this hadith with the same chain of transmitters but with this change:",
+      "text": "'Ariyya implies that date-palm trees should be donated to the people and then they sell it with a measure of dry dates."
+    },
+    "ur": {
+      "narrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے بیان کیا ہشیم نے ہمیں یحییٰ بن سعید سے اسی سند کے ساتھ خبر دی ، البتہ انہوں نے کہا",
+      "text": "عریہ سے وہ کھجور کا درخت مراد ہے جو لوگوں کو ( بطور عطیہ ) دیا جاتا ہے ۔ وہ ( درخت پر لگے پھل کو ) اندازے کے بقدر خشک کھجوروں کے عوض فروخت کر دیتے ہیں."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2004,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 21,
+      "language": {
+        "en": {
+          "text": "The Book of Funerals"
+        },
+        "ar": {
+          "text": "كتاب الجنائز"
+        },
+        "ur": {
+          "text": "جنازہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا هَنَّادٌ، ‏‏‏‏‏‏عَنِ ابْنِ الْمُبَارَكِ، ‏‏‏‏‏‏عَنْ مَعْمَرٍ، ‏‏‏‏‏‏عَنِ الزُّهْرِيِّ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ ثَعْلَبَةَ، ‏‏‏‏‏‏قال:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِقَتْلَى أُحُدٍ:‏‏‏‏ زَمِّلُوهُمْ بِدِمَائِهِمْ، ‏‏‏‏‏‏فَإِنَّهُ لَيْسَ كَلْمٌ يُكْلَمُ فِي اللَّهِ إِلَّا يَأْتِي يَوْمَ الْقِيَامَةِ يَدْمَى لَوْنُهُ لَوْنُ الدَّمِ وَرِيحُهُ رِيحُ الْمِسْكِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdullah bin Tha'labah said: The Messenger of Allah said, concerning those who had been slain at Uhud: 'Wrap them up on their clothes that are stained with blood, for there is no wound that is sustained for the sake of Allah, but it will come bleeding on the Day of Resurrection: its color will be the color of blood, but its fragrance will be the fragrance of musk. '"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن ثعلبہ رضی الله عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے شہدائے احد کے بارے میں فرمایا: ”انہیں ان کے خون کے ساتھ کپڑوں میں لپیٹ دو کیونکہ جو بھی زخم اللہ کی راہ میں لگا ہو گا وہ قیامت کے روز بہتا ہوا آئے گا، اس کا رنگ خون کا رنگ ہو گا، اور اس کی خوشبو مشک کی خوشبو ہو گی“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

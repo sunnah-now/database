@@ -1,0 +1,41 @@
+{
+  "id": 4546,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "صحيح وضعيف سنن النسائي الألباني: حديث نمبر 4541"
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Sahl bin Abi Hathamah that the Prophet forbade selling fruits before their condition was known, but he granted a concession allowing 'Araya sales by estimate, so its people could eat fresh dates."
+    },
+    "ur": {
+      "narrator": "سہیل بن ابی حثمہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے پھل بیچنے سے منع فرمایا جب تک کہ پک نہ جائیں اور بیع عرایا میں اجازت دی کہ اندازہ لگا کر کے بیچا جائے، تاکہ کچی کھجور والے تازہ کھجور کھا سکیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

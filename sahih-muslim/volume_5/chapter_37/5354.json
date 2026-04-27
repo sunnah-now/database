@@ -1,0 +1,41 @@
+{
+  "id": 5354,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ حَدَّثَنِي أَبِي حَدَّثَنَا الْمُثَنَّى بْنُ سَعِيدٍ عَنْ طَلْحَةَ بْنِ نَافِعٍ حَدَّثَنَا جَابِرُ بْنُ عَبْدِ اللَّهِ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَخَذَ بِيَدِهِ إِلَى مَنْزِلِهِ بِمِثْلِ حَدِيثِ ابْنِ عُلَيَّةَ إِلَى قَوْلِهِ فَنِعْمَ الْأُدُمُ الْخَلُّ وَلَمْ يَذْكُرْ مَا بَعْدَهُ."
+    },
+    "en": {
+      "narrator": "This hadith is reported on the authority of Jabir bin 'Abdullah رضی اللہ  عنہ :",
+      "text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) took hold of his hand and led him to his residence as narrated above up to the words: Vinegar is a good condiment. But in the hadith transmitted through this chain of transmitters, there is no mention of the subsequent part."
+    },
+    "ur": {
+      "narrator": "نصر کے والد علی جہضمی نے کہا : ہمیں مثنیٰ بن سعید نے طلحہ بن نافع سے حدیث بیان کی ، کہا : ہمیں حضرت جا بر بن عبد اللہ رضی اللہ  عنہ نے حدیث بیان کی کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم ان کا ہاتھ پکڑ کر اپنے گھر لے گئے انھوں نے آپ صلی اللہ علیہ وسلم کے قول : \" سرکہ عمدہ سالن ہے \" تک ابن علیہ کی حدیث کے مانند بیان کی اور بعد کا حصہ بیان نہیں کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

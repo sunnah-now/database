@@ -1,0 +1,41 @@
+{
+  "id": 35,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ أَبُو حَفْصٍ، قَالَ: سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ، قَالَ: سَأَلْتُ سُفْيَانَ الثَّوْرِيَّ، وَشُعْبَةَ، وَمَالِكًا، وَابْنَ عُيَيْنَةَ، عَنِ الرَّجُلِ لَا يَكُونُ ثَبْتًا فِي الْحَدِيثِ، فَيَأْتِينِي الرَّجُلُ، فَيَسْأَلُنِي عَنْهُ، قَالُوا: «أَخْبِرْ عَنْهُ أَنَّهُ لَيْسَ بِثَبْتٍ»"
+    },
+    "en": {
+      "narrator": "Amr bin Alī Abū Hafs narrated to us, he said I heard Yahyā bin Sa’īd, he said:",
+      "text": "‘I asked Sufyān ath-Thawrī , Shu’bah, Mālik, and Ibn Uyaynah about a man who is not reliable (Thabt) in Ḥadīth, and someone comes and asks me about him, and they said: ‘Inform [others] against him that he is not reliable’.’"
+    },
+    "ur": {
+      "narrator": "ہم سے عمرو بن علی ابو حفص نے بیان کیا، کہا کہ میں نے یحییٰ بن سعید سے سنا",
+      "text": "میں نے سفیان ثوری ، شعبہ ، مالک اور ابن عیینہ سے ایسے آدمی کے بارے میں پوچھا جو حدیث میں پور ی طرح قابل اعتماد ( ثقہ ) نہ ہو ، پھر کوئی آدمی آئے اور مجھ سے اس کے بارے میں سوال کرے؟ تو ان سب نے کہا : اس کے بارے میں بتا دو کہ وہ پوری طرح قابل اعتماد نہیں ہے"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

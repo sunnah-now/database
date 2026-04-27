@@ -1,0 +1,41 @@
+{
+  "id": 213,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ الْعَمِّيُّ، حَدَّثَنَا يَحْيَى بْنُ مُحَمَّدِ بْنِ قَيْسٍ أَبُو زُكَيْرٍ، قَالَ: سَمِعْتُ الْعَلَاءَ بْنَ عَبْدِ الرَّحْمَنِ يُحَدِّثُ بِهَذَا الْإِسْنَادِ، وَقَالَ: «آيَةُ الْمُنَافِقِ ثَلَاثٌ، وَإِنْ صَامَ وَصَلَّى وَزَعَمَ أَنَّهُ مُسْلِمٌ»،"
+    },
+    "en": {
+      "narrator": "Uqba bin Mukarram al-'Ami reported that he heard 'Ala' bin 'Abdur-Rahman narrating this hadith with this chain of transmitters:",
+      "text": "He said: Three are the signs of a hypocrite, even if he observed fast and prayed and asserted that he was a Muslim."
+    },
+    "ur": {
+      "narrator": "ہم سے عقبہ بن مکرم عمی نے بیان کیا، انہوں نے کہایحییٰ بن محمد بن قیس ابو زکیر نے کہا , میں نے علاء بن عبدالرحمٰن کو اسی ( مذکورہ بالا ) سند کے ساتھ حدیث بیان کرتے ہوئے سنا ،",
+      "text": "انہوں نے کہا : ’’ منافق کے علامات تین ہیں ، چاہے وہ روزہ رکھے ، نماز پڑھے اور اپنے آپ کو مسلمان سمجھے ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

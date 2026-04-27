@@ -1,0 +1,41 @@
+{
+  "id": 182,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، أَنْبَأَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ حَدَّثَنَا مُحَمَّدٌ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «جَاءَ أَهْلُ الْيَمَنِ، هُمْ أَرَقُّ أَفْئِدَةً، الْإِيمَانُ يَمَانٍ، وَالْفِقْهُ يَمَانٍ، وَالْحِكْمَةُ يَمَانِيَةٌ»."
+    },
+    "en": {
+      "narrator": "It is narrated on the authority of Abu Huraira رضی ‌اللہ ‌عنہ ‌:",
+      "text": "The Messenger of Allah ﷺ observed: There have come the people of Yemen; they are tender of hearts, the belief is that of the Yemenites, the understanding (of the faith) is that of the Yemenites and sagacity is that of the Yemenites."
+    },
+    "ur": {
+      "narrator": "ہم سے ابو الربیع الزہرانی نے بیان کیا، ہم سے حماد نے بیان کیا، ہم سے ایوب نے کہا , ہمیں محمد ( ابن سیرین ) نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث سنائی ، انہوں نے کہا کہ",
+      "text": "رسول اللہﷺ نے فرمایا : ’’ اہل یمن آئے ہیں ۔ یہ لوگ بہت زیادہ نرم دل ہیں ۔ ایمان یمنی ہے ، فقہ یمنی ہے اور دانائی ( بھی ) یمنی ہے ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

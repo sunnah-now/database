@@ -1,0 +1,41 @@
+{
+  "id": 1566,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "Zakat (Kitab Al-Zakat)"
+        },
+        "ar": {
+          "text": "كتاب الزكاة"
+        },
+        "ur": {
+          "text": "زکوۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا صَفْوَانُ بْنُ صَالِحٍ، ‏‏‏‏‏‏حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، ‏‏‏‏‏‏حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ عُمَرَ بْنِ يَعْلَى، ‏‏‏‏‏‏فَذَكَرَ الْحَدِيثَ نَحْوَ حَدِيثِ الْخَاتَمِ، ‏‏‏‏‏‏قِيلَ لِسُفْيَانَ:‏‏‏‏ كَيْفَ تُزَكِّيهِ ؟ قَالَ:‏‏‏‏ تَضُمُّهُ إِلَى غَيْرِهِ."
+    },
+    "en": {
+      "narrator": "The aforesaid tradition has also been narrated by Umar bin Yala through a different chain of narrators, like the tradition of ring:",
+      "text": "Sufyan, a narrator, was asked How do you pay zakat on it. He said You may combine it with other (ornaments)."
+    },
+    "ur": {
+      "narrator": "ہم سے صفوان بن صالح نے بیان کیا، ہم سے ولید بن مسلم نے بیان کیا، ہم سے سفیان نے بیان کیا، اس سند سے عمر بن یعلیٰ (عمر بن عبداللہ بن یعلیٰ بن مرہ) سے اسی انگوٹھی والی حدیث جیسی حدیث مروی ہے",
+      "text": "سفیان سے پوچھا گیا: آپ اس کی زکاۃ کیسے دیں گے؟ انہوں نے کہا: تم اسے دوسرے میں ملا لو۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

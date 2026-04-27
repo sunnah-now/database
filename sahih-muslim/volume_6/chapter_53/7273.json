@@ -1,0 +1,41 @@
+{
+  "id": 7273,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 53,
+      "language": {
+        "en": {
+          "text": "The Book of Tribulations and Portents of the Last Hour"
+        },
+        "ar": {
+          "text": "كتاب الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ"
+        },
+        "ur": {
+          "text": "فتنے اور علامات قیامت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنِي أُمَيَّةُ بْنُ بِسْطَامَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ حَدَّثَنَا رَوْحٌ عَنْ سُهَيْلٍ بِهَذَا الْإِسْنَادِ نَحْوَهُ وَزَادَ فَقَالَ أَبِي إِنْ رَأَيْتَهُ فَلَا تَقْرَبَنَّهُ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Suhail with the same chain of transmitters but with this addition:",
+      "text": "My father said: If you see that, do not even go near it."
+    },
+    "ur": {
+      "narrator": "مجھ سے امیہ بن بسطام نے بیان کیا، ہم سے یزید بن زریع نے بیان کیا, روح نے سہیل سے اسی سند کے ساتھ اسی کے مطابق حدیث بیان کی اور مزید کہا",
+      "text": "تو میرے والد نے کہا : اگر تم اس پہاڑ کو دیکھ لو تو اس کے قریب بھی مت جانا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

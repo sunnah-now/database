@@ -1,0 +1,41 @@
+{
+  "id": 4351,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 29,
+      "language": {
+        "en": {
+          "text": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
+        },
+        "ar": {
+          "text": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ"
+        },
+        "ur": {
+          "text": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ: أَخْبَرَنَا ابْنُ جُرَيْجٍ، حَدَّثَنَا ابْنُ شِهَابٍ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، وَزَادَ، وَقَضَى بِهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بَيْنَ نَاسٍ مِنَ الْأَنْصَارِ فِي قَتِيلٍ ادَّعَوْهُ عَلَى الْيَهُودِ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Ibn Shihab with the same chain of transmitters but with this addition:",
+      "text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) decided (according to Qasama) between the persons of Ansar (and yours) about a slain (Muslim) for which they made claim against the Jews."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، انہوں نے کہا ابن جریج نے ابن شہاب سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی اور یہ اضافہ کیا",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے اس ( قسامہ ) کے ذریعے انصار کے لوگوں کے مابین ایک مقتول کا فیصلہ کیا جس کا دعویٰ انہوں نے یہود پر کیا تھا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 706,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 3,
+      "language": {
+        "en": {
+          "text": "The Book of Menstruation"
+        },
+        "ar": {
+          "text": "كتاب الْحَيْضِ"
+        },
+        "ur": {
+          "text": "حیض کا معنی و مفہوم"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، ح، وَحَدَّثَنِيهِ هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ جَمِيعًا عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been transmitted with the same chain of transmitters from Mu'awyia bin Salih by Zuhair bin Harb, 'Abd al-Rahman bin Mahdi, Harun bin Sa'id al-'Aili and Ibn Wahb."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے زہیر بن حرب نے کہا,عبدالرحمن بن مہدی اور ابن وہب دونوں نے معاویہ بن صالح سے سابقہ سند کے ساتھ یہی روایت بیان کی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

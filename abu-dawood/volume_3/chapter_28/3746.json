@@ -1,0 +1,41 @@
+{
+  "id": 3746,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "Foods (Kitab Al-At'imah)"
+        },
+        "ar": {
+          "text": "كتاب الأطعمة"
+        },
+        "ur": {
+          "text": "کھانے کے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏حَدَّثَنَا هِشَامٌ، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ بِهَذِهِ الْقِصَّةِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَدُعِيَ الْيَوْمَ الثَّالِثَ فَلَمْ يُجِبْ، ‏‏‏‏‏‏وَحَصَبَ الرَّسُولَ."
+    },
+    "en": {
+      "narrator": "Qatadah reported this story from Saeed bin al-Musayyab. This version adds:",
+      "text": "When he was invited on the third day, he did not accept and threw pebbles at the one who brought the invitation"
+    },
+    "ur": {
+      "narrator": "ہم سے مسلم بن ابراہیم نے بیان کیا، کہا ہم سے ہشام نے، قتادہ کی سند سے, اس سند سے بھی سعید بن مسیب سے یہی واقعہ مروی ہے اور اس میں یہ ہے کہ",
+      "text": "پھر جب تیسرے روز انہیں دعوت دی گئی تو قبول نہیں کیا اور قاصد کو کنکری ماری۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

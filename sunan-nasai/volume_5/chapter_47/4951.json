@@ -1,0 +1,41 @@
+{
+  "id": 4951,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 47,
+      "language": {
+        "en": {
+          "text": "The Book of Cutting off the Hand of the Thief"
+        },
+        "ar": {
+          "text": "كتاب قطع السارق"
+        },
+        "ur": {
+          "text": "چور کا ہاتھ کاٹنے سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا شَرِيكٌ، ‏‏‏‏‏‏عَنْ مَنْصُورٍ، ‏‏‏‏‏‏عَنْ عَطَاءٍ، ‏‏‏‏‏‏وَمُجَاهِدٍ،‏‏‏‏ عَنْ أَيْمَنَ ابْنِ أُمِّ أَيْمَنَ، ‏‏‏‏‏‏يَرْفَعُهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا تُقْطَعُ الْيَدُ إِلَّا فِي ثَمَنِ الْمِجَنِّ، ‏‏‏‏‏‏وَثَمَنُهُ يَوْمَئِذٍ دِينَارٌ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ayman bin Umm Ayman who attributed it to the Prophet said: The (hand of) a thief is not to be cut off except for the price of a shield, and in those days the price of a shield was a Dinar."
+    },
+    "ur": {
+      "narrator": "ایمن بن ام ایمن سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”ہاتھ ڈھال کی قیمت میں کاٹا جائے“ اور اس وقت اس کی قیمت ایک دینار تھی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2888,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 19,
+      "language": {
+        "en": {
+          "text": "Shares of Inheritance (Kitab Al-Fara'id)"
+        },
+        "ar": {
+          "text": "كتاب الفرائض"
+        },
+        "ur": {
+          "text": "وراثت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏حَدَّثَنَا شُعْبَةُ، ‏‏‏‏‏‏عَنْ أَبِي إِسْحَاق، ‏‏‏‏‏‏عَنْ الْبَرَاءِ بْنِ عَازِبٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ آخِرُ آيَةٍ نَزَلَتْ فِي الْكَلَالَةِ {يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلالَةِ}[ سورة النساء آية 176]."
+    },
+    "en": {
+      "narrator": "Narrated Al-Bara bin Azib رضی اللہ عنہما :",
+      "text": "The last verse revealed about the decease who left no descendants or ascendants: They ask thee for the legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs."
+    },
+    "ur": {
+      "narrator": "ہم سے مسلم بن ابراہیم نے بیان کیا، ہم سے شعبہ نے بیان کیا، ابواسحاق کی سند سے, براء بن عازب رضی اللہ عنہما کہتے ہیں",
+      "text": "کلالہ کے سلسلے میں آخری آیت جو نازل ہوئی ہے وہ: «يستفتونك قل الله يفتيكم في الكلالة» ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2605,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنْ سُفْيَانَ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، قَالَ يَحْيَى: قَالَ سُفْيَانُ: لَا أَدْرِي مِنْ قَوْلِ مَنْ هُوَ؟ يَعْنِي: وَكَانَ يُؤْخَذُ بِالْآخِرِ مِنْ قَوْلِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ."
+    },
+    "en": {
+      "narrator": "This hadith is narrated on the authority of Zuhri with the same chain of transmitters. Yahya (one of the narrators) said that Sufyan (the narrator) had stated:",
+      "text": "I do not know whose statement it is: It is the last word of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) which is accepted as (final as it abrogates the previous ones)."
+    },
+    "ur": {
+      "narrator": "یحییٰ بن یحیٰ ۔ ابو بکر بن ابی شیبہ ، عمر ، اسحاق بن ابراہیم ، سفیان ، حضرت زہری ، سے اس سند کے ساتھ اسی طرح حدیث نقل کی گئی ہے سفیان نے کہا کہ",
+      "text": "مجھے نہیں معلوم کہ یہ کس کا قول ہے اور رسول اللہ صلی اللہ علیہ وسلم کے آخری قول کو لیا جاتا تھا؟"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

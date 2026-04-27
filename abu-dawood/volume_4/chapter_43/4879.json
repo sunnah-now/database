@@ -1,0 +1,41 @@
+{
+  "id": 4879,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "General Behavior (Kitab Al-Adab)"
+        },
+        "ar": {
+          "text": "كتاب الأدب"
+        },
+        "ur": {
+          "text": "آداب و اخلاق کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عِيسَى بْنُ أَبِي عِيسَى السَّيْلَحِينِيُّ، ‏‏‏‏‏‏عَنْ أَبِي الْمُغِيرَةِ، ‏‏‏‏‏‏كَمَا قَالَ ابْنُ الْمُصَفَّى."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This tradition has also been transmitted by ‘Isa bin Abi ‘Isa al-sailahini from Abu al-Mughirah, as Ibn al-musaffa said."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عیسیٰ بن ابی عیسیٰ السیلحینی نے بیان کیاابومغیرہ سے بھی اسی طرح مروی ہےجیسا کہ ابن مصفیٰ نے روایت کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

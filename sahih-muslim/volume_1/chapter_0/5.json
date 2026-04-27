@@ -1,0 +1,41 @@
+{
+  "id": 5,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سَعِيدُ بْنُ عُبَيْدٍ، حَدَّثَنَا عَلِيُّ بْنُ رَبِيعَةَ، قَالَ: أَتَيْتُ الْمَسْجِدَ وَالْمُغِيرَةُ أَمِيرُ الْكُوفَةِ، قَالَ: فَقَالَ الْمُغِيرَةُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ: «إِنَّ كَذِبًا عَلَيَّ لَيْسَ كَكَذِبٍ عَلَى أَحَدٍ، فَمَنْ كَذَبَ عَلَيَّ مُتَعَمِّدًا، فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ»"
+    },
+    "en": {
+      "narrator": "Muhammad bin Abd Allah ibn Numayr narrated to us, my father narrated to us, Sa’id bin Ubayd narrated to us, Ali bin Rabi’ah narrated to us:",
+      "text": "He said: ‘I arrived at the Masjid and al-Mughīrah, the Amīr of al-Kūfah said: ‘I heard the Messenger of Allah, peace and blessings of Allah upon him, saying, ‘Indeed a lie upon me is not like a lie upon anyone else, for whoever lies upon me intentionally, then he shall take his seat in the Fire’.’ ’"
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا,سعید بن عبید نے کہا : ہمیں علی بن ربیعہ والبی نے حدیث بیان کی",
+      "text": "کہا : میں مسجد میں آیا اور ( اس وقت ) حضرت مغیرہ ( بن شعبہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) کوفہ کے امیر ( گورنر ) تھے : مغیرہ نے کہا : میں نے رسول اللہﷺ سے سنا ، آپ فرما رہے تھے : ’’مجھ پر جھوٹ بولنا اس طرح نہیں جیسے ( میرے علاوہ ) کسی ایک ( عام آدمی ) پر جھوٹ بولنا ہے ، جس نے جان بوجھ کر مجھ پرجھوٹ بولا وہ جہنم میں اپنا ٹھکانہ بنا لے ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

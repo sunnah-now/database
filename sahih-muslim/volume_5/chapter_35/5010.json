@@ -1,0 +1,41 @@
+{
+  "id": 5010,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 35,
+      "language": {
+        "en": {
+          "text": "The Book of Hunting , Slaughter and what may be Eaten"
+        },
+        "ar": {
+          "text": "كتاب الصَّيْدِ وَالذَّبَائِحِ وَمَا يُؤْكَلُ مِنْ الْحَيَوَانِ"
+        },
+        "ur": {
+          "text": "شکار کرنے، ذبح کیے جانے والے اور ان جانوروں کا بیان جن کا گوشت کھایا جا سکتا ہے"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الشَّيْبَانِيِّ، قَالَ: سَأَلْتُ عَبْدَ اللهِ بْنَ أَبِي أَوْفَى عَنْ لُحُومِ الْحُمُرِ الْأَهْلِيَّةِ، فَقَالَ: أَصَابَتْنَا مَجَاعَةٌ يَوْمَ خَيْبَرَ وَنَحْنُ مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَقَدْ أَصَبْنَا لِلْقَوْمِ حُمُرًا خَارِجَةً مِنَ الْمَدِينَةِ، فَنَحَرْنَاهَا، فَإِنَّ قُدُورَنَا لَتَغْلِي، إِذْ نَادَى مُنَادِي رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «أَنِ اكْفَئُوا الْقُدُورَ، وَلَا تَطْعَمُوا مِنْ لُحُومِ الْحُمُرِ شَيْئًا»، فَقُلْتُ: حَرَّمَهَا تَحْرِيمَ مَاذَا؟ قَالَ: تَحَدَّثْنَا بَيْنَنَا، فَقُلْنَا: «حَرَّمَهَا الْبَتَّةَ، وَحَرَّمَهَا مِنْ أَجْلِ أَنَّهَا لَمْ تُخَمَّسْ»."
+    },
+    "en": {
+      "narrator": "Shaibani reported:",
+      "text": "I asked 'Abdullah bin Abu Aufa رضی اللہ عنہ about (the lawfulness or unlawfulness of) the flesh of the domestic asses. He said: We experienced hunger on the Day of Khaibar as we were with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). We found domestic asses in the exterior of Medina. We slaughtered them and our earthen pots were boiling when the announcer of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) made an announcement that the earthen pots should be turned upside down and nothing of the flesh of the domestic asses should be eaten. I said: What kind of prohibition is it that he (the Holy Prophet ﷺ) has made? He said: We discussed it amongst -ourselves. Some of us said that it has been declared unlawful for ever, (whereas others said) it has been declared unlawful since one-fifth (of the booty) has not been given (to the treasury, as is legally required)."
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا,علی بن مسہر نے شیبانی سے روایت کی ، انھوں نے کہا",
+      "text": "میں نے حضرت عبداللہ بن اوفیٰ رضی اللہ عنہ سے پالتو گدھوں کے گوشت کے متعلق دریافت کیا ، انھوں نے کہا : خیبر کے دن ہم بھوک کا شکار تھے ، ہم رسول اللہ صلی اللہ علیہ وسلم کے ہمراہ تھے ، ہمیں ان لوگوں ( یہودیوں ) کے گدھے شہر سے باہر نکلتے ہوئے مل گئے ۔ ہم نے ان کو ذبح کرلیا ، ہماری ہانڈیاں ( ان کے پکتے ہوئے گوشت سے ) ابل رہی تھیں کہ اچانک ر سول اللہ صلی اللہ علیہ وسلم کے منادی نے یہ اعلان کیا : ہانڈیاں الٹ دو اور گدھوں کے گوشت میں سے کوئی چیز نہ کھاؤ ۔ میں نے پوچھا : آپ نے ان کو کیسا حرام کیا تھا ( قطعی یاغیرقطعی؟ ) انھوں نے کہا : ( اس حوالے ) سے ہماری آپس میں بات چیت ہوتی تھی تو ہ ہم ( باہم یہی کہتے کہ آپ نے ان کو قطعی طور پر حرام کیا اور اس وجہ سے ( انھیں ہمیشہ کے لئے ) حرام کیاتھا کہ ان کے پانچ حصے نہیں کیے گئے تھے ( خمس الگ نہیں کیا گیا تھا )."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 834,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، ‏‏‏‏‏‏حَدَّثَنَا حَمَّادٌ، ‏‏‏‏‏‏عَنْ حُمَيْدٍ، ‏‏‏‏‏‏مِثْلَهُ لَمْ يَذْكُرِ التَّطَوُّعَ. قَالَ:‏‏‏‏ كَانَ الْحَسَنُ يَقْرَأُ فِي الظُّهْرِ وَالْعَصْرِ إِمَامًا أَوْ خَلْفَ إِمَامٍ بِفَاتِحَةِ الْكِتَابِ، ‏‏‏‏‏‏وَيُسَبِّحُ وَيُكَبِّرُ وَيُهَلِّلُ قَدْرَ ق، ‏‏‏‏‏‏وَالذَّارِيَاتِ ."
+    },
+    "en": {
+      "narrator": "The above-mention tradition has also been transmitted through a different chain of narrators by Humaid, but he did not mention the word “Supererogatory prayer” This version has:",
+      "text": "Al-Hasan (al-Basri) would recite fatihat al-kitab in the noon and afternoon prayers while he led in prayer or he was behind the imam and would glorify Allah, and would repeatedly say: “Allah is most great” and “ There is no god but Allah” (i.e takbir and tahlil) equal to the amount one recites al-Qaf (Surah 50) and al-Dhariyat (surah 51)."
+    },
+    "ur": {
+      "narrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا، کہا ہم سے حماد نے بیان کیا, حمید سے اسی کے مثل مروی ہے، اس میں راوی نے نفل کا ذکر نہیں کیا ہے، اس میں ہے کہ",
+      "text": "حسن بصری ظہر اور عصر میں خواہ وہ امام ہوں یا امام کے پیچھے ہوں، سورۃ فاتحہ پڑھتے تھے اور سورۃ ق اور سورۃ ذاریات پڑھنے کے بقدر ( وقت میں ) تسبیح و تکبیر اور تہلیل کرتے تھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

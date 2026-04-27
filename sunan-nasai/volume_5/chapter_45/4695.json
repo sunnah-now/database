@@ -1,0 +1,41 @@
+{
+  "id": 4695,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حدثنا محمد بن سلمة ، والحارث بن مسكين قراءة عليه وانا اسمع واللفظ له ، عن ابن القاسم قال:‏‏‏‏ حدثني مالك عن ابي الزناد عن الاعرج عن ابي هريرة:‏‏‏‏ ان رسول الله صلى الله عليه وسلم قال:‏‏‏‏ مطل الغني ظلم وإذا اتبع احدكم على مليء فليتبع ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Abu Hurairah said: The Messenger of Allah said: 'Wrongdoing is when a rich man takes a long time to repay a debt, and if one of you is referred to a rich man (to help repay debt), he should accept that referral. '"
+    },
+    "ur": {
+      "narrator": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”مالدار کا ٹال مٹول کرنا ظلم ہے، اگر تم میں سے کوئی مالدار آدمی کی حوالگی میں دیا جائے تو چاہیئے کہ اس کی حوالگی قبول کر لے“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

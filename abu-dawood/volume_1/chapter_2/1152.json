@@ -1,0 +1,41 @@
+{
+  "id": 1152,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو تَوْبَةَ الرَّبِيعُ بْنُ نَافِعٍ، حَدَّثَنَا سُلَيْمَانُ، - يَعْنِي ابْنَ حَيَّانَ - عَنْ أَبِي يَعْلَى الطَّائِفِيِّ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُكَبِّرُ فِي الْفِطْرِ فِي الأُولَى سَبْعًا ثُمَّ يَقْرَأُ ثُمَّ يُكَبِّرُ ثُمَّ يَقُومُ فَيُكَبِّرُ أَرْبَعًا ثُمَّ يَقْرَأُ ثُمَّ يَرْكَعُ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ وَكِيعٌ وَابْنُ الْمُبَارَكِ قَالاَ سَبْعًا وَخَمْسًا ‏.‏"
+    },
+    "en": {
+      "narrator": "Narrated Abdullah Ibn Amr Ibn al-'As:",
+      "text": "The Prophet (ﷺ) used to say on the day of the breaking of the fast seven takbirs in the first rak'ah and then recite the Qur'an, and utter the takbir (Allah is most great). Then he would stand, and utter the takbir four times. Thereafter he would recite the Qur'an and bow.\r\nAbu Dawud said: This has been narrated by Waki' and Ibn al-Mubarak. Their version goes: \"Seven (in the first rak'ah) and five (in the second).\""
+    },
+    "ur": {
+      "narrator": "ہم سے ابو توبہ الربیع بن نافع نے بیان کیا، ہم سے سلیمان نے بیان کیا یعنی ابن حیان نے ابو یعلٰی الطائفی سے، عمرو بن شعیب سے، اپنے والد سے، اپنے دادا سے، کہ رسول اللہ صلی اللہ علیہ وسلم نے ان سے روایت کی",
+      "text": "آپ صلی اللہ علیہ وسلم عید الفطر کے پہلے دن سات مرتبہ تکبیر کہتے، پھر قرأت کرتے، پھر تکبیر کہتے، پھر کھڑے ہو کر چار مرتبہ تکبیر کہتے، پھر قرأت کرتے، پھر رکوع کرتے۔ ابوداؤد کہتے ہیں: اسے وکیع اور ابن مبارک نے روایت کیا ہے۔ انہوں نے کہا: \"سات (پہلی رکعت میں) اور پانچ (دوسری میں)۔\""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

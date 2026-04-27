@@ -1,0 +1,41 @@
+{
+  "id": 3273,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرٍو، بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "A hadith like this has been narrated by 'Amr on the authority of the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابو الربیع الزہرانی نے بیان کیا، انہوں نے ہم سے بیان کیا حماد نے ہمیں عمرو ( بن دینا ر ) سے اسی سند کے ساتھ اسی کے ہم معنی حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

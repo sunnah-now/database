@@ -1,0 +1,41 @@
+{
+  "id": 1200,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey"
+        },
+        "ar": {
+          "text": "كتاب صلاة السفر"
+        },
+        "ur": {
+          "text": "نماز سفر کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الرَّزَّاقِ، ‏‏‏‏‏‏وَمُحَمَّدُ بْنُ بَكْرٍ، ‏‏‏‏‏‏قَالَا:‏‏‏‏ أَخْبَرَنَا ابْنُ جُرَيْجٍ، ‏‏‏‏‏‏سَمِعْتُ عَبْدَ اللَّهِ بْنَ أَبِي عَمَّارٍ يُحَدِّثُ، ‏‏‏‏‏‏فَذَكَرَهُ نَحْوَهُ. قَالَ أَبُو دَاوُد:‏‏‏‏ رَوَاهُ أَبُو عَاصِمٍ، ‏‏‏‏‏‏وَحَمَّادُ بْنُ مَسْعَدَةَ، ‏‏‏‏‏‏كَمَا رَوَاهُ ابْنُ بَكْرٍ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The above mentioned tradition has also been narrated through a different chain of transmitters by Abdullah bin Abi Ammar who narrated it in like manner. Abu Dawud said: This has been transmitted by Abu Asim and Hammad bin Masadah as transmitted by Ibn Bakr."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے احمد بن حنبل نے بیان کیا، کہا ہم سے عبدالرزاق اور محمد بن بکر نے بیان کیا، انہوں نے کہا: ابن جریج کہتے ہیں کہ میں نے عبداللہ بن ابی عمار کو بیان کرتے ہوئے سنا، پھر انہوں نے اسی طرح کی روایت ذکر کی۔ ابوداؤد کہتے ہیں: اس حدیث کو ابوعاصم اور حماد بن مسعدہ نے بھی اسی طرح روایت کیا ہے جیسے اسے ابن بکر نے کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

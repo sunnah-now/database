@@ -1,0 +1,41 @@
+{
+  "id": 3853,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Transactions"
+        },
+        "ar": {
+          "text": "كتاب الْبُيُوعِ"
+        },
+        "ur": {
+          "text": "لین دین کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الْبَيِّعَانِ كُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ عَلَى صَاحِبِهِ، مَا لَمْ يَتَفَرَّقَا، إِلَّا بَيْعَ الْخِيَارِ."
+    },
+    "en": {
+      "narrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+      "text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) as saying: Both parties in a business transaction have the right to annul it so long as they have not separated; except in transactions which have been made subject to the right of parties to annul them."
+    },
+    "ur": {
+      "narrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا امام مالک نے نافع سے اور انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+      "text": "اللہ کے رسول صلی اللہ علیہ وسلم نے فرمایا : \" بیع کرنے والے دونوں میں سے ہر ایک کو اپنے ساتھی کے خلاف ( بیع فسخ کرنے کا ) اختیار ہے جب تک وہ جدا نہ ہوں ، الا یہ کہ اختیار والی بیع ہو."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

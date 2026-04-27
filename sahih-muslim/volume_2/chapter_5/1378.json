@@ -1,0 +1,41 @@
+{
+  "id": 1378,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ عَبْدُ الْأَعْلَى بْنُ حَمَّادٍ، حَدَّثَنَا مُعْتَمِرٌ، قَالَ: سَمِعْتُ مَعْمَرًا بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been reported by Ma'mar with another chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "معتمر نے کہا : میں نے معمر سے سنا ۔ ۔ ۔ ۔ ۔ ۔ آگے اسی سند سے ( روایت کی ۔ )"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

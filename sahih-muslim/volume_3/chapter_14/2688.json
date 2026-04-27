@@ -1,0 +1,41 @@
+{
+  "id": 2688,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا بِشْرُ بْنُ عُمَرَ الزَّهْرَانِيُّ، حَدَّثَنِي سُلَيْمَانُ بْنُ بِلَالٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّهُ قَالَ: وَذَلِكَ لِمَكَانِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith is narrated on the authority of Yahya bin Sa'id with the same chain of transmitters but with this variation that he said that ('A'isha did not observe fast but in Sha'ban) out of regard for the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ )."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اسحاق بن ابراہیم ، بشر بن عمر زہرانی ، سلیمان بن بلال ، یحییٰ حضرت یحییٰ بن سعید اس سند کے ساتھ اس طرح بیان کرتے ہیں سوائے اس کہ اس میں رسول اللہ صلی اللہ علیہ وسلم کی وجہ سے مشغول رہتی تھی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

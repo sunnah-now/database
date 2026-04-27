@@ -1,0 +1,41 @@
+{
+  "id": 83,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، قَالَ: سَمِعْتُ أَبَا نُعَيْمٍ، وَذَكَرَ الْمُعَلَّى بْنَ عُرْفَانَ، فَقَالَ: قَالَ: حَدَّثَنَا أَبُو وَائِلٍ، قَالَ: خَرَجَ عَلَيْنَا ابْنُ مَسْعُودٍ بِصِفِّينَ فَقَالَ أَبُو نُعَيْمٍ: «أَتُرَاهُ بُعِثَ بَعْدَ الْمَوْتِ؟»"
+    },
+    "en": {
+      "narrator": "Abdullah bin Abd ar-Rahman ad-Dārimī narrated to me, he said:",
+      "text": "‘I heard Abū Nu’aym and he mentioned al-Mu’allā bin Urfān, so [Abū Nu’aym] said, [al-Mu’allā] said: ‘Abū Wā’il narrated to us, he said ‘Ibn Mas’ūd attacked us on the day of Siffīn’. So Abū Nu’aym said: ‘Do you think he was raised after death? [Ibn Mas’ūd passed away in 32 or 33H, several years before the day in question]"
+    },
+    "ur": {
+      "narrator": "مجھ سے عبداللہ بن عبدالرحمٰن دارمی نے بیان کیا، انہوں نے کہا: میں نے ابو نعیم کو سنا، انہوں نے معاذ بن عرفان کا ذکر کیا، انہوں نے کہا",
+      "text": "میں نے ابو نعیم سے سنا ( اور انہوں نے معلی بن عرفان کا ذکر کیا ) اور کہا : اس نے کہا : ہم سے ابو وائل نے بیان کیا ، کہا : صفین میں ابن مسعود ہمارے سامنے نکلے تو ابو نعیم نے کہا : ان کے بارے میں تمہاری رائے ہے کہ وہ موت کے بعد دوبارہ زندہ ہو گئے تھے؟"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

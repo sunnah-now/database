@@ -1,0 +1,41 @@
+{
+  "id": 3381,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "Commercial Transactions (Kitab Al-Buyu)"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، ‏‏‏‏‏‏حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏عَنْ عُبَيْدِ اللَّهِ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنِ ابْنِ عُمَرَ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏نَحْوَهُ، ‏‏‏‏‏‏وقَالَ:‏‏‏‏ وَحَبَلُ الْحَبَلَةِ أَنْ تُنْتَجَ النَّاقَةُ بَطْنَهَا ثُمَّ تَحْمِلُ الَّتِي نُتِجَتْ."
+    },
+    "en": {
+      "narrator": "A similar tradition has also been narrated by Ibn Umar رضی اللہ عنہما from the Prophet صلی ‌اللہ ‌علیہ ‌وسلم through a different chain of transmitters. He said:",
+      "text": "Habal al-habalah means that a she-camel delivers an offspring and then the offspring which it delivers becomes pregnant."
+    },
+    "ur": {
+      "narrator": "ہم سے احمد بن حنبل نے بیان کیا، ہم سے یحییٰ نے بیان کیا، انہوں نے عبید اللہ سے، نافع کی سند سے, اس سند سے بھی ابن عمر رضی اللہ عنہما نے نبی اکرم صلی اللہ علیہ وسلم سے اسی طرح کی حدیث روایت کی ہے",
+      "text": "اس میں ہے «حبل الحبلة» یہ ہے کہ اونٹنی اپنے پیٹ کا بچہ جنے پھر بچہ جو پیدا ہوا تھا حاملہ ہو جائے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 838,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "The Book of Leading the Prayer (Al-Imamah)"
+        },
+        "ar": {
+          "text": "كتاب الإمامة"
+        },
+        "ur": {
+          "text": "امامت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنِ ابْنِ عُمَرَ، ‏‏‏‏‏‏أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ صَلَاةُ الْجَمَاعَةِ تَفْضُلُ عَلَى صَلَاةِ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said: Praying in congregation is twenty-seven times better than praying alone."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہم سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  جماعت کی نماز تنہا نماز پر ستائیس درجہ فضیلت رکھتی ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 13,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا عُمَرُ بْنُ عَلِيِّ بْنِ مُقَدَّمٍ، عَنْ سُفْيَانَ بْنِ حُسَيْنٍ، قَالَ: سَأَلَنِي إِيَاسُ بْنُ مُعَاوِيَةَ، فَقَالَ: إِنِّي أَرَاكَ قَدْ كَلِفْتَ بِعِلْمِ الْقُرْآنِ، فَاقْرَأْ عَلَيَّ سُورَةً، وَفَسِّرْ حَتَّى أَنْظُرَ فِيمَا عَلِمْتَ، قَالَ: فَفَعَلْتُ، فَقَالَ لِيَ: احْفَظْ عَلَيَّ مَا أَقُولُ لَكَ: «إِيَّاكَ وَالشَّنَاعَةَ فِي الْحَدِيثِ، فَإِنَّهُ قَلَّمَا حَمَلَهَا أَحَدٌ إِلَّا ذَلَّ فِي نَفْسِهِ، وَكُذِّبَ فِي حَدِيثِهِ»"
+    },
+    "en": {
+      "narrator": "Yahyā bin Yahyā narrated to us, Umar bin Alī bin Muqaddam informed us, on authority of Sufyān bin Husayn:",
+      "text": "He said: ‘Iyās bin Mu’āwiyah asked me saying: ‘Indeed I see that you love knowledge of the Qur’ān, so recite for me a Sūrah and explain it until I can reflect on what you know’. [Sufyān] said, so I did that, and [Iyās] said to me: ‘Memorize from me what I am about to say to you- Beware of abominations in Ḥadīth for indeed rarely does anyone convey them except he lowers himself and his Ḥadīth are denied’.’"
+    },
+    "ur": {
+      "narrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے عمر بن علی بن مقدام نے بیان کیا,سفیان بن حسین سے روایت ہے کہ",
+      "text": "انہوں نے کہاایاس بن معاویہ مجھ سے مطالبہ کیا اور کہا میں تمہیں دیکھتا ہوں تم قرآن کےعلم سے شدید رغبت رکھتے ہوں تم میرے سامنے ایک سورۃ پڑھو اور اس کی تفسیر کرو تاکہ جو تمہیں علم ہے میں بھی اسے دیکھوں ۔ کہا .میں نے ایسا کیا تو انہوں نے مجھ سے فرمایا جوبات میں تم سے کہنے لگا ہوں اسے میری طرف سے ہمیشہ یاد رکھنا ۔ احادیث کے مکروہات سے بچو کیونکہ ان کو شاذ و نادر ہی کوئی پہنچاتا ہے سوائے اس کے کہ وہ اپنے آپ کو اور اپنی حدیث کو پست کرے۔ انکار کر رہے ہیں."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

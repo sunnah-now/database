@@ -1,0 +1,41 @@
+{
+  "id": 2367,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Zakat"
+        },
+        "ar": {
+          "text": "كتاب الزَّكَاةِ"
+        },
+        "ur": {
+          "text": "زکوٰۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه ابْنُ نُمَيْرٍ حَدَّثَنَا أَبِي وَأَبُو مُعَاوِيَةَ عَنْ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by A'mash with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ابن نمیر نے کہا : ہمیں میرے والد اور با معاویہ نے اعمش سے اسی ( مذکورہ بالا ) سند کے ساتھ اسی طرح حدیث بیا ن کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

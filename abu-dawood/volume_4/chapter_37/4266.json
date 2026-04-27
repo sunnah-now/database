@@ -1,0 +1,41 @@
+{
+  "id": 4266,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)"
+        },
+        "ar": {
+          "text": "كتاب الفتن والملاحم"
+        },
+        "ur": {
+          "text": "فتنوں اور جنگوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى بْنِ الطَّبَّاعِ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الْقُدُّوسِ، ‏‏‏‏‏‏قَالَ زِيَادٌ:‏‏‏‏ سِيمِينُ كُوشَ."
+    },
+    "en": {
+      "narrator": "Narrated Eisa bin Atbah:",
+      "text": "Abdullah bin Abdul-Quddus mentioned in his version: Ziyad, one who has white ears."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن عیسیٰ بن الطبع نے بیان کیا",
+      "text": "عبداللہ بن عبدالقدوس نے «عن رجل يقال له زياد» کے بجائے «زیاد سیمین کوش» کہا ہے جس کے معنی سفید کان والا کے ہیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2725,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The Book of Hajj"
+        },
+        "ar": {
+          "text": "كتاب مناسك الحج"
+        },
+        "ur": {
+          "text": "حج کے احکام و مناسک"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا إِسْحَاق بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا النَّضْرُ، ‏‏‏‏‏‏عَنْ شُعْبَةَ، ‏‏‏‏‏‏بِهَذَا الْإِسْنَادِ،‏‏‏‏ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Shu'bah narrated: A similar report was narrated from Shu'bah with the same chain."
+    },
+    "ur": {
+      "narrator": "اس سند سے بھی",
+      "text": "شعبہ سے اسی کے مثل مروی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

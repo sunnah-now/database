@@ -1,0 +1,41 @@
+{
+  "id": 4228,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 26,
+      "language": {
+        "en": {
+          "text": "The Book Of Wills"
+        },
+        "ar": {
+          "text": "كتاب الْوَصِيَّةِ"
+        },
+        "ur": {
+          "text": "وصیت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، ح وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، كِلَاهُمَا عَنْ مَالِكِ بْنِ مِغْوَلٍ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، غَيْرَ أَنَّ فِي حَدِيثِ وَكِيعٍ، قُلْتُ: فَكَيْفَ أُمِرَ النَّاسُ بِالْوَصِيَّةِ؟ وَفِي حَدِيثِ ابْنِ نُمَيْرٍ، قُلْتُ: كَيْفَ كُتِبَ عَلَى الْمُسْلِمِينَ الْوَصِيَّةُ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Malik bin Mighwal with the same chain of transmitters but with a slight variation of words. In the hadith related by Waki (the words are) I said: How the people have been ordered about the will; and in the hadith of Ibn Numair (the words are):",
+      "text": "How the will has been prescribed for the Muslims, '."
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, وکیع اور ابن نمیر دونوں نے مالک بن مغول سے اسی سند کے ساتھ اسی طرح حدیث بیان کی ، البتہ وکیع کی حدیث میں ہے : میں نے پوچھا : تو لوگوں کو وصیت کا کیسے حکم دیا گیا ہے؟ اور ابن نمیر کی حدیث میں ہے ,  میں نے پوچھا",
+      "text": "مسلمانوں پر وصیت کیسے فرض کی گئی ہے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

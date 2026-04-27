@@ -1,0 +1,41 @@
+{
+  "id": 4160,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of al-Bay`ah"
+        },
+        "ar": {
+          "text": "كتاب البيعة"
+        },
+        "ur": {
+          "text": "بیعت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قَالَ حَدَّثَنَا يَعْقُوبُ، ‏‏‏‏‏‏عَنْ أَبِي حَازِمٍ، ‏‏‏‏‏‏عَنْ أَبِي صَالِحٍ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ عَلَيْكَ بِالطَّاعَةِ،‏‏‏‏ فِي مَنْشَطِكَ وَمَكْرَهِكَ وَعُسْرِكَ وَيُسْرِكَ وَأَثَرَةٍ عَلَيْكَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Abu Hurairah that the Messenger of Allah said: You have to obey when you feel energetic and when you feel tired, during your ease and your hardship, and when others are preferred over you."
+    },
+    "ur": {
+      "narrator": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”تم پر ( امیر و حاکم کی ) اطاعت لازم ہے۔ خوشی میں، غمی میں، تنگی میں، خوشحالی میں اور دوسروں کو تم پر ترجیح دئیے جانے کی حالت میں“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

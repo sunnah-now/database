@@ -1,0 +1,41 @@
+{
+  "id": 374,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book of Purification and its Sunnah"
+        },
+        "ar": {
+          "text": "كتاب الطهارة وسننها"
+        },
+        "ur": {
+          "text": "طہارت اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، ‏‏‏‏‏‏حَدَّثَنَا الْمُعَلَّى بْنُ أَسَدٍ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ، ‏‏‏‏‏‏حَدَّثَنَا عَاصِمٌ الْأَحْوَلُ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ سَرْجِسَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَغْتَسِلَ الرَّجُلُ بِفَضْلِ وَضُوءِ الْمَرْأَةِ، ‏‏‏‏‏‏وَالْمَرْأَةُ بِفَضْلِ الرَّجُلِ، ‏‏‏‏‏‏وَلَكِنْ يَشْرَعَانِ جَمِيعًا ."
+    },
+    "en": {
+      "narrator": "It was narrated that `Abdullah bin Sarjis رضی اللہ عنہ said:",
+      "text": "The Messenger of Allah forbade men to perform ablution with the water left over by a woman, and women to perform ablution with water left over by a man, however both (spouses) may start to perform their ablutions at the same time. Abu `Abdullah Ibn Majah said: The first (narration) is correct, and the second (narration) is Wahm (an error). Another chain with similar wording."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن یحییٰ نے بیان کیا، کہا ہم سے معلی بن اسد نے بیان کیا، کہا ہم سے عبدالعزیز بن مختار نے بیان کیا، ہم سے عاصم الاہوال نے بیان کیا, عبداللہ بن سرجس رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے منع فرمایا کہ مرد عورت کے بچے ہوئے پانی سے غسل کرے اور عورت مرد کے بچے ہوئے پانی سے غسل کرے، البتہ دونوں ایک ساتھ شروع کریں۔ ابوعبداللہ ابن ماجہ کہتے ہیں: صحیح پہلی حدیث یعنی حکم بن عمرو رضی اللہ عنہ کی ہے، اور دوسری حدیث یعنی عبداللہ بن سرجس رضی اللہ عنہ کی وہم ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

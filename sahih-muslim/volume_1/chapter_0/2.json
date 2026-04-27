@@ -1,0 +1,41 @@
+{
+  "id": 2,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةَ، عَنْ مَنْصُورٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، أَنَّهُ سَمِعَ عَلِيًّا رَضِيَ اللهُ عَنْهُ يَخْطُبُ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا تَكْذِبُوا عَلَيَّ، فَإِنَّهُ مَنْ يَكْذِبْ عَلَيَّ يَلِجِ النَّارَ»"
+    },
+    "en": {
+      "narrator": "Abu Bakr Ibn Abi Shaybah narrated to us that Ghundar narrated to us, on authority of Shu’bah; and Muhammad bin ul-Muthannā and Ibn Bashār both narrated to us, they said: Muhammad bin Ja’far narrated to us, Shu’bah narrated to us, on authority of Mansur, on authority of Rab’iy ibn Hirāsh, that:",
+      "text": "He heard `Ali, may Allah be pleased with him, giving a Khutbah and he said that the Messenger of Allah, peace and blessings of Allah upon him, said: ‘Do not lie upon me; indeed whoever lies upon me will enter the Fire’."
+    },
+    "ur": {
+      "narrator": "ابو بکر بن ابی شیبہ ، نیز محمد بن مثنیٰ اور ابن بشار نے کہا : ہم سے محمد بن جعفر ( غندر ) نے شعبہ سے حدیث بیان کی ، انہوں نے منصور سے ، انہوں نے ربعی بن حراش سے روایت کی کہ",
+      "text": "انہوں نے حضرت علی ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنا ، جب وہ خطبہ دے رہے تھے : کہا : رسول اللہﷺ نے فرمایا : ’’مجھ پر جھوٹ نہ بولو ، بلاشبہ جس نے مجھ پر جھوٹ بولا وہ جہنم میں داخل ہو گا ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

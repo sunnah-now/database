@@ -1,0 +1,41 @@
+{
+  "id": 1337,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+        },
+        "ar": {
+          "text": "كتاب التطوع"
+        },
+        "ur": {
+          "text": "نوافل اور سنتوں کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ وَهْبٍ، ‏‏‏‏‏‏أَخْبَرَنِي ابْنُ أَبِي ذِئْبٍ، ‏‏‏‏‏‏وَعَمْرُو بْنُ الْحَارِثِ، ‏‏‏‏‏‏وَيُونُسُ بْنُ يَزِيدَ، ‏‏‏‏‏‏أَنَّ ابْنَ شِهَابٍ أَخْبَرَهُمْ بِإِسْنَادِهِ وَمَعْنَاهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ وَيُوتِرُ بِوَاحِدَةٍ وَيَسْجُدُ سَجْدَةً قَدْرَ مَا يَقْرَأُ أَحَدُكُمْ خَمْسِينَ آيَةً قَبْلَ أَنْ يَرْفَعَ رَأْسَهُ فَإِذَا سَكَتَ الْمُؤَذِّنُ مِنْ صَلَاةِ الْفَجْرِ وَتَبَيَّنَ لَهُ الْفَجْرُ، ‏‏‏‏‏‏وَسَاقَ مَعْنَاهُ قَالَ:‏‏‏‏ وَبَعْضُهُمْ يَزِيدُ عَلَى بَعْضٍ."
+    },
+    "en": {
+      "narrator": "This tradition has been transmitted by Ibn Shihab through a different chain of narrators to the same effect. This version adds:",
+      "text": "He would observe witr with a single rak'ah and make a prostration as long as you would take to recite fifty verses before raising his head. When the muadhdhin finished his call for the dawn prayer and the dawn became clear to him. . . . Then the narrator transmitted the rest of the tradition to the same effect. Some narrators added something more in their version."
+    },
+    "ur": {
+      "narrator": "ہم سے سلیمان بن داؤد مہری نے بیان کیا، انہیں ابن وہب نے بیان کیا، انہیں ابن ابی ذہب نے، انہیں عمرو بن حارث نے اور مجھے یونس بن یزید نے خبر دی، اس طریق سے بھی ابن شہاب زہری سے اسی سند سے اسی مفہوم کی حدیث مروی ہے، اس میں ہے کہ",
+      "text": "ایک رکعت وتر پڑھتے اور اتنی دیر تک سجدہ کرتے جتنی دیر میں تم میں سے کوئی پچاس آیتیں ( رکوع سے ) سر اٹھانے سے پہلے پڑھ لے، پھر جب مؤذن فجر کی اذان کہہ کر خاموش ہوتا اور فجر ظاہر ہو جاتی، آگے راوی نے اسی مفہوم کی حدیث بیان کی البتہ بعض کی روایتوں میں بعض پر کچھ اضافہ ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

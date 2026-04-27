@@ -1,0 +1,41 @@
+{
+  "id": 2474,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Zakat"
+        },
+        "ar": {
+          "text": "كتاب الزَّكَاةِ"
+        },
+        "ur": {
+          "text": "زکوٰۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، جَمِيعًا عَنْ وَكِيعٍ، عَنْ شُعْبَةَ، بِهَذَا الْإِسْنَادِ، وَقَالَ: «أَنَّا لَا تَحِلُّ لَنَا الصَّدَقَةُ؟»."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters (and the words of the Holy Prophet ﷺ) are:",
+      "text": "Sadaqa is not permissible for us."
+    },
+    "ur": {
+      "narrator": "ہم سے یحییٰ بن یحییٰ، ابوبکر بن ابی شیبہ اور زہیر بن حرب نے روایت کی ہے, وکیع نے شعبہ سے اسی ( ؐذکورہ با لا ) سند کے ساتھ روایت کی اور",
+      "text": "( \" ہم صدقہ نہیں کھا تے \" کے بجا ئے ) \" ہمارے لیے صدقہ حلا ل نہیں \" کہا ہے"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

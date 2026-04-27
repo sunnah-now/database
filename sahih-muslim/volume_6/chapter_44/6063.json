@@ -1,0 +1,41 @@
+{
+  "id": 6063,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The Book of Virtues"
+        },
+        "ar": {
+          "text": "كتاب الْفَضَائِلِ"
+        },
+        "ur": {
+          "text": "انبیائے کرام علیہم السلام کے فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Ibn Shihab with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے ابو الطاہر نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، مجھ سے یونس نے بیان کیا, یونس نے ابن شہاب سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

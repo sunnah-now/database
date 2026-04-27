@@ -1,0 +1,41 @@
+{
+  "id": 2023,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 21,
+      "language": {
+        "en": {
+          "text": "The Book of Funerals"
+        },
+        "ar": {
+          "text": "كتاب الجنائز"
+        },
+        "ur": {
+          "text": "جنازہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أخبرنا العباس بن عبد العظيم عن سعيد بن عامر عن شعبة عن بن أبي نجيح عن عطاء عن جابر قال:‏‏‏‏ دفن مع أبي رجل في القبر فلم يطب قلبي حتى أخرجته ودفنته على حدة ‏.‏"
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Jabir said: A man was buried with my father in the same grave and I felt restless until I brought him out and buried him on his own."
+    },
+    "ur": {
+      "narrator": "جابر بن عبداللہ رضی الله عنہما کہتے ہیں کہ",
+      "text": "میرے والد کے ساتھ قبر میں ایک شخص اور دفن کیا گیا تھا، میرا دل خوش نہیں ہوا یہاں تک کہ میں نے اسے نکالا، اور انہیں علاحدہ دفن کیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

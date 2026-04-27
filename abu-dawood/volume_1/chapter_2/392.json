@@ -1,0 +1,41 @@
+{
+  "id": 392,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ، ‏‏‏‏‏‏حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ الْمَدَنِيُّ، ‏‏‏‏‏‏عَنْ أَبِي سُهَيْلٍ نَافِعِ بْنِ مَالِكِ بْنِ أَبِي عَامِرٍ، ‏‏‏‏‏‏بِإِسْنَادِهِ بِهَذَا الْحَدِيثِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَفْلَحَ وَأَبِيهِ إِنْ صَدَقَ، ‏‏‏‏‏‏دَخَلَ الْجَنَّةَ وَأَبِيهِ إِنْ صَدَقَ"
+    },
+    "en": {
+      "narrator": "This tradition has also been reported by Abu Suhail Nafi bin Malik bin Abi Amir through a different chain of narrators. It adds:",
+      "text": "He (ﷺ) said: He will be successful, by his father, if he speaks the truth; he will enter Paradise, by his father, if he speaks the truth."
+    },
+    "ur": {
+      "narrator": "ہم سے سلیمان بن داؤد نے بیان کیا، ہم سے اسماعیل بن جعفر مدنی نے بیان کیا، اس سند سے بھی ابوسہیل نافع بن مالک بن ابی عامر سے یہی حدیث مروی ہے، اس میں ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: اس کے باپ کی قسم!  اگر اس نے سچ کہا تو وہ بامراد رہا، اور اس کے باپ کی قسم! اگر اس نے سچ کہا تو وہ جنت میں جائے گا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

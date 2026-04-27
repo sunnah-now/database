@@ -1,0 +1,41 @@
+{
+  "id": 4135,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Fighting [The Prohibition of Bloodshed]"
+        },
+        "ar": {
+          "text": "كتاب تحريم الدم"
+        },
+        "ur": {
+          "text": "قتل و خون ریزی کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَمْرُو بْنُ زُرَارَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا إِسْمَاعِيل، ‏‏‏‏‏‏عَنْ أَيُّوبَ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ سِيرِينَ، ‏‏‏‏‏‏عَنْ أَبِي بَكْرَةَ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ لَا تَرْجِعُوا بَعْدِي ضُلَّالًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Abu Bakrah that: The Prophet [SAW] said: Do not revert to misguidance after I am gone, striking the necks of one another (killing one another)."
+    },
+    "ur": {
+      "narrator": "ابوبکرہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”تم میرے بعد کافر نہ ہو جانا کہ آپس میں ایک دوسرے کی گردنیں مارنے لگو“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 9,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، قَالَ: قَالَ عُمَرُ بْنُ الْخَطَّابِ رَضِيَ اللهُ تَعَالَى عَنْهُ: «بِحَسْبِ الْمَرْءِ مِنَ الْكَذِبِ أَنْ يُحَدِّثَ بِكُلِّ مَا سَمِعَ»"
+    },
+    "en": {
+      "narrator": "Yahyā bin Yahyā narrated to us, Hushaym informed us, on authority of Sulaymān at-Taymī, on authority of Abī Uthmān an-Nahdī:",
+      "text": "He said, Umar bin ul-Khattāb, may Allah be pleased with him, said: ‘It is enough of a lie for a man that he narrates everything he hears’."
+    },
+    "ur": {
+      "narrator": "یحییٰ بن یحییٰ ‘ ہشیم ‘ سلیمان تیمی ‘ ابو عثمان نہدی سے روایت ہے",
+      "text": "کہا : عمر بن خطاب ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے فرمایا : آدمی کے لیے جھوٹ سے اتنا کافی ہے ( جس کی بنا پر وہ جھوٹا قرار دیا جا سکتا ہے ) کہ وہ ہر سنی ہوئی بات بیان کر دے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

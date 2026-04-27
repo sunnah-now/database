@@ -1,0 +1,41 @@
+{
+  "id": 4759,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Government"
+        },
+        "ar": {
+          "text": "كتاب الْإِمَارَةِ"
+        },
+        "ur": {
+          "text": "امور حکومت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ ابْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ شُعْبَةَ، بِهَذَا الْإِسْنَادِ، وَقَالَ: «عَبْدًا حَبَشِيًّا."
+    },
+    "en": {
+      "narrator": "This hadith has been transmitted on the authority of Shu'ba with the same chain of transmitters, and he said:",
+      "text": "An Abyssinian slave."
+    },
+    "ur": {
+      "narrator": "ابن بشار نے ہمیں یہی حدیث بیان کی ، کہا : ہمیں محمد بن جعفر اور عبدالرحمٰن بن مہدی نے شعبہ سے اسی سند کے ساتھ حدیث سنائی اور کہا",
+      "text": "حبشی غلام ہو."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

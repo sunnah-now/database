@@ -1,0 +1,41 @@
+{
+  "id": 372,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book on Salat (Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَقَدْ رُوِيَ هَذَا الْحَدِيثُ عَنْ إِبْرَاهِيمَ بْنِ طَهْمَانَ بِهَذَا الْإِسْنَادِ، ‏‏‏‏‏‏إِلَّا أَنَّهُ يَقُولُ:‏‏‏‏ عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ صَلَاةِ الْمَرِيضِ، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ صَلِّ قَائِمًا، ‏‏‏‏‏‏فَإِنْ لَمْ تَسْتَطِعْ فَقَاعِدًا، ‏‏‏‏‏‏فَإِنْ لَمْ تَسْتَطِعْ فَعَلَى جَنْبٍ"
+    },
+    "en": {
+      "narrator": "",
+      "text": "This Hadith has been related from Ibrahim bin Tahman with this chain. Except that he said: From Imran bin Husain who said: 'I asked Allah's Messenger (S) about Salat for a sick person. He said: He performs Salat standing, if he is not able then sitting, if he is not able then on his side."
+    },
+    "ur": {
+      "narrator": "یہ حدیث ابراہیم بن طہمان کے طریق سے بھی",
+      "text": "اسی سند سے مروی ہے، مگر اس میں یوں ہے: عمران بن حصین کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے مریض کی نماز کے بارے میں سوال کیا تو آپ نے فرمایا: ”کھڑے ہو کر پڑھو، اگر اس کی طاقت نہ ہو تو بیٹھ کر پڑھو اور اگر اس کی بھی طاقت نہ ہو تو لیٹ کر پہلو کے بل پڑھو“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

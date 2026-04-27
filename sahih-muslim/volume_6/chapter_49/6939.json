@@ -1,0 +1,41 @@
+{
+  "id": 6939,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness"
+        },
+        "ar": {
+          "text": "كتاب الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ"
+        },
+        "ur": {
+          "text": "ذکر الٰہی‘دعا ‘توبہ اور استغفار"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا الثَّقَفِيُّ أَخْبَرَنَا أَيُّوبُ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Ayyub narrated it with this chain of narrators (a Hadith similar to no. 6938)."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے( عبدالوہاب ) ثقفی نے بتایا : ایوب نے ہمیں اسی سند کے ساتھ ( یہی ) حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

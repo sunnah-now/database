@@ -1,0 +1,41 @@
+{
+  "id": 5645,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 39,
+      "language": {
+        "en": {
+          "text": "The Book of Manners and Etiquette"
+        },
+        "ar": {
+          "text": "كتاب الْآدَابِ"
+        },
+        "ur": {
+          "text": "معاشرتی آداب کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا عَبْدُ الْأَعْلَى وَقَالَ إِسْحَقُ أَخْبَرَنَا وَكِيعٌ حَدَّثَنَا سُفْيَانُ كِلَاهُمَا عَنْ يُونُسَ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Yunus through another chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے اسحاق بن ابراہیم نے بیان کیا, عبد الاعلیٰ اور سفیان دونوں نے یو نس سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

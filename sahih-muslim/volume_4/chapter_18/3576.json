@@ -1,0 +1,41 @@
+{
+  "id": 3576,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 18,
+      "language": {
+        "en": {
+          "text": "The Book of Suckling"
+        },
+        "ar": {
+          "text": "كتاب الرِّضَاعِ"
+        },
+        "ur": {
+          "text": "رضاعت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، حَدَّثَنَا حَمَّادٌ يَعْنِي ابْنَ زَيْدٍ، حَدَّثَنَا هِشَامٌ، بِهَذَا الْإِسْنَادِ، أَنَّ أَخَا أَبِي الْقُعَيْسِ اسْتَأْذَنَ عَلَيْهَا فَذَكَرَ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Hisham with the same chain of transmitters (and the words are):",
+      "text": "The brother of Abu'l-Qu'ais sought permission from her ('A'isha رضی اللہ عنہا ) (to enter the house). The rest is the same."
+    },
+    "ur": {
+      "narrator": "مجھ سے ابو الربیع الزہرانی نے بیان کیا، انہوں نے ہم سے بیان کیا حماد ، یعنی ابن زید نے ہمیں حدیث بیان کی ، کہا : ہمیں ہشام نے اسی سند سے حدیث بیان کی کہ",
+      "text": "ابوقعیس کے بھائی نے ان ( حضرت عائشہ رضی اللہ عنہا ) کے ہاں آنے کی اجازت مانگی ۔ ۔ ۔ آگے اسی طرح بیان کیا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1339,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Forgetfulness (In Prayer)"
+        },
+        "ar": {
+          "text": "كتاب السهو"
+        },
+        "ur": {
+          "text": "نماز میں سہو کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْأَعْلَى،‏‏‏‏ وَمُحَمَّدُ بْنُ إِبْرَاهِيمَ بْنِ صُدْرَانَ،‏‏‏‏ عَنْ خَالِدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا شُعْبَةُ، ‏‏‏‏‏‏عَنْ عَاصِمٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، ‏‏‏‏‏‏عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، ‏‏‏‏‏‏أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ كَانَ إِذَا سَلَّمَ،‏‏‏‏ قَالَ:‏‏‏‏ اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ،‏‏‏‏ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from 'Aishah that : After saying the taslim the Messenger of Allah (ﷺ) would say: Allahumma anta as-salam wa minka as-salam tabarakta ya dhal-jalali wal-ikram (O Allah, You are the source of eace (or the One free from all faults) and from You comes peace, blessed are You, O Possessor of Majesty and Honor)."
+    },
+    "ur": {
+      "narrator": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم جب سلام پھیرتے تو کہتے: «‏اللهم أنت السلام ومنك السلام تباركت يا ذا الجلال والإكرام‏»  اے اللہ! تو سلام ہے، اور تجھی سے تمام کی سلامتی ہے، اے عزت و بزرگی والے تیری ذات بڑی بابرکت ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

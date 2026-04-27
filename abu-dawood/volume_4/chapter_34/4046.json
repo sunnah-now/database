@@ -1,0 +1,41 @@
+{
+  "id": 4046,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "Clothing (Kitab Al-Libas)"
+        },
+        "ar": {
+          "text": "كتاب اللباس"
+        },
+        "ur": {
+          "text": "لباس سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيل، ‏‏‏‏‏‏حَدَّثَنَا حَمَّادٌ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ عَمْرٍو، ‏‏‏‏‏‏عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بِهَذَا زَادَ وَلَا أَقُولُ نَهَاكُمْ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Ibrahim bin Abdullah through a different chain of narrators. This version added:",
+      "text": "I do not say that he had forbidden you."
+    },
+    "ur": {
+      "narrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا، ہم سے حماد نے، محمد بن عمرو کی سند سے, اس سند سے بھی ابراہیم بن عبداللہ سے یہی روایت مروی ہے,اور اس میں یہ اضافہ ہے کہ",
+      "text": "میں یہ نہیں کہتا کہ تمہیں منع فرمایا ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

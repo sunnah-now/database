@@ -1,0 +1,41 @@
+{
+  "id": 1702,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 10,
+      "language": {
+        "en": {
+          "text": "The Book of Lost and Found Items"
+        },
+        "ar": {
+          "text": "كتاب اللقطة"
+        },
+        "ur": {
+          "text": "گری پڑی گمشدہ چیزوں سے متعلق مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏عَنْ شُعْبَةَ بِمَعْنَاهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ عَرِّفْهَا حَوْلًا، ‏‏‏‏‏‏وَقَالَ ثَلَاثَ مِرَارٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَلَا أَدْرِي قَالَ لَهُ ذَلِكَ فِي سَنَةٍ أَوْ فِي ثَلَاثِ سِنِينَ."
+    },
+    "en": {
+      "narrator": "The aforesaid tradition has also been transmitted by Shubah through a different chain of narrators to the same effect. The version goes:",
+      "text": "He said: Make it known for a year. He said this three times. He said: I do not know whether he said “for a year” or “for three years”."
+    },
+    "ur": {
+      "narrator": "ہم سے مسدد نے بیان کیا، ہم سے یحییٰ نے ,اس سند سے بھی شعبہ سے اسی مفہوم کی حدیث مروی ہے",
+      "text": "وہ کہتے ہیں: «عرفها حولا» تین بار کہا، البتہ مجھے یہ نہیں معلوم کہ آپ نے اسے ایک سال میں کرنے کے لیے کہا یا تین سال میں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

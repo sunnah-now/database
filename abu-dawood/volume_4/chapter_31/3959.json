@@ -1,0 +1,41 @@
+{
+  "id": 3959,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 31,
+      "language": {
+        "en": {
+          "text": "The Book of Manumission of Slaves"
+        },
+        "ar": {
+          "text": "كتاب العتق"
+        },
+        "ur": {
+          "text": "غلاموں کی آزادی سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو كَامِلٍ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي ابْنَ الْمُخْتَارِ، ‏‏‏‏‏‏حَدَّثَنَا خَالِدٌ، ‏‏‏‏‏‏عَنْ أَبِي قِلَابَةَ بِإِسْنَادِهِ وَمَعْنَاهُ وَلَمْ يَقُلْ، ‏‏‏‏‏‏فَقَالَ لَهُ:‏‏‏‏ قَوْلًا شَدِيدًا وَمَعْنَاهُ وَلَمْ يَقُلْ، ‏‏‏‏‏‏فَقَالَ لَهُ:‏‏‏‏ قَوْلًا شَدِيدًا."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Abu Qilabah through a different chain of narrators on the authority of Imran bin Husain to the same effect. But in this version he did not mention:",
+      "text": "He spoke severely of them."
+    },
+    "ur": {
+      "narrator": "ہم سے ابو کامل نے بیان کیا، کہا ہم سے عبدالعزیز نے بیان کیا، یعنی ہم سے ابن مختار نے بیان کیا، ہم سے خالد نے بیان کیا, اس سند سے بھی ابوقلابہ سے اسی طریق سے اسی مفہوم کی حدیث مروی ہےاور اس میں یہ نہیں ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے اسے سخت سست کہا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

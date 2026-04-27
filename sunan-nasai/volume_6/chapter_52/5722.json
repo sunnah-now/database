@@ -1,0 +1,41 @@
+{
+  "id": 5722,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "The Book of Drinks"
+        },
+        "ar": {
+          "text": "كتاب الأشربة"
+        },
+        "ur": {
+          "text": "مشروبات ( پینے والی چیزوں ) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ،‏‏‏‏ عَنْ دَاوُدَ،‏‏‏‏ قَالَ:‏‏‏‏ سَأَلْتُ سَعِيدًا:‏‏‏‏ مَا الشَّرَابُ الَّذِي أَحَلَّهُ عُمَرُ رَضِيَ اللَّهُ عَنْهُ ؟،‏‏‏‏ قَالَ:‏‏‏‏ الَّذِي يُطْبَخُ حَتَّى يَذْهَبَ ثُلُثَاهُ وَيَبْقَى ثُلُثُهُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Dawud said: I asked Sa'eed: 'What is the drink that 'Umar bin Al-Khattab, may Allah be pleased with him, regarded as permissible?' He said: 'That which has been cooked until two-third has gone and one-third is left.'"
+    },
+    "ur": {
+      "narrator": "داود کہتے ہیں کہ",
+      "text": "میں نے سعید بن المسیب سے پوچھا: وہ کون سا مشروب ہے جسے عمر رضی اللہ عنہ نے حلال قرار دیا؟ وہ بولے: جو اس قدر پکایا جائے کہ اس کا دو تہائی حصہ ختم ہو جائے اور ایک تہائی باقی رہ جائے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 980,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Book of the Commencement of the Prayer"
+        },
+        "ar": {
+          "text": "كتاب الافتتاح"
+        },
+        "ur": {
+          "text": "نماز شروع کرنے کے مسائل و احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، ‏‏‏‏‏‏عَنْ سِمَاكٍ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ سَمُرَةَ، ‏‏‏‏‏‏أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَقْرَأُ فِي الظُّهْرِ وَالْعَصْرِ بِالسَّمَاءِ ذَاتِ الْبُرُوجِ، ‏‏‏‏‏‏وَالسَّمَاءِ وَالطَّارِقِ وَنَحْوِهِمَا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Jabir bin Samurah that : The Prophet (ﷺ) used to recite By the heaven holding the big stars and: By the heaven, and At-Tariq (the night-comer, i.e. the bright star) and similar surahs in Zuhr and 'Asr."
+    },
+    "ur": {
+      "narrator": "جابر بن سمرہ رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم ظہر اور عصر میں «والسماء ذات البروج» اور «والسماء والطارق» اور اسی جیسی سورتیں پڑھتے تھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 81,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، قَالَ: سَمِعْتُ بَعْضَ أَصْحَابِ عَبْدِ اللهِ، قَالَ: قَالَ ابْنُ الْمُبَارَكِ: «نِعْمَ الرَّجُلُ بَقِيَّةُ لَوْلَا أَنَّهُ كَانَ يُكَنِّي الْأَسَامِيَ، وَيُسَمِّي الْكُنَى، كَانَ دَهْرًا يُحَدِّثُنَا عَنْ أَبِي سَعِيدٍ الْوُحَاظِيِّ فَنَظَرْنَا فَإِذَا هُوَ عَبْدُ الْقُدُّوسِ»"
+    },
+    "en": {
+      "narrator": "Ishāq bin Ibrāhīm al-Hanthalī [bin Rāhwayh] narrated to us, he said:",
+      "text": "I heard one of the companions of Abdullah [bin al-Mubārak] say, Ibn al-Mubārak said ‘What an excellent man is Baqiyyah, if it were not for the fact that he would provide a nickname for [those who were better-known by] the birth name, and he would provide the birth name for [those who were better-known by] a nickname. For a long time he would narrated to us on authority of Abī Sa’īd al-Wuhāthī, then when we investigated [we were surprised that] he was Abd ul-Quddūs ’."
+    },
+    "ur": {
+      "narrator": "اسحاق بن ابراہیم حنظلی نے بیان کیا ، کہا :",
+      "text": "میں نے عبد اللہ کے اصحاب ( شاگردوں ) میں سے ایک سے سنا ، کہا : ابن مبارک نے فرمایا : بقیہ اچھا آدمی ہے اگر یہ نہ ہوتا کہ وہ ناموں کو کنیتوں سے بدل دیتا ہے اور کنیتوں کو ناموں سے ۔ وہ ایک زمانے تک ہمیں ابو سعید وحاظی سے روایتیں سناتا رہا ، ہم نے اچھی طرح غور کیا تو وہ عبد القدوس نکلا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 40,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي مُحَمَّدُ بْنُ أَبِي عَتَّابٍ، قَالَ: حَدَّثَنِي عَفَّانُ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ سَعِيدٍ الْقَطَّانِ، عَنْ أَبِيهِ، قَالَ: «لَمْ نَرَ الصَّالِحِينَ فِي شَيْءٍ أَكْذَبَ مِنْهُمْ فِي الْحَدِيثِ» [ص:18] قَالَ ابْنُ أَبِي عَتَّابٍ: فَلَقِيتُ أَنَا مُحَمَّدَ بْنَ يَحْيَى بْنِ سَعِيدٍ الْقَطَّانَ، فَسَأَلْتُهُ عَنْهُ، فَقَالَ: عَنْ أَبِيهِ، «لَمْ تَرَ أَهْلَ الْخَيْرِ فِي شَيْءٍ أَكْذَبَ مِنْهُمْ فِي الْحَدِيثِ». قَالَ مُسْلِمٌ: يَقُولُ: يَجْرِي الْكَذِبُ عَلَى لِسَانِهِمْ، وَلَا يَتَعَمَّدُونَ الْكَذِبَ"
+    },
+    "en": {
+      "narrator": "Muhammad bin Abī Attāb narrated to me, he said Affān narrated to me, on authority of Muhammad bin Yahyā bin Sa’īd al-Qattān, on authority of his father, he said:",
+      "text": "‘We do not see the righteous more false in anything than they are regarding Ḥadīth’. Ibn Abī Attāb said: ‘So Muhammad bin Yahyā bin Sa’īd al-Qattān and I met and I asked him about it and he said on authority of his father: ‘You will not see the people of good (Ahl ul-Khayr) more false in anything than they are regarding Ḥadīth.’ Muslim said: ‘He was saying that falsehood flows upon their tongues although they do not intend to lie’."
+    },
+    "ur": {
+      "narrator": "محمد بن ابی عتاب نے کہا : مجھ سے عفان نے محمد بن یحییٰ بن سعید قطان سے حدیث بیان کی ، انہوں نے اپنے والد سے روایت کی ، کہا : ہم نے نیک لوگوں ( صوفیا ) کو حدیث سے بڑھ کر کسی اور چیز میں جھوٹ بولنے والا نہیں پایا ۔ ابن ابی عتاب نے کہا : میں محمد بن یحییٰ بن سعید قطان سے ملا تو اس ( بات کے ) بارے میں پوچھا ، انہوں نے اپنے والد سے روایت کرتے ہوئے کہا",
+      "text": "تم اہل خیر ( زہد و ورع والوں ) کو حدیث سے زیادہ کسی اور چیز میں جھوٹا نہیں پاؤ گے ۔ امام مسلم نے کہا کہ یحییٰ بن سعید نے فرمایا : ان کی زبان پر جھوٹ جاری ہو جاتا ہے ، وہ جان بوجھ کر جھوٹ نہیں بولتے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

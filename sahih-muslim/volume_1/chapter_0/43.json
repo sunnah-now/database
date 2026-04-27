@@ -1,0 +1,41 @@
+{
+  "id": 43,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي ابْنُ قُهْزَاذَ، قَالَ: سَمِعْتُ وَهْبًا، يَقُولُ: عَنْ سُفْيَانَ، عَنْ ابْنِ الْمُبَارَكِ، قَالَ: بَقِيَّةُ صَدُوقُ اللِّسَانِ، وَلَكِنَّهُ يَأْخُذُ عَمَّنْ أَقْبَلَ وَأَدْبَرَ."
+    },
+    "en": {
+      "narrator": "Ibn Quhzādh narrated to me, he said, I heard Wahb [bin Zam’ah] saying, on authority of Sufyān [bin Abd il-Mālik], on authority of Ibn al-Mubārak, he said:",
+      "text": "‘Baqiyyah [bin al-Walīd] is truthful of tongue however he transmits [Ḥadīth] from those who approach [the Muhaddithīn, i.e. are trustworthy] and from those who turn their backs on [the Muhaddithīn, i.e. and are weak]’."
+    },
+    "ur": {
+      "narrator": "ابن قہزاذ نے کہا ، میں نے وہب سے سنا ، انہوں نے سفیان سے اور انہوں نے عبد اللہ بن مبارک سے روایت کی ، کہا",
+      "text": "بقیہ زبان کے سچے ہیں لیکن وہ ہر آنے جانے والے ( علم حدیث میں مہارت رکھنے والے اور نہ رکھنے والے ہر شخص ) سے حدیث لے لیتے ہیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

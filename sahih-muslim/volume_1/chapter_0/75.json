@@ -1,0 +1,41 @@
+{
+  "id": 75,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا الْحَسَنُ الْحُلْوَانِيُّ، قَالَ: سَمِعْتُ يَزِيدَ بْنَ هَارُونَ، وَذَكَرَ زِيَادَ بْنَ مَيْمُونٍ، فَقَالَ: «حَلَفْتُ أَلَّا أَرْوِيَ عَنْهُ شَيْئًا، وَلَا عَنْ خَالِدِ بْنِ مَحْدُوجٍ» وَقَالَ: «لَقِيتُ زِيَادَ بْنَ مَيْمُونٍ، فَسَأَلْتُهُ عَنْ حَدِيثٍ، فَحَدَّثَنِي بِهِ عَنْ بَكْرٍ الْمُزَنِيِّ، ثُمَّ عُدْتُ إِلَيْهِ، فَحَدَّثَنِي بِهِ عَنْ مُوَرِّقٍ، ثُمَّ عُدْتُ إِلَيْهِ، فَحَدَّثَنِي بِهِ عَنِ الْحَسَنِ، وَكَانَ يَنْسُبُهُمَا إِلَى الْكَذِبِ‘قَالَ الْحُلْوَانِيُّ: سَمِعْتُ عَبْدَ الصَّمَدِ، «وَذَكَرْتُ عِنْدَهُ زِيَادَ بْنَ مَيْمُونٍ فَنَسَبَهُ إِلَى الْكَذِبِ»"
+    },
+    "en": {
+      "narrator": "Al-Hasan al-Hulwānī narrated to us, he said, I heard Yazīd bin Hārūn mention Ziyād bin Maymūn, and he said:",
+      "text": "‘I swore that I would not transmit anything from him or Khālid bin Mahdūj’. [Yazīd] said: ‘I met Ziyād bin Maymūn and asked him about a Ḥadīth, so he narrated it to me on authority of Bakr al-Muzanī, then I returned to him and he narrated [the same Ḥadīth] to me on authority of Muwarriq; then I returned to him and he narrated it to me on authority of al-Hasan.’ [Al-Hulwānī said]: ‘He [Yazīd] would charge both of them with lying [i.e. Ziyād bin Maymūn and Khālid bin Mahdūj].’ Al-Hulwānī said: ‘I heard [Ḥadīth] from Abd as-Samad and I mentioned Ziyād bin Maymūn near him and he charged him with lying’."
+    },
+    "ur": {
+      "narrator": "حسن حلوانی نے کہا : میں نے یزید بن ہارون سے سنا ، انہوں نے زیاد بن میمون کا ذکر کرتے ہوئے کہا",
+      "text": "میں نے حلف اٹھایا ہے کہ میں اس سے اور خالد بن محدوجد سے کبھی روایت نہ کروں گا ( اور کہا : ) میں زیاد بن میمون سے ملا ، اس سے ایک حدیث سنانے کا کہا تو اس نے مجھے وہ حدیث بکرمزنی سے روایت کر کے سنائی ، پھر ( کچھ عرصے بعد ) میں دوبارہ اس کے پاس گیا تو اس نے وہی حدیث مُوَرِّق سے بیان کی ، پھر ایک بار اور اس کے پاس گیا تو اس نے وہی حدیث حسن ( بصری ) سے سنائی ۔ وہ ( یزید بن ہارون ) ان دونوں ( زیاد بن میمون اور خالد بن محدوج ) کو جھوٹ کی طرف منسوب کرتے تھے ۔ حلوانی نے کہا : میں نے عبد الصمد سے حدیث سنی اور ان کے سامنے زیاد بن میمون کا ذکر کیا تو انہوں نے اس کی نسبت جھوٹ کی طرف کی"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

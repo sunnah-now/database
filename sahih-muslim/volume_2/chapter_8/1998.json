@@ -1,0 +1,41 @@
+{
+  "id": 1998,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The Book of Prayer - Friday"
+        },
+        "ar": {
+          "text": "كتاب الْجُمُعَةِ"
+        },
+        "ur": {
+          "text": "جمعہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ عَنْ حُصَيْنٍ بِهَذَا الْإِسْنَادِ قَالَ وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَخْطُبُ وَلَمْ يَقُلْ قَائِمًا."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Husain with the same chain of transmitters but with this alteration that he did not make mention of the standing position."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اور ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, عبداللہ بن ادریس نے حصین سے اسی سند کے ساتھ روایت کی ، کہا : ( جب تجارتی قافلہ آیاتو ) رسول اللہ صلی اللہ علیہ وسلم خطبہ دے رہے تھے ۔ یہ نہیں کہا : کھڑے ہوئے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

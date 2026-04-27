@@ -1,0 +1,41 @@
+{
+  "id": 2770,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The Book of Hajj"
+        },
+        "ar": {
+          "text": "كتاب مناسك الحج"
+        },
+        "ur": {
+          "text": "حج کے احکام و مناسک"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، ‏‏‏‏‏‏وَالْحَارِثُ بْنُ مِسْكِينٍ قراءة عليه وأنا أسمع، ‏‏‏‏‏‏عَنْ ابْنِ وَهْبٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَخْبَرَنِي يُونُسُ، ‏‏‏‏‏‏عَنْ ابْنِ شِهَابٍ، ‏‏‏‏‏‏عَنْ سَالِمٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ ابْنُ عُمَرَ يُنْكِرُ الِاشْتِرَاطَ فِي الْحَجِّ وَيَقُولُ:‏‏‏‏ أَلَيْسَ حَسْبُكُمْ سُنَّةُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏إِنْ حُبِسَ أَحَدُكُمْ عَنِ الْحَجِّ طَافَ بِالْبَيْتِ، ‏‏‏‏‏‏وَبِالصَّفَا وَالْمَرْوَةِ، ‏‏‏‏‏‏ثُمَّ حَلَّ مِنْ كُلِّ شَيْءٍ، ‏‏‏‏‏‏حَتَّى يَحُجَّ عَامًا قَابِلًا وَيُهْدِي وَيَصُومُ إِنْ لَمْ يَجِدْ هَدْيًا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Salim said: Ibn 'Umar used to denounce stipulating conditions in Hajj, and said: 'Is not the Sunnah of the Messenger of Allah sufficient for you? If one of you is prevented from performing (finishing) Hajj let him circumambulate the House and (perform Sai) between As-Safa and al-Marwah, then exit Ihram completely until he performs Hajj the following year. And let him offer a Hadi or fast if he con not find a Hadi."
+    },
+    "ur": {
+      "narrator": "سالم بن عبداللہ کہتے ہیں کہ",
+      "text": "عبداللہ بن عمر رضی اللہ عنہما حج میں شرط لگانا پسند نہیں کرتے تھے، اور کہتے تھے: کیا تمہیں رسول اللہ صلی اللہ علیہ وسلم کی یہ سنت کافی نہیں؟ اگر تم میں سے کوئی حج سے روک دیا گیا ہو تو ( اگر ممکن ہو تو ) کعبے کا طواف، اور صفا و مروہ کے درمیان سعی کر لے، پھر ہر چیز سے حلال ہو جائے، یہاں تک کہ آنے والے سال میں حج کرے اور ہدی دے، اور اگر ہدی میسر نہ ہو تو روزہ رکھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

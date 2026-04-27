@@ -1,0 +1,41 @@
+{
+  "id": 5159,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ عَنْ أَبِي قَتَادَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ هَذَا الْحَدِيثِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith is narrated on the authority of Abu Qatada رضی اللہ عنہ through another chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ابو سلمہ بن عبد الرحمٰن نے ابو قتادہ رضی اللہ عنہ سے انھوں نے نبی صلی اللہ علیہ وسلم سے اسی سند کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

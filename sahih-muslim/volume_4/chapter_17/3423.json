@@ -1,0 +1,41 @@
+{
+  "id": 3423,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 17,
+      "language": {
+        "en": {
+          "text": "The Book of Marriage"
+        },
+        "ar": {
+          "text": "كتاب النِّكَاحِ"
+        },
+        "ur": {
+          "text": "نکاح کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ عَبْدِ الْعَزِيزِ بْنِ عُمَرَ، بِهَذَا الْإِسْنَادِ، قَالَ: رَأَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَائِمًا بَيْنَ الرُّكْنِ وَالْبَابِ، وَهُوَ يَقُولُ: بِمِثْلِ حَدِيثِ ابْنِ نُمَيْرٍ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of 'Abdul-'Aziz bin 'Umar with the same chain of transmitters, and he said:",
+      "text": "I saw Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) standing between the pillar and the gate (of the Ka'ba) and he was relating a hadith as narrated by Ibn Numair."
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، انہوں نے کہا عبدہ بن سلیمان نے عبدالعزیز بن عمر سے اسی سند کے ساتھ حدیث بیان کی ، کہا",
+      "text": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو حجر اسود اور ( بیت اللہ کے ) دروازے کے درمیان کھڑے ہوئے دیکھا ، اور آپ فرما رہے تھے ۔ ۔ ۔ ( آگے ) ابن نمیر کی حدیث کی طرح ہے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 5585,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Clothes and Adornment"
+        },
+        "ar": {
+          "text": "كتاب اللِّبَاسِ وَالزِّينَةِ"
+        },
+        "ur": {
+          "text": "لباس اور زینت کے احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو أُسَامَةَ ح و حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا أَبُو مُعَاوِيَةَ كِلَاهُمَا عَنْ هِشَامٍ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been reported on the authority of Hisham with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, ابو اسامہ اورابو معاویہ ، دونوں نے ہشام سے ، اس سند کے ساتھ روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

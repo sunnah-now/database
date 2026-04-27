@@ -1,0 +1,41 @@
+{
+  "id": 3338,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "Commercial Transactions (Kitab Al-Buyu)"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ أَبِي رِزْمَةَ، ‏‏‏‏‏‏سَمِعْتُ أَبِي، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ قَالَ رَجُلٌ لِشُعْبَةَ:‏‏‏‏ خَالَفَكَ سُفْيَانَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ دَمَغْتَنِي، ‏‏‏‏‏‏وَبَلَغَنِي عَنْ يَحْيَى بْنِ مَعِينٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كُلُّ مَنْ خَالَفَ سُفْيَانَ، ‏‏‏‏‏‏فَالْقَوْلُ قَوْلُ سُفْيَانَ."
+    },
+    "en": {
+      "narrator": "Narrated Ibn Abi Rizmah: I heard my father say:",
+      "text": "A man said to Shubah: Sufyan opposed you (i. e. narrated a tradition which differs from your version). He replied: You racked my mind. I have been told that Yahya bin Main said: If anyone opposes Sufyan, the version of Sufyan will be acceptable."
+    },
+    "ur": {
+      "narrator": "ہم سے ابن ابی رزمہ نے بیان کیا، میں نے اپنے والد کو فرماتے سنا",
+      "text": "ایک شخص نے شعبہ سے کہا: سفیان نے روایت میں آپ کی مخالفت کی ہے، آپ نے کہا: تم نے تو میرا دماغ چاٹ لیا۔ ابوداؤد کہتے ہیں: مجھے یحییٰ بن معین کی یہ بات پہنچی ہے کہ جس شخص نے بھی سفیان کی مخالفت کی تو لائق اعتماد بات سفیان کی بات ہو گی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

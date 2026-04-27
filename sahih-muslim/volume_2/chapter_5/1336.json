@@ -1,0 +1,41 @@
+{
+  "id": 1336,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبُو خَالِدٍ يَعْنِي الْأَحْمَرَ، عَنْ عَاصِمٍ، بِهَذَا الْإِسْنَادِ. وَقَالَ: «يَا ذَا الْجَلَالِ وَالْإِكْرَامِ»."
+    },
+    "en": {
+      "narrator": "Ibn Numair narrated it with the same chain of transmitters and said:",
+      "text": "O Possessor of Glory and Honour."
+    },
+    "ur": {
+      "narrator": "ابن نمیر نے ہم سے کہا, ابو خالد احمر نے عاصم سے اسی سند کے ساتھ یہی حدیث بیان کی اور",
+      "text": "یا ذالجلال والاکرام ( یا کے اضافے کے ساتھ ) کہا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

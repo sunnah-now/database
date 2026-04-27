@@ -1,0 +1,41 @@
+{
+  "id": 3043,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The Book of Hajj"
+        },
+        "ar": {
+          "text": "كتاب مناسك الحج"
+        },
+        "ur": {
+          "text": "حج کے احکام و مناسک"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي جَرِيرٌ، ‏‏‏‏‏‏عَنْ مُطَرِّفٍ، ‏‏‏‏‏‏عَنْ الشَّعْبِيِّ، ‏‏‏‏‏‏عَنْ عُرْوَةَ بْنِ مُضَرِّسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ مَنْ أَدْرَكَ جَمْعًا مَعَ الْإِمَامِ وَالنَّاسِ حَتَّى يُفِيضَ مِنْهَا، ‏‏‏‏‏‏فَقَدْ أَدْرَكَ الْحَجَّ، ‏‏‏‏‏‏وَمَنْ لَمْ يُدْرِكْ مَعَ النَّاسِ وَالْإِمَامِ، ‏‏‏‏‏‏فَلَمْ يُدْرِكْ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Urwah bin Mudarris said: The Messenger of allah said: Whoever catches up (with Fajir prayer) in Jam (Al-Muzdalifah) with the Imam and the people (and stays there) until they move on, the he has caught up with Hajj. Whoever does not catuch up with the people and the Imam, then has not caught it (Hajj).'"
+    },
+    "ur": {
+      "narrator": "عروہ بن مضرس رضی الله عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جو شخص مزدلفہ کو امام اور لوگوں کے ساتھ پا لے یہاں تک کہ وہ وہاں سے واپس منیٰ کو لوٹے تو اس نے حج پا لیا۔ اور جو امام اور لوگوں کے ساتھ مزدلفہ کو نہ پا سکا تو اس نے حج نہیں پایا“ ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

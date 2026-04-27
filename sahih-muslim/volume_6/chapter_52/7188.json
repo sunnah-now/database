@@ -1,0 +1,41 @@
+{
+  "id": 7188,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
+        },
+        "ar": {
+          "text": "كتاب الْجَنَّةِ وَصِفَةِ نَعِيمِهَا وَأَهْلِهَا"
+        },
+        "ur": {
+          "text": "جنت اس کی نعمتیں اور اہل جنت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ بِمِثْلِهِ غَيْرَ أَنَّهُ قَالَ أَلَا أَدُلُّكُمْ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters but with a slight variation of wording."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے محمد بن المثنی نے بیان کیا, محمد بن جعفر نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی مگر اس میں کہا : \" کیا میں تمہاری رہنمائی نہ کروں؟ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

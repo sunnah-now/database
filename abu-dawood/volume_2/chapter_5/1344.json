@@ -1,0 +1,41 @@
+{
+  "id": 1344,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+        },
+        "ar": {
+          "text": "كتاب التطوع"
+        },
+        "ur": {
+          "text": "نوافل اور سنتوں کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، ‏‏‏‏‏‏حَدَّثَنَا سَعِيدٌ بِهَذَا الْحَدِيثِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ يُسَلِّمُ تَسْلِيمًا يُسْمِعُنَا كَمَا قَالَ يَحْيَى بْنُ سَعِيدٍ."
+    },
+    "en": {
+      "narrator": "The above tradition has also been transmitted by Yahya bin Saeed to the same effect. The version adds the words:",
+      "text": "He uttered the salutation so loudly that we could hear it."
+    },
+    "ur": {
+      "narrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا، ہم سے محمد بن بشر نے بیان کیا، اس سند سے بھی سعید نے یہی حدیث بیان کی ہے",
+      "text": "آپ اپنا سلام ہمیں سناتے جیسا کہ یحییٰ بن سعید نے کہا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

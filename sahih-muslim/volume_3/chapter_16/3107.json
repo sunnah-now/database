@@ -1,0 +1,41 @@
+{
+  "id": 3107,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَاه أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، وَعَبْدُ اللهِ بْنُ نُمَيْرٍ، وَحُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، بِهَذَا الْإِسْنَادِ وَزَادَ فِي حَدِيثِ حُمَيْدٍ، قَالَ هِشَامٌ: وَالنَّصُّ فَوْقَ الْعَنَقِ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of 'Urwa with the same chain of transmitters. and in the hadith narrated by Humaid there is an addition (of these words): Hisham said:",
+      "text": "Al-nass (speed of camel) is faster than al-'anaq."
+    },
+    "ur": {
+      "narrator": "ابو بکر بن ابی شیبہ نے ہمیں یہ حدیث سنائی ( کہا : ) ہمیں عبدہ بن سلیمان ، عبداللہ بن نمیر اور حمید بن عبدالرحمن نے ہشام بن عروہ سے اسی سند کے ساتھ روایت کی اور حمید کی حدیث میں یہ اضافہ کیا : \" ہشام نے کہا",
+      "text": "نص ( تیز رفتاری میں ) عنق سے اوپر کادرجہ ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

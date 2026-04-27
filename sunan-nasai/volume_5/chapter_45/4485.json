@@ -1,0 +1,41 @@
+{
+  "id": 4485,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": ""
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Sufyan, from 'Abdullah bin Dinar, from Ibn 'Umar, from the Prophet who said: Two traders have the choice as long as they have not separated, or, they have chosen to conclude the transaction."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما روایت کرتے ہیں کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”بیچنے اور خریدنے والے دونوں کو اختیار رہتا ہے جب تک کہ وہ جدا نہ ہو جائیں، إلا یہ کہ وہ بیع خیار ہو“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

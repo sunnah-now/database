@@ -1,0 +1,41 @@
+{
+  "id": 4187,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of al-Bay`ah"
+        },
+        "ar": {
+          "text": "كتاب البيعة"
+        },
+        "ur": {
+          "text": "بیعت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا زِيَادُ بْنُ أَيُّوبَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا هُشَيْمٌ، ‏‏‏‏‏‏عَنْ يَعْلَى بْنِ عَطَاءٍ، ‏‏‏‏‏‏عَنْ رَجُلٍ مِنْ آلِ الشَّرِيدِ، ‏‏‏‏‏‏يُقَالُ لَهُ عَمْرٌو،‏‏‏‏ عَنْ أَبِيهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ فِي وَفْدِ ثَقِيفٍ رَجُلٌ مَجْذُومٌ،‏‏‏‏ فَأَرْسَلَ إِلَيْهِ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ ارْجِعْ فَقَدْ بَايَعْتُكَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrted from a man from Al Ash-Sharid, who was called 'Amr, that his father said: Among the delegation of Thaqif there was a man who suffered from leprosy. The Prophet sent word to him saying: 'Go back, for I have accepted your pledge. '"
+    },
+    "ur": {
+      "narrator": "شرید رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "ثقیف کے وفد میں ایک کوڑھی تھا، تو رسول اللہ صلی اللہ علیہ وسلم نے اسے کہلا بھیجا کہ ”لوٹ جاؤ، میں نے تمہاری بیعت لے لی“ ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3610,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 18,
+      "language": {
+        "en": {
+          "text": "The Book of Suckling"
+        },
+        "ar": {
+          "text": "كتاب الرِّضَاعِ"
+        },
+        "ur": {
+          "text": "رضاعت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ، حَدَّثَنَا خَالِدٌ يَعْنِي ابْنَ الْحَارِثِ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been reported on the authority of AbuSa'id (al-Khudri) (Allah be pleased with him) through another chain of transmitters and the words are: They took captives (women) on the day of Autas who had their husbands. They were afraid (to have sexual intercourse with them) when this verse was revealed: And women already married except those whom you right hands posses (iv. 24)"
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے یحییٰ بن حبیب الحارث نے بیان کیا، یعنی ہم سے یہ ابن حارث نے بیان کیا, شعبہ نے قتادہ سے اسی سند کے ساتھ اسی کے ہم معنی حدیث بیان کی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

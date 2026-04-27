@@ -1,0 +1,41 @@
+{
+  "id": 7208,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
+        },
+        "ar": {
+          "text": "كتاب الْجَنَّةِ وَصِفَةِ نَعِيمِهَا وَأَهْلِهَا"
+        },
+        "ur": {
+          "text": "جنت اس کی نعمتیں اور اہل جنت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه مُحَمَّدُ بْنُ الْمُثَنَّى الْعَنَزِيُّ حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عَدِيٍّ عَنْ سَعِيدٍ عَنْ قَتَادَةَ بِهَذَا الْإِسْنَادِ وَلَمْ يَذْكُرْ فِي حَدِيثِهِ كُلُّ مَالٍ نَحَلْتُهُ عَبْدًا حَلَالٌ."
+    },
+    "en": {
+      "narrator": "It was narrated from Qatada with this chain narrators (a Hadith similar to no. 7207) but he did not mention in his hadith:",
+      "text": "\"all the wealth that I have bestowed upon a slave (of Allah) is permissible\"."
+    },
+    "ur": {
+      "narrator": "اور ہم سے محمد بن المثنی نے بیان کیا : ہم سے محمد بن ابی عدی نے بیان کیا , سعید نے قتادہ سے اسی سند کے ساتھ روایت کی اور اپنی حدیث میں یہ بیان نہیں کیا",
+      "text": "\" ہر مال جو میں نے بندے کو دیا ، حلال ہے ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

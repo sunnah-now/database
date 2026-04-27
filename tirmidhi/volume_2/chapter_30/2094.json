@@ -1,0 +1,41 @@
+{
+  "id": 2094,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "Chapter on Inheritance"
+        },
+        "ar": {
+          "text": "كتاب الفرائض عن رسول الله صلى الله عليه وسلم"
+        },
+        "ur": {
+          "text": "وراثت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا بُنْدَارٌ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاق، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، أَنَّهُ قَالَ:‏‏‏‏ إِنَّكُمْ تَقْرَءُونَ هَذِهِ الْآيَةَ:‏‏‏‏ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ سورة النساء آية 12 وَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَضَى بِالدَّيْنِ قَبْلَ الْوَصِيَّةِ، ‏‏‏‏‏‏وَإِنَّ أَعْيَانَ بَنِي الْأُمِّ يَتَوَارَثُونَ دُونَ بَنِي الْعَلَّاتِ، ‏‏‏‏‏‏الرَّجُلُ يَرِثُ أَخَاهُ لِأَبِيهِ وَأُمِّهِ دُونَ أَخِيهِ لِأَبِيهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Al-Harith narrated that 'Ali said: You recite this ayah: After payment of legacies he(or she) may have bequeathed or debts, without causing harm. And indeed the Messenger of Allah(S.A.W) judged the debt before the will and that the children (sons and daughters)from the same mother and father inherit,not the sons from various mothers. The man inherits from his brother from his father, and his mother, not his brother from his father."
+    },
+    "ur": {
+      "narrator": "علی رضی الله عنہ کہتے ہیں کہ",
+      "text": "تم لوگ یہ آیت پڑھتے ہو «من بعد وصية توصون بها أو دين» ”تم سے کی گئی وصیت اور قرض ادا کرنے کے بعد ( میراث تقسیم کی جائے گی ۱؎ ) “ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”وصیت سے پہلے قرض ادا کیا جائے گا۔ ( اگر حقیقی بھائی اور علاتی بھائی دونوں موجود ہوں تو ) حقیقی بھائی وارث ہوں گے، علاتی بھائی ( جن کے باپ ایک اور ماں دوسری ہو ) وارث نہیں ہوں گے، آدمی اپنے حقیقی بھائی کو وارث بناتا ہے علاتی بھائی کو نہیں“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

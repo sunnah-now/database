@@ -1,0 +1,41 @@
+{
+  "id": 3507,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "Wages (Kitab Al-Ijarah)"
+        },
+        "ar": {
+          "text": "كتاب الإجارة"
+        },
+        "ur": {
+          "text": "اجارے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، ‏‏‏‏‏‏حَدَّثَنِي عَبْدُ الصَّمَدِ، ‏‏‏‏‏‏حَدَّثَنَا هَمَّامٌ، ‏‏‏‏‏‏عَنْ قَتَادَةَ بِإِسْنَادِهِ وَمَعْنَاهُ، ‏‏‏‏‏‏زَادَ إِنْ وَجَدَ دَاءً فِي الثَّلَاثِ لَيَالِي رُدَّ بِغَيْرِ بَيِّنَةٍ وَإِنْ وَجَدَ دَاءً بَعْدَ الثَّلَاثِ كُلِّفَ الْبَيِّنَةَ، ‏‏‏‏‏‏أَنَّهُ اشْتَرَاهُ وَبِهِ هَذَا الدَّاءُ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ هَذَا التَّفْسِيرُ مِنْ كَلَامِ قَتَادَةَ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Qatadah through a different chain of narrators to the same effect. This version adds:",
+      "text": "If he finds defect (in the slave) within three days, he may return it without evidence; if he finds a defect after three days, he will be required to produce evidence that he (the slave) had the defect when he bought it. Abu Dawud said: This explanation is from the words of Qatadah."
+    },
+    "ur": {
+      "narrator": "ہم سے ہارون بن عبداللہ نے بیان کیا، کہا ہم سے عبد الصمد نے بیان کیا، ہم سے ہمام نے بیان کیا, اس سند سے بھی قتادہ سے اسی مفہوم کی حدیث مروی ہے، اور اس میں یہ اضافہ ہے کہ",
+      "text": "اگر تین دن کے اندر ہی اس میں کوئی عیب پائے تو وہ اسے بغیر کسی گواہ کے لوٹا دے گا، اور اگر تین دن بعد اس میں کوئی عیب نکلے تو اس سے اس بات پر بینہ ( گواہ ) طلب کیا جائے گا، کہ جب اس نے اسے خریدا تھا تو اس میں یہ بیماری اور یہ عیب موجود تھا۔ ابوداؤد کہتے ہیں: یہ تفسیر قتادہ کے کلام کا ایک حصہ ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

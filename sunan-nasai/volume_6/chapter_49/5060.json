@@ -1,0 +1,41 @@
+{
+  "id": 5060,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The Book of Adornment"
+        },
+        "ar": {
+          "text": "كتاب الزينة من السنن"
+        },
+        "ur": {
+          "text": "زیب و زینت اور آرائش کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا بِشْرٌ، ‏‏‏‏‏‏عَنْ يُونُسَ، ‏‏‏‏‏‏عَنْ الْحَسَنِ،‏‏‏‏ وَمُحَمَّدٍ،‏‏‏‏ قَالَا:‏‏‏‏ التَّرَجُّلُ غِبٌّ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Al-Hasan and Muhammad said: Combing one's hair (should be done) every other day."
+    },
+    "ur": {
+      "narrator": "حسن بصری اور محمد بن سیرین کہتے ہیں",
+      "text": "( بالوں میں ) کنگھی ایک ایک دن چھوڑ کر کرنا چاہیئے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

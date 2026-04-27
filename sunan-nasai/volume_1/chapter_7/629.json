@@ -1,0 +1,41 @@
+{
+  "id": 629,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book of the Adhan (The Call to Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الأذان"
+        },
+        "ur": {
+          "text": "اذان کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا شُعْبَةُ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنِي أَبُو جَعْفَرٍ، ‏‏‏‏‏‏عَنْ أَبِي الْمُثَنَّى، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏قال:‏‏‏‏ كَانَ الْأَذَانُ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَثْنَى مَثْنَى، ‏‏‏‏‏‏وَالْإِقَامَةُ مَرَّةً مَرَّةً، ‏‏‏‏‏‏إِلَّا أَنَّكَ تَقُولُ:‏‏‏‏ قَدْ قَامَتِ الصَّلَاةُ، ‏‏‏‏‏‏قَدْ قَامَتِ الصَّلَاةُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibn 'Umar said: At the time of the Messenger of Allah (ﷺ) the phrases of the Adhan were said twice and the phrases of the Iqamah were said once, except that you should I say: 'Qad Qamatis-Salah, Qad Qamatis-Salah (prayer is about to begin, prayer is about to begin).'"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہم کہتے ہیں کہ",
+      "text": "عہدرسالت میں اذان دہری اور اقامت اکہری تھی، البتہ تم «قد قامت الصلاة، قد قامت الصلاة ‏»  ( دو بار ) کہو۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

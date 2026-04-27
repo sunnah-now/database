@@ -1,0 +1,41 @@
+{
+  "id": 7480,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 54,
+      "language": {
+        "en": {
+          "text": "The Book of Zuhd and Softening of Hearts"
+        },
+        "ar": {
+          "text": "كتاب الزُّهْدِ وَالرَّقَائِقِ"
+        },
+        "ur": {
+          "text": "زہد اور رقت انگیز باتیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه ابْنُ أَبِي عُمَرَ حَدَّثَنَا سُفْيَانُ حَدَّثَنَا الصَّدُوقُ الْأَمِينُ الْوَلِيدُ بْنُ حَرْبٍ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "Abu Sufyan narrated:",
+      "text": "\"The truthful and trustworthy one, Al-walid bin Harb, narrated it with this chain (a hadith similar to no. 7479)."
+    },
+    "ur": {
+      "narrator": "اور یہی حدیث ہمیں ابن ابی عمر نے بیان کی کہا : ہمیں سفیان نے حدیث بیان کی کہا",
+      "text": "ہمیں سچے امانتدار شخص ولید بن حرب نے اسی سند کے ساتھ روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

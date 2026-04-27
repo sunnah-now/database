@@ -1,0 +1,41 @@
+{
+  "id": 5734,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of Greetings"
+        },
+        "ar": {
+          "text": "كتاب السَّلَامِ"
+        },
+        "ur": {
+          "text": "سلامتی اور صحت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ وَأَبُو بَكْرِ بْنُ نَافِعٍ كِلَاهُمَا عَنْ غُنْدَرٍ مُحَمَّدِ بْنِ جَعْفَرٍ عَنْ شُعْبَةَ عَنْ أَبِي بِشْرٍ بِهَذَا الْإِسْنَادِ وَقَالَ فِي الْحَدِيثِ فَجَعَلَ يَقْرَأُ أُمَّ الْقُرْآنِ وَيَجْمَعُ بُزَاقَهُ وَيَتْفِلُ فَبَرَأَ الرَّجُلُ."
+    },
+    "en": {
+      "narrator": "This hadith has been reported on the authority of Abu Bishr with the same the same chain of transmitters (with these words):",
+      "text": "That he recited Umm-ul-Qur'an (Sura Fatiha), and he collected his spittle and he applied that and the person became all right."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن بشار اور ابوبکر بن نافع نے غندر محمد بن جعفر کی سند سے بیان کیا, شعبہ نے ابو بشر سے اسی سند کے ساتھ روایت کی ، اور حدیث میں یہ کہا",
+      "text": "اس نے ام القرآن ( سورۃفاتحہ ) پڑھنی شروع کی اور اپنا تھوک جمع کرتا اور اس پر پھینکتا جاتا تو وہ آدمی تندرست ہوگیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

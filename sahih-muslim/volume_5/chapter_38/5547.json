@@ -1,0 +1,41 @@
+{
+  "id": 5547,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Clothes and Adornment"
+        },
+        "ar": {
+          "text": "كتاب اللِّبَاسِ وَالزِّينَةِ"
+        },
+        "ur": {
+          "text": "لباس اور زینت کے احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا جَرِيرٌ و حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي الدَّرَاوَرْدِيَّ كِلَاهُمَا عَنْ سُهَيْلٍ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been reported on the authority of Suhail with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے زہیر بن حرب نے بیان کیا, جریر اور عبد العزیز دراوردی دونوں نے سہل سے اسی سند کے ساتھ حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

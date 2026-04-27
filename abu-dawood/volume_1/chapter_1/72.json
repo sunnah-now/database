@@ -1,0 +1,41 @@
+{
+  "id": 72,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Purification (Kitab Al-Taharah)"
+        },
+        "ar": {
+          "text": "كتاب الطهارة"
+        },
+        "ur": {
+          "text": "طہارت کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا الْمُعْتَمِرُ يَعْنِي ابْنَ سُلَيْمَانَ. ح وحَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، ‏‏‏‏‏‏حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، ‏‏‏‏‏‏جَمِيعًا عَنْأَيُّوبَ، ‏‏‏‏‏‏عَنْ مُحَمَّدٍ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏بِمَعْنَاهُ وَلَمْ يَرْفَعَاهُ، ‏‏‏‏‏‏وَزَادَ:‏‏‏‏ وَإِذَا وَلَغَ الْهِرُّ غُسِلَ مَرَّةً."
+    },
+    "en": {
+      "narrator": "A similar tradition has been transmitted by Abu Hurairah رضی اللہ عنہ through a different chain of narrators. But this version has been narrated as a statement of Abu Hurairah رضی اللہ عنہ himself and not attributed to the Prophet صلی ‌اللہ ‌علیہ ‌وسلم . The version has the addition of the words:",
+      "text": "If the cat licks (a utensil), it should be washed once."
+    },
+    "ur": {
+      "narrator": "ہم سے مسدد نے بیان کیا، کہا ہم سے المتمیر نے بیان کیا، یعنی ابن سلیمان نے اور ہم سے محمد بن عبید نے بیان کیا، ہم سے حماد بن زید نے بیان کیا، یہ سب ایوب کی سند سے, محمد (ابن سیرین) ابوہریرہ رضی اللہ عنہ سے اسی مفہوم کی حدیث روایت کرتے ہیں, لیکن ان دونوں ( حماد بن زید اور معتمر ) نے اس حدیث کو مرفوعاً نقل نہیں کیا ہے، اور اس میں اتنا اضافہ ہے کہ",
+      "text": "جب بلی کسی برتن میں منہ ڈال دے تو ایک بار دھویا جائے گا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

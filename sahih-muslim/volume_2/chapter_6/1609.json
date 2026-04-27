@@ -1,0 +1,41 @@
+{
+  "id": 1609,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 6,
+      "language": {
+        "en": {
+          "text": "The Book of Prayer - Travellers"
+        },
+        "ar": {
+          "text": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا"
+        },
+        "ur": {
+          "text": "مسافرو ں کی نماز قصر کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه عَبْدُ بْنُ حُمَيْدٍ حَدَّثَنَا أَحْمَدُ بْنُ إِسْحَقَ الْحَضْرَمِيُّ حَدَّثَنَا وُهَيْبٌ حَدَّثَنَا أَيُّوبُ عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ قَالَ وُهَيْبٌ لَمْ يَسْمَعْهُ مِنْهُ قَالَ أَمَرَ ابْنُ عَبَّاسٍ مُؤَذِّنَهُ فِي يَوْمِ جُمُعَةٍ فِي يَوْمٍ مَطِيرٍ بِنَحْوِ حَدِيثِهِم."
+    },
+    "en": {
+      "narrator": "It was narrated that Abdullah bin Harith saod:",
+      "text": "A hadith like this that Ibn 'Abbas رضی اللہ عنہ ordered his Mu'adhdhin (to summon people to prayer and then make announcement to say prayer in their houses) on Friday which was a rainy day, has been transmitted by 'Abdullah bin Harith. Wuhaib, however, says that he did not hear it from him."
+    },
+    "ur": {
+      "narrator": "ہم سے عبد بن حمید نے بیان کیا، ہم سے احمد بن اسحاق الحدرمی نے بیان کیا، انہیں وہیب نے بیان کیا، انہیں ایوب نے عبداللہ بن حارث سے روایت کیا، انہوں نے کہا: وہیب نے ان کے ساتھ اس کا ذکر نہیں کیا، انہوں نے کہا",
+      "text": "ابن عباس رضی اللہ عنہ نے جمعے کے روز بارش کے دن اپنے موذن کو حکم دیا ۔ ۔ ۔ ( آگے اسی طرح ہے ) جس طرح دوسرے راویوں نے بیان کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 615,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book on Traveling"
+        },
+        "ar": {
+          "text": "أَبْوَابُ السَّفَرِ"
+        },
+        "ur": {
+          "text": "سفر کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وقَالَ مُحَمَّدٌ:‏‏‏‏ حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ مُوسَى، عَنْ غَالِبٍ بِهَذَا."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Muhammad said: Ibn Numair narrated to us from Ubaidullah bin Musa, from Ghalib with this (Hadith)."
+    },
+    "ur": {
+      "narrator": "محمد بن اسماعیل بخاری کہتے ہیں",
+      "text": "ہم سے اسے ابن نمیر نے بیان کیا انہوں نے اسے عبیداللہ بن موسیٰ سے روایت کی ہے اور عبیداللہ نے غالب سے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

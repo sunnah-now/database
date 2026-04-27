@@ -1,0 +1,41 @@
+{
+  "id": 4574,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ،‏‏‏‏ عَنْ مَالِكٍ،‏‏‏‏ عَنْ نَافِعٍ،‏‏‏‏ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،‏‏‏‏ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ لَا تَبِيعُوا الذَّهَبَ بِالذَّهَبِ إِلَّا مِثْلًا بِمِثْلٍ،‏‏‏‏ وَلَا تُشِفُّوا بَعْضَهَا عَلَى بَعْضٍ،‏‏‏‏ وَلَا تَبِيعُوا الْوَرِقَ بِالْوَرِقِ إِلَّا مِثْلًا بِمِثْلٍ،‏‏‏‏ وَلَا تَبِيعُوا مِنْهَا شَيْئًا غَائِبًا بِنَاجِزٍ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Abu Saeed Al-Khudri that the Messenger of Allah said: Do not sell gold for gold except like for like and do not differentiate. Do not sell silver for silver except like for like, and do not sell it in return for something to be paid later."
+    },
+    "ur": {
+      "narrator": "ابو سعید خدری رضی اللہ عنہ سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”سونا سونے کے بدلے نہ بیچو مگر برابر برابر، اور ان میں سے ایک کا دوسرے پر اضافہ نہ کرو، اور چاندی کے بدلے چاندی مت بیچو مگر برابر برابر اور ان میں سے کسی کو نقد کے بدلے ادھار نہ بیچو“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

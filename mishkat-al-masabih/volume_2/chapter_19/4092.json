@@ -1,0 +1,41 @@
+{
+  "id": 4092,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 19,
+      "language": {
+        "en": {
+          "text": "Game and Animals Which May Be Slaughtered"
+        },
+        "ar": {
+          "text": "كتاب الصيد والذبائح"
+        },
+        "ur": {
+          "text": "شکار اور حلال جانوروں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَرَوَاهُ التِّرْمِذِيّ عَن أبي سعيد"
+    },
+    "en": {
+      "narrator": "",
+      "text": ""
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اور امام ترمذی نے اسے ابوسعید ؓ سے روایت کیا ہے ۔ صحیح ، رواہ الترمذی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

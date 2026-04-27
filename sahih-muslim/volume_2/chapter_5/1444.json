@@ -1,0 +1,41 @@
+{
+  "id": 1444,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِي عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ بِهَذَا الْإِسْنَادِ مِثْلَهُ، وَلَمْ يَذْكُرْ قَوْلَ الزُّهْرِيِّ، وَذُكِرَ لِي وَمَا بَعْدَهُ."
+    },
+    "en": {
+      "narrator": "A hadith like this has been narrated by Ibn Shihab with the same chain of transmitters, but therein no mention has been made of the words of al-Zuhri:",
+      "text": "It was narrated to me, and that which followed."
+    },
+    "ur": {
+      "narrator": "مجھ سے عبدالملک بن شعیب بن لیث نے بیان کیا، میرے والد نے مجھ سے میرے دادا کی سند سے بیان کیا, عقیل نے ابن شہاب سے اسی سنج کے ساتھ مذکورہ بالا روایت بیان کی لیکن اس میں زہر ی کا قول",
+      "text": "وذکرلی ( مجھے بتایا گیا ) اور اس کے بعد کا حصہ بیان نہیں کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

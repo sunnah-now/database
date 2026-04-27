@@ -1,0 +1,41 @@
+{
+  "id": 443,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، ‏‏‏‏‏‏عَنْ خَالِدٍ، ‏‏‏‏‏‏عَنْ يُونُسَ بْنِ عُبَيْدٍ، ‏‏‏‏‏‏عَنِ الْحَسَنِ، ‏‏‏‏‏‏عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، ‏‏‏‏‏‏ أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ فِي مَسِيرٍ لَهُ فَنَامُوا عَنْ صَلَاةِ الْفَجْرِ، ‏‏‏‏‏‏فَاسْتَيْقَظُوا بِحَرِّ الشَّمْسِ، ‏‏‏‏‏‏فَارْتَفَعُوا قَلِيلًا حَتَّى اسْتَقَلَّتِ الشَّمْسُ ثُمَّ أَمَرَ مُؤَذِّنًا فَأَذَّنَ فَصَلَّى رَكْعَتَيْنِ قَبْلَ الْفَجْرِ ثُمَّ أَقَامَ ثُمَّ صَلَّى الْفَجْرَ ."
+    },
+    "en": {
+      "narrator": "Imran bin Husain رضی اللہ عنہما said:",
+      "text": "The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم was on his journey. They (the people) slept abandoning the Fajr prayer. They awoke by the heat of the sun. Then they travelled a little until the sun rose high. He (the Prophet) commanded the muadhdhin (one who called for prayer) to call for prayer. He then offered two rak'ahs of prayer (sunnah prayer) before the (obligatory) fajr prayer. Then he (the muadhdhin) announced for saying the prayer in congregation (i. e. he uttered iqamah). Then he led them in the morning prayer."
+    },
+    "ur": {
+      "narrator": "ہم سے وہب بن بقیہ نے خالد کی سند سے، یونس بن عبید کی سند سے، حسن رضی اللہ عنہ سے, عمران بن حصین رضی اللہ عنہما کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم ایک سفر میں تھے کہ لوگ نماز فجر میں سوئے رہ گئے، سورج کی گرمی سے وہ بیدار ہوئے تو تھوڑی دور چلے یہاں تک کہ سورج چڑھ گیا، پھر آپ صلی اللہ علیہ وسلم نے مؤذن کو حکم دیا، تو اس نے اذان دی تو آپ نے فجر ( کی فرض نماز ) سے پہلے دو رکعت سنت پڑھی، پھر ( مؤذن نے ) تکبیر کہی اور آپ نے فجر پڑھائی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 606,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 6,
+      "language": {
+        "en": {
+          "text": "The Book of the Times (of Prayer)"
+        },
+        "ar": {
+          "text": "كتاب المواقيت"
+        },
+        "ur": {
+          "text": "اوقات نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ يَحْيَى بْنِ سَعِيدٍ، ‏‏‏‏‏‏عَنْ عَدِيِّ بْنِ ثَابِتٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، ‏‏‏‏‏‏أَنَّ أَبَا أَيُّوبَ الْأَنْصَارِيَّ، ‏‏‏‏‏‏أَخْبَرَهُ أَنَّهُ صَلَّى مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي حَجَّةِ الْوَدَاعِ الْمَغْرِبَ وَالْعِشَاءَ بِالْمُزْدَلِفَةِ جَمِيعًا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from 'Abdullah bin Yazid that Abu Ayyub Al-Ansari told him, that during the Farewell Pilgrimage. He prayed with the Messenger of Allah (ﷺ) Maghrib and 'Isha' prayers together at Al-Muzdalifah."
+    },
+    "ur": {
+      "narrator": "ابوایوب انصاری رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "انہوں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ حجۃ الوداع کے موقع پر مزدلفہ میں مغرب اور عشاء جمع کر کے پڑھی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

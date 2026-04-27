@@ -1,0 +1,41 @@
+{
+  "id": 5726,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "The Book of Drinks"
+        },
+        "ar": {
+          "text": "كتاب الأشربة"
+        },
+        "ur": {
+          "text": "مشروبات ( پینے والی چیزوں ) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا أَحْمَدُ بْنُ خَالِدٍ،‏‏‏‏ عَنْ مَعْنٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ،‏‏‏‏ عَنْ يَحْيَى بْنِ سَعِيدٍ،‏‏‏‏ عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ،‏‏‏‏ قَالَ:‏‏‏‏ إِذَا طُبِخَ الطِّلَاءُ عَلَى الثُّلُثِ فَلَا بَأْسَ بِهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Sa'eed bin Al-Musayyab said: When At-Tila' (thickened grape juice) has been cooked and reduced to one-third, then there is nothing wrong with it."
+    },
+    "ur": {
+      "narrator": "سعید بن مسیب کہتے ہیں کہ",
+      "text": "جب طلاء جل کر ایک تہائی رہ جائے تو اسے پینے میں کوئی حرج نہیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 5458,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Clothes and Adornment"
+        },
+        "ar": {
+          "text": "كتاب اللِّبَاسِ وَالزِّينَةِ"
+        },
+        "ur": {
+          "text": "لباس اور زینت کے احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا إِسْحَقُ بْنُ سُلَيْمَانَ حَدَّثَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ قَالَ سَمِعْتُ ابْنَ عُمَرَ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ مِثْلَهُ غَيْرَ أَنَّهُ قَالَ ثِيَابَهُ."
+    },
+    "en": {
+      "narrator": "Salim reported:",
+      "text": "I heard Ibn Umar رضی اللہ  عنہ as saying that he had heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying like this (as mentioned above) but with a slight variation of wording [that instead of the word thaub (cloth) there is the word thiyab (the clothes) ]."
+    },
+    "ur": {
+      "narrator": "ہم سے ابن نمیر نے بیان کیا، کہا ہم سے اسحاق بن سلیمان نے بیان کیا، کہا ہم سے حنظلہ بن ابی سفیان نے بیان کیا، انہوں نے کہا کہ",
+      "text": "میں نے ابن عمر رضی اللہ عنہما کو یہ کہتے ہوئے سنا کہ میں رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ فرما رہےتھےاسی کے مانند مگر انھوں نے ( کپڑا گھسیٹا کے بجا ئے ) \" کپڑے ( گھسیٹے ) \" کہا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

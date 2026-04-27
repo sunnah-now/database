@@ -1,0 +1,41 @@
+{
+  "id": 47,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا أَحْمَدُ يَعْنِي ابْنَ يُونُسَ، حَدَّثَنَا زَائِدَةُ، عَنِ الْأَعْمَشِ، عَنْ إِبْرَاهِيمَ، أَنَّ الْحَارِثَ، قَالَ: «تَعَلَّمْتُ الْقُرْآنَ فِي ثَلَاثِ سِنِينَ، وَالْوَحْيَ فِي سَنَتَيْنِ» أَوْ قَالَ «الْوَحْيَ فِي ثَلَاثِ سِنِينَ، والْقُرْآنَ فِي سَنَتَيْنِ»"
+    },
+    "en": {
+      "narrator": "Hajjāj bin ash-Shā’ir narrated to me, Ahmad- meaning Ibn Yūnus- narrated to us, Zā’idah narrated to us, on authority of al-A’mash, on authority of Ibrāhīm that al-Hārith said:",
+      "text": "‘I studied the Qur’ān for three years and the revelation for two years’; or he said: ‘…the revelation in three years and the Qur’ān in two years"
+    },
+    "ur": {
+      "narrator": "حجاج بن شاعر ‘ احمد بن یونس نے ابراہیم نخعی سے روایت کی کہ حارث ( اعور ) نے کہا",
+      "text": "میں نے قرآن تین سال میں سیکھا اور وحی دو سال میں ( یا کہا ) : وحی تین سال میں اور قرآن دو سال میں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

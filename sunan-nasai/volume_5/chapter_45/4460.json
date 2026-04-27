@@ -1,0 +1,41 @@
+{
+  "id": 4460,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، ‏‏‏‏‏‏عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، ‏‏‏‏‏‏عَنْ سَعِيدِ بْنِ أَبِي خَيْرَةَ، ‏‏‏‏‏‏عَنِ الْحَسَنِ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ يَأْتِي عَلَى النَّاسِ زَمَانٌ يَأْكُلُونَ الرِّبَا، ‏‏‏‏‏‏فَمَنْ لَمْ يَأْكُلْهُ أَصَابَهُ مِنْ غُبَارِهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Abu Hurairah said: The Messenger of Allah said: There will come a time when there will be no one left who does not consume Riba, and whoever does not consume it will nevertheless be affected by residue. (Sahih )"
+    },
+    "ur": {
+      "narrator": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”لوگوں پر ایک ایسا زمانہ آئے گا کہ وہ سود کھائیں گے اور جس نے اسے نہیں کھایا، اس پر بھی اس کا غبار پڑ کر رہے گا“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

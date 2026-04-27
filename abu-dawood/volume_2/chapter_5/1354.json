@@ -1,0 +1,41 @@
+{
+  "id": 1354,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+        },
+        "ar": {
+          "text": "كتاب التطوع"
+        },
+        "ur": {
+          "text": "نوافل اور سنتوں کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، ‏‏‏‏‏‏عَنْ خَالِدٍ،‏‏‏‏عَنْ حُصَيْنٍ، ‏‏‏‏‏‏نَحْوَهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ وَأَعْظِمْ لِي نُورًا . قَالَ أَبُو دَاوُد:‏‏‏‏ وَكَذَلِكَ قَالَ أَبُو خَالِدٍ الدَّالَانِيُّ:‏‏‏‏ عَنْ حَبِيبٍ فِي هَذَا، ‏‏‏‏‏‏وَكَذَلِكَ قَالَ فِي هَذَا الْحَدِيثِ:‏‏‏‏ وَقَالَ سَلَمَةُ بْنُ كُهَيْلٍ:‏‏‏‏ عَنْ أَبِي رِشْدِينَ، ‏‏‏‏‏‏عَنْ ابْنِ عَبَّاسٍ."
+    },
+    "en": {
+      "narrator": "The above tradition has also been transmitted by Husain through a different chain of narrators in like manner. This version has the words:",
+      "text": "And give me abundant light. Abu Dawud said: This tradition has been transmitted by Abu Khalid al-Dalani from Habib and Salamah bin Kuhail from Abu Rishdin from Ibn Abbas in a similar manner."
+    },
+    "ur": {
+      "narrator": "ہم سے وہب بن بقیہ نے خالد رضی اللہ عنہ سے بیان کیا, اس طریق سے بھی حصین سے اسی جیسی روایت مروی ہے",
+      "text": "اس میں «وأعظم لي نورا» کا جملہ ہے۔ ابوداؤد کہتے ہیں: اسی طرح ابوخالد دالانی نے اس حدیث میں «عن حبيبٍ» کہا ہے اور سلمہ بن کہیل نے «عن أبي رشدين عن ابن عباس» کہا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

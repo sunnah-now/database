@@ -1,0 +1,41 @@
+{
+  "id": 6440,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of the Merits of the Companions"
+        },
+        "ar": {
+          "text": "كتاب فَضَائِلِ الصَّحَابَةِ"
+        },
+        "ur": {
+          "text": "صحابہ کرام رضی اللہ عنھم کے فضائل و مناقب"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ غَيْرَ أَنَّ فِي الْحَدِيثِ قَالَ سَعْدٌ فِي بَعْضِ هَذَا فِيمَا أَعْلَمُ.‏"
+    },
+    "en": {
+      "narrator": "A similar report was narrated from Sad bin Ibrahim with this chain of narrators, except that in Hadith (it says):",
+      "text": "\"Sa'd said concerning some of this: 'As far as I know.\""
+    },
+    "ur": {
+      "narrator": "عبید اللہ بن معاذ کے والد نے کہا : ہمیں شعبہ نے سعد بن ابرا ہیم سے اسی سند کے ساتھ اسی کے مانند روایت کی ، مگر اس حدیث میں یہ ہے کہ",
+      "text": "سعد نے ان میں سے بعض قبائل کے بارے میں کہا : \" میرے علم کے مطابق ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

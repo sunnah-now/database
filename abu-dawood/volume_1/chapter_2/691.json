@@ -1,0 +1,41 @@
+{
+  "id": 691,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الزُّهْرِيُّ، ‏‏‏‏‏‏حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ رَأَيْتُ شَرِيكًا صَلَّى بِنَا فِي جَنَازَةٍ الْعَصْرَ، ‏‏‏‏‏‏فَوَضَعَ قَلَنْسُوَتَهُ بَيْنَ يَدَيْهِ ، ‏‏‏‏‏‏يَعْنِي فِي فَرِيضَةٍ حَضَرَتْ."
+    },
+    "en": {
+      "narrator": "Sufyan bin Uyainah said:",
+      "text": "I saw Sharik who led us in the Asr prayer during a funeral ceremony. He placed his cap in front of him, that is, for saying the obligatory prayer the time of which had come."
+    },
+    "ur": {
+      "narrator": "ہم سے عبداللہ بن محمد الزہری نے بیان کیا, سفیان بن عیینہ کا بیان ہے کہ",
+      "text": "میں نے شریک کو دیکھا، انہوں نے ہمارے ساتھ ایک جنازے کے موقع پر عصر پڑھی تو اپنی ٹوپی ( بطور سترہ ) اپنے سامنے رکھ لی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

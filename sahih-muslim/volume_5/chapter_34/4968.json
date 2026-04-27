@@ -1,0 +1,41 @@
+{
+  "id": 4968,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Government"
+        },
+        "ar": {
+          "text": "كتاب الْإِمَارَةِ"
+        },
+        "ur": {
+          "text": "امور حکومت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا رَوْحٌ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Shubah narrated it with this chain (a Hadith similar to no. 4967)."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے یحییٰ بن حبیب نے کہا, روح نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4835,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 46,
+      "language": {
+        "en": {
+          "text": "The Book of Oaths (qasamah), Retaliation and Blood Money"
+        },
+        "ar": {
+          "text": "كتاب القسامة"
+        },
+        "ur": {
+          "text": "قسامہ ، قصاص اور دیت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنِي مَحْمُودُ بْنُ خَالِدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا الْوَلِيدُ، ‏‏‏‏‏‏عَنْ ابْنِ جُرَيْجٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَن جَدِّه مِثْلَهُ سَوَاءً."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Narrator mentioned in hadith: A similar report was narrated from 'Amr bin shu'aib, from his father, from his grandfather. (Daif)"
+    },
+    "ur": {
+      "narrator": "اس سند سے بھی",
+      "text": "عبداللہ بن عمرو بن عاص رضی اللہ عنہما سے اسی طرح مروی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

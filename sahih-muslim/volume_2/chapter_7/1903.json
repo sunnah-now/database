@@ -1,0 +1,41 @@
+{
+  "id": 1903,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book Of the Merit Of The Holy Quran"
+        },
+        "ar": {
+          "text": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ"
+        },
+        "ur": {
+          "text": "قرآن کے فضائل اور متعلقہ امور"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ الزُّهْرِيِّ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Zuhri with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عبد بن حمید نے بیان کیا ہمیں معمر نے اس سلسلہ کی سند سے خبر دی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

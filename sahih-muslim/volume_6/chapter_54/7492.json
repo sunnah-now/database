@@ -1,0 +1,41 @@
+{
+  "id": 7492,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 54,
+      "language": {
+        "en": {
+          "text": "The Book of Zuhd and Softening of Hearts"
+        },
+        "ar": {
+          "text": "كتاب الزُّهْدِ وَالرَّقَائِقِ"
+        },
+        "ur": {
+          "text": "زہد اور رقت انگیز باتیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا عَبْدُ الْعَزِيزِ عَنْ سُهَيْلٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ عَنْ أَبِيهِ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا تَثَاوَبَ أَحَدُكُمْ فَلْيُمْسِكْ بِيَدِهِ فَإِنَّ الشَّيْطَانَ يَدْخُلُ."
+    },
+    "en": {
+      "narrator": "The son of Abu Said al-Khudri reported on the authority of his father:",
+      "text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: When one of you yawns, he should try to restrain it with cue help of his hand since it is the Satan that enters therein."
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ بن سعید نے بیان کیا, عبد العزیز نے سہیل سے انھوں نے عبد الرحمن بن ابی سعید سے اور انھوں نے اپنے والد سے روایت کی کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب تم میں سے کسی کوجمائی آئے تو وہ اسے اپنے ہاتھ سے روکے کیونکہ شیطان اندر داخل ہوتا ہے ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

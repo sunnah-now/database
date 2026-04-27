@@ -1,0 +1,41 @@
+{
+  "id": 4030,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "Clothing (Kitab Al-Libas)"
+        },
+        "ar": {
+          "text": "كتاب اللباس"
+        },
+        "ur": {
+          "text": "لباس سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو عَوَانَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ ثَوْبَ مَذَلَّةٍ."
+    },
+    "en": {
+      "narrator": "Musaddad transmitted the tradition mentioned above from Abu 'Awanah saying:",
+      "text": "\"A Garment of humiliation.\""
+    },
+    "ur": {
+      "narrator": "مسدد کا بیان ہے کہ ابوعوانہ نے ہم سے بیان کیا ہے کہ",
+      "text": "( کہ اللہ تعالیٰ اسے  قیامت کے دن ) ذلت کا لباس پہنائے گا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

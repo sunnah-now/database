@@ -1,0 +1,41 @@
+{
+  "id": 5986,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The Book of Virtues"
+        },
+        "ar": {
+          "text": "كتاب الْفَضَائِلِ"
+        },
+        "ur": {
+          "text": "انبیائے کرام علیہم السلام کے فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي،وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، قَالَا: حَدَّثَنَا عُبَيْدُ اللهِ، بِهَذَا الْإِسْنَادِ مِثْلَهُ وَزَادَ: قَالَ عُبَيْدُ اللهِ: فَسَأَلْتُهُ فَقَالَ قَرْيَتَيْنِ بِالشَّأْمِ، بَيْنَهُمَا مَسِيرَةُ ثَلَاثِ لَيَالٍ، وَفِي حَدِيثِ ابْنِ بِشْرٍ: ثَلَاثَةِ أَيَّامٍ."
+    },
+    "en": {
+      "narrator": "A hadith like this has been transmitted on the authority, of 'Ubaidullah with this addition: Ubaidullah was asked (about these two names, i.e. Jarba' and Adhruh). He said:",
+      "text": "These are the two towns of Syria and there is between them the distance which can be covered in three nights, and the hadith transmitted on the authority of Ibn Bishr (the words are). Three days."
+    },
+    "ur": {
+      "narrator": "عبد اللہ بن نمیر اور محمد بن بشر نے کہا : ہمیں عبید اللہ نے اسی سند کے ساتھ اسی کی مانند روایت کی اور مزید بیان کیا کہ عبید اللہ نے کہا , میں نے ان ( نافع ) سے پو چھا تو انھوں نے کہا",
+      "text": "شام کی دوبستیاں ہیں ان کے درمیان تین راتوں کی مسافت ہے ۔ ابن بشر کی روایت میں تین دن ( کا ذکر ) ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

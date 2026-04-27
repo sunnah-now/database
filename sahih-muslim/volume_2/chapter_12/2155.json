@@ -1,0 +1,41 @@
+{
+  "id": 2155,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "The Book of Prayer - Funerals"
+        },
+        "ar": {
+          "text": "كتاب الْجَنَائِزِ"
+        },
+        "ur": {
+          "text": "جنازے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ بِهَذَا الْإِسْنَادِ بِمَعْنَى حَدِيثِ أَبِي أُسَامَةَ وَحَدِيثُ أَبِي أُسَامَةَ أَتَمُّ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Ibn 'Urwa with the same chain of transmitters. The hadith narrated by Abu Usama is more complete."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سےوکیع نے بیان کیا کہ ہمیں ہشام بن عروہ نے اسی سند سے ابو اسامہ کی حدیث کے ہم معنی حدیث سنا ئی اور ابو اسامہ کی ( مذکورہ بالا ) حدیث زیادہ مکمل ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

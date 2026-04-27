@@ -1,0 +1,41 @@
+{
+  "id": 2029,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 8,
+      "language": {
+        "en": {
+          "text": "The Book of Prayer - Friday"
+        },
+        "ar": {
+          "text": "كتاب الْجُمُعَةِ"
+        },
+        "ur": {
+          "text": "جمعہ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا أَبُو عَوَانَةَ عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Ibrahim bin Muhammad bin al-Muntashir with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے قتیبہ بن سعید نے بیان کیا، ہم سےابو عوانہ نے ابراہیم بن محمد بن منتشر سے اسی سند کے ساتھ ( اسی کے مانند ) ر وایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

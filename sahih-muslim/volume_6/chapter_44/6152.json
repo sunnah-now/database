@@ -1,0 +1,41 @@
+{
+  "id": 6152,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The Book of Virtues"
+        },
+        "ar": {
+          "text": "كتاب الْفَضَائِلِ"
+        },
+        "ur": {
+          "text": "انبیائے کرام علیہم السلام کے فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي سَلَمَةَ، بِهَذَا الْإِسْنَادِ سَوَاءً."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Abu Salama with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے محمد بن حاتم نے کہا, یزید بن ہارون نے کہا , ہمیں عبد العزیز بن ابی سلمہ نے اسی سند سے بالکل اسی طرح بیان کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2742,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 15,
+      "language": {
+        "en": {
+          "text": "Jihad (Kitab Al-Jihad)"
+        },
+        "ar": {
+          "text": "كتاب الجهاد"
+        },
+        "ur": {
+          "text": "جہاد کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْوَلِيدُ بْنُ عُتْبَةَ الدِّمَشْقِيُّ قَالَ:‏‏‏‏ قَالَ الْوَلِيدُ يَعْنِي ابْنَ مُسْلِمٍ:‏‏‏‏ حَدَّثْتُ ابْنَ الْمُبَارَكِ بِهَذَا الْحَدِيثِ قُلْتُ:‏‏‏‏ وَكَذَا حَدَّثَنَا ابْنُ أَبِي فَرْوَةَ، ‏‏‏‏‏‏عَنْ نَافِعٍ قَالَ:‏‏‏‏ لَا تَعْدِلُ مَنْ سَمَّيْتَ بِمَالِكٍ هَكَذَا أَوْ نَحْوَهُ يَعْنِي مَالِكَ بْنَ أَنَسٍ."
+    },
+    "en": {
+      "narrator": "Al Walid bin Muslim said:",
+      "text": "“I narrated this tradition (mentioned above) to Ibn Al Mubarak and said “And similarly it has been narrated by Ibn Abi Farwah to us on the authority of Nafi (as narrated by Shuaib). He (Ibn Al Mubarak) said “Those whom you have named cannot be equal to Malik i.e, Malik bin Anas."
+    },
+    "ur": {
+      "narrator": "ولید بن عتبہ الدمشقی نے بیان کیا, ولید بن مسلم کہتے ہیں",
+      "text": "میں نے ابن مبارک سے یہی حدیث بیان کی، میں نے کہااور اسی طرح ہم سے ابن ابی فروہ نے نافع کے واسطہ سے بیان کیا ہے تو ابن مبارک نے کہا: جن کا نام تم نے لیا ہے وہ مالک کے برابر نہیں ہو سکتے اسی طرح یا اس جیسی بات انہوں نے کہی، اس سے وہ امام مالک بن انس کو مراد لے رہے تھے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

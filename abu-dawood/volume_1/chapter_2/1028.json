@@ -1,0 +1,41 @@
+{
+  "id": 1028,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا النُّفَيْلِيُّ، ‏‏‏‏‏‏حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، ‏‏‏‏‏‏عَنْ خُصَيْفٍ، ‏‏‏‏‏‏عَنْ أَبِي عُبَيْدَةَ بْنِ عَبْدِ اللَّهِ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ إِذَا كُنْتَ فِي صَلَاةٍ فَشَكَكْتَ فِي ثَلَاثٍ أَوْ أَرْبَعٍ وَأَكْبَرُ ظَنِّكَ عَلَى أَرْبَعٍ تَشَهَّدْتَ، ‏‏‏‏‏‏ثُمَّ سَجَدْتَ سَجْدَتَيْنِ وَأَنْتَ جَالِسٌ قَبْلَ أَنْ تُسَلِّمَ، ‏‏‏‏‏‏ثُمَّ تَشَهَّدْتَ أَيْضًا، ‏‏‏‏‏‏ثُمَّ تُسَلِّمُ . قَالَ أَبُو دَاوُد:‏‏‏‏ رَوَاهُ عَبْدُ الْوَاحِدِ، ‏‏‏‏‏‏عَنْ خُصَيْفٍ، ‏‏‏‏‏‏وَلَمْ يَرْفَعْهُ، ‏‏‏‏‏‏وَوَافَقَ عَبْدَ الْوَاحِدِ أَيْضًا سُفْيَانُ، ‏‏‏‏‏‏وَشَرِيكٌ، ‏‏‏‏‏‏وَإِسْرَائِيلُ وَاخْتَلَفُوا فِي الْكَلَامِ فِي مَتْنِ الْحَدِيثِ وَلَمْ يُسْنِدُوهُ."
+    },
+    "en": {
+      "narrator": "Abu Ubaydah reported, on the authority of his father Abdullah (Ibn Masud) رضی اللہ عنہ :",
+      "text": "The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم as saying: When you offer the prayer, and you are in doubt about the number of rak'ahs whether offered three or four, and you have prayed four rak'ahs in all probability in your opinion, you should recite tashahhud and make two prostrations while you are sitting before giving the salutation. afterwards you should recite the tashahhud and give the salutation again. Abu Dawud said: This tradition has been narrated by Abdul-Wahid from Khusaif, but he did not report it as a statement of the Prophet صلی ‌اللہ ‌علیہ ‌وسلم. The version of Abdul-Wahid has been corroborated by Sufyan, Sharik, and Isra'il. They differed amongst themselves about the text of the tradition and they did not narrate it with the continuous chain up to the Prophet صلی ‌اللہ ‌علیہ ‌وسلم."
+    },
+    "ur": {
+      "narrator": "ہم سے النفیلی نے بیان کیا، ہم سے محمد بن سلمہ نے بیان کیا، وہ خصیف کی سند سے، وہ ابو عبیدہ بن عبداللہ کے واسطہ سے، وہ اپنے والد سے",
+      "text": "آپ نے فرمایا: جب تم نماز میں رہو اور تمہیں تین یا چار میں شک ہو جائے اور تمہارا غالب گمان یہ ہو کہ چار رکعت ہی پڑھی ہے تو تشہد پڑھو، پھر سلام پھیرنے سے پہلے بیٹھے بیٹھے سہو کے دو سجدے کرو، پھر تشہد پڑھو اور پھر سلام پھیر دو ۔ ابوداؤد کہتے ہیں: اسے عبدالواحد نے خصیف سے روایت کیا ہے اور مرفوع نہیں کیا ہے۔ نیز سفیان، شریک اور اسرائیل نے عبدالواحد کی موافقت کی ہے اور ان لوگوں نے متن حدیث میں اختلاف کیا ہے اور اسے مسند نہیں کیا ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

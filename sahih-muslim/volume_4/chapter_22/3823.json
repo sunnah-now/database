@@ -1,0 +1,41 @@
+{
+  "id": 3823,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Transactions"
+        },
+        "ar": {
+          "text": "كتاب الْبُيُوعِ"
+        },
+        "ur": {
+          "text": "لین دین کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا هِشَامُ بْنُ سُلَيْمَانَ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي هِشَامٌ الْقُرْدُوسِيُّ، عَنِ ابْنِ سِيرِينَ، قَالَ: سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ: إِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا تَلَقَّوْا الْجَلَبَ، فَمَنْ تَلَقَّاهُ فَاشْتَرَى مِنْهُ، فَإِذَا أَتَى سَيِّدُهُ السُّوقَ، فَهُوَ بِالْخِيَارِ."
+    },
+    "en": {
+      "narrator": "Abu Huraira ( رضی اللہ عنہ) reported:",
+      "text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Do not meet the merchant in the way and enter into business transaction with him, and whoever meets him and buys from him (and in case it is done, see) that when the owner of (merchandise) comes into the market (and finds that he has been paid less price) he has the option (to declare the transaction null and void)."
+    },
+    "ur": {
+      "narrator": "ہم سے ابن ابی عمر نے بیان کیا، کہا ہم سے ہشام بن سلیمان نے بیان کیا, ابن جریج نے کہا : مجھے ہشام قردوسی نے ابن سیرین سے خبر دی ، انہوں نے کہا : میں نے حضرت ابوہریرہ رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" سامانِ تجارت کو راستے میں جا کر حاصل نہ کرو ۔ جس نے باہر مل کر ان سے سامان خرید لیا ، تو جب اس کا مالک بازار میں آئے گا تو اسے ( بیع کو برقرار رکھنے یا فسخ کرنے کا ) اختیار ہو گا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

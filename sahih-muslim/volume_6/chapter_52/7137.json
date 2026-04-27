@@ -1,0 +1,41 @@
+{
+  "id": 7137,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
+        },
+        "ar": {
+          "text": "كتاب الْجَنَّةِ وَصِفَةِ نَعِيمِهَا وَأَهْلِهَا"
+        },
+        "ur": {
+          "text": "جنت اس کی نعمتیں اور اہل جنت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا الْمُغِيرَةُ يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْحِزَامِيَّ عَنْ أَبِي الزِّنَادِ عَنْ الْأَعْرَجِ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ وَزَادَ لَا يَقْطَعُهَا."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Abu Huraira رضی اللہ عنہ through another chain of transmitters with the addition of these words:",
+      "text": "\"He will not be able to cover this distance.\""
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ بن سعید نے بیان کیا : ہم سے المغیرہ یعنی ابن عبدالرحمٰن حزامی نے ابو الزناد کی سند سے بیان کیا , اعرج نے حضرت ابوہریرہ رضی اللہ عنہ سے ، انھوں نے نبی کریم صلی اللہ علیہ وسلم سے اسی کی مثل روایت کی اور مزید کہا",
+      "text": "\" وہ اس ( کے سائے ) کو طے نہیں کرسکے گا ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

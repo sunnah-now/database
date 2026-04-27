@@ -1,0 +1,41 @@
+{
+  "id": 4790,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Government"
+        },
+        "ar": {
+          "text": "كتاب الْإِمَارَةِ"
+        },
+        "ur": {
+          "text": "امور حکومت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَسَنُ بْنُ الرَّبِيعِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنِ الْجَعْدِ أَبِي عُثْمَانَ، عَنْ أَبِي، رَجَاءٍ عَنِ ابْنِ عَبَّاسٍ، يَرْوِيهِ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ مَنْ رَأَى مِنْ أَمِيرِهِ شَيْئًا يَكْرَهُهُ فَلْيَصْبِرْ فَإِنَّهُ مَنْ فَارَقَ الْجَمَاعَةَ شِبْرًا فَمَاتَ فَمِيتَةٌ جَاهِلِيَّةٌ ‏.‏"
+    },
+    "en": {
+      "narrator": "It has been narrated on the authority of Ibn 'Abbas رضی اﷲ عنہ :",
+      "text": "The messenger of Allah (ﷺ) said: One who found in his Amir something which he disliked should hold his patience, for one who separated from the main body of the Muslims even to the extent of a handspan and then he died would die the death of one belonging to the days of Jahiliyya."
+    },
+    "ur": {
+      "narrator": "ہم سے حسن بن ربیع نے بیان کیا، ہم سے حماد بن زید نے بیان کیا، ان سے الجعد ابو عثمان نے، وہ میرے والد سے, ابن عباس رضی اﷲ عنہ سے روایت ہے",
+      "text": "رسول اﷲ صلی ‌اللہ ‌علیہ ‌وسلم نے فرمایا جو شخص اپنے حاکم سے بری بات دیکھے وہ صبر کرے اس لیے کہ جو جماعت سے بالشت بھر جدا ہوجاوے اس کی موت جاہلیت کی موت ہوگی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

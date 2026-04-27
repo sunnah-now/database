@@ -1,0 +1,41 @@
+{
+  "id": 2180,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "Divorce (Kitab Al-Talaq)"
+        },
+        "ar": {
+          "text": "كتاب الطلاق"
+        },
+        "ur": {
+          "text": "طلاق کے فروعی احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، ‏‏‏‏‏‏حَدَّثَنَا اللَّيْثُ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏أَنَّ ابْنَ عُمَرَ طَلَّقَ امْرَأَةً لَهُ وَهِيَ حَائِضٌ تَطْلِيقَةً، ‏‏‏‏‏‏بِمَعْنَى حَدِيثِ مَالِكٍ."
+    },
+    "en": {
+      "narrator": "It was reported from Al-Laith, from Nafi:",
+      "text": "This version says Ibn Umar رضی اللہ عنہما divorced a wife of his while she was menstruating pronouncing one divorce. He then narrated the rest of the tradition similar to the one narrated by Malik."
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ بن سعید نے بیان کیا، ہم سے لیث نے بیان کیا، نافع سے روایت ہے کہ",
+      "text": "ابن عمر رضی اللہ عنہما نے اپنی ایک عورت کو حالت حیض میں ایک طلاق دے دی، آگے مالک کی حدیث کے ہم معنی روایت ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

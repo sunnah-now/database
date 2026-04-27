@@ -1,0 +1,41 @@
+{
+  "id": 2970,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَاه أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، بِهَذَا الْإِسْنَادِ وَقَالَ فِي رِوَايَتِهِ: يَعْنِي مُعَاوِيَةَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Sulaiman Taimi with the same chain of transmitters and in his narration (he) refers to Mu'awiya رضی اللہ تعالیٰ عنہ ."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، انہوں نے کہا یحییٰ بن سعید نے سلیمان تیمی سے اسی سند کے ساتھ روایت کی اور اپنی روایت میں کہا : ان کی مرادحضرت معاویہ رضی اللہ تعالیٰ عنہ سے تھی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

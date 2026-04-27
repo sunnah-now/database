@@ -1,0 +1,41 @@
+{
+  "id": 3011,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The Book of Hajj"
+        },
+        "ar": {
+          "text": "كتاب مناسك الحج"
+        },
+        "ur": {
+          "text": "حج کے احکام و مناسک"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ آدَمَ، ‏‏‏‏‏‏عَنْ ابْنِ الْمُبَارَكِ، ‏‏‏‏‏‏عَنْ سَلَمَةَ بْنِ نُبَيْطٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَخْطُبُ يَوْمَ عَرَفَةَ عَلَى جَمَلٍ أَحْمَرَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Salamah bin Nubait that his father said: I saw the Messenger of Allah delivering a Khutbah on the day of Arafat atop a red camel. (Hasan) Chpater 200. Delivering A Short Khutbah In 'Arafat"
+    },
+    "ur": {
+      "narrator": "نبیط رضی الله عنہ کہتے ہیں کہ",
+      "text": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو عرفہ کے دن سرخ اونٹ پر سوار ہو کر خطبہ دیتے دیکھا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

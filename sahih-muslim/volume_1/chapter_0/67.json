@@ -1,0 +1,41 @@
+{
+  "id": 67,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عَمْرُو بْنُ عَلِيٍّ أَبُو حَفْصٍ، قَالَ: سَمِعْتُ مُعَاذَ بْنَ مُعَاذٍ، يَقُولُ: قُلْتُ لِعَوْفِ بْنِ أَبِي جَمِيلَةَ: إِنَّ عَمْرَو بْنَ عُبَيْدٍ حَدَّثَنَا عَنِ الْحَسَنِ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «مَنْ حَمَلَ عَلَيْنَا السِّلَاحَ فَلَيْسَ مِنَّا»، قَالَ: «كَذَبَ وَاللهِ عَمْرٌو، وَلَكِنَّهُ أَرَادَ أَنْ يَحُوزَهَا إِلَى قَوْلِهِ الْخَبِيثِ»"
+    },
+    "en": {
+      "narrator": "Amr bin Alī Abū Hafs narrated to me, he said I heard Mu’ādh bin Mu’ādh saying, I said to Awf bin Abī Jamīlah ‘Indeed Amr bin Ubayd narrated to us on authority of al-Hasan that:",
+      "text": "The Messenger of Allah, peace and blessings of Allah upon him, said: ‘Whoever carries arms against us then he is not from us’. [Awf bin Abī Jamīlah] said ‘Amr lied, by Allah. Rather he intended it as a way to permit his filthy opinion.’"
+    },
+    "ur": {
+      "narrator": "عمرو بن علی ابو حفص نے مجھ سے بیان کیا، کہامیں نے سنامعاذ بن معاذ کہتے ہیں : میں نے عوف بن ابی جمیلہ سے کہا : عمرو بن عبید نے حضرت حسن بصری سے ( روایت کرتے ہوئے ) یہ حدیث سنائی :",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:’’جس نے ہم پر ہتھیار اٹھایا تو وہ ہم میں سے نہیں ۔ ‘ ‘ انہوں نے کہا : بخدا! عمرو نے ( اس حدیث کی روایت حسن بصری کی طرف منسوب کرنے میں ) جھوٹ بولا لیکن وہ چاہتا ہے کہ اس ( صحیح حدیث ) کو اپنی جھوٹی بات سے ملا دے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

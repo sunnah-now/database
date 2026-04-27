@@ -1,0 +1,41 @@
+{
+  "id": 990,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا ابْنُ عَجْلاَنَ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ أَبِيهِ، بِهَذَا الْحَدِيثِ قَالَ لاَ يُجَاوِزُ بَصَرُهُ إِشَارَتَهُ ‏.‏ وَحَدِيثُ حَجَّاجٍ أَتَمُّ ‏.‏"
+    },
+    "en": {
+      "narrator": "‘Abdullah bin al-Zubair narrated the above mentioned tradition on the authority of his father saying:",
+      "text": "He kept his look fixed on the finger he was pointing. And Hajjaj's narration is more complete."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن بشار نے بیان کیا، ہم سے یحییٰ نے بیان کیا، ہم سے ابن عجلان نے بیان کیا، ان سے عامر بن عبداللہ بن زبیر نے اپنے والد سے اس حدیث کے ساتھ۔ فرمایا",
+      "text": "اس کی نظر اس کے اشارے سے باہر نہیں جاتی۔ حجاج کی حدیث زیادہ مکمل ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

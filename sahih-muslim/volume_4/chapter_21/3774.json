@@ -1,0 +1,41 @@
+{
+  "id": 3774,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 21,
+      "language": {
+        "en": {
+          "text": "The Book of Emancipating Slaves"
+        },
+        "ar": {
+          "text": "كتاب الْعِتْقِ"
+        },
+        "ur": {
+          "text": "غلامی سے آزادی کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى، - يَعْنِي ابْنَ يُونُسَ - عَنْ سَعِيدِ بْنِ، أَبِي عَرُوبَةَ بِهَذَا الإِسْنَادِ وَزَادَ ‏ ‏ إِنْ لَمْ يَكُنْ لَهُ مَالٌ قُوِّمَ عَلَيْهِ الْعَبْدُ قِيمَةَ عَدْلٍ ثُمَّ يُسْتَسْعَى فِي نَصِيبِ الَّذِي لَمْ يُعْتِقْ غَيْرَ مَشْقُوقٍ عَلَيْهِ.‏"
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Sa'id bin Abu 'Aruba with the same chain of transmitters but with the addition:",
+      "text": "If he (one of the joint owners emancipating the slave) has not (enough) money (to secure freedom for the other half) a fair price for the slave should be fixed, and he will be required to work to pay for his freedom, but must not be over-burdened."
+    },
+    "ur": {
+      "narrator": "اور ہم سے علی بن خشرم نے بیان کیا، عیسیٰ یعنی ابن یونس نے ہم سے سعید بن ابی عروبہ کی سند سے بیان کیا",
+      "text": "اگر ‌وہ ‌آزاد ‌کرنے ‌والا ‌مال ‌دار ‌نہ ‌ہو ‌تو ‌غلام ‌کی ‌واجبی ‌قیمت ‌لگائی ‌جائے ‌اور ‌محنت ‌کرے ‌اپنے ‌باقی ‌حصے ‌کے ‌لیے ‌جو ‌آزاد ‌نہیں ‌ہوا ‌مگر ‌اس ‌پر ‌جبر ‌نہیں ‌ہوگا ۔ ‌"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

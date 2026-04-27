@@ -1,0 +1,41 @@
+{
+  "id": 61,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، قَالَ: قَالَ أَيُّوبُ: «إِنَّ لِي جَارًا، ثُمَّ ذَكَرَ مِنْ فَضْلِهِ، وَلَوْ شَهِدَ عِنْدِي عَلَى تَمْرَتَيْنِ مَا رَأَيْتُ شَهَادَتَهُ جَائِزَةً»"
+    },
+    "en": {
+      "narrator": "Hajjāj bin ash-Shā’ir narrated to me, Sulaymān bin Harb narrated to us, Hammād bin Zayd narrated to us, he said, Ayyūb said:",
+      "text": "‘Indeed I have a neighbor’ and he mentioned some of his virtues, [and continued] ‘…even if he testified to me about two dates I would not see his testimony as permissible’."
+    },
+    "ur": {
+      "narrator": "مجھ سے حجاج بن شعر نے بیان کیا، ہم سے سلیمان بن حرب نے بیان کیا، ہم سے حماد بن زید نے بیان کیا، انہوں نے کہا: ایوب نے کہا",
+      "text": "میرا ایک ہمسایہ ہے ، پھر ( زہد وورع میں ) اس کی فضیلت کا ذکر کیا ، اگر وہ میرے سامنے دو کجھوروں کے بارے میں گواہی دے تو میں ( اس میں بھی ) اس کی شہادت قابل قبول نہ سمجھوں گا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

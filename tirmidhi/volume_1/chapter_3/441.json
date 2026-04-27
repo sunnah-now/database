@@ -1,0 +1,41 @@
+{
+  "id": 441,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 3,
+      "language": {
+        "en": {
+          "text": "The Book on Rulings and issues related to forgetfulness in prayer"
+        },
+        "ar": {
+          "text": "كتاب أحكام ومسائل النسيان في الصلاة"
+        },
+        "ur": {
+          "text": "نماز میں سہو و نسیان سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ ابْنِ شِهَابٍ نَحْوَهُ. قَالَ أَبُو عِيسَى:‏‏‏‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Narrator mot mentioned: Another chain with similar narration"
+    },
+    "ur": {
+      "narrator": "اس سند سے بھی",
+      "text": "ابن شہاب سے اسی طرح مروی ہے۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

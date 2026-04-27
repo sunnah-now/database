@@ -1,0 +1,41 @@
+{
+  "id": 3759,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 35,
+      "language": {
+        "en": {
+          "text": "Etiquette"
+        },
+        "ar": {
+          "text": "كتاب الأدب"
+        },
+        "ur": {
+          "text": "آداب و اخلاق"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "عَنْ أَبِي هُرَيْرَةَ،‏‏‏‏ قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ لَأَنْ يَمْتَلِئَ جَوْفُ الرَّجُلِ قَيْحًا،‏‏‏‏ حَتَّى يَرِيَهُ خَيْرٌ لَهُ،‏‏‏‏ مِنْ أَنْ يَمْتَلِئَ شِعْرًا ،‏‏‏‏ إِلَّا أَنَّ حَفْصًا لَمْ يَقُلْ:‏‏‏‏ يَرِيَهُ ."
+    },
+    "en": {
+      "narrator": "It was narrated from Abu Hurairah رضی اللہ عنہ that:",
+      "text": "The Messenger of Allah(ﷺ) said: If a man were to fill his stomach completely with pus until it destroyed him, that would be better for him than filling (his mind) with poetry.\r\nExcept that (one of the narrators) Hafs did not say: \"until it destroyed him.\""
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر نے بیان کیا، ہم سے حفص نے، ابو معاویہ نے اور ہم سے وکیع نے، العمش کی سند سے، ابوصالح کی سند سے, ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: بیماری کے سبب آدمی کے پیٹ کا مواد سے بھر جانا اس سے زیادہ بہتر ہے کہ وہ شعر سے بھرا ہو ۔ حفص نے «یریہ» کا لفظ ذکر نہیں کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2500,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ، بِهَذَا الْإِسْنَادِ، وَقَالَ: «فَإِنْ غُمَّ عَلَيْكُمْ فَاقْدِرُوا ثَلَاثِينَ» نَحْوَ حَدِيثِ أَبِي أُسَامَةَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith is narrated on the authority of 'Ubaidullah with the same chain of transmitters, and he said: If (the sky) is cloudy for you, then calculate thirty days (for the month of Ramadan)."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابن نمیر نے حدیث بیان کی ، کہا : ہمیں میرے والد نے حدیث سنائی ، کہا : ہمیں عبیداللہ نے اسی ( مذکورہ بالا ) سند کے ساتھ حدیث بیان کی ، فرمایا : \" اگر تم پر بادل چھاجائیں تو اس کے تیس دن شمار کرو ۔ \" جس طرح ابو اسامہ کی حدیث ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 433,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنِ الشَّيْبَانِيِّ ، عَنْ زِرٍّ، عَنْ عَبْدِ اللهِ، قَالَ: {مَا كَذَبَ الْفُؤَادُ مَا رَأَى} [النجم: 11]، قَالَ: «رَأَى جِبْرِيلَ عَلَيْهِ السَّلَامُ لَهُ سِتُّمِائَةِ جَنَاحٍ»."
+    },
+    "en": {
+      "narrator": "Al-Shaibani narrated on the authority of Zirr who narrated it on this authority of Abdullah ‌رضی ‌اللہ ‌عنہ ‌ that the (words of Allah):",
+      "text": "The heart belied not what he saw (al Qur'an, Iiii. 11) imply that he ﷺ saw Gabriel and he had six hundred wings."
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا,حفص بن غیاث نے شیبانی سے حدیث سنائی ، انہوں نے زر سے ، انہوں نے حضرت عبداللہ ( بن مسعود ) ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے",
+      "text": "آیت : ’’جھوٹ نہ دیکھا دل نے ، جو دیکھا ‘ ‘ پڑھی ، کہا : رسول اللہ ﷺ نے جبریل کو دیکھا ان کے چھ سو پر تھے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

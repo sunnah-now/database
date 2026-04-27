@@ -1,0 +1,41 @@
+{
+  "id": 2229,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 12,
+      "language": {
+        "en": {
+          "text": "The Book of Prayer - Funerals"
+        },
+        "ar": {
+          "text": "كتاب الْجَنَائِزِ"
+        },
+        "ur": {
+          "text": "جنازے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ عَنْ يَحْيَى بْنِ سَعِيدٍ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated by Yahya bin Sa'id with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابو کریب نے بیان کیا، ہم سےابن ابی زائدہ نے یحییٰ بن سعید سے اسی سند کے ساتھ یہی روایت بیا ن کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

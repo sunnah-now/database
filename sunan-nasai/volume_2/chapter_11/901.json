@@ -1,0 +1,41 @@
+{
+  "id": 901,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Book of the Commencement of the Prayer"
+        },
+        "ar": {
+          "text": "كتاب الافتتاح"
+        },
+        "ur": {
+          "text": "نماز شروع کرنے کے مسائل و احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنِي جَعْفَرُ بْنُ سُلَيْمَانَ، ‏‏‏‏‏‏عَنْ عَلِيِّ بْنِ عَلِيٍّ، ‏‏‏‏‏‏عَنْ أَبِي الْمُتَوَكِّلِ، ‏‏‏‏‏‏عَنْ أَبِي سَعِيدٍ، ‏‏‏‏‏‏قال:‏‏‏‏ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا افْتَتَحَ الصَّلَاةَ قَالَ:‏‏‏‏ سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلَا إِلَهَ غَيْرُكَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Abu Sa'eed said: When the Messenger of Allah (ﷺ) started to pray, he would say: 'Subhanakallahumma, wa bihamdika tabarakasmuka wa ta'ala jadduka wa la ilaha ghairuk (Glory and praise be to You, O Allah. Blessed be Your name and exalted be Your majesty, there is none worthy of worship except You.)"
+    },
+    "ur": {
+      "narrator": "ابوسعید رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم جب نماز شروع کرتے تو کہتے: «سبحانك اللہم وبحمدك وتبارك اسمك وتعالى جدك ولا إله غيرك»  اے اللہ! تو  ( تمام عیبوں سے )  پاک ہے، اور لائق حمد تو ہی ہے، اور بابرکت ہے تیرا نام، اور بلند ہے تیری شان، اور تیرے سوا کوئی حقیقی معبود نہیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

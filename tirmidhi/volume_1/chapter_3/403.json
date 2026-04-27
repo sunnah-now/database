@@ -1,0 +1,41 @@
+{
+  "id": 403,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 3,
+      "language": {
+        "en": {
+          "text": "The Book on Rulings and issues related to forgetfulness in prayer"
+        },
+        "ar": {
+          "text": "كتاب أحكام ومسائل النسيان في الصلاة"
+        },
+        "ur": {
+          "text": "نماز میں سہو و نسیان سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا صَالِحُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي مَالِكٍ الْأَشْجَعِيِّ بِهَذَا الْإِسْنَادِ نَحْوَهُ بِمَعْنَاهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "There is another narration from Abu Malik: There exists another narration from Abu Malik with similar meaning but with different chain."
+    },
+    "ur": {
+      "narrator": "ابوعوانہ نے ابو مالک اشجعی سے",
+      "text": "اسی سند سے اسی مفہوم کی اسی طرح کی حدیث روایت کی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1450,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِي عَبْدُ اللهِ بْنُ الصَّبَّاحِ الْعَطَّارُ، حَدَّثَنَا عُبَيْدُ اللهِ بْنُ عَبْدِ الْمَجِيدِ الْحَنَفِيُّ، حَدَّثَنَا قُرَّةُ، بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ، ثُمَّ أَقْبَلَ عَلَيْنَا بِوَجْهِهِ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated by Qurra with the same chain of transmitters, but therein he did not mention:",
+      "text": "He turned his face towards us."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن الصباح العطار نے مجھ سے کہا, عبیداللہ بن عبدالمجید حنفی نے قرہ سے اسی سند کے ساتھ ( یہی ) حدیث بیان کی اور یہ بیان نہ کیا",
+      "text": "’’پھر آپ نے ہمار ی طرف رخ فرمایا ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

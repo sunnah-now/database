@@ -1,0 +1,41 @@
+{
+  "id": 3793,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 21,
+      "language": {
+        "en": {
+          "text": "The Book of Emancipating Slaves"
+        },
+        "ar": {
+          "text": "كتاب الْعِتْقِ"
+        },
+        "ur": {
+          "text": "غلامی سے آزادی کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ إِبْرَاهِيمُ بْنُ دِينَارٍ، حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُوسَى، حَدَّثَنَا شَيْبَانُ، عَنِ الْأَعْمَشِ، بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّهُ قَالَ: «وَمَنْ وَالَى غَيْرَ مَوَالِيهِ بِغَيْرِ إِذْنِهِمْ»."
+    },
+    "en": {
+      "narrator": "It was narrated from Al-Amash with this chain (a Hadith similar to no. 3792)' except that he said:",
+      "text": "\"Whoever takes people other than those who set him free as Mawla without their permission...\""
+    },
+    "ur": {
+      "narrator": "مجھ سے ابراہیم بن دینار نے بیان کیا، ہم سے عبید اللہ بن موسیٰ نے بیان کیا,شیبان نے اعمش سے اسی سند کے ساتھ حدیث بیان کی ، البتہ انہوں نے کہا",
+      "text": "\" جس نے اپنے آزاد کرنے والوں کے سوا ، ان کی اجازت کے بغیر کسی اور کے ساتھ موالات کی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

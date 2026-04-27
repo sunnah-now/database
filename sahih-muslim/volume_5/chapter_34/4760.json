@@ -1,0 +1,41 @@
+{
+  "id": 4760,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Government"
+        },
+        "ar": {
+          "text": "كتاب الْإِمَارَةِ"
+        },
+        "ur": {
+          "text": "امور حکومت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، عَنْ شُعْبَةَ، بِهَذَا الْإِسْنَادِ، وَقَالَ: «عَبْدًا حَبَشِيًّا مُجَدَّعًا"
+    },
+    "en": {
+      "narrator": "It was narrated from Shobah with this chain of narration(a Hadith similar to no. 4758), and he said:",
+      "text": "An Abyssinian slave with amputated limbs."
+    },
+    "ur": {
+      "narrator": "وکیع بن جراح نے ہمیں شعبہ سے اسی سند کے ساتھ حدیث بیان کی اور کہا",
+      "text": "\" کٹے ہوئے اعضاء والا حبشی غلام ہو.\""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

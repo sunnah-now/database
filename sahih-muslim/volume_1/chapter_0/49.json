@@ -1,0 +1,41 @@
+{
+  "id": 49,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ حَمْزَةَ الزَّيَّاتِ، قَالَ: سَمِعَ مُرَّةُ الْهَمْدَانِيُّ، مِنَ الْحَارِثِ شَيْئًا، فَقَالَ لَهُ: «اقْعُدْ بِالْبَابِ»، قَالَ: فَدَخَلَ مُرَّةُ، وَأَخَذَ سَيْفَهُ، قَالَ: وَأَحَسَّ الْحَارِثُ بِالشَّرِّ، فَذَهَبَ"
+    },
+    "en": {
+      "narrator": "Qutaybah bin Sa’īd narrated to us, Jarīr narrated to us, on authority of Hamzah az-Zayyāt, he said: ‘Murrah al-Hamdānī heard something from al-Hārith and said to him:",
+      "text": "‘sit by the door’. [Hamzah] said: ‘So Murrah went inside and took his sword and al-Hārith sensed evil and left’."
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے جریر نے بیان کیا، انہوں نے حمزہ الزیات کی سند سے، انہوں نے کہا حمزہ زیات سے روایت ہے ، کہا : مرہ ہمدانی نے حارث سے کوئی بات سنی تو اس سے کہا",
+      "text": "تم دروازے ہی پر بیٹھو ( اندر نہ آؤ ) ۔ پھر وہ ( گھر میں ) داخل ہوئے اور اپنی تلوار اٹھا لی تو حارث نے برا انجام محسوس کر لیا اور چل دیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

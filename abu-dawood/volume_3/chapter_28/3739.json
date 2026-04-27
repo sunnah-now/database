@@ -1,0 +1,41 @@
+{
+  "id": 3739,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "Foods (Kitab Al-At'imah)"
+        },
+        "ar": {
+          "text": "كتاب الأطعمة"
+        },
+        "ur": {
+          "text": "کھانے کے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا ابْنُ الْمُصَفَّى، ‏‏‏‏‏‏حَدَّثَنَا بَقِيَّةُ، ‏‏‏‏‏‏حَدَّثَنَا الزُّبَيْدِيُّ، ‏‏‏‏‏‏عَنْ نَافِعٍ بِإِسْنَادِ أَيُّوبَ وَمَعْنَاهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The tradition mentioned above has also been transmitted by Nafi to the same effect through the chain of narrators as mentioned in Ayyub."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابن المصفی نے بیان کیا، کہا ہم سے بقیع نے بیان کیا، ہم سے الزبیدی نے بیان کیا, اس سند سے بھی نافع سے ایوب کی روایت جیسی حدیث مروی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

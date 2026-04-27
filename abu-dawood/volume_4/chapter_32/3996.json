@@ -1,0 +1,41 @@
+{
+  "id": 3996,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 32,
+      "language": {
+        "en": {
+          "text": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)"
+        },
+        "ar": {
+          "text": "كتاب الحروف والقراءات"
+        },
+        "ur": {
+          "text": "قرآن کریم کی بابت لہجوں اور قراتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، ‏‏‏‏‏‏حَدَّثَنَا شُعْبَةُ، ‏‏‏‏‏‏عَنْ خَالِدٍ، ‏‏‏‏‏‏عَنْ أَبِي قِلَابَةَ عَمَّنْ أَقْرَأَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ فَيَوْمَئِذٍ لا يُعَذِّبُ عَذَابَهُ أَحَدٌ ‏‏‏‏ 25 ‏‏‏‏ وَلا يُوثِقُ وَثَاقَهُ أَحَدٌ ‏‏‏‏ 26 ‏‏‏‏ سورة الفجر آية 25-26 ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ بَعْضُهُمْ أَدْخَلَ بَيْنَ خَالِدٍ وأَبِي قِلَابَةَ رَجُلًا."
+    },
+    "en": {
+      "narrator": "Narrated Abu Qilabah:",
+      "text": "The Prophet صلی ‌اللہ ‌علیہ ‌وسلم made a man read the verse: For, that day His chastisement will be such as none (else) can be chastised. And his bonds will be such as none (other) can be bound. Abu Dawud said: According to some (scholars), there is a narrator between the narrator Khalid and Abu Qilabah."
+    },
+    "ur": {
+      "narrator": "ہم سے حفص بن عمر نے بیان کیا، ہم سے شعبہ نے بیان کیا، وہ خالد رضی اللہ عنہ سے, ابوقلابہ ایک ایسے شخص سے",
+      "text": "جس کو رسول اللہ صلی اللہ علیہ وسلم نے پڑھایا ہےروایت کرتے ہیں ( کہ یہ آیت کریمہ اس طرح ہے ) «فيومئذ لا يعذب عذابه أحد * ولا يوثق وثاقه أحد» ۔ ابوداؤد کہتے ہیں: کچھ لوگوں نے خالد اور ابوقلابہ کے درمیان ایک مزید واسطہ داخل کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

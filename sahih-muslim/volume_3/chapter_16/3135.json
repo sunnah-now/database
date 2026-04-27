@@ -1,0 +1,41 @@
+{
+  "id": 3135,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّهُ قَالَ: فَلَمَّا أَتَى جَمْرَةَ الْعَقَبَةِ."
+    },
+    "en": {
+      "narrator": "This hadith nas been narrated on the authority of Shu'ba with the same chain of transmitters except with this variation of (words):",
+      "text": "As he came to Jamrat al-'Aqaba."
+    },
+    "ur": {
+      "narrator": "ہمیں معاذ عنبری نے حدیث بیان کی ، ( کہا : ) ہمیں شعبہ نے اسی سند کے ساتھ ( یہی ) حدیث بیان کی ، البتہ انھوں نے کہا",
+      "text": "جب وہ جمرہ عقبہ کے پاس آئے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

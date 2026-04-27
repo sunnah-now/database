@@ -1,0 +1,41 @@
+{
+  "id": 5670,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of Greetings"
+        },
+        "ar": {
+          "text": "كتاب السَّلَامِ"
+        },
+        "ur": {
+          "text": "سلامتی اور صحت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنِيهِ سُوَيْدُ بْنُ سَعِيدٍ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ عَنْ هِشَامٍ بِهَذَا الْإِسْنَادِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Hisham with this chain of narrators."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے سوید بن سعید نے بیان کیا, علی بن مسہر نے ہشام سے اسی سند کے ساتھ ہمیں حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

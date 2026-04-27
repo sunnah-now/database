@@ -1,0 +1,41 @@
+{
+  "id": 2639,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا: «أَنَّ يَوْمَ عَاشُورَاءَ كَانَ يُصَامُ فِي الْجَاهِلِيَّةِ، فَلَمَّا جَاءَ الْإِسْلَامُ مَنْ شَاءَ صَامَهُ وَمَنْ شَاءَ تَرَكَهُ»."
+    },
+    "en": {
+      "narrator": "A'isha (رضی اللہ تعالیٰ عنہا) reported:",
+      "text": "In the pre-Islamic days fast was observed on the day of Ashura, but with the advent of Islam (its position was ascertained as that of a voluntary fast). Then he who wished to fast fasted, and he who liked to abandon it abandoned it."
+    },
+    "ur": {
+      "narrator": "عمرو ناقد ، سفیان ، زہری ، عروۃ ، سیدہ عائشہ صدیقہ رضی اللہ تعالیٰ عنہا سے روایت ہے کہ",
+      "text": "عاشورہ کے دن جاہلیت کے زمانہ میں روزہ رکھا جاتاتھا تو جب اسلام آیا کہ جوچاہے اس کا روزہ رکھے اور جو چاہے چھوڑ دے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

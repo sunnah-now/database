@@ -1,0 +1,41 @@
+{
+  "id": 125,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Purification (Kitab Al-Taharah)"
+        },
+        "ar": {
+          "text": "كتاب الطهارة"
+        },
+        "ur": {
+          "text": "طہارت کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، ‏‏‏‏‏‏حَدَّثَنَا الْوَلِيدُ، ‏‏‏‏‏‏بِهَذَا الْإِسْنَادِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَتَوَضَّأَ ثَلَاثًا ثَلَاثًا، ‏‏‏‏‏‏وَغَسَلَ رِجْلَيْهِ بِغَيْرِ عَدَدٍ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "(In another narration that is similar to no. 124, the narrators added): He performed each part of the ablution three times and washed his feet times without mention the number of times."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "محمود بن خالد کہتے ہیں کہ ہم سے ولید نے اسی سند سے بیان کیا ہے، اس میں ہے کہ  انہوں نے کہا: انہوں  نے تین تین بار وضو کیا اور اپنے پاؤں دھوئے اس میں عدد کا ذکر نہیں ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 7264,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 53,
+      "language": {
+        "en": {
+          "text": "The Book of Tribulations and Portents of the Last Hour"
+        },
+        "ar": {
+          "text": "كتاب الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ"
+        },
+        "ur": {
+          "text": "فتنے اور علامات قیامت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ عَنْ سُفْيَانَ عَنْ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ إِلَى قَوْلِهِ وَنَسِيَهُ مَنْ نَسِيَهُ وَلَمْ يَذْكُرْ مَا بَعْدَهُ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of A'mash with the same chain of transmitters up to the words:",
+      "text": "\"And he forgot who had to forget,\" that and. he did not make a mention of what follows after this."
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا کہ ہم سے وکیع نے بیان کیا, سفیان نے اعمش سے اسی سند کے ساتھ ان ( حذیفہ رضی اللہ تعالیٰ عنہ ) کے اس قول تک",
+      "text": "\" اور جس نے اسے بھلادیا اس نے اسے بھلادیا \" روایت کی اور اس کے بعد کا حصہ بیان نہیں کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

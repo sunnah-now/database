@@ -1,0 +1,41 @@
+{
+  "id": 3862,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 29,
+      "language": {
+        "en": {
+          "text": "Medicine (Kitab Al-Tibb)"
+        },
+        "ar": {
+          "text": "كتاب الطب"
+        },
+        "ur": {
+          "text": "علاج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيل، ‏‏‏‏‏‏أَخْبَرَنِي أَبُو بَكْرَةَ بَكَّارُ بْنُ عَبْدِ الْعَزِيزِ، ‏‏‏‏‏‏أَخْبَرَتْنِي عَمَّتِي كَبْشَةُ بِنْتُ أَبِي بَكْرَةَ، ‏‏‏‏‏‏وَقَالَ غَيْرُ مُوسَى:‏‏‏‏ كَيِّسَةُ بِنْتُ أَبِي بَكْرَةَ، ‏‏‏‏‏‏أَنَّ أَبَاهَا كَانَ يَنْهَى أَهْلَهُ عَنِ الْحِجَامَةِ يَوْمَ الثُّلَاثَاءِ، ‏‏‏‏‏‏وَيَزْعُمُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ أَنَّ يَوْمَ الثُّلَاثَاءِ يَوْمُ الدَّمِ وَفِيهِ سَاعَةٌ لَا يَرْقَأُ ."
+    },
+    "en": {
+      "narrator": "Narrated Kabshah daughter of Abu Bakrah: (the narrator other than Musa said that Kayyisah daughter of Abu Bakrah) She said:",
+      "text": "Her father used to forbid his family to have themselves cupped on a Tuesday, and used to assert on the authority of the Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم that Tuesday is the day of blood in which there is an hour when it does not stop."
+    },
+    "ur": {
+      "narrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا، مجھ سے ابوبکرہ بکر بن عبدالعزیز نے بیان کیا, کبشہ بنت ابی بکرہ نے خبر دی ہے  کہ",
+      "text": "ان کے والد اپنے گھر والوں کو منگل کے دن پچھنا لگوانے سے منع کرتے تھے اور رسول اللہ صلی اللہ علیہ وسلم سے نقل کرتے تھے: منگل کا دن خون کا دن ہے اس میں ایک ایسی گھڑی ہے جس میں خون بہنا بند نہیں ہوتا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

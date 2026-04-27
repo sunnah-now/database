@@ -1,0 +1,41 @@
+{
+  "id": 255,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، وَزَادَ: وَأَشَارَ إِلَى دَارِ عَبْدِ اللهِ، وَمَا سَمَّاهُ لَنَا."
+    },
+    "en": {
+      "narrator": "This hadith has been transmitted by Muhammad bin Bashshar, Muhammad bin Ja'far Shu'ba with this chain of narrators, with the addition:",
+      "text": "He pointed towards the house of 'Abdullah, but he did not mention his name for us."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن بشار نے بیان کیا، کہا ہم سے محمد بن جعفر نے بیان کیا,شعبہ سے ان کے ایک شاگر د محمد بن جعفر نے اسی سند سے یہی روایت بیان کی اور اس میں یہ اضافہ کیا",
+      "text": "ابو عمرو شیبانی نے عبد اللہ ( بن مسعود ) ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے گھر کی طرف اشارہ کیا لیکن ہمارے سامنے ان کانام نہ لیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

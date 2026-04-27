@@ -1,0 +1,41 @@
+{
+  "id": 4290,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "The Book Of Oaths"
+        },
+        "ar": {
+          "text": "كتاب الْأَيْمَانِ"
+        },
+        "ur": {
+          "text": "قسموں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا حَفْصُ بْنُ مَيْسَرَةَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ أَبِي الزِّنَادِ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، غَيْرَ أَنَّهُ قَالَ: كُلُّهَا تَحْمِلُ غُلَامًا يُجَاهِدُ فِي سَبِيلِ اللهِ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Abu Zinad with the same chain of transmitters with a variation of (these words):",
+      "text": "Every one of them giving birth to a child, who would have fought in the cause of Allah."
+    },
+    "ur": {
+      "narrator": "مجھ سے سوید بن سعید نے بیان کیا، ہم سے حفص بن میسرہ نے بیان کیا،موسیٰ بن عقبہ نے ابوزناد سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ، البتہ انہوں نے کہا",
+      "text": "\" ان میں سے ہر ایک کے حمل میں ایسا بچہ ہوتا جو اللہ تعالیٰ کی راہ میں جہاد کرتا.\""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4500,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 41,
+      "language": {
+        "en": {
+          "text": "Types of Blood-Wit (Kitab Al-Diyat)"
+        },
+        "ar": {
+          "text": "كتاب الديات"
+        },
+        "ur": {
+          "text": "دیتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، ‏‏‏‏‏‏حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي جَامِعُ بْنُ مَطَرٍ، ‏‏‏‏‏‏حَدَّثَنِي عَلْقَمَةُ بْنُ وَائِلٍ، ‏‏‏‏‏‏بِإِسْنَادِهِ وَمَعْنَاهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The tradition mentioned above has also been transmitted by Alqamah bin Wail through a different chain of narrators and to the same effect."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عبیداللہ بن عمر بن میسرہ نے بیان کیا، ہم سے یحییٰ بن سعید نے بیان کیا، انہوں نے کہا: مجھ سے جمیع بن مطر نے بیان کیا،اس سند سے بھی علقمہ بن وائل سے اسی مفہوم کی روایت مروی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

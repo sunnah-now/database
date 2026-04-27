@@ -1,0 +1,41 @@
+{
+  "id": 3738,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Ar-Ruqba"
+        },
+        "ar": {
+          "text": "كتاب الرقبى"
+        },
+        "ur": {
+          "text": "رقبیٰ ( یعنی زندگی سے مشروط ہبہ ) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا زَكَرِيَّا بْنُ يَحْيَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَبْدُ الْجَبَّارِ بْنُ الْعَلَاءِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ ابْنِ أَبِي نَجِيحٍ، ‏‏‏‏‏‏عَنْ طَاوُسٍ لَعَلَّهُ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا رُقْبَى فَمَنْ أُرْقِبَ شَيْئًا فَهُوَ سَبِيلُ الْمِيرَاثِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Zakariyya bin Yahya informed us, he said: Abdul-Jabbar bin Al-'Ala' narrated to us, he said: 'Sufyan narrated to us from Ibn Abi Najih, from Tawus, and perhaps it is from Ibn 'Abbas, who said: There is no Ruqba, and whoever gives a gift on the basis of Ruqba, it is part of his estate.'"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ",
+      "text": "رقبیٰ ( مصلحتاً جائز ) نہیں ہے ( لیکن اگر کسی نے کر دیا ہے ) تو جسے رقبیٰ کیا گیا ہے اس کے ورثاء کو میراث میں ملے گا، دینے والے کو واپس نہ ہو گا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

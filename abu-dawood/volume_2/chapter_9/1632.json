@@ -1,0 +1,41 @@
+{
+  "id": 1632,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 9,
+      "language": {
+        "en": {
+          "text": "Zakat (Kitab Al-Zakat)"
+        },
+        "ar": {
+          "text": "كتاب الزكاة"
+        },
+        "ur": {
+          "text": "زکوۃ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏وَعُبَيْدُ اللَّهِ بْنُ عُمَرَ، ‏‏‏‏‏‏وَأَبُو كَامِلٍ الْمَعْنَى، ‏‏‏‏‏‏قَالُوا:‏‏‏‏ حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، ‏‏‏‏‏‏حَدَّثَنَا مَعْمَرٌ، ‏‏‏‏‏‏عَنْ الزُّهْرِيِّ، ‏‏‏‏‏‏عَنْ أَبِي سَلَمَةَ،‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ مِثْلَهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ وَلَكِنَّ الْمِسْكِينَ الْمُتَعَفِّفُ ، ‏‏‏‏‏‏زَادَ مُسَدَّدٌ فِي حَدِيثِهِ:‏‏‏‏ لَيْسَ لَهُ مَا يَسْتَغْنِي بِهِ الَّذِي لَا يَسْأَلُ وَلَا يُعْلَمُ بِحَاجَتِهِ فَيُتَصَدَّقَ عَلَيْهِ فَذَاكَ الْمَحْرُومُ ، ‏‏‏‏‏‏وَلَمْ يَذْكُرْ مُسَدَّدٌ الْمُتَعَفِّفُ الَّذِي لَا يَسْأَلُ. قَالَ أَبُو دَاوُد:‏‏‏‏ رَوَى هَذَا مُحَمَّدُ بْنُ ثَوْرٍ وَ عَبْدُ الرَّزَّاقِ، ‏‏‏‏‏‏عَنْ مَعْمَرٍ، ‏‏‏‏‏‏وَجَعَلَا الْمَحْرُومَ مِنْ كَلَامِ الزُّهْرِيِّ وَهُوَ أَصَحُّ."
+    },
+    "en": {
+      "narrator": "Narrated Abu Hurairah رضی اللہ عنہ :",
+      "text": "The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم said something similar as mentioned in the preceding tradition. This version adds: But the poor man (miskin) who abstains from begging from the people is one (according to the version of Musaddad who does not get enough so that he may not beg from the people, nor is his need known to the people, so that alms be given to him. This is the one who has been deprived. Musaddad did not mention the words one who avoids begging from the people. Abu Dawud said: This tradition has been transmitted by Muhammad bin Thawr and Abdul-Razzaq on the authority of Mamar. They mentioned that the word deprived is the statement of al-Zuhri, and this is more sound."
+    },
+    "ur": {
+      "narrator": "ہم سے مسدد، عبید اللہ بن عمر اور ابو کامل المعنی نے بیان کیا، کہا ہم سے عبد الواحد بن زیاد نے بیان کیا، کہا ہم سے معمر نے بیان کیا، وہ زہری سے، انہوں نے ابو سلمہ کی سند سے, اس سند سے بھی ابوہریرہ رضی اللہ عنہ سے اسی کے مثل مروی ہے, اس میں ہے",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:لیکن مسکین سوال کرنے سے بچنے والا ہے، مسدد نے اپنی روایت میں اتنا بڑھایا ہے کہ ( مسکین وہ ہے ) جس کے پاس اتنا نہ ہو جتنا اس کے پاس ہوتا ہے جو سوال نہیں کرتا ہے، اور نہ ہی اس کی محتاجی کا حال لوگوں کو معلوم ہوتا ہو کہ اس پر صدقہ کیا جائے، اسی کو محروم کہتے ہیں، اور مسدد نے «المتعفف الذي لا يسأل»کا ذکر نہیں کیا ہے۔ ابوداؤد کہتے ہیں: یہ حدیث محمد بن ثور اور عبدالرزاق نے معمر سے روایت کی ہے اور ان دونوں نے «فذاك المحروم» کو زہری کا کلام بتایا ہے اور یہی زیادہ صحیح ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

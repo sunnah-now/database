@@ -1,0 +1,41 @@
+{
+  "id": 973,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَاصِمُ بْنُ النَّضْرِ، حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ أَبِي، حَدَّثَنَا قَتَادَةُ، عَنْ أَبِي غَلاَّبٍ، يُحَدِّثُهُ عَنْ حِطَّانَ بْنِ عَبْدِ اللَّهِ الرَّقَاشِيِّ، بِهَذَا الْحَدِيثِ زَادَ ‏\"‏ فَإِذَا قَرَأَ فَأَنْصِتُوا ‏\"‏ ‏.‏ وَقَالَ فِي التَّشَهُّدِ بَعْدَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ زَادَ ‏\"‏ وَحْدَهُ لاَ شَرِيكَ لَهُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَقَوْلُهُ ‏\"‏ فَأَنْصِتُوا ‏\"‏ ‏.‏ لَيْسَ بِمَحْفُوظٍ لَمْ يَجِئْ بِهِ إِلاَّ سُلَيْمَانُ التَّيْمِيُّ فِي هَذَا الْحَدِيثِ ‏.‏"
+    },
+    "en": {
+      "narrator": "(There is another chain) from Qatadah from Ghallab who narrated it from Hittan bin ‘Abd Allah al-Ruqashi with this Hadith. He added:",
+      "text": "When he( the imam) recites the Qur’an, keep silence(and listen attentively). And in the tashahhud this version adds after the words “I testify that there is no god but Allah” the words “He is alone, and there is no associate of Him.”\r\nAbu Dawud said: His word \"And keep silence\" is not guarded; it has been narrated by Sulaiman al-Taimi alone in his version."
+    },
+    "ur": {
+      "narrator": "ہم سے عاصم بن نضر نے بیان کیا، کہا ہم سے معتمر نے بیان کیا، انہوں نے کہا: میں نے اپنے والد سے سنا، ہم سے قتادہ نے ابو ذلب کی سند سے، ان سے حطان بن عبداللہ الرقاشی نے اس حدیث کے ساتھ بیان کیا، انہوں نے مزید کہا",
+      "text": "\"پس جب وہ پڑھے تو خاموش ہو جائے۔\"اس نے ایمان کی گواہی کے بعد کہا کہ میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، انہوں نے مزید کہا کہ وہ اکیلا ہے، اس کا کوئی شریک نہیں۔ ابوداؤد نے کہا، اور اس کا یہ قول کہ \"پھر خاموش رہو\" صحیح نہیں ہے۔ اس حدیث کو صرف سلیمان تیمی نے روایت کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

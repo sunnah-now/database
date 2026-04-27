@@ -1,0 +1,41 @@
+{
+  "id": 3942,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 31,
+      "language": {
+        "en": {
+          "text": "The Book of Manumission of Slaves"
+        },
+        "ar": {
+          "text": "كتاب العتق"
+        },
+        "ur": {
+          "text": "غلاموں کی آزادی سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْعَتَكِيُّ، ‏‏‏‏‏‏حَدَّثَنَا حَمَّادٌ، ‏‏‏‏‏‏عَنْ أَيُّوبَ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِهَذَا الْحَدِيثِ، ‏‏‏‏‏‏قَالَ أَيُّوبُ:‏‏‏‏ فَلَا أَدْرِي هُوَ فِي الْحَدِيثِ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوْ شَيْءٌ قَالَهُ نَافِعٌ وَإِلَّا عَتَقَ مِنْهُ مَا عَتَقَ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been narrated by Ibn Umar from the Prophet صلی ‌اللہ ‌علیہ ‌وسلم. The narrator Ayyub said:",
+      "text": "I do not know whether the following words are part of the tradition of the Prophet صلی ‌اللہ ‌علیہ ‌وسلم or Nafi told them himself: Otherwise he will be emancipated to the extent of the first man's share."
+    },
+    "ur": {
+      "narrator": "ہم سے سلیمان بن داؤد العتکی نے بیان کیا، ہم سے حماد نے، ایوب سے، نافع کی سند سے, اس سند سے بھی ابن عمر رضی اللہ عنہما سے یہی حدیث مرفوعاً مروی ہے, ایوب کہتے ہیں",
+      "text": "مجھے نہیں معلوم کہ «وإلا عتق منه ما عتق»نبی اکرم صلی اللہ علیہ وسلم کی حدیث کا حصہ ہے یا نافع کا قول ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 59,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي سَلَمَةُ، حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، قَالَ: «سَمِعْتُ جَابِرًا، يُحَدِّثُ بِنَحْوٍ مِنْ ثَلَاثِينَ أَلْفَ حَدِيثٍ، مَا أَسْتَحِلُّ أَنْ أَذْكُرَ مِنْهَا شَيْئًا، وَأَنَّ لِي كَذَا وَكَذَا‘قَالَ مُسْلِمٌ: وَسَمِعْتُ أَبَا غَسَّانَ مُحَمَّدَ بْنَ عَمْرٍو الرَّازِيَّ، قَالَ: سَأَلْتُ جَرِيرَ بْنَ عَبْدِ الْحَمِيدِ، فَقُلْتُ: الْحَارِثُ بْنُ حَصِيرَةَ لَقِيتَهُ؟ قَالَ: «نَعَمْ، شَيْخٌ طَوِيلُ السُّكُوتِ، يُصِرُّ عَلَى أَمْرٍ عَظِیم"
+    },
+    "en": {
+      "narrator": "Salamah narrated to me, al-Humaydī narrated to us, Sufyān narrated to us, he said: ‘I heard Jābir talking about something like 30,000 Ḥadīth [that] I did not regard as permissible to mention anything from, and that to me was like this and that [Ḥadīth].’ Muslim said:",
+      "text": "I heard Abū Ghassān Muhammad bin Amr ar-Rāzī say, ‘I asked Jarīr bin Abd il-Hamīd: ‘Did you meet al-Hārith bin Hasīrah? He said: ‘Yes, [he is a] Shaykh of lengthy silence; he persisted in a grave matter.’"
+    },
+    "ur": {
+      "narrator": "مجھ سے سلمہ نے بیان کیا، ہم سے حمیدی نے بیان کیا، کہا کہ ہم سے سفیان نے بیان کیا، انہوں نے کہا: میں نے جابر رضی اللہ عنہ کو تقریباً تیس ہزار احادیث بیان کرتے ہوئے سنا، جن میں سے ایک بھی حدیث بیان کرنا میرے پاس جائز نہیں، اور میرے پاس فلاں فلاں ہے، مسلم نے کہا",
+      "text": "میں نے ابو غسان محمد بن عمرو رازی سے سنا ، کہا : میں نے جریر بن عبد الحمید سے پوچھا ، میں نے کہا : ( یہ جو ) حارث بن حصیرہ ہے ، آپ اس سے ملے ہیں؟ کہا : ہاں ، لمبی خاموشی والا بوڑھا ہے ۔ ایک بہت بڑی بات پر اصرار کرتا ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

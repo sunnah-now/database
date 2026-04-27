@@ -1,0 +1,41 @@
+{
+  "id": 5258,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "General Behavior (Kitab Al-Adab)"
+        },
+        "ar": {
+          "text": "كتاب الأدب"
+        },
+        "ur": {
+          "text": "آداب و اخلاق کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ حَدَّثَنَا يَحْيَى،‏‏‏‏ عَنْ ابْنِ عَجْلَانَ،‏‏‏‏ بِهَذَا الْحَدِيثِ مُخْتَصَرًا،‏‏‏‏ قَالَ:‏‏‏‏ فَلْيُؤْذِنْهُ ثَلَاثًا،‏‏‏‏ فَإِنْ بَدَا لَهُ بَعْدُ،‏‏‏‏ فَلْيَقْتُلْهُ،‏‏‏‏ فَإِنَّهُ شَيْطَانٌ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Ibn 'Ajilan through a different chain of narrators briefly. This version has:",
+      "text": "He should give it a warning three times. If it appears to him after that, he should kill it, for it is a devil."
+    },
+    "ur": {
+      "narrator": "ہم سے مسدد نے بیان کیا، یحییٰ نے کہا,اس سند سے ابن عجلان سے یہی حدیث مختصراً مروی ہے، اس میں ہے کہ",
+      "text": "اسے ( سانپ کو ) تین بار آگاہ کر دو، ( اگر جن وغیرہ ہو تو چلے جاؤ ) پھر اس کے بعد اگر وہ تمہیں نظر آئے تو اسے مار ڈالو کیونکہ وہ شیطان ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

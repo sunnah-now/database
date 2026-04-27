@@ -1,0 +1,41 @@
+{
+  "id": 3072,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "The Book of Hajj"
+        },
+        "ar": {
+          "text": "كتاب مناسك الحج"
+        },
+        "ur": {
+          "text": "حج کے احکام و مناسک"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، ‏‏‏‏‏‏عَنْ أَبِي مُحَيَّاةَ، ‏‏‏‏‏‏عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، ‏‏‏‏‏‏عَنْ عَبْدِ الرَّحْمَنِ يَعْنِي ابْنَ يَزِيدَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قِيلَ لِعَبْدِ اللَّهِ بْنِ مَسْعُودٍ إِنَّ نَاسًا يَرْمُونَ الْجَمْرَةَ مِنْ فَوْقِ الْعَقَبَةِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَرَمَى عَبْدُ اللَّهِ مِنْ بَطْنِ الْوَادِي، ‏‏‏‏‏‏ثُمَّ قَالَ:‏‏‏‏ مِنْ هَا هُنَا وَالَّذِي لَا إِلَهَ غَيْرُهُ رَمَى الَّذِي أُنْزِلَتْ عَلَيْهِ سُورَةُ الْبَقَرَةِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Abdur-Rahman - meaning bin Yazid - said: It was said to Abdullah bin Masud that some people were stoning the Jamart from above al-Aqabah. He said: So Abdullah stoned it from the bottom of the valley, then he said: 'From here - by the One beside Whom there is no other God - did the one to whom surat Al-Baqarah was revealed, stone it."
+    },
+    "ur": {
+      "narrator": "عبدالرحمٰن بن یزید کہتے ہیں کہ عبداللہ بن مسعود رضی الله عنہ سے کہا گیا کہ",
+      "text": "کچھ لوگ جمرہ کو گھاٹی کے اوپر سے کنکریاں مارتے ہیں، تو عبداللہ بن مسعود نے وادی کے نیچے سے کنکریاں ماریں، پھر کہا: قسم ہے اس ذات کی جس کے سوا کوئی حقیقی معبود نہیں، اسی جگہ سے اس شخص نے کنکریاں ماریں جس پر سورۃ البقرہ نازل ہوئی ( یعنی محمد صلی اللہ علیہ وسلم نے ) ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

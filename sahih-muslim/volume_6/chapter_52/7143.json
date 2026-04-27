@@ -1,0 +1,41 @@
+{
+  "id": 7143,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 52,
+      "language": {
+        "en": {
+          "text": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
+        },
+        "ar": {
+          "text": "كتاب الْجَنَّةِ وَصِفَةِ نَعِيمِهَا وَأَهْلِهَا"
+        },
+        "ur": {
+          "text": "جنت اس کی نعمتیں اور اہل جنت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا الْمَخْزُومِيُّ حَدَّثَنَا وُهَيْبٌ عَنْ أَبِي حَازِمٍ بِالْإِسْنَادَيْنِ جَمِيعًا نَحْوَ حَدِيثِ يَعْقُوبَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Abu Hazim through another chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اور ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے المخزومی نے بیان کیا, وہیب نے ابو حازم سے گزشتہ دونوں سندوں کے ساتھ یعقوب کی حدیث کے مانند بیان کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

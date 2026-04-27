@@ -1,0 +1,41 @@
+{
+  "id": 651,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book of the Adhan (The Call to Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الأذان"
+        },
+        "ur": {
+          "text": "اذان کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا سُوَيْدٌ، ‏‏‏‏‏‏قال:‏‏‏‏ أَنْبَأَنَا عَبْدُ اللَّهِ، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏عَنْ مَنْصُورٍ، ‏‏‏‏‏‏عَنْ إِبْرَاهِيمَ، ‏‏‏‏‏‏عَنْ الْأَسْوَدِ، ‏‏‏‏‏‏قال:‏‏‏‏ كَانَ آخِرُ أَذَانِ بِلَالٍ:‏‏‏‏ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ، ‏‏‏‏‏‏لَا إِلَهَ إِلَّا اللَّهُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Al-Aswad said: The final words of the Adhan of Bilal were: 'Allahu Akbar, Allahu Akbar, Allahu Akbar; La ilaha illallah (Allah is the Greatest, Allah is the Greatest, there is none worthy of worship except Allah.)'"
+    },
+    "ur": {
+      "narrator": "اسود کہتے ہیں کہ",
+      "text": "بلال رضی اللہ عنہ کی اذان کے آخری کلمات یہ تھے «اللہ أكبر اللہ أكبر، لا إله إلا اللہ»۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

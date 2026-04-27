@@ -1,0 +1,41 @@
+{
+  "id": 64,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي حَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، قَالَ: حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا هَمَّامٌ، قَالَ: دَخَلَ أَبُو دَاوُدَ الْأَعْمَى عَلَى قَتَادَةَ، فَلَمَّا قَامَ، قَالُوا: إِنَّ هَذَا يَزْعُمُ أَنَّهُ لَقِيَ ثَمَانِيَةَ عَشَرَ بَدْرِيًّا، فَقَالَ قَتَادَةُ: «هَذَا كَانَ سَائِلًا قَبْلَ الْجَارِفِ، لَا يَعْرِضُ فِي شَيْءٍ مِنْ هَذَا، وَلَا يَتَكَلَّمُ فِيهِ، فَوَاللهِ مَا حَدَّثَنَا الْحَسَنُ عَنْ بَدْرِيٍّ مُشَافَهَةً، وَلَا حَدَّثَنَا سَعِيدُ بْنُ الْمُسَيِّبِ عَنْ بَدْرِيٍّ مُشَافَهَةً، إِلَّا عَنْ سَعْدِ بْنِ مَالِكٍ»"
+    },
+    "en": {
+      "narrator": "Hasan bin Alī al-Hulwānī narrated to me, he said Yazīd bin Hārūn narrated to us, Hammām informed us, he said ‘Abū Dāwud al-A’mā entered upon Qatādah and when he stood, they said:",
+      "text": "‘Indeed this one alleges he has met eighteen of the warriors of the battle of Badr’. Qatādah said: ‘This one was barely asking [about Ḥadīth] before the plague; he did not attend to anything from [seeking Ḥadīth] and he did not speak [to any scholars] regarding it. By Allah, al-Hasan did not narrate to us from a witness of the battle of Badr without an intermediary; and Sa’īd bin al-Musayyib رضی ‌اللہ ‌عنہ ‌did not narrate to us from a witness of the battle of Badr without an intermediary except from Sa’d bin Mālik ‌رضی ‌اللہ ‌عنہ'."
+    },
+    "ur": {
+      "narrator": "مجھ سے حسن بن علی الحلوانی نے بیان کیا،یزید بن ہارون نے کہا : ہمیں ہمام نے خبر دی کہ ابو داود اعمیٰ قتادہ کے ہاں آیا ، جب وہ کھڑا ہوا ( اور چلا گیا ) تو لوگوں نے کہا :",
+      "text": "اسے یہ زعم ہے کہ اس نے اٹھارہ بدری صحابہ سے ملاقات کی ۔ اس پر قتادہ کہنے لگے : ( طاعون کی ) وبائے عام سے پہلے یہ ایک منگتا تھا ، اس کا ( علم حدیث ) ایسی کسی چیز سے کوئی سروکار نہ تھا ، وہ اس بارے میں بات تک نہ کرتا تھا ۔ بخدا نہ حسن ( بصری ) نے ( کبھی ) کسی بدری سے بلاواسطہ حدیث ہمیں سنائی نہ سعید بن مسیب نے ایک سعد بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے سوا کسی اور بدری سے براہ راست سنی ہوئی کوئی حدیث سنائی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4062,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "The Book Of Musaqah"
+        },
+        "ar": {
+          "text": "كتاب الْمُسَاقَاةِ"
+        },
+        "ur": {
+          "text": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا عَنْ عَبْدِ الْوَهَّابِ الثَّقَفِيِّ، عَنْ أَيُّوبَ بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The above hadith is likewise narrated through another chain of transmission on the authority of Abi Qilabah."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے اسحاق بن ابراہیم اور ابن ابی عمر نے بیان کیا, عبدالوہاب ثقفی نے ایوب سے اسی سند کے ساتھ اسی کی طرح روایت بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

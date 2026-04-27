@@ -1,0 +1,41 @@
+{
+  "id": 1463,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 5,
+      "language": {
+        "en": {
+          "text": "The Book of Mosques and Places of Prayer"
+        },
+        "ar": {
+          "text": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة"
+        },
+        "ur": {
+          "text": "مسجدیں اور نماز کی جگہیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "دَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ سَيَّارِ بْنِ سَلَامَةَ، قَالَ: سَمِعْتُ أَبَا بَرْزَةَ، يَقُولُ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لَا يُبَالِي بَعْضَ تَأْخِيرِ صَلَاةِ الْعِشَاءِ إِلَى نِصْفِ اللَّيْلِ، وَكَانَ لَا يُحِبُّ النَّوْمَ قَبْلَهَا، وَلَا الْحَدِيثَ بَعْدَهَا» قَالَ شُعْبَةُ: ثُمَّ لَقِيتُهُ مَرَّةً أُخْرَى، فَقَالَ: «أَوْ ثُلُثِ اللَّيْلِ»."
+    },
+    "en": {
+      "narrator": "Sayyar bin Salama reported:",
+      "text": "I heard Abu Barza saying that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) did not mind some delay in the 'Isha' prayer even up to midnight and he did not like sleeping before (observing it) and talking after it. Shu'ba said: I again met him (Sayyar b. Salama) for the second time and he said: Even up to the third (part) of the night."
+    },
+    "ur": {
+      "narrator": "معاذ عنبری نے شعبہ سے حدیث بیان کی اور انھوں نے سیار بن سلامہ سے روایت کی کہ",
+      "text": "میں نے ابو برزہ کو کہتے ہوئے سنا ، رسول اللہ عشاء کی نماز میں کچھ ( یعنی ) آدھی رات تک تا خیر کی پروانہ کرتے تھے اور اس سے پہلے سونے اور اس کے بعد گفتگو کرنے کو پسند نہیں فرماتے تھے ۔ شعبہ نے کہا : پھر میں انھیں دوبارہ ملاتو انھوں نے کہا : یا تہائی رات تک ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

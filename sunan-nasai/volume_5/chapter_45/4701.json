@@ -1,0 +1,41 @@
+{
+  "id": 4701,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنِي عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي أَبُو إِسْحَاق، ‏‏‏‏‏‏عَنْ أَبِي عُبَيْدَةَ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ اشْتَرَكْتُ أَنَا وَعَمَّارٌ،‏‏‏‏ وَسَعْدٌ،‏‏‏‏ يَوْمَ بَدْرٍ، ‏‏‏‏‏‏فَجَاءَ سَعْدٌ بِأَسِيرَيْنِ،‏‏‏‏ وَلَمْ أَجِئْ أَنَا،‏‏‏‏ وَعَمَّارٌ بِشَيْءٍ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narratd that 'Abdullah said: Sa'd, 'Ammar and I entered into a partnership on the Day of Badr, (agreeing to share) whatever was allotted to us. 'Ammar and I did not get anything. But sa'd got two prisoners."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "عمار، سعد اور میں نے بدر کے دن حصہ داری کی، چنانچہ سعد دو قیدی لے کر آئے، ہم اور عمار کچھ بھی نہیں لائے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

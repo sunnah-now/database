@@ -1,0 +1,41 @@
+{
+  "id": 1335,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "The Book of Forgetfulness (In Prayer)"
+        },
+        "ar": {
+          "text": "كتاب السهو"
+        },
+        "ur": {
+          "text": "نماز میں سہو کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي يَعْلَى بْنُ عَطَاءٍ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ يَزِيدَ بْنِ الْأَسْوَدِ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏أَنَّهُ:‏‏‏‏ صَلَّى مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ الصُّبْحِ فَلَمَّا صَلَّى انْحَرَفَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Jabir bin Yazid bin Al-Aswad, from his father that: He prayed subh with the Messenger of Allah (ﷺ), and when he finished praying he turned away (from the Qiblah and toward the people.)"
+    },
+    "ur": {
+      "narrator": "یزید بن اسود رضی اللہ عنہ روایت کرتے ہیں کہ",
+      "text": "انہوں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نماز فجر پڑھی، جب نماز پڑھ چکے تو آپ نے اپنا رخ پلٹ کر مقتدیوں کی طرف کر لیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

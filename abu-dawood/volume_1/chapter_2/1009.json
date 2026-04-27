@@ -1,0 +1,41 @@
+{
+  "id": 1009,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ أَيُّوبَ، ‏‏‏‏‏‏عَنْ مُحَمَّدٍ بِإِسْنَادِهِ، ‏‏‏‏‏‏وَحَدِيثُ حَمَّادٍ أَتَمُّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏لَمْ يَقُلْ:‏‏‏‏ بِنَا، ‏‏‏‏‏‏وَلَمْ يَقُلْ:‏‏‏‏ فَأَوْمَئُوا، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَقَالَ النَّاسُ:‏‏‏‏ نَعَمْ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ ثُمَّ رَفَعَ وَلَمْ يَقُلْ:‏‏‏‏ وَكَبَّرَ، ‏‏‏‏‏‏ثُمَّ كَبَّرَ وَسَجَدَ مِثْلَ سُجُودِهِ أَوْ أَطْوَلَ، ‏‏‏‏‏‏ثُمَّ رَفَعَ وَتَمَّ حَدِيثُهُ ، ‏‏‏‏‏‏لَمْ يَذْكُرْ مَا بَعْدَهُ، ‏‏‏‏‏‏وَلَمْ يَذْكُرْ فَأَوْمَئُوا إِلَّا حَمَّادُ بْنُ زَيْدٍ. قَالَ أَبُو دَاوُد:‏‏‏‏ وَكُلُّ مَنْ رَوَى هَذَا الْحَدِيثَ لَمْ يَقُلْ:‏‏‏‏ فَكَبَّرَ وَلَا ذَكَرَ رَجَعَ."
+    },
+    "en": {
+      "narrator": "This tradition has been narrated through a different chain of transmitters; but the version of Hammad is more perfect. This version goes:",
+      "text": "Then the Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم prayed; it does not have the words, “led us (in prayer), ” nor the words “they made a sign”. Thereupon the people said: Yes. He then raised his head. The version does not mention the words “he uttered the takbir. He then uttered the takbir and made the prostration as usual or prolonged it. He then raised his head”. The narrator then prostration as usual or prolonged it. He then raised his head”. The narrator then finished the tradition and did not mention the words that follow it. He did not mention the words “they made a sign”, but Hammad bin Zaid mentioned them in his version. Abu dawud said: Anyone who narrated this tradition did not mention the words “ then he uttered the takbir”, nor the words “he returned”"
+    },
+    "ur": {
+      "narrator": "ہم سے عبداللہ بن مسلمہ نے مالک کی سند سے، ایوب کی سند سے،اس طریق سے بھی محمد بن سیرین سے اسی سند سے یہی حدیث مروی ہے,اور حماد کی روایت زیادہ کامل ہے",
+      "text": "مالک نے «صلى رسول الله صلی اللہ علیہ وسلم» کہا ہے «صلى بنا رسول الله صلی اللہ علیہ وسلم» نہیں کہا ہے اور نہ ہی انہوں نے «فأومئوا» کہا ہے ( جیسا کہ حماد نے کہا ہے بلکہ اس کی جگہ ) انہوں نے «فقال الناس نعم» کہا ہے، اور مالک نے «ثم رفع» کہا ہے، «وكبر» نہیں کہا ہے جیسا کہ حماد نے کہا ہے، یعنی مالک نے «رفع وكبر» کہنے کے بجائے صرف «رفع» پر اکتفا کیا ہے اور مالک نے «ثم كبر وسجد مثل سجوده أو أطول ثم رفع» کہا ہے جیسا کہ حماد نے کہا ہے اور مالک کی حدیث یہاں پوری ہو گئی ہے اس کے بعد جو کچھ ہے مالک نے اس کا ذکر نہیں کیا ہے اور نہ ہی لوگوں کے اشارے کا انہوں نے ذکر کیا ہے صرف حماد بن زید نے اس کا ذکر کیا ہے۔ ابوداؤد کہتے ہیں: یہ حدیث جتنے لوگوں نے بھی روایت کی ہے کسی نے بھی لفظ «فكبر‏.‏» نہیں کہا ہے اور نہ ہی «رجع.‏» کا ذکر کیا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

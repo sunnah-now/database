@@ -1,0 +1,41 @@
+{
+  "id": 628,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book of the Adhan (The Call to Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الأذان"
+        },
+        "ur": {
+          "text": "اذان کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا عَبْدُ الْوَهَّابِ، ‏‏‏‏‏‏عَنْ أَيُّوبَ، ‏‏‏‏‏‏عَنْ أَبِي قِلَابَةَ، ‏‏‏‏‏‏عَنْ أَنَسٍ، ‏‏‏‏‏‏قال:‏‏‏‏ إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ بِلَالًا أَنْ يَشْفَعَ الْأَذَانَ وَأَنْ يُوتِرَ الْإِقَامَةَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Anas said: The Messenger of Allah (ﷺ) commanded Bilal to say the phrases of the Adhan twice and the phrasses of the Iqamah once."
+    },
+    "ur": {
+      "narrator": "انس رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے بلال رضی اللہ عنہ کو اذان دہری اور اقامت اکہری کہنے کا حکم دیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

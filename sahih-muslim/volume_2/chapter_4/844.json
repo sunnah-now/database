@@ -1,0 +1,41 @@
+{
+  "id": 844,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ، حَدَّثَنَا الْقَاسِمُ، عَنْ عَائِشَةَ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of 'A'isha by another chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے ابن نمیر نے بیان کیا، ہم سے ابی نے بیان کیا، ہم سے عبید اللہ نے بیان کیا، ہم سے القاسم نے بیان کیا، عائشہ رضی اللہ عنہا سے اسی طرح۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

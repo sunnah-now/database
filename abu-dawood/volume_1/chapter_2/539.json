@@ -1,0 +1,41 @@
+{
+  "id": 539,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، ‏‏‏‏‏‏حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو يَحْيَى الْقَتَّاتُ، ‏‏‏‏‏‏عَنْ مُجَاهِدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كُنْتُ مَعَ ابْنِ عُمَرَ، ‏‏‏‏‏‏فَثَوَّبَ رَجُلٌ فِي الظُّهْرِ أَوِ الْعَصْرِ،‏‏‏‏قَالَ:‏‏‏‏ اخْرُجْ بِنَا فَإِنَّ هَذِهِ بِدْعَةٌ ."
+    },
+    "en": {
+      "narrator": "Narrated Mujahid reported: :",
+      "text": "I was in the company of Ibn Umar رضی اللہ عنہما . A person invited the people for the noon or afternoon prayer (after the adhan had been called). He said: Go out with us (from this mosque) because this is an innovation (in religion)."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن کثیر نے بیان کیا، ہم سے سفیان نے بیان کیا، ہم سے ابو یحییٰ قتات نے بیان کیا، مجاہد کہتے ہیں کہ",
+      "text": "میں ابن عمر رضی اللہ عنہما کے ساتھ تھا کہ ایک شخص نے ظہر یا عصر میں تثویب ۱؎ کی، تو ابن عمر رضی اللہ عنہما نے کہا: ہمیں یہاں سے لے چلو، اس لیے کہ یہ بدعت ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

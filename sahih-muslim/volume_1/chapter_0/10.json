@@ -1,0 +1,41 @@
+{
+  "id": 10,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي أَبُو الطَّاهِرِ أَحْمَدُ بْنُ عَمْرِو بْنِ سَرْحٍ، قَالَ: أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ: قَالَ لِي مَالِكٌ: «اعْلَمْ أَنَّهُ لَيْسَ يَسْلَمُ رَجُلٌ حَدَّثَ بِكُلِّ مَا سَمِعَ، وَلَا يَكُونُ إِمَامًا أَبَدًا وَهُوَ يُحَدِّثُ بِكُلِّ مَا سَمِعَ»"
+    },
+    "en": {
+      "narrator": "Abūt-Tāhir Ahmad bin Amr bin Sarh narrated to me, he said, Ibn Wahb narrated to us:",
+      "text": "He said, Mālik said to me: \"Know that a man who relates everything he hears is not safe, and he can never be an Imām, as long as he narrates everything he hears\"."
+    },
+    "ur": {
+      "narrator": "مجھ سے ابو الطاہر احمد بن عمرو بن سرح نے بیان کیا، انہوں نے کہاابن وہب نے خبر دی",
+      "text": "اس نےکہا : مالک ( بن انس ) نے مجھ سے کہا : مجھے معلوم ہے کہ ایسا آدمی ( صحیح ) سالم نہیں ہوتا جو ہر سنی ہوئی بات ( آگے ) بیان کر دے ، وہ کبھی امام نہیں بن سکتا ( جبکہ ) وہ ہر سنی ہوئی بات ( آگے ) بیان کر دیتا ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

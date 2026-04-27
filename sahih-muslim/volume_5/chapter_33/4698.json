@@ -1,0 +1,41 @@
+{
+  "id": 4698,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 33,
+      "language": {
+        "en": {
+          "text": "The Book Of Jihad And Expeditions"
+        },
+        "ar": {
+          "text": "كتاب الْجِهَادِ وَالسِّيَرِ"
+        },
+        "ur": {
+          "text": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حَاتِمٌ، بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّهُ قَالَ فِي كِلْتَيْهِمَا: سَبْعَ غَزَوَاتٍ."
+    },
+    "en": {
+      "narrator": "Hatim narrated it with this chain a narration  (a Hadith similar to no. 4697), except that he said:",
+      "text": "According to this version both these types of expeditions were seven in number."
+    },
+    "ur": {
+      "narrator": "قتیبہ بن سعید نے حاتم سے اسی سند کے ساتھ حدیث بیان کی",
+      "text": "مگر انہوں نے دونوں جگہ سات غزوات کہے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

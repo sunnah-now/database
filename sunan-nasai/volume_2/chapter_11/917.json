@@ -1,0 +1,41 @@
+{
+  "id": 917,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Book of the Commencement of the Prayer"
+        },
+        "ar": {
+          "text": "كتاب الافتتاح"
+        },
+        "ur": {
+          "text": "نماز شروع کرنے کے مسائل و احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ قال:‏‏‏‏ حَدَّثَنَا شَرِيكٌ، ‏‏‏‏‏‏عَنْ أَبِي إِسْحَاقَ، ‏‏‏‏‏‏عَنْ سَعِيدِ بْنِ جُبَيْرٍ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ فِي قَوْلِهِ عَزَّ وَجَلّ سَبْعًا مِنَ الْمَثَانِي سورة الحجر آية 87 قَالَ:‏‏‏‏ السَّبْعُ الطُّوَلُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibn Abbas said: Concerning the words of Allah, the Mighty and Sublime: Seven of Al-Mathani (seven repeatedly-recited): The seven long ones."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عباس رضی اللہ عنہم سے",
+      "text": "اللہ عزوجل کے قول: «سبعا من المثاني» کی تفسیر میں مروی ہے کہ اس سے مراد سات لمبی سورتیں ہیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

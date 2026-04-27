@@ -1,0 +1,41 @@
+{
+  "id": 7369,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 53,
+      "language": {
+        "en": {
+          "text": "The Book of Tribulations and Portents of the Last Hour"
+        },
+        "ar": {
+          "text": "كتاب الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ"
+        },
+        "ur": {
+          "text": "فتنے اور علامات قیامت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "قَالَ أَبُو مَسْعُودٍ وَأَنَا سَمِعْتُهُ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Abu Ma'sud رضی اللہ عنہ said: \"I heard the Messenger of Allah ﷺ."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "حضرت ابو مسعود رضی اللہ عنہ نے کہا : میں نے بھی یہ حدیث رسول اللہ صلی اللہ علیہ وسلم سے سنی تھی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

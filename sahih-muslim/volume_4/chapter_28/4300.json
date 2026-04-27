@@ -1,0 +1,41 @@
+{
+  "id": 4300,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "The Book Of Oaths"
+        },
+        "ar": {
+          "text": "كتاب الْأَيْمَانِ"
+        },
+        "ur": {
+          "text": "قسموں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، ح وحَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، كِلَاهُمَا عَنْ سُفْيَانَ، عَنْ فِرَاسٍ، بِإِسْنَادِ شُعْبَةَ، وَأَبِي عَوَانَةَ، أَمَّا حَدِيثُ ابْنِ مَهْدِيٍّ، فَذَكَرَ فِيهِ «حَدًّا لَمْ يَأْتِهِ»، وَفِي حَدِيثِ وَكِيعٍ: «مَنْ لَطَمَ عَبْدَهُ»، وَلَمْ يَذْكُرِ الْحَدَّ."
+    },
+    "en": {
+      "narrator": "It was narrated from Firas with the chain of Shubah and Abu Awanah (a Hadith similar to no. 4299). As for the Hadith of Ibn Mahdi, it says: \"Without him having done anything to deserve it\". In the Hadith of Waki it says:",
+      "text": "\"Whosever slaps his slave\" and does not mention \"Without him having done anything to deserve it.\""
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, وکیع اور عبدالرحمن ( بن مہدی ) دونوں نے سفیان سے حدیث بیان کی ، انہوں نے فراس سے شعبہ اور ابو عوانہ کی سند کے ساتھ روایت کی ، ابن مہدی نے اپنی حدیث میں حد کا ذکر کیا ہے اور وکیع کی حدیث میں ہے",
+      "text": "\" جس نے اپنے غلام کو طمانچہ مارا ۔ \" انہوں نے حد کا ذکر نہیں کیا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

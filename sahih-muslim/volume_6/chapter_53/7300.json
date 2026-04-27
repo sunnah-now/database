@@ -1,0 +1,41 @@
+{
+  "id": 7300,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 53,
+      "language": {
+        "en": {
+          "text": "The Book of Tribulations and Portents of the Last Hour"
+        },
+        "ar": {
+          "text": "كتاب الْفِتَنِ وَأَشْرَاطِ السَّاعَةِ"
+        },
+        "ur": {
+          "text": "فتنے اور علامات قیامت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا أَبُو بَكْرٍ وَهُوَ الْحَنَفِيُّ حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Ibn Ja'far with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اور ہم سے محمد بن مثنیٰ نے بیان کیا, ابو بکر حنفی نے کہا , ہمیں عبدالحمید بن جعفر نے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

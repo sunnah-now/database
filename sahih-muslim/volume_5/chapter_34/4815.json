@@ -1,0 +1,41 @@
+{
+  "id": 4815,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Government"
+        },
+        "ar": {
+          "text": "كتاب الْإِمَارَةِ"
+        },
+        "ur": {
+          "text": "امور حکومت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرٍو يَعْنِي ابْنَ مُرَّةَ، حَدَّثَنِي عَبْدُ اللهِ بْنُ أَبِي أَوْفَى، قَالَ: «كَانَ أَصْحَابُ الشَّجَرَةِ أَلْفًا وَثَلَاثَ مِائَةٍ، وَكَانَتْ أَسْلَمُ ثُمْنَ الْمُهَاجِرِينَ."
+    },
+    "en": {
+      "narrator": "It has been narrated on the authority of 'Abdullah bin Abu Aufa رضی اللہ عنہ who said:",
+      "text": "The Companions of the Tree (i.e. those who swore fealty under the tree) were one thousand and three hundred, and the people of Aslam tribe were one-eighth of the Muhajirs."
+    },
+    "ur": {
+      "narrator": "عبیداللہ کے والد معاذ نے ہمیں حدیث بیان کی ، کہا : ہمیں شعبہ نے عمرہ بن مرہ سے حدیث سنائی ، کہا : مجھے حضرت عبداللہ بن ابی اوفیٰ رضی اللہ عنہ نے حدیث بیان کی کہ",
+      "text": "اصحاب شجرہ تیرہ سو تھے اور قبیلہ اسلم کے لوگ مہاجرین کا آٹھواں حصہ تھے ۔ ( انہوں نے یہ تعداد اندازے سے بتائی.)"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

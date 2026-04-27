@@ -1,0 +1,41 @@
+{
+  "id": 299,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "The Book of Purification and its Sunnah"
+        },
+        "ar": {
+          "text": "كتاب الطهارة وسننها"
+        },
+        "ur": {
+          "text": "طہارت اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، ‏‏‏‏‏‏حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، ‏‏‏‏‏‏عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ، ‏‏‏‏‏‏عَنْ عَلِيِّ بْنِ يَزِيدَ، ‏‏‏‏‏‏عَنْ الْقَاسِمِ، ‏‏‏‏‏‏عَنْ أَبِي أُمَامَةَ، ‏‏‏‏‏‏أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ لَا يَعْجِزْ أَحَدُكُمْ إِذَا دَخَلَ مِرْفَقَهُ أَنْ يَقُولَ:‏‏‏‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الرِّجْسِ النَّجِسِ، ‏‏‏‏‏‏الْخَبِيثِ الْمُخْبِثِ، ‏‏‏‏‏‏الشَّيْطَانِ الرَّجِيمِ .\r\nقَالَ أَبُو الْحَسَنِ وَحَدَّثَنَا أَبُو حَاتِمٍ، حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، فَذَكَرَ نَحْوَهُ وَلَمْ يَقُلْ فِي حَدِيثِهِ مِنَ الرِّجْسِ النَّجَسِ إِنَّمَا قَالَ مِنَ الْخَبِيثِ الْمُخْبِثِ الشَّيْطَانِ الرَّجِيمِ ‏.‏"
+    },
+    "en": {
+      "narrator": "It was narrated from Abu Umamah رضی اللہ عنہ that:",
+      "text": "The Messenger of Allah said: None of you should fail to say, when he enters his toilet: 'Allahumma inni a`udhu bika minar-rijsin-najis, al-khabithil-mukhbith, ash-Shaitanir-rajim (O Allah, I seek refuge with You from the filthy and impure, the evil one with evil companions, the accursed Shaitan).' (Da'if) \r\nAnother chain with a slightly different wording from Ibn Abi Maryam who mentioned similar, but he did not say in his narration: Minar-rijsin-najis (From the filthy and the impure) he only said: Minal-khabithil-mukhbith, ash-Shaitanir-rajim (From the evil one with evil companions, the accursed Shaitan)."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن یحییٰ نے بیان کیا، کہا ہم سے ابن ابی مریم نے بیان کیا، کہا ہم سے یحییٰ بن ایوب نے بیان کیا، وہ عبید اللہ بن زحر کی سند سے، علی بن یزید سے، وہ القاسم کی سند سے, ابوامامہ رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب کوئی شخص پاخانہ میں داخل ہو تو اس دعا کے پڑھنے میں کوتاہی نہ کرے: «اللهم إني أعوذ بك من الرجس النجس الخبيث المخبث الشيطان الرجيم» یعنی: اے اللہ! میں تیری پناہ مانگتا ہوں ناپاک، گندے، برے بدکار راندے ہوئے شیطان کے شر سے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

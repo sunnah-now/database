@@ -1,0 +1,41 @@
+{
+  "id": 3280,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
+        },
+        "ar": {
+          "text": "كتاب الأيمان والنذور"
+        },
+        "ur": {
+          "text": "قسم کھانے اور نذر کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ مُحَمَّدِ بْنِ خَلَّادٍ أَبُو عُمَرَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ عِنْدَنَا مَكُّوكٌ، ‏‏‏‏‏‏يُقَالُ لَهُ:‏‏‏‏ مَكُّوكُ خَالِدٍ، ‏‏‏‏‏‏وَكَانَ كَيْلَجَتَيْنِ بِكَيْلَجَةِ هَارُونَ، ‏‏‏‏‏‏قَالَ مُحَمَّدٌ:‏‏‏‏ صَاعُ خَالِدٍ صَاعُ هِشَامٍ يَعْنِي ابْنَ عَبْدِ الْمَلِكِ."
+    },
+    "en": {
+      "narrator": "Narrated Muhammad bin Muhmmad bin Khallad Abu Umar:",
+      "text": "We had a makkuk which was called Makkuk Khalid. Its capacity was two measurements according to the measurements of Harun. The narrator said: The sa' of Khalid was the sa' of Hisham bin Abdul-Malik."
+    },
+    "ur": {
+      "narrator": "محمد بن محمد بن خلاد ابوعمر کا بیان ہے کہ",
+      "text": "میرے پاس ایک مکوک تھا اسے مکوک خالد کہا جاتا تھا، وہ ہارون کے کیلجہ ( ایک پیمانہ ہے ) سے دو کیلجہ کے برابر تھا۔ محمد کہتے ہیں: خالد کا صاع ہشام یعنی ابن عبدالملک کا صاع ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

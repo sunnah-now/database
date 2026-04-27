@@ -1,0 +1,41 @@
+{
+  "id": 2230,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 13,
+      "language": {
+        "en": {
+          "text": "Divorce (Kitab Al-Talaq)"
+        },
+        "ar": {
+          "text": "كتاب الطلاق"
+        },
+        "ur": {
+          "text": "طلاق کے فروعی احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْقَعْنَبِيُّ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ عِدَّةُ الْمُخْتَلِعَةِ حَيْضَةٌ ."
+    },
+    "en": {
+      "narrator": "Ibn Umar رضی اللہ عنہما said:",
+      "text": "“The waiting period of a woman who ask for a khula is a menstrual period. ”\r\nseparates herself from her husband for compensation"
+    },
+    "ur": {
+      "narrator": "ہم سے قعنبی نے مالک کی سند سے اور نافع کی سند سے بیان کیا, عبداللہ بن عمر رضی اللہ عنہما سے مروی ہے کہ",
+      "text": "جس عورت کو خلع نے طلاق دی ہو اس کی عدت ایک حیض ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

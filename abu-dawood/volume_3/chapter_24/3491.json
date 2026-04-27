@@ -1,0 +1,41 @@
+{
+  "id": 3491,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 24,
+      "language": {
+        "en": {
+          "text": "Wages (Kitab Al-Ijarah)"
+        },
+        "ar": {
+          "text": "كتاب الإجارة"
+        },
+        "ur": {
+          "text": "اجارے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو مُعَاوِيَةَ، ‏‏‏‏‏‏عَنِ الْأَعْمَشِ بِإِسْنَادِه وَمَعْنَاهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ الْآيَاتُ الْأَوَاخِرُ فِي الرِّبَا."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by al-Amash to the same effect through a different chain of narrators. This version adds:",
+      "text": "The last verses about usury."
+    },
+    "ur": {
+      "narrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا، ہم سے ابو معاویہ نے بیان کیا، اعمش سے بھی اسی سند سے اسی مفہوم کی حدیث مروی ہے",
+      "text": "اس میں «الآيات الأواخر من سورة البقرہ» ‏‏‏‏ کے بجائے «الآيات الأواخر في الربا» ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2116,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصيام"
+        },
+        "ur": {
+          "text": "روزوں کے احکام و مسائل و فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، ‏‏‏‏‏‏عَنْ أَبِي دَاوُدَ، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏عَنْ سِمَاكٍ، ‏‏‏‏‏‏عَنْ عِكْرِمَةَ مُرْسَلٌ،‏‏‏‏"
+    },
+    "en": {
+      "narrator": "",
+      "text": "Narrated 'Ikramah: A similar, Mursal, report was narrated from 'Ikramah."
+    },
+    "ur": {
+      "narrator": "اس سند سے",
+      "text": "عکرمہ سے یہ حدیث مرسلاً مروی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

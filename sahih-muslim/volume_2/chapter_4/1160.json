@@ -1,0 +1,41 @@
+{
+  "id": 1160,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا أَبُو مُعَاوِيَةَ، ح قَالَ: وَحَدَّثَنِيهِ سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا عليُّ بْنُ مُسْهِرٍ، كِلَاهُمَا عَنِ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ وَفِي رِوَايَةِ أَبِي كُرَيْبٍ، وَاضِعًا طَرَفَيْهِ عَلَى عَاتِقَيْهِ، وَرِوَايَةُ أَبِي بَكْرٍ، وَسُوَيْدٍ مُتَوَشِّحًا بِهِ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated by A'mash with the came chain of transmitters, and in the narration of Abu Karaib the words are:",
+      "text": "Placing its (mantle's) ends on his shoulders ; and the narration transmitted by Abu Bakr and Suwaid (the words are): the ends crossing with each other ."
+    },
+    "ur": {
+      "narrator": "ابو بکر بن ابی شیبہ اور ابو کریب نے کہا : ہم سے ابو معاویہ نے بیان کیا ، نیز سوید بن سعید نے کہا : ہم سے علی بن مسہر نے روایت کی ، دونوں نے اعمش سے اسی طرح روایت کی ۔ ابو کریب کی روایت میں ہے",
+      "text": "آپ نے اس کے دونوں کنارے اپنے کندھوں پر ڈالے ہوئے تھے ۔ اور ابو بکر اور سوید کی روایت میں ہے : آپ اس کو پٹکے کی طرح لپیٹے ہوئے تھے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

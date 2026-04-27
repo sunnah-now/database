@@ -1,0 +1,41 @@
+{
+  "id": 4103,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Fighting [The Prohibition of Bloodshed]"
+        },
+        "ar": {
+          "text": "كتاب تحريم الدم"
+        },
+        "ur": {
+          "text": "قتل و خون ریزی کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا إِسْحَاق بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ بِهَذَا الْإِسْنَادِ مِثْلَهُ،‏‏‏‏ وَلَمْ يَرْفَعْهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Abdur-Razzaq narrated: 'Abdur-Razzaq narrated a similar report with the same chain, but he did not attribute it to the Prophet [SAW]"
+    },
+    "ur": {
+      "narrator": "عبدالرزاق بھی اس سند سے",
+      "text": "اسی جیسی روایت کرتے ہیں، لیکن وہ اسے مرفوع نہیں کرتے ( یعنی ابن زبیر کا قول بیان کرتے ہیں ) ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

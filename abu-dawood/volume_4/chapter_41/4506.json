@@ -1,0 +1,41 @@
+{
+  "id": 4506,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 41,
+      "language": {
+        "en": {
+          "text": "Types of Blood-Wit (Kitab Al-Diyat)"
+        },
+        "ar": {
+          "text": "كتاب الديات"
+        },
+        "ur": {
+          "text": "دیتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسْلِمٌ، ‏‏‏‏‏‏حَدَّثَنَا مُحَمَّدُ بْنُ رَاشِدٍ، ‏‏‏‏‏‏حَدَّثَنَا سُلَيْمَانُ بْنُ مُوسَى، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا يُقْتَلُ مُؤْمِنٌ بِكَافِرٍ، ‏‏‏‏‏‏وَمَنْ قَتَلَ مُؤْمِنًا مُتَعَمِّدًا دُفِعَ إِلَى أَوْلِيَاءِ الْمَقْتُولِ، ‏‏‏‏‏‏فَإِنْ شَاءُوا قَتَلُوهُ وَإِنْ شَاءُوا أَخَذُوا الدِّيَةَ ."
+    },
+    "en": {
+      "narrator": "Narrated Amr bin Shuaib: On his father's authority said that his grandfather reported:",
+      "text": "The Prophet صلی ‌اللہ ‌علیہ ‌وسلم said: A believer will not be killed for an infidel. If anyone kills a man deliberately, he is to be handed over to the relatives of the one who has been killed. If they wish, they may kill, but if they wish, they may accept blood-wit"
+    },
+    "ur": {
+      "narrator": "ہم سے مسلم نے بیان کیا، ہم سے محمد بن راشد نے بیان کیا، ہم سے سلیمان بن موسیٰ نے بیان کیا، وہ عمرو بن شعیب سے، اپنے والد سے، اپنے دادا سے",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: کسی کافر کے بدلے مومن کو قتل نہیں کیا جائے گا، اور جو کسی مومن کو دانستہ طور پر قتل کرے گا، وہ مقتول کے وارثین کے حوالے کر دیا جائے گا، وہ چاہیں تو اسے قتل کریں اور چاہیں تو دیت لے لیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

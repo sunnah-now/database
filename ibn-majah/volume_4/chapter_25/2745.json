@@ -1,0 +1,41 @@
+{
+  "id": 2745,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 25,
+      "language": {
+        "en": {
+          "text": "The Chapter on Shares of Inheritance"
+        },
+        "ar": {
+          "text": "كتاب الفرائض"
+        },
+        "ur": {
+          "text": "وراثت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو كُرَيْبٍ، ‏‏‏‏‏‏حَدَّثَنَا يَحْيَى بْنُ الْيَمَانِ، ‏‏‏‏‏‏عَنِ الْمُثَنَّى بْنِ الصَّبَّاحِ، ‏‏‏‏‏‏عَنِ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ مَنْ عَاهَرَ أَمَةً أَوْ حُرَّةً فَوَلَدُهُ وَلَدُ زِنًا، ‏‏‏‏‏‏لَا يَرِثُ وَلَا يُورَثُ ."
+    },
+    "en": {
+      "narrator": "It was narrated from ‘Amr bin Shu’aib, from his father, from his grandfather that:",
+      "text": "The Messenger of Allah (ﷺ) said: “Whoever commits adultery with a slave woman or a free woman, his child is illegitimate, and he cannot inherit from him or be inherited from (i.e., this child cannot inherit from him).”"
+    },
+    "ur": {
+      "narrator": "ہم سے ابو کریب نے بیان کیا، ہم سے یحییٰ بن الیمان نے بیان کیا، ان سے مثنیٰ بن الصباح نے، وہ عمرو بن شعیب سے، وہ اپنے والد سے، وہ اپنے دادا سے، انہوں نے کہا",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس شخص نے کسی لونڈی یا آزاد عورت سے زنا کیا، پھر اس سے بچہ پیدا ہوا تو وہ ولدالزنا ہے، نہ وہ مرد اس بچے کا وارث ہو گا، نہ وہ بچہ اس مرد کا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

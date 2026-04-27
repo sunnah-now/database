@@ -1,0 +1,41 @@
+{
+  "id": 4598,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا إِسْحَاق بْنُ إِبْرَاهِيمَ،‏‏‏‏ عَنْ الْمُلَائِيِّ،‏‏‏‏ عَنْ سُفْيَانَ. ح وَأَنْبَأَنَا مُحَمَّدُ بْنُ إِبْرَاهِيمَ،‏‏‏‏ قَالَ:‏‏‏‏ أَنْبَأَنَا أَبُو نُعَيْمٍ،‏‏‏‏ عَنْ سُفْيَانَ،‏‏‏‏ عَنْ حَنْظَلَةَ،‏‏‏‏ عَنْ طَاوُسٍ،‏‏‏‏ عَنْ ابْنِ عُمَرَ،‏‏‏‏ قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْمِكْيَالُ عَلَى مِكْيَالِ أَهْلِ الْمَدِينَةِ،‏‏‏‏ وَالْوَزْنُ عَلَى وَزْنِ أَهْلِ مَكَّةَ ،‏‏‏‏ وَاللَّفْظُ لِإِسْحَاقَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Ibn 'Umar said: The Messenger of Allah said: Volume is to be measured according to the system of the people of Al-Madinah, and weight is to be measured according to the system of the peole of Makkah. ' (Sahih) This is the wording of Ishaq (one of the narrators)."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ” «مکیال» ( ناپنے کا آلہ ) مدینے والوں کا معتبر ہے اور وزن اہل مکہ کا معتبر ہے“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

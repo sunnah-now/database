@@ -1,0 +1,41 @@
+{
+  "id": 16,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى بْنِ عَبْدِ اللهِ بْنِ حَرْمَلَةَ بْنِ عِمْرَانَ التُّجِيبِيُّ، قَالَ: حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ: حَدَّثَنِي أَبُو شُرَيْحٍ أَنَّهُ سَمِعَ شَرَاحِيلَ بْنَ يَزِيدَ، يَقُولُ: أَخْبَرَنِي مُسْلِمُ بْنُ يَسَارٍ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَكُونُ فِي آخِرِ الزَّمَانِ دَجَّالُونَ كَذَّابُونَ، يَأْتُونَكُمْ مِنَ الْأَحَادِيثِ بِمَا لَمْ تَسْمَعُوا أَنْتُمْ، وَلَا آبَاؤُكُمْ، فَإِيَّاكُمْ وَإِيَّاهُمْ، لَا يُضِلُّونَكُمْ، وَلَا يَفْتِنُونَكُمْ»"
+    },
+    "en": {
+      "narrator": "Harmalah bin Yahyā bin Abd Allah bin Harmalah bin Imrān at-Tujībī narrated to me, he said Ibn Wahb narrated to us, he said Abū Shurayh narrated to me that he heard Sharāhīl bin Yazīd saying ‘Muslim bin Yasār informed me that he heard Abā Hurayrah ‌رضی ‌اللہ ‌عنہ saying:",
+      "text": "The Messenger of Allah, peace and blessings of Allah upon him, said: ‘There will be in the end of time charlatan liars coming to you with narrations that you nor your fathers heard, so beware of them lest they misguide you and cause you tribulations’.’"
+    },
+    "ur": {
+      "narrator": "حرملہ بن یحییٰ ‘ عبد اللہ بن حرملہ بن عمران تجیبی ‘ ابن وہب ‘ شراحیل بن یزید کہتے ہیں : مجھے مسلم بن یسار نے بتایا کہ انہوں نے ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو یہ کہتے ہوئے سنا کہ",
+      "text": "رسول اللہﷺ نے فرمایا : ’’آخری زمانے میں ( ایسے ) دجال ( فریب کار ) کذاب ہوں گے جو تمہارے پاس ایسی احادیث لائیں گے جو تم نے سنی ہوں گی نہ تمہارے آباء نے ۔ تم ان سے دور رہنا ( کہیں ) وہ تمہیں گمراہ نہ کر دیں اور تمہیں فتنے میں نہ ڈال دیں ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

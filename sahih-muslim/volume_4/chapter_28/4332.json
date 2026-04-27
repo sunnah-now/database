@@ -1,0 +1,41 @@
+{
+  "id": 4332,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 28,
+      "language": {
+        "en": {
+          "text": "The Book Of Oaths"
+        },
+        "ar": {
+          "text": "كتاب الْأَيْمَانِ"
+        },
+        "ur": {
+          "text": "قسموں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَاهُ عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ، قَالَ: «مَنْ أَعْتَقَ شَقِيصًا مِنْ مَمْلُوكٍ، فَهُوَ حُرٌّ مِنْ مَالِهِ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters (and the words are):",
+      "text": "He who emancipates a portion in a slave, he should (secure full) freedom for him from his property."
+    },
+    "ur": {
+      "narrator": "عبیداللہ کے والد معاذ عنبری نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ حدیث بیان کی ، آپ نے فرمایا",
+      "text": "\" جس نے غلام ( کی ملکیت ) میں سے اپنا حصہ آزاد کیا تو وہ اسی کے مال سے ( پورا ) آزاد ہو جائے گا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

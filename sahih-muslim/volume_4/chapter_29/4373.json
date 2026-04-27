@@ -1,0 +1,41 @@
+{
+  "id": 4373,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 29,
+      "language": {
+        "en": {
+          "text": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
+        },
+        "ar": {
+          "text": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ"
+        },
+        "ur": {
+          "text": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ عَمْرُو بْنُ زُرَارَةَ، أَخْبَرَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، قَالَ: أَخْبَرَنَا ابْنُ جُرَيْجٍ، بِهَذَا الْإِسْنَادِ نَحْوَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Juraij with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عمرو بن زرارہ نے بیان کیا, اسماعیل بن ابراہیم نے ابن جریج سے اسی سند کے ساتھ اسی طرح حدیث بیان کی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

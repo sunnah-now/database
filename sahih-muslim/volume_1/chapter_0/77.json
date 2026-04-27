@@ -1,0 +1,41 @@
+{
+  "id": 77,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَسَنٌ الْحُلْوَانِيُّ، قَالَ: سَمِعْتُ شَبَابَةَ، قَالَ: كَانَ عَبْدُ الْقُدُّوسِ يُحَدِّثُنَا، فَيَقُولُ: سُوَيْدُ بْنُ عَقَلَةَ قَالَ شَبَابَةُ: وَسَمِعْتُ عَبْدَ الْقُدُّوسِ، يَقُولُ: نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ يُتَّخَذَ الرَّوْحُ عَرْضًا، قَالَ: فَقِيلَ لَهُ: أَيُّ شَيْءٍ هَذَا؟ قَالَ: يَعْنِي تُتَّخَذُ كُوَّةٌ فِي حَائِطٍ لِيَدْخُلَ عَلَيْهِ الرَّوْحُ قَالَ مُسْلِمٌ: وسَمِعْتُ عُبَيْدَ اللهِ بْنَ عُمَرَ الْقَوَارِيرِيَّ، يَقُولُ: سَمِعْتُ حَمَّادَ بْنَ زَيْدٍ، يَقُولُ لِرَجُلٍ بَعْدَ مَا جَلَسَ مَهْدِيُّ بْنُ هِلَالٍ بِأَيَّامٍ: «مَا هَذِهِ الْعَيْنُ الْمَالِحَةُ الَّتِي نَبَعَتْ قِبَلَكُمْ؟» قَالَ: نَعَمْ، يَا أَبَا إِسْمَاعِيلَ."
+    },
+    "en": {
+      "narrator": "Hasan al-Hulwānī narrated to us, he said, I heard Shabābah say:",
+      "text": "‘Abd ul-Quddūs was narrating to us saying,‘Suwayd bin Aqalah said…’ [when it should be ‘bin Ghafalah’] Shabābah said: ‘And I heard Abd ul-Quddūs saying, ‘The Messenger of Allah, peace and blessings of Allah upon him, prohibited taking a Rawḥ by accident’. [Shabābah] said: ‘So it was said to him, ‘What does this mean?’ [Abd ul-Quddūs] said: ‘It means to make an opening in a wall [thus letting] a breeze enter [by accident]’.’ [He changed the original Ḥadīth, switching ‘Rūḥ’ meaning ‘soul’ to ‘Rawḥ’ or ‘breeze’, and he switched ‘Gharaḍān’ meaning ‘as a target’ to ‘Arḍān’ or ‘accidentally’. All simply by changing a few letters in the words] Muslim said, I heard Ubayd Allah bin Umar al-Qawārīrī saying, I heard Hammād bin Zayd saying to a man after he sat with Mahdī bin Hilāl for days: ‘What is this salty well [i.e. useless or harmful] which has sprung up in your direction?’ He said: ‘Yes, oh Abā Ismā’īl [in agreement]’."
+    },
+    "ur": {
+      "narrator": "حسن حلوانی نے بیان کیا ، کہا  میں نے شبابہ سے سنا ( کہا : عبد القدوس ہمارے سامنے حدیث بیان کرتا تھا اور کہتا تھا : سوید بن عقلہ ) شبابہ نے کہا :",
+      "text": "میں نے بعد القدوس سے سنا ، کہتا تھا : رسول اللہﷺ نے ’’رَوح کو عَرض ‘ ‘ بنانے سے منع فرمایا ہے ( کہا ) اس سے کہا گیا : اس کا کیا مطلب ہے؟ تو اس نے کہا : مطلب یہ ہے کہ دیوار میں سوراخ رکھا جائے تاکہ اس میں ہوا داخل ہو ۔ ( امام ) مسلم نے کہا : میں نے عبید اللہ بن عمر قواریری سے سنا ، کہہ رہے تھے : میں نے حماد بن زید سے سنا ، وہ ( مہدی بن ہلال کے علمی مجلس منعقد کرنے سے چند دن بعد ) ایک آدمی سے کہہ رہے تھے : یہ نمکین چشمہ کیا ہے جو آپ کی طرف سے پھوٹا ہے؟ اس نے کہا : ہاں ، اے ابواسماعیل! ( آپ کی بات ٹھیک ہے)."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

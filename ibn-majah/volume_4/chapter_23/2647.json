@@ -1,0 +1,41 @@
+{
+  "id": 2647,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 23,
+      "language": {
+        "en": {
+          "text": "The Chapter on Blood Money"
+        },
+        "ar": {
+          "text": "كتاب الديات"
+        },
+        "ur": {
+          "text": "دیت (خون بہا) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا إِسْحَاق بْنُ مَنْصُورٍ، ‏‏‏‏‏‏أَنْبَأَنَا يَزِيدُ بْنُ هَارُونَ، ‏‏‏‏‏‏أَنْبَأَنَا مُحَمَّدُ بْنُ رَاشِدٍ، ‏‏‏‏‏‏عَنْ سُلَيْمَانَ بْنِ مُوسَى، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَضَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَعْقِلَ الْمَرْأَةَ عَصَبَتُهَا مَنْ كَانُوا وَلَا يَرِثُوا مِنْهَا شَيْئًا إِلَّا مَا فَضَلَ عَنْ وَرَثَتِهَا وَإِنْ قُتِلَتْ فَعَقْلُهَا بَيْنَ وَرَثَتِهَا فَهُمْ يَقْتُلُونَ قَاتِلَهَا ."
+    },
+    "en": {
+      "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, that his grandfather said:",
+      "text": "“The Messenger of Allah (ﷺ) ruled that a woman's blood money (if she kills someone) should be paid by her male relatives on her father's side, whoever they are, and they should not inherit anything from her, except what is left over after her heirs have been taken their shares. If she is killed than her blood money is to be shared among her heirs, since they are the ones who may kill the one who killed her.”"
+    },
+    "ur": {
+      "narrator": "ہم سے اسحاق بن منصور نے بیان کیا، کہا ہم کو یزید بن ہارون نے خبر دی، انہیں محمد بن راشد نے خبر دی، وہ سلیمان بن موسیٰ سے، وہ عمرو بن شعیب سے، وہ اپنے والد سے، وہ اپنے دادا سے، انہوں نے کہا",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: عورت پر واجب دیت کو اس کے عصبہ ( باپ کے رشتہ دار ) ادا کریں گے، لیکن اس عورت کی میراث سے انہیں وہی حصہ ملے گا جو ورثاء سے بچ جائے گا، اگر عورت قتل کر دی جائے، تو اس کی دیت اس کے ورثاء کے درمیان تقسیم ہو گی، اور وہی اس کے قاتل کو قتل کریں گے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

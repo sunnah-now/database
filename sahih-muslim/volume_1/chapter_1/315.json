@@ -1,0 +1,41 @@
+{
+  "id": 315,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا قَطَنُ بْنُ نُسَيْرٍ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ: كَانَ ثَابِتُ بْنُ قَيْسِ بْنِ شَمَّاسٍ خَطِيبَ الْأَنْصَارِ، فَلَمَّا نَزَلَتْ هَذِهِ الْآيَةُ بِنَحْوِ حَدِيثِ حَمَّادٍ، وَلَيْسَ فِي حَدِيثِهِ ذِكْرُ سَعْدِ بْنِ مُعَاذٍ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Anas bin Malik ‌رضی ‌اللہ ‌عنہ ‌by another chain of transmitters in which these words are found:",
+      "text": "Thabit bin Qais ‌رضی ‌اللہ ‌عنہ was the orator of the Ansar, when this verse was revealed: the rest of the hadith is the same with the exception that there is no mention of Sa'd bin Mu'adh ‌رضی ‌اللہ ‌عنہ in it."
+    },
+    "ur": {
+      "narrator": "ہم سے قطان بن نسیر نے بیان کیا,جعفر بن سلیمان نے کہا , ہمیں ثابت ( بنانی ) نے حضرت انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث سنائی کہ",
+      "text": "ثابت بن قیس بن شماس ‌رضی ‌اللہ ‌عنہ ‌ ‌ انصار کے خطیب تھے ۔ جب یہ آیت اتری ..... آگے حماد کی ( سابقہ ) حدیث کی طرح ہے لیکن اس میں سعد بن معاذ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کاذکر نہیں ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

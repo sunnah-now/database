@@ -1,0 +1,41 @@
+{
+  "id": 130,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، وَابْنُ أَبِي عُمَرَ، قَالَا: حَدَّثَنَا مَرْوَانُ يَعْنِيَانِ الْفَزَارِيَّ، عَنْ أَبِي مَالِكٍ، عَنْ أَبِيهِ، قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ مَنْ قَالَ: لَا إِلَهَ إِلَّا اللهُ، وَكَفَرَ بِمَا يُعْبَدُ مَنْ دُونِ اللهِ، حَرُمَ مَالُهُ، وَدَمُهُ، وَحِسَابُهُ عَلَى اللهِ"
+    },
+    "en": {
+      "narrator": "",
+      "text": "It Is narrated on the authority of Abu Malik: I heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) say: He who professed that there is no god but Allah and made a denial of everything which the people worship beside Allah, his property and blood became inviolable, an their affairs rest with Allah."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مروان فزاری نے ابو مالک ( سعد بن طارق اشجعی ) سے حدیث سنائی ، انہوں نے اپنے والد ( طارق بن اشیم ) سے روایت کی ، انہوں نے کہا کہ میں نے رسول اللہ ﷺ کو یہ فرماتے ہوئے سنا : ’’ جس نے لا اله الا الله کہا اور اللہ کے سوا جن کی بندگی کی جاتی ہے ، ان ( سب ) کا انکار کیا تو اس کا مال و جان محفوظ ہو گیا اور اس کا حساب اللہ پر ہے ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

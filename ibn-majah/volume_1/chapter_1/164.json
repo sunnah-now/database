@@ -1,0 +1,41 @@
+{
+  "id": 164,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of the Sunnah"
+        },
+        "ar": {
+          "text": "كتاب السنة"
+        },
+        "ur": {
+          "text": "سنت کی اہمیت وفضیلت"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، ‏‏‏‏‏‏عَنْ عَبْدِ الْمُهَيْمِنِ بْنِ عَبَّاسِ بْنِ سَهْلِ بْنِ سَعْدٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏أَنَّ ّرَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ الْأَنْصَارُ شِعَارٌ، ‏‏‏‏‏‏وَالنَّاسُ دِثَارٌ، ‏‏‏‏‏‏وَلَوْ أَنَّ النَّاسَ اسْتَقْبَلُوا وَادِيًا، ‏‏‏‏‏‏أَوْ شِعْبًا، ‏‏‏‏‏‏وَاسْتَقْبَلَتِ الْأَنْصَارُ وَادِيًا لَسَلَكْتُ وَادِيَ الْأَنْصَارِ، ‏‏‏‏‏‏وَلَوْلَا الْهِجْرَةُ لَكُنْتُ امْرَءًا مِنَ الْأَنْصَارِ ."
+    },
+    "en": {
+      "narrator": "It was narrated from 'Abdul-Muhaimin bin 'Abbas bin Sahl bin Sa'd رضی اللہ عنہ from his father, from his grandfather, that:",
+      "text": "The Messenger of Allah said: The Ansar are an inner garment and the people are an outer garment. If the people were to head towards one valley or a narrow mountain pass and the Ansar towards another, I would travel to the valley of the Ansar, and were it not for the Hijrah, I would have been a man from among the Ansar."
+    },
+    "ur": {
+      "narrator": "ہم سے عبدالرحمٰن بن ابراہیم نے بیان کیا، ہم سے ابن ابی فدیک نے، انہوں نے عبد المہیمن بن عباس بن سہل بن سعد رضی اللہ عنہ  سے اپنے والد کی سند سے بیان کیا,اپنے دادا کے حکم پر",
+      "text": "رسول صلی اللہ علیہ وسلم نے فرمایا: انصار «شعار» ہیں ، اور لوگ «دثار» ہیں ، اگر لوگ کسی وادی یا گھاٹی میں جائیں اور انصار کسی دوسری وادی میں جائیں تو میں انصار کی وادی میں جاؤں گا، اگر ہجرت نہ ہوتی تو میں انصار کا ایک فرد ہوتا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

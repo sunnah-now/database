@@ -1,0 +1,41 @@
+{
+  "id": 5836,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of Greetings"
+        },
+        "ar": {
+          "text": "كتاب السَّلَامِ"
+        },
+        "ur": {
+          "text": "سلامتی اور صحت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، قَالَا: حَدَّثَنَا جَرِيرٌ، عَنِ الْأَعْمَشِ فِي هَذَا الْإِسْنَادِ بِمِثْلِهِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of al-A'mash with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے قتیبہ بن سعید اور عثمان بن ابی شیبہ نے بیان کیا، کہا: جریر اعمش سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

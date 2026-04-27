@@ -1,0 +1,41 @@
+{
+  "id": 5184,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 43,
+      "language": {
+        "en": {
+          "text": "General Behavior (Kitab Al-Adab)"
+        },
+        "ar": {
+          "text": "كتاب الأدب"
+        },
+        "ur": {
+          "text": "آداب و اخلاق کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، وَعَنْ غَيْرِ وَاحِدٍ مَنْ عُلَمَائِهِمْ فِي هَذَا، ‏‏‏‏‏‏فَقَالَ عُمَرُ لِأَبِي مُوسَى:‏‏‏‏ أَمَا إِنِّي لَمْ أَتَّهِمْكَ، ‏‏‏‏‏‏وَلَكِنْ خَشِيتُ أَنْ يَتَقَوَّلَ النَّاسُ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ."
+    },
+    "en": {
+      "narrator": "The tradition mentioned above has also been transmitted by Abu Musa through a different chain of narrators in a similar manner. This version has:",
+      "text": "Umar رضی اللہ عنہ said to Abu Musa رضی اللہ عنہ : I do not blame you, but I am afraid that the people may talk carelessly about the Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم."
+    },
+    "ur": {
+      "narrator": "ہم سے عبداللہ بن مسلمہ نے مالک کی سند سے، ربیعہ بن ابوعبدالرحمٰن اور دوسرے بہت سے علماء سے اس سلسلہ میں مروی ہے",
+      "text": "عمر رضی اللہ عنہ نے ابوموسیٰ اشعری رضی اللہ عنہ سے کہا: میں نے تمہیں جھوٹا نہیں سمجھا لیکن میں ڈرا کہ لوگ رسول اللہ صلی اللہ علیہ وسلم سے منسوب کر کے جھوٹی حدیثیں نہ بیان کرنے لگیں۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

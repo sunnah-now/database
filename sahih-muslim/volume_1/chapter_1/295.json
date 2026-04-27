@@ -1,0 +1,41 @@
+{
+  "id": 295,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِيهِ بِشْرُ بْنُ خَالِدٍ، حَدَّثَنَا مُحَمَّدٌ، يَعْنِي ابْنَ جَعْفَرٍ، عَنْ شُعْبَةَ، قَالَ: سَمِعْتُ سُلَيْمَانَ بِهَذَا الْإِسْنَادِ، وَقَالَ: «ثَلَاثَةٌ لَا يُكَلِّمُهُمُ اللهُ وَلَا يَنْظُرُ إِلَيْهِمْ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ»."
+    },
+    "en": {
+      "narrator": "Bishr bin Khalid has narrated this hadith on the authority of Sulaiman with the same chain of transmitters with this addition:",
+      "text": "Allah shall neither speak nor look at nor absolve then, and there is a tormenting punishment for them."
+    },
+    "ur": {
+      "narrator": "مجھ سے بشر بن خالد نے بیان کیا، یعنی ہم سے ابن جعفر نے بیان کیا,( سفیان کے بجائے ) شعبہ نے سلیمان بن اعمش سے یہی روایت انہی کی سند سے بیان کی کہ",
+      "text": "آپﷺ نے فرمایا : ’’ تین ( لوگوں ) سے اللہ گفتگو نہیں کرے گا ، نہ ان کی طرف دیکھے گا اور نہ انہیں پاک کرے گا اور ان کے لیے درد ناک عذاب ہو گا ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

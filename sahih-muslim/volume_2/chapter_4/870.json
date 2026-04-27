@@ -1,0 +1,41 @@
+{
+  "id": 870,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا هُرَيْرَةَ كَانَ حِينَ يَسْتَخْلِفُهُ مَرْوَانُ عَلَى الْمَدِينَةِ إِذَا قَامَ لِلصَّلَاةِ الْمَكْتُوبَةِ كَبَّرَ فَذَكَرَ نَحْوَ حَدِيثِ ابْنِ جُرَيْجٍ وَفِي حَدِيثِهِ فَإِذَا قَضَاهَا وَسَلَّمَ أَقْبَلَ عَلَى أَهْلِ الْمَسْجِدِ قَالَ: وَالَّذِي نَفْسِي بِيَدِهِ إِنِّي لَأَشْبَهُكُمْ صَلَاةً بِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ."
+    },
+    "en": {
+      "narrator": "Abu Salama bin 'Abd al-Rahman reported.. When Marwan appointed Abu Huraira ‌رضی ‌اللہ ‌عنہ as his deputy in Medina, he recited takbir whenever he got up for obligatory prayer, and the rest of the hadith is the same as transmitted by Ibn Juraij (but with the addition of these words):",
+      "text": "On completing the prayer with salutation, and he turned to the people in the mosque and said.... 'By the one in whose hand in my soul! I am the among you whose prayer most closely resembles that of the Messenger of Allah ﷺ."
+    },
+    "ur": {
+      "narrator": "مجھ سے حرملہ بن یحییٰ نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا,یونس نے ابن شہاب سے خبر دی ، کہا, مجھے ابو سلمہ بن عبد الرحمن نے بتایا کہ حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو جب مروان مدینہ میں اپنا نائب بنا کر جاتا تو جب وہ فرض نماز کے لیے کھڑے ہوتے ، تکبیر کہتے ....... اس کے بعد ( یونس نے ) ابن جریج کی حدیث کے مانند بیان کیا ۔ ان ( یونس ) کی حدیث میں ( یہ اضافہ ) ہے کہ",
+      "text": "جب وہ نماز پوری کر لیتے اور سلام پھیرتے تو مسجد والوں کی طرف منہ کرتے ( اور ) کہتے : اس ذات کی قسم جس کے ہاتھ میں میری جان ہے! میں نماز میں تم سب سے زیادہ رسو ل اللہﷺ کے مشابہ ہوں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

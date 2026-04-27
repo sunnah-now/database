@@ -1,0 +1,41 @@
+{
+  "id": 4477,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا اللَّيْثُ،‏‏‏‏ عَنْ نَافِعٍ،‏‏‏‏ عَنْ ابْنِ عُمَرَ،‏‏‏‏ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ إِذَا تَبَايَعَ الرَّجُلَانِ فَكُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ حَتَّى يَفْتَرِقَا ،‏‏‏‏ وَقَالَ مَرَّةً أُخْرَى:‏‏‏‏ مَا لَمْ يَتَفَرَّقَا وَكَانَا جَمِيعًا أَوْ يُخَيِّرَ أَحَدُهُمَا الْآخَرَ،‏‏‏‏ فَإِنْ خَيَّرَ أَحَدُهُمَا الْآخَرَ فَتَبَايَعَا عَلَى ذَلِكَ فَقَدْ وَجَبَ الْبَيْعُ،‏‏‏‏ فَإِنْ تَفَرَّقَا بَعْدَ أَنْ تَبَايَعَا وَلَمْ يَتْرُكْ وَاحِدٌ مِنْهُمَا الْبَيْعَ فَقَدْ وَجَبَ الْبَيْعُ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Al-Laith, from Nafi, from Ibn 'Umar that the Messenger of Allah said: When two men enter into a transaction, each of them has the choice until they separate. On one occasion he said: So long as they have not separated and one has not told the other to decide. If one tells the other to decide and they agree upon something, then the transaction is binding. If they separate after entering into a transaction and neither of them has canceled the transaction, then the transaction is binding. (Sahih )"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جب دو آدمی آپس میں خریدیں اور بیچیں تو ان میں سے ہر ایک کو اس وقت تک اختیار ہوتا ہے جب تک وہ جدا نہ ہوں، اور ایک دوسری بار نافع نے ( «حتى يفترقا» کے بجائے ) «ما لم يتفرقا» کہا، حالانکہ وہ دونوں ایک جگہ تھے، یا یہ کہ ان میں سے ایک دوسرے کو اختیار دیدے، لہٰذا اگر ان میں سے ایک دوسرے کو اختیار دیدے اور وہ دونوں اس ( شرط خیار ) پر بیع کر لیں تو بیع ہو جائے گی، اب اگر وہ دونوں بیع کرنے کے بعد جدا ہو جائیں اور ان میں سے کسی ایک نے بیع ترک نہ کی تو بیع ہو جائے گی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

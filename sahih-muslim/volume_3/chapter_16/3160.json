@@ -1,0 +1,41 @@
+{
+  "id": 3160,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَاه عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، ح وحَدَّثَنِي سَعِيدُ بْنُ يَحْيَى الْأُمَوِيُّ، حَدَّثَنِي أَبِي، جَمِيعًا عَنِ ابْنِ جُرَيْجٍ، بِهَذَا الْإِسْنَادِ أَمَّا رِوَايَةُ ابْنِ بَكْرٍ فَكَرِوَايَةِ عِيسَى، إِلَّا قَوْلَهُ: لِهَؤُلَاءِ الثَّلَاثِ، فَإِنَّهُ لَمْ يَذْكُرْ ذَلِكَ، وَأَمَّا يَحْيَى الْأُمَوِيُّ فَفِي رِوَايَتِهِ: حَلَقْتُ قَبْلَ أَنْ أَنْحَرَ، نَحَرْتُ قَبْلَ أَنْ أَرْمِيَ وَأَشْبَاهُ ذَلِكَ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Ibn Juraij with the same chain of transmitters. And the narration of Ibn Bakr is like one transmitted by 'Isa but with this (variation): There are not these words in it:",
+      "text": "To all these three rites (throwing of pebbles sacrificing of animal and shaving of one's head). And so far as the narration of Yahya al-Umawi (the words are): I got (my head) shaved before I sacrificed the animal, and I sacrifice the animal before throwing pebbles, and like that."
+    },
+    "ur": {
+      "narrator": "ہم سے عبد بن حمید نے بیان کیا , محمد بن بکر اور سعید بن یحییٰ اموی نے اپنے والد ( یحییٰ اموی ) کے واسطے سے ابن جریج سے اسی سند کے ساتھ ( یہی ) حدیث بیان کی ، ابن بکر کی روایت عیسیٰ کی گزشتہ روایت کی طرح ہے",
+      "text": "سوائے ان کے اس قول کے \" ان تین چیزوں کے بارے میں \" اور ہے یحییٰ اموی تو ان کی روایت میں ہے میں نے قر بانی کرنے سے پہلے سر منڈوالیا میں نے رمی کرنے سے پہلے قر با نی کر لی اور اسی سے ملتی جلتی باتیں."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

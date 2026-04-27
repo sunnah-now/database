@@ -1,0 +1,41 @@
+{
+  "id": 4451,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 30,
+      "language": {
+        "en": {
+          "text": "The Book Of Legal Punishments"
+        },
+        "ar": {
+          "text": "كتاب الْحُدُودِ"
+        },
+        "ur": {
+          "text": "حدود کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا إِسْرَائِيلُ، عَنِ السُّدِّيِّ، بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ مَنْ أَحْصَنَ مِنْهُمْ، وَمَنْ لَمْ يُحْصِنْ، وَزَادَ فِي الْحَدِيثِ اتْرُكْهَا حَتَّى تَمَاثَلَ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of as-Suddi with the same chain of transmitters, but he did not mention:",
+      "text": "Those who are married and those who are not married. There is also an addition in it: I spare her until she is all right."
+    },
+    "ur": {
+      "narrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے یحییٰ بن آدم نے بیان کیا, اسرائیل نے سُدی سے اسی سند کے ساتھ حدیث بیان کی اور انہوں نے یہ بیان کیا",
+      "text": "\" جو ان میں سے شادی شدہ ہوں اور جو شادی شدہ نہ ہوں ۔ \" اور انہوں نے حدیث میں یہ اضافہ کیا : \" اس ( کنیز ) کو چھوڑ دو یہاں تک کہ وہ صحت مند ہو جائے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

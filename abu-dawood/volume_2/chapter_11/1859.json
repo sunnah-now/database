@@ -1,0 +1,41 @@
+{
+  "id": 1859,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+        },
+        "ar": {
+          "text": "كتاب المناسك"
+        },
+        "ur": {
+          "text": "اعمال حج اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، ‏‏‏‏‏‏حَدَّثَنَا اللَّيْثُ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏أَنَّ رَجُلًا مِنْ الْأَنْصَارِ أَخْبَرَهُ، ‏‏‏‏‏‏عَنْ كَعْبِ بْنِ عُجْرَةَ، ‏‏‏‏‏‏وَكَانَ قَدْ أَصَابَهُ فِي رَأْسِهِ أَذًى فَحَلَقَ، ‏‏‏‏‏‏ فَأَمَرَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يُهْدِيَ هَدْيًا بَقَرَةً ."
+    },
+    "en": {
+      "narrator": "It was reported from Nafi:",
+      "text": "A man from the Ansar said on the authority of Kab Ibn Ujrah that he was feeling pain in his head (due to lice); so he shaved his head. The Prophet صلی ‌اللہ ‌علیہ ‌وسلم ordered him to sacrifice a cow as offering.\r\nA man from the Ansar informed him from Kab Ibn Ujrah that he was suffering from some aliment in his scalp of head, so he shaved it, and the prophet صلی ‌اللہ ‌علیہ ‌وسلم ordered him to sacrifice a cow."
+    },
+    "ur": {
+      "narrator": "ہم سے قتیبہ بن سعید نے بیان کیا، انہیں لیث نے نافع کی سند سے بیان کیا کہ",
+      "text": "انہیں کعب بن عجرہ رضی اللہ عنہ سے انصار کے ایک آدمی نے خبر دی کہ( اور انہیں سر میں ( جوؤوں کی وجہ سے ) تکلیف پہنچی تھی تو انہوں نے سر منڈوا دیا تھا ) ، تو نبی اکرم صلی اللہ علیہ وسلم نے انہیں ایک گائے قربان کرنے کا حکم دیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

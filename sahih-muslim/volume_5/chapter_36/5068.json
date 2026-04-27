@@ -1,0 +1,41 @@
+{
+  "id": 5068,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 36,
+      "language": {
+        "en": {
+          "text": "The Book of Sacrifices"
+        },
+        "ar": {
+          "text": "كتاب الْأَضَاحِيِّ"
+        },
+        "ur": {
+          "text": "قربانی کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَابْنُ بَشَّارٍ قَالَا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Shu'ba through another chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے محمد بن مثنیٰ اور ابن بشار نے بیان کیا، کہا: محمد بن جعفر نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ اسی کے مانند روایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

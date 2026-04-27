@@ -1,0 +1,41 @@
+{
+  "id": 5979,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 44,
+      "language": {
+        "en": {
+          "text": "The Book of Virtues"
+        },
+        "ar": {
+          "text": "كتاب الْفَضَائِلِ"
+        },
+        "ur": {
+          "text": "انبیائے کرام علیہم السلام کے فضائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنْ جَرِيرٍ، عَنِ الْأَعْمَشِ، بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ» أَصْحَابِي، أَصْحَابِي."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The hadith has been narrated on the authority ot al-A'mash with the same chain of transmitters but no mention is made of: They are my companions; they are my companions."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عثمان بن ابی شیبہ اور اسحاق بن ابراہیم نے بیان کیا، جریر اعمش سے اسی سند کے ساتھ روایت کی اور \" میرے ساتھی ہیں ۔ میرے ساتھی ہیں ، کے الفاظ بیان نہیں کیے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

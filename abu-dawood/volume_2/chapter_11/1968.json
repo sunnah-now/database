@@ -1,0 +1,41 @@
+{
+  "id": 1968,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+        },
+        "ar": {
+          "text": "كتاب المناسك"
+        },
+        "ur": {
+          "text": "اعمال حج اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلَاءِ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ إِدْرِيسَ، ‏‏‏‏‏‏حَدَّثَنَا يَزِيدُ بْنُ أَبِي زِيَادٍ بِإِسْنَادِهِ فِي مِثْلِ هَذَا الْحَدِيثِ، ‏‏‏‏‏‏زَادَ:‏‏‏‏ وَلَمْ يَقُمْ عِنْدَهَا ."
+    },
+    "en": {
+      "narrator": "The aforesaid tradition (No 1963) has also been transmitted by Yazid Ibn Abu Ziyad with a different chain of narrators. This version adds the words:",
+      "text": "He (the Prophet) did not stand near it (the jamrah)."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن العلاء نے بیان کیا، ہم سے ابن ادریس نے بیان کیا, اس سند سے بھی یزید بن ابی زیاد سے اسی طریق سے اسی حدیث کے ہم مثل مروی ہے",
+      "text": "اس میں «ولم يقم عندها» اور اس کے پاس نہیں ٹھہرے کا جملہ زائد ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

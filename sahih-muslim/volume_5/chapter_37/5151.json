@@ -1,0 +1,41 @@
+{
+  "id": 5151,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Drink"
+        },
+        "ar": {
+          "text": "كتاب الْأَشْرِبَةِ"
+        },
+        "ur": {
+          "text": "مشروبات کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ حَدَّثَنَا بِشْرٌ يَعْنِي ابْنَ مُفَضَّلٍ عَنْ أَبِي مَسْلَمَةَ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith is narrated on the authority of Abi Maslama with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہمیں نصر بن علی الجہدمی نے بیان کیا, بشر بن مفضل نے ابومسلمہ سے اسی سند کے ساتھ اسی کے مانندروایت کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

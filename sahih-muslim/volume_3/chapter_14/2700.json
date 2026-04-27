@@ -1,0 +1,41 @@
+{
+  "id": 2700,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا عُبَيْدُ اللهِ بْنُ مُوسَى، عَنْ سُفْيَانَ، بِهَذَا الْإِسْنَادِ، وَقَالَ: صَوْمُ شَهْرَيْنِ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Sufyan with the same chain of transmitters in which it is said:",
+      "text": "Fasting of two months."
+    },
+    "ur": {
+      "narrator": "مجھ سے اسحاق بن منصور نے بیان کیا، ہم سےعبیداللہ بن موسیٰ نے سفیان ( ثوری ) سے اسی سند کے ساتھ ( سابقہ حدیث کی مانند ) حدیث بیان کی اورانھوں نے کہا",
+      "text": "\" دو ماہ کےروزے ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

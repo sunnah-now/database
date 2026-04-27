@@ -1,0 +1,41 @@
+{
+  "id": 3090,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّهُ لَمْ يَذْكُرْ فِي الْحَدِيثِ وَلَمْ يَزَلْ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُلَبِّي حَتَّى رَمَى الْجَمْرَةَ وَزَادَ فِي حَدِيثِهِ، وَالنَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُشِيرُ بِيَدِهِ كَمَا يَخْذِفُ الْإِنْسَانُ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Abd Zubair with the same chain of transmitters but with this variation that in the hadith no mention is made of (this):",
+      "text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) continued pronouncing Talbiya till he stoned the Jamra, and he made this addition in his hadith: The Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) pointed with his hand how a person should catch hold of pebbles (in order to throw them)."
+    },
+    "ur": {
+      "narrator": "مجھ سے زہیر بن حرب نے بیان کیا، ہم سے یحییٰ بن سعید نے بیان کیا، ابن جریج سے روایت ہے : ( کہا : ) مجھے ابو زبیر نے اسی سند کے ساتھ حدیث بیان کی ، انھوں نے ( اپنی ) حدیث میں یہ ذکر نہیں کیا کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم جمرہ عقبہ کو کنکریاں مارنے تک مسلسل تلبیہ پکارتے رہے البتہ اپنی حدیث میں یہ اضافہ کیا : اور نبی صلی اللہ علیہ وسلم اپنے ہاتھ سے ( اس طرح ) اشارہ کر رہے تھے جیسے انسان ( اپنی انگلیوں سے ) کنکرپھینکتا ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

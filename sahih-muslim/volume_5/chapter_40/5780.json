@@ -1,0 +1,41 @@
+{
+  "id": 5780,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 40,
+      "language": {
+        "en": {
+          "text": "The Book of Greetings"
+        },
+        "ar": {
+          "text": "كتاب السَّلَامِ"
+        },
+        "ur": {
+          "text": "سلامتی اور صحت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِي حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّهُ لَمْ يَذْكُرْ قِصَّةَ عَطَاءِ بْنِ يَسَارٍ فِي أَوَّلِ الْحَدِيثِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters except for the fact that no mention has been made of the account of 'Ata bin Yasir as in the previous hadith."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "عبید اللہ بن معاذ کے والد نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ یہ حدیث سنا ئی مگر انھوں نے حدیث کے آغاز میں عطاء بن یسار کا واقعہ بیان نہیں کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

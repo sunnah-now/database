@@ -1,0 +1,41 @@
+{
+  "id": 326,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللهِ بْنُ نُمَيْرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، أَنَّ حَكِيمَ بْنَ حِزَامٍ، أَعْتَقَ فِي الْجَاهِلِيَّةِ مِائَةَ رَقَبَةٍ، وَحَمَلَ عَلَى مِائَةِ بَعِيرٍ، ثُمَّ أَعْتَقَ فِي الْإِسْلَامِ مِائَةَ رَقَبَةٍ وَحَمَلَ عَلَى مِائَةِ بَعِيرٍ، ثُمَّ أَتَى النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَذَكَرَ نَحْوَ حَدِيثِهِمْ."
+    },
+    "en": {
+      "narrator": "Hisham bin Urwa narrated it on the authority of his father:",
+      "text": "Hakim bin Hizam رضی ‌اللہ ‌عنہ freed one hundred slave and donated one hundred camels (for the sake of Allah) during the state of ignorance. Then he freed one hundred slaves and donated one hundred camel (for the sake of Allah) after) he had embraced Islam. He subsequently came to the Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). The rest of the hadith is the same as narrated above."
+    },
+    "ur": {
+      "narrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا,عبد اللہ بن نمیر نے ہشام سے سابقہ سند سے روایت کی کہ",
+      "text": "حکیم بن حزام ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے دور جاہلیت میں سو غلام آزاد کیے تھے اور سو اونٹ سواری کے لیے ( مستحقین کو ) دیے تھے ، پھر اسلام لانے کے بعد ( دوبارہ ) سو غلام آزاد کیے اور سواونٹ سواری کے لیے دیے ، پھر نبی ﷺ کی خدمت میں حاضر ہوئے ..... آگے مذکورہ بالا حدیث کے مطابق بیان کیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

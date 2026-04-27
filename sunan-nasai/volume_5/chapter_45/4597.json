@@ -1,0 +1,41 @@
+{
+  "id": 4597,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،‏‏‏‏ وَمُحَمَّدُ بْنُ بَشَّارٍ،‏‏‏‏ عَنْ مُحَمَّدٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا شُعْبَةُ،‏‏‏‏ عَنْ سِمَاكِ بْنِ حَرْبٍ،‏‏‏‏ قَالَ:‏‏‏‏ سَمِعْتُ أَبَا صَفْوَانَ،‏‏‏‏ قَالَ:‏‏‏‏ بِعْتُ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَرَاوِيلَ قَبْلَ الْهِجْرَةِ فَأَرْجَحَ لِي ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Simak bin Harb said: I heard Abu Safwan say: 'I bought a pair of trousers from the Messenger of Allah before the Hijrah, and he weighed it for me and allowed me. '"
+    },
+    "ur": {
+      "narrator": "ابوصفوان رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے ہجرت سے قبل پاجامے بیچے تو آپ نے میرے لیے جھکتی ہوئی تول تولی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

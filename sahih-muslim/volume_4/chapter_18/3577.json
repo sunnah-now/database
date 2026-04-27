@@ -1,0 +1,41 @@
+{
+  "id": 3577,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 18,
+      "language": {
+        "en": {
+          "text": "The Book of Suckling"
+        },
+        "ar": {
+          "text": "كتاب الرِّضَاعِ"
+        },
+        "ur": {
+          "text": "رضاعت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، عَنْ هِشَامٍ، بِهَذَا الْإِسْنَادِ. نَحْوَهُ غَيْرَ أَنَّهُ قَالَ: اسْتَأْذَنَ عَلَيْهَا أَبُو الْقُعَيْسِ ."
+    },
+    "en": {
+      "narrator": "A similar report (as no. 3575) was narrated from Hisham, with this chain, except that he said:",
+      "text": "\"Abu Al-Quais asked from permission to enter upon her."
+    },
+    "ur": {
+      "narrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے بیان کیا ابومعاویہ نے ہشام سے اسی سند کے ساتھ اسی کی طرح حدیث بیان کی مگر انہوں نے کہا",
+      "text": "ابوقیس نے ان کے ہاں آنے کی اجازت مانگی."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

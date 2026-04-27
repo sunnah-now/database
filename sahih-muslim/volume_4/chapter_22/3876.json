@@ -1,0 +1,41 @@
+{
+  "id": 3876,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Transactions"
+        },
+        "ar": {
+          "text": "كتاب الْبُيُوعِ"
+        },
+        "ur": {
+          "text": "لین دین کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "قَالَ ابْنُ عُمَرَ: وَحَدَّثَنَا زَيْدُ بْنُ ثَابِتٍ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَخَّصَ فِي بَيْعِ الْعَرَايَا»، زَادَ ابْنُ نُمَيْرٍ فِي رِوَايَتِهِ: أَنْ تُبَاعَ."
+    },
+    "en": {
+      "narrator": "Zaid bin Thabit ( رضی اللہ عنہ) said:",
+      "text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) gave a concession in case of the sale known as al-araya, there is an addition of the word an tuba'a in the hadith transmitted by Ibn Numair."
+    },
+    "ur": {
+      "narrator": "ابن عمر رضی اللہ عنہ نے کہا : ہمیں زید بن ثابت نے حدیث بیان کی کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے بیع عرایا کی اجازت دی ۔ ابن نمیر نے اپنی روایت میں یہ اضافہ کیا : ( اجازت دی ) کہ اسے بیچا ( یا خریدا ) جائے."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

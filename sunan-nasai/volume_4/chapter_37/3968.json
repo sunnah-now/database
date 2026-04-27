@@ -1,0 +1,41 @@
+{
+  "id": 3968,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 37,
+      "language": {
+        "en": {
+          "text": "The Book of Agriculture"
+        },
+        "ar": {
+          "text": "كتاب المزارعة"
+        },
+        "ur": {
+          "text": "مزارعت (بٹائی پر زمین دینے) کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا شَرِيكٌ، ‏‏‏‏‏‏عَنْ طَارِقٍ، ‏‏‏‏‏‏عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا بَأْسَ بِإِجَارَةِ الْأَرْضِ الْبَيْضَاءِ بِالذَّهَبِ وَالْفِضَّةِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Sa'eed bin Al-Musayyab said: There is nothing wrong with renting uncultivated land for gold and silver."
+    },
+    "ur": {
+      "narrator": "سعید بن مسیب کہتے ہیں کہ",
+      "text": "خالی زمین کو سونے، چاندی کے بدلے کرائے پر اٹھانے میں کوئی حرج نہیں ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

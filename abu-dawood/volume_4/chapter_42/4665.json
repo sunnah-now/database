@@ -1,0 +1,41 @@
+{
+  "id": 4665,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+        },
+        "ar": {
+          "text": "كتاب السنة"
+        },
+        "ur": {
+          "text": "سنتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو عَوَانَةَ، ‏‏‏‏‏‏عَنْ أَشْعَثَ بْنِ سُلَيْمٍ، ‏‏‏‏‏‏عَنْ أَبِي بُرْدَةَ، ‏‏‏‏‏‏عَنْ ضُبَيْعَةَ بْنِ حُصَيْنٍ الثَّعْلَبِيِّ بِمَعْنَاهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The tradition mentioned above has also been transmitted by Dubaiah bin Husain al-Tha’labi through a different chain of narrators to the same effect."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے مسدد نے بیان کیا، ہم سے ابو عوانہ نے، اشعث بن سلیم کی سند سے، وہ ابو بردہ کی سند سے, ضبیعہ بن حصین ثعلبی سے بھی اسی مفہوم کی حدیث مروی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

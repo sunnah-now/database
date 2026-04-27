@@ -1,0 +1,41 @@
+{
+  "id": 4851,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 34,
+      "language": {
+        "en": {
+          "text": "The Book of Government"
+        },
+        "ar": {
+          "text": "كتاب الْإِمَارَةِ"
+        },
+        "ur": {
+          "text": "امور حکومت کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا جَرِيرٌ، عَنْ حُصَيْنٍ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّهُ قَالَ عُرْوَةُ بْنُ الْجَعْدِ ‏.‏"
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated with the same chain of transmitters with the difference that here instead of Urwat al-Bariqi there is Urwa bin ja'd."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے جریر نے بیان کیا، حصین رضی اللہ عنہ کی سند سے، سوائے عروہ بن الجعد نے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

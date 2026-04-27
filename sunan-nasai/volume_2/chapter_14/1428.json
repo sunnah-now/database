@@ -1,0 +1,41 @@
+{
+  "id": 1428,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Jumu`ah (Friday Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الجمعة"
+        },
+        "ur": {
+          "text": "کتاب جمعہ کے بیان میں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنِ ابْنِ عُمَرَ، ‏‏‏‏‏‏ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ لَا يُصَلِّي بَعْدَ الْجُمُعَةِ حَتَّى يَنْصَرِفَ فَيُصَلِّيَ رَكْعَتَيْنِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ibn 'Umar that: The Messenger of Allah (ﷺ) would not pray after jumu'ah until he had left, then he would pray two rak'ahs. (SAhih)"
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہم سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم جمعہ کے بعد نماز نہیں پڑھتے تھے یہاں تک کہ گھر لوٹ آتے، پھر دو رکعتیں پڑھتے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 440,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا دَاوُدُ، بِهَذَا الْإِسْنَادِ نَحْوَ حَدِيثِ ابْنِ عُلَيَّةَ، وَزَادَ قَالَتْ: وَلَوْ كَانَ مُحَمَّدٌ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَاتِمًا شَيْئًا مِمَّا أُنْزِلَ عَلَيْهِ لَكَتَمَ هَذِهِ الْآيَةَ: {وَإِذْ تَقُولُ لِلَّذِي أَنْعَمَ اللهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللهَ وَتُخْفِي فِي نَفْسِكَ مَا اللهُ مُبْدِيهِ وَتَخْشَى النَّاسَ وَاللهُ أَحَقُّ أَنْ تَخْشَاهُ} [الأحزاب: 37]."
+    },
+    "en": {
+      "narrator": "Dawud reported on the same authorities the hadith as narrated above by Ibn 'Uliyya and added:",
+      "text": "She ('A'isha) said: If Muhammad were to conceal anything which was sent to him, he would have certainly concealed this verse: And when thou saidst to him on whom Allah had conferred favour and thou too had conferred favour: Keep thy wife to thyself and fear Allah, and thou wast concealing in thy heart that which Allah was going to disclose, and thou wast fearing men while Allah has a better right that thou shouldest fear Him."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن المثنی نے بیان کیا,( اسماعیل کے بجائے ) عبدالوہاب نے کہا : ہمیں داود نے اسی طرح حدیث سنائی ( اسماعیل بن ابراہیم ) ابن علیہ سے بیان کی اور اس میں اضافہ کیا کہ",
+      "text": "( حضرت عائشہؓ نے ) فرمایا : اگر محمدﷺ کسی ایک چیز کو جو آپ پر نازل کی گئی ، چھپانے والے ہوتے ، تو آپ یہ آیت چھپا لیتے : ’’ اور جب آپ اس شخص سے کہہ رہے تھے جس پر اللہ نے انعام فرمایا اور آپ نے ( بھی ) انعام فرمایا کہ اپنی بیوی کو اپنے پاس روکے رکھو اور اللہ سے ڈرو اور آپ اپنے جی میں وہ ہر چیز چھپا رہے تھے جسے اللہ ظاہر کرنا چاہتا تھا ، آپ لوگوں ( کےطعن و تشنیع ) سے ڈر رہے تھے ، حالانکہ اللہ ہی سب سے زیادہ حقدار ہے کہ آپ اس سے ڈریں ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

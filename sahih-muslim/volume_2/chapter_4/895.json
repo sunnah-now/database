@@ -1,0 +1,41 @@
+{
+  "id": 895,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 4,
+      "language": {
+        "en": {
+          "text": "The Book of Prayers"
+        },
+        "ar": {
+          "text": "كتاب الصَّلَاةِ"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ، أَخْبَرَنَا ابْنُ فُضَيْلٍ، عَنْ مُخْتَارِ بْنِ فُلْفُلٍ، قَالَ: سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ: أَغْفَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِغْفَاءَةً، بِنَحْوِ حَدِيثِ ابْنِ مُسْهِرٍ غَيْرَ أَنَّهُ قَالَ: «نَهْرٌ وَعَدَنِيهِ رَبِّي عَزَّ وَجَلَّ فِي الْجَنَّةِ عَلَيْهِ حَوْضٌ» وَلَمْ يَذْكُرْ «آنِيَتُهُ عَدَدُ النُّجُومِ»."
+    },
+    "en": {
+      "narrator": "Mukhtar bin Fulful reported that he had heard Anas bin Malik say:",
+      "text": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) dozed off, and the rest of the hadith is the same as transmitted by Mushir except for the words that he (the Holy Prophet) said: It (Kauthar) is a canal which my Lord the Exalted and the Glorious has promised me in Paradise. There is a tank over it, but he made no mention of the tumblers like the number of the stars."
+    },
+    "ur": {
+      "narrator": "ہم سے ابو کریب محمد بن علاء نے بیان کیا,ابن فضیل نے مختار بن فلفل سے روایت کی ، انہوں نے کہا : میں نے حضرت انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنا ، کہہ رہے تھے کہ",
+      "text": "رسول اللہﷺ نیند جیسی کیفیت میں چلے گئے ، ( آگے ) جس طرح ابن مسہر کی حدیث ہے ، البتہ انہوں ( ابن فضیل ) نے یہ الفاظ کہے : ’’ ایک نہر ہے جس کا میرے رب نے میرے ساتھ وعدہ کیا ہے اور اس پر ایک حوض ہے ۔ ‘ ‘ اور یہ نہیں کہا : ’’ اس کے برتنوں کی تعداد ستاروں کے برابر ہے ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

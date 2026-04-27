@@ -1,0 +1,41 @@
+{
+  "id": 1031,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَجَّاجُ بْنُ أَبِي يَعْقُوبَ، ‏‏‏‏‏‏حَدَّثَنَا يَعْقُوبُ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ أَخِي الزُّهْرِيِّ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ بِهَذَا الْحَدِيثِ بِإِسْنَادِهِ، ‏‏‏‏‏‏زَادَ وَهُوَ جَالِسٌ قَبْلَ التَّسْلِيمِ ."
+    },
+    "en": {
+      "narrator": "This tradition has also been transmitted by Muhammad bin Muslim through a different chain of narrators. This version adds:",
+      "text": "“While he is sitting before he gives the salutation. ”"
+    },
+    "ur": {
+      "narrator": "ہم سے حجاج بن ابی یعقوب نے بیان کیا، ہم سے یعقوب نے بیان کیا، ہم سے زہری کے بھتیجے نے بیان کیا، اس طریق سے بھی محمد بن مسلم سے اسی سند سے یہی حدیث مروی ہے,اس میں یہ اضافہ ہے کہ",
+      "text": "وہ سلام سے پہلے بیٹھے ( دو سجدے کرے ) ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

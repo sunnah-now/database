@@ -1,0 +1,41 @@
+{
+  "id": 3866,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 22,
+      "language": {
+        "en": {
+          "text": "The Book of Transactions"
+        },
+        "ar": {
+          "text": "كتاب الْبُيُوعِ"
+        },
+        "ur": {
+          "text": "لین دین کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ أَبِي عُمَرَ، قَالَا: حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ يَحْيَى، بِهَذَا الْإِسْنَادِ، حَتَّى يَبْدُوَ صَلَاحُهُ، لَمْ يَذْكُرْ مَا بَعْدَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith is reported or the authority of Yahya with the same chain of transmitters up to until its good condition becomes clear, but lie did not mention what follows (these words)."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے محمد بن المثنی اور ابن ابی عمر نے بیان کیا، کہاعبدالوہاب نے یحییٰ سے اسی سند کے ساتھ \" حتیٰ کہ اس کی صلاحیت واضح ہو جائے \" تک حدیث بیان کی ، اس کے بعد والا حصہ بیان نہیں کیا."
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

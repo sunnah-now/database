@@ -1,0 +1,41 @@
+{
+  "id": 4001,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Fighting [The Prohibition of Bloodshed]"
+        },
+        "ar": {
+          "text": "كتاب تحريم الدم"
+        },
+        "ur": {
+          "text": "قتل و خون ریزی کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلَاءِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا أَبُو مُعَاوِيَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا الْأَعْمَشُ، ‏‏‏‏‏‏عَنْ شَقِيقٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَوَّلُ مَا يُقْضَى بَيْنَ النَّاسِ فِي الدِّمَاءِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Abdullah said: The first matter concerning which scores will be settled among the people will be bloodshed."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "لوگوں کے درمیان سب سے پہلے خون کا فیصلہ کیا جائے گا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

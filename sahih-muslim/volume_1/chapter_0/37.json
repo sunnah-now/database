@@ -1,0 +1,41 @@
+{
+  "id": 37,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا شَبَابَةُ، قَالَ: قَالَ شُعْبَةُ: «وَقَدْ لَقِيتُ شَهْرًا فَلَمْ أَعْتَدَّ بِهِ"
+    },
+    "en": {
+      "narrator": "Hajjāj bin ush-Shā’ir narrated to me, Shabābah narrated to us, he said, Shu’bah said:",
+      "text": "‘I had met Shahr then abandoned transmitting from him’."
+    },
+    "ur": {
+      "narrator": "مجھ سے حجاج بن الشعر نے بیان کیا، کہا ہم سے شبابہ نے بیان کیا، انہوں نے کہا: شعبہ نے کہا:",
+      "text": "میں شہر سے ملا لیکن ( روایت حدیث کے حوالے سے ) میں نے انہیں اہمیت نہ دی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

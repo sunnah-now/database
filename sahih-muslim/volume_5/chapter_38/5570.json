@@ -1,0 +1,41 @@
+{
+  "id": 5570,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 38,
+      "language": {
+        "en": {
+          "text": "The Book of Clothes and Adornment"
+        },
+        "ar": {
+          "text": "كتاب اللِّبَاسِ وَالزِّينَةِ"
+        },
+        "ur": {
+          "text": "لباس اور زینت کے احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ عَنْ إِبْرَاهِيمَ بْنِ نَافِعٍ بِهَذَا الْإِسْنَادِ وَقَالَ لُعِنَ الْمُوصِلَاتُ."
+    },
+    "en": {
+      "narrator": "It was narrated from Ibrahim bin Nafi with this chain of narrators, and he said:",
+      "text": "\"Those who add hair extensions are cursed."
+    },
+    "ur": {
+      "narrator": "مجھ سے محمد بن حاتم نے بیان کیا, عبدالرحمن بن مہدی نے ابراہیم بن نافع سے اسی سند کے ساتھ حدیث بیان کی اور کہا",
+      "text": "\" جوڑ لگانے والیوں پر لعنت کی گئی ہے ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

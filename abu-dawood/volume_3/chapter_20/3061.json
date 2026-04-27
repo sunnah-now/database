@@ -1,0 +1,41 @@
+{
+  "id": 3061,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 20,
+      "language": {
+        "en": {
+          "text": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+        },
+        "ar": {
+          "text": "كتاب الخراج والإمارة والفىء"
+        },
+        "ur": {
+          "text": "محصورات اراضی اور امارت سے متعلق احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، ‏‏‏‏‏‏عَنْ غَيْرِ وَاحِدٍ، ‏‏‏‏‏‏أن رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَقْطَعَ بِلَالَ بْنَ الْحَارِثِ الْمُزَنِيَّ مَعَادِنَ الْقَبَلِيَّةِ وَهِيَ مِنْ نَاحِيَةِ الْفُرْعِ فَتِلْكَ الْمَعَادِنُ لَا يُؤْخَذُ مِنْهَا إِلَّا الزَّكَاةُ إِلَى الْيَوْمِ."
+    },
+    "en": {
+      "narrator": "Narrated Rabiah ibn Abu Abdur Rahman: Rabiah reported on the authority of more than one person saying:",
+      "text": "The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم assigned as a fief to Bilal Ibn al-Harith al-Muzani the mines of al-Qabaliyyah which is in the neighbourhood of al-Fur', and only zakat is levied on those mines up to the present day."
+    },
+    "ur": {
+      "narrator": "ہم سے عبداللہ بن مسلمہ نے مالک رضی اللہ عنہ سے بیان کیا, ربیعہ بن ابی عبدالرحمٰن نے کئی لوگوں سے روایت کی ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے بلال بن حارث مزنی کو فرع  کی طرف کے قبلیہ کے کان دیئے، تو ان کانوں سے آج تک زکاۃ کے سوا کچھ نہیں لیا جاتا رہا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

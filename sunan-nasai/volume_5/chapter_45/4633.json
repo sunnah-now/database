@@ -1,0 +1,41 @@
+{
+  "id": 4633,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا إِسْمَاعِيل بْنُ مَسْعُودٍ،‏‏‏‏ عَنْ خَالِدٍ،‏‏‏‏ عَنْ حُسَيْنٍ الْمُعَلِّمِ،‏‏‏‏ عَنْ عَمْرِو بْنِ شُعَيْبٍ،‏‏‏‏ عَنْ أَبِيهِ،‏‏‏‏ عَنْ جَدِّهِ،‏‏‏‏ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ نَهَى عَنْ سَلَفٍ وَبَيْعٍ،‏‏‏‏ وَشَرْطَيْنِ فِي بَيْعٍ وَرِبْحِ،‏‏‏‏ مَا لَمْ يُضْمَنْ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from 'Amr bin shu'aib, from his father, from his grandfather, that: the Messenger of Allah prohibited lending on the condition of a sale, or to have two conditions in one transaction, or to profit from what you do not posses."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمرو بن عاص رضی اللہ عنہما سے روایت ہے کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے سلف اور بیع ایک ساتھ کرنے، ایک بیع میں دو شرطیں لگانے، اور اس چیز کے نفع لینے سے منع فرمایا جس کے تاوان کا وہ ذمے دار ( ضامن ) نہ ہو ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

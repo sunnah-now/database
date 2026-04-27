@@ -1,0 +1,41 @@
+{
+  "id": 3117,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 16,
+      "language": {
+        "en": {
+          "text": "The Book of Pilgrimage"
+        },
+        "ar": {
+          "text": "كتاب الْحَجِّ"
+        },
+        "ur": {
+          "text": "حج کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، جَمِيعًا عَنْ جَرِيرٍ، عَنِ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ، وَقَالَ: قَبْلَ وَقْتِهَا بِغَلَسٍ."
+    },
+    "en": {
+      "narrator": "This hadith has been transmitted by Al-A`mash with a slight variation of words:",
+      "text": "He said before its time when it was still dark."
+    },
+    "ur": {
+      "narrator": "ہم سے عثمان بن ابی شیبہ اور اسحاق بن ابراہیم سب نے بیان کیا, جریر نے اعمش سے اسی سند کے ساتھ یہ حدیث بیان کی",
+      "text": "اور کہا : ( فجر کی نماز ) اس کے ( معمول کے ) وقت سے پہلے اندھیرے میں ( اداکی ۔ )"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

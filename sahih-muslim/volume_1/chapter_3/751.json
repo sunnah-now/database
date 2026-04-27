@@ -1,0 +1,41 @@
+{
+  "id": 751,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 3,
+      "language": {
+        "en": {
+          "text": "The Book of Menstruation"
+        },
+        "ar": {
+          "text": "كتاب الْحَيْضِ"
+        },
+        "ur": {
+          "text": "حیض کا معنی و مفہوم"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ فِي هَذَا الْإِسْنَادِ نَحْوَهُ، وَقَالَ: قَالَ: «سُبْحَانَ اللهِ، تَطَهَّرِي بِهَا وَاسْتَتَرَ»."
+    },
+    "en": {
+      "narrator": "This hadith is narrated by 'Ubaidullah b. Mu'adh with the same chain of transmitters (but for the words):",
+      "text": "He (the Holy Prophet) said: Cleanse yourself with it, and he covered (his face on account of shyness)."
+    },
+    "ur": {
+      "narrator": "ہم سے عبید اللہ بن معاذ نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا,شعبہ کے ایک دوسرے شاگرد عبید اللہ کے والد معاذ بن معاذ عنبری نے کہا : ہمیں شعبہ نے اسی ( مذکورہ ) سند سے اسی ( سابقہ حدیث ) کے ہم معنی حدیث بیان کی اور کہا",
+      "text": "آپ نے فرمایا : ’’سبحان اللہ !اس سے پاکیزگی حاصل کرو ‘ ‘ اور آپ نے اپنا چہرہ چھپا لیا ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

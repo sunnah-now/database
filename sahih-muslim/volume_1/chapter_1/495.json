@@ -1,0 +1,41 @@
+{
+  "id": 495,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، وَابْنُ أَبِي خَلَفٍ قَالَ: حَدَّثَنَا رَوْحٌ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، بِهَذَا الْإِسْنَادِ. ح."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was also narrated from Qatadah with this chain. Except that in the version of (one of the narrators) Waki, he said: \"He (ﷺ) said: 'Which is given.\"' And in the version of (one of the narrators) Abu Usamah, he said: \"From the Prophet (ﷺ).\""
+    },
+    "ur": {
+      "narrator": "",
+      "text": "مجھ سے زہیر بن حرب نے بیان کیا اور ابن ابی خلف نے کہا : ہم سے ایک روح نے بیان کیا ,مذکورہ بالا روایت ( ہشام کے بجائے ) شعبہ نے قتادہ سےباقی ماندہ اسی سند کے ساتھ بیان کی ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

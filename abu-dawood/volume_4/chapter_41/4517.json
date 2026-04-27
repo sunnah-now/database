@@ -1,0 +1,41 @@
+{
+  "id": 4517,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 41,
+      "language": {
+        "en": {
+          "text": "Types of Blood-Wit (Kitab Al-Diyat)"
+        },
+        "ar": {
+          "text": "كتاب الديات"
+        },
+        "ur": {
+          "text": "دیتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، ‏‏‏‏‏‏حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ، ‏‏‏‏‏‏عَنِ ابْنِ أَبِي عَرُوبَةَ، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏بِإِسْنَادِ شُعْبَةَ مِثْلَهُ، ‏‏‏‏‏‏زَادَ:‏‏‏‏ ثُمَّ إِنَّ الْحَسَنَ نَسِيَ هَذَا الْحَدِيثَ، ‏‏‏‏‏‏فَكَانَ يَقُولُ:‏‏‏‏ لَا يُقْتَلُ حُرٌّ بِعَبْدٍ."
+    },
+    "en": {
+      "narrator": "Qatadah transmitted the tradition mentioned above through a chain of narrators like that of Shubah. This version adds: Then al-Hasan forgot this tradition, and he used to say:",
+      "text": "A free man is not to be killed for a slave."
+    },
+    "ur": {
+      "narrator": "ہم سے حسن بن علی نے بیان کیا، کہا ہم سے سعید بن عامر نے بیان کیا، انہوں نے ابن ابی عروبہ سے اور قتادہ کی سند سے, اس سند سے بھی قتادہ سے شعبہ کی سند والی روایت کے مثل مروی ہے,اس میں اضافہ ہے کہ پھر حسن ( راوی حدیث ) اس حدیث کو بھول گئے چنانچہ وہ کہتے تھے",
+      "text": "آزاد غلام کے بدلے قتل نہیں کیا جائے گا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

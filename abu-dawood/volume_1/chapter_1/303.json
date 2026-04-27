@@ -1,0 +1,41 @@
+{
+  "id": 303,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "Purification (Kitab Al-Taharah)"
+        },
+        "ar": {
+          "text": "كتاب الطهارة"
+        },
+        "ur": {
+          "text": "طہارت کے مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا الْقَعْنَبِيُّ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي ابْنَ مُحَمَّدٍ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ عُثْمَانَ، ‏‏‏‏‏‏أَنَّهُ سَأَلَ الْقَاسِمَ بْنَ مُحَمَّدٍ عَنِ الْمُسْتَحَاضَةِ، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ تَدَعُ الصَّلَاةَ أَيَّامَ أَقْرَائِهَا، ‏‏‏‏‏‏ثُمَّ تَغْتَسِلُ فَتُصَلِّي، ‏‏‏‏‏‏ثُمَّ تَغْتَسِلُ فِي الْأَيَّامِ ."
+    },
+    "en": {
+      "narrator": "Muhammad bin Uthman said:",
+      "text": "Al-Qasim bin Muhammad about the woman who has a prolonged flow of blood. He replied: She should abandon prayer during her menstrual period, then wash and pray ; then she should wash during her menstrual period."
+    },
+    "ur": {
+      "narrator": "ہم سے القنبی نے بیان کیا، ہم سے عبدالعزیز نے بیان کیا، یعنی ابن محمد نے, محمد بن عثمان سے روایت ہے کہ",
+      "text": "انہوں نے قاسم بن محمد سے مستحاضہ کے بارے میں پوچھا تو قاسم بن محمد نے کہا: وہ اپنے حیض کے دنوں میں نماز چھوڑ دے گی، پھر غسل کرے گی اور نماز پڑھے گی، پھر باقی ایام میں غسل کرتی رہے گی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

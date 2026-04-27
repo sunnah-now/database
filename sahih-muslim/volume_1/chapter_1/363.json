@@ -1,0 +1,41 @@
+{
+  "id": 363,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 1,
+      "language": {
+        "en": {
+          "text": "The Book of Faith"
+        },
+        "ar": {
+          "text": "كتاب الْإِيمَانِ"
+        },
+        "ur": {
+          "text": "ایمان کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا أَبُو الْأَشْهَبِ، عَنِ الْحَسَنِ، قَالَ: عَادَ عُبَيْدُ اللهِ بْنُ زِيَادٍ مَعْقِلَ بْنَ يَسَارٍ الْمُزَنِيَّ فِي مَرَضِهِ الَّذِي مَاتَ فِيهِ، قَالَ مَعْقِلٌ: إِنِّي مُحَدِّثُكَ حَدِيثًا سَمِعْتُهُ مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، لَوْ عَلِمْتُ أَنَّ لِي حَيَاةً مَا حَدَّثْتُكَ، إِنِّي سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَا مِنْ عَبْدٍ يَسْتَرْعِيهِ اللهُ رَعِيَّةً، يَمُوتُ يَوْمَ يَمُوتُ وَهُوَ غَاشٌّ لِرَعِيَّتِهِ، إِلَّا حَرَّمَ اللهُ عَلَيْهِ الْجَنَّةَ."
+    },
+    "en": {
+      "narrator": "Hasan reported:",
+      "text": "'Ubaidullah bin Ziyad paid a visit to Ma'qil bin Yasar Muzani رضی ‌اللہ ‌عنہ ‌in his illness of which he (later on) died. (At this juncture) Ma'qil said: I am going to narrate to you a hadith which I have heard from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and which I would not have transmitted if I knew that I would survive. Verily I have heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) say: There is none amongst the bondsmen who was entrusted with the affairs of his subjects and he died in such a state that he was dishonest in his dealings with those over whom he ruled that the Paradise is not forbidden for him."
+    },
+    "ur": {
+      "narrator": "ہم سے شیبان بن فرخ نے بیان کیا,ابو اشہب نے حسن ( بصری ) سے حدیث بیان کی ، انہوں نے کہا",
+      "text": "عبید اللہ بن زیاد نےحضرت معقل بن یسار مزنی ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے مرض ا لموت میں ان کی عیادت کی تو معقل ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے اس سے کہا : میں تمہیں ایک حدیث سنانے لگاہوں جو میں نے رسو ل اللہ ﷺ سے سنی ۔ اگر میں جانتا کہ میں ا بھی اور زندہ رہوں گا تو تمہیں یہ حدیث نہ سناتا ۔ میں نے رسول اللہ ﷺ کو فرماتے ہوئے سنا : ’’ کوئی ایسا بندہ جسے اللہ کسی رعایا کا نگران بناتا ہے اور مرنے کے دن وہ اس حالت میں مرتا ہے کہ اپنی رعیت سے دھوکا کرنے والا ہے تو اللہ اس پر جنت حرام کر دیتا ہے ۔ ‘ ‘"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1927,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+        },
+        "ar": {
+          "text": "كتاب المناسك"
+        },
+        "ur": {
+          "text": "اعمال حج اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، ‏‏‏‏‏‏حَدَّثَنَا حَمَّادُ بْنُ خَالِدٍ، ‏‏‏‏‏‏عَنْ ابْنِ أَبِي ذِئْبٍ، ‏‏‏‏‏‏عَنْ الزُّهْرِيِّ بِإِسْنَادِهِ وَمَعْنَاهُ، ‏‏‏‏‏‏وَقَالَ:‏‏‏‏ بِإِقَامَةٍ إِقَامَةِ جَمْعٍ بَيْنَهُمَا ، ‏‏‏‏‏‏قَالَ أَحْمَدُ:‏‏‏‏ قَالَ وَكِيعٌ:‏‏‏‏ صَلَّى كُلَّ صَلَاةٍ بِإِقَامَةٍ ."
+    },
+    "en": {
+      "narrator": "The aforesaid tradition has been transmitted by Al Zuhri through a different chain of narrators. This version adds:",
+      "text": "“Each prayer with an iqamah”. Ahmad reported on the authority of Waki “he offered each prayer with a single iqamah. ”"
+    },
+    "ur": {
+      "narrator": "ہم سے احمد بن حنبل نے بیان کیا، ہم سے حماد بن خالد نے بیان کیا، ابن ابی ذہب کی سند سے, اس سند سے بھی زہری سے اسی طریق سے اسی مفہوم کی حدیث مروی ہے,البتہ اس میں ہے کہ",
+      "text": "ایک ہی اقامت سے دونوں کو جمع کیا۔ احمد کہتے ہیں: وکیع نے کہا: ہر نماز الگ الگ اقامت سے پڑھی۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1861,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+        },
+        "ar": {
+          "text": "كتاب المناسك"
+        },
+        "ur": {
+          "text": "اعمال حج اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، ‏‏‏‏‏‏عَنْ مَالِكٍ، ‏‏‏‏‏‏عَنْ عَبْدِ الْكَرِيمِ بْنِ مَالِكٍ الْجَزَرِيِّ، ‏‏‏‏‏‏عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، ‏‏‏‏‏‏عَنْ كَعْبِ بْنِ عُجْرَةَ، ‏‏‏‏‏‏فِي هَذِهِ الْقِصَّةِ، ‏‏‏‏‏‏زَادَ:‏‏‏‏ أَيُّ ذَلِكَ فَعَلْتَ أَجْزَأَ عَنْكَ ."
+    },
+    "en": {
+      "narrator": "It was reported from Abdul-Karim bin Malik Al-Jazari, from Abdur-Rahman bin Abi Laila, from Kab bin Ujrah رضی اللہ عنہ , regarding this incident (as narrated in on previous hadith):",
+      "text": "He added: Whichever of these you do, it will suffice."
+    },
+    "ur": {
+      "narrator": "ہم سے عبداللہ بن مسلمہ القعْنبی نے مالک کی سند سے بیان کیا, اس سند سے بھی کعب بن عجرہ رضی اللہ عنہ سے یہی قصہ مروی ہے",
+      "text": "البتہ اس میں اتنا اضافہ ہے «أى ذلك فعلت أجزأ عنك» اس میں سے تو جو بھی کر لو گے تمہارے لیے کافی ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

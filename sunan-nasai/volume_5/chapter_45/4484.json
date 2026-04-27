@@ -1,0 +1,41 @@
+{
+  "id": 4484,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ،‏‏‏‏ عَنْ بَهْزِ بْنِ أَسَدٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا شُعْبَةُ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ،‏‏‏‏ عَنْ ابْنِ عُمَرَ،‏‏‏‏ قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ كُلُّ بَيِّعَيْنِ فَلَا بَيْعَ بَيْنَهُمَا حَتَّى يَتَفَرَّقَا،‏‏‏‏ إِلَّا بَيْعَ الْخِيَارِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Shu'ban who said: Abdullah bin Dinr narrated to us, from Ibn'Umar, who said; The Messenger of Allah said; When two people meet to engage in trade, the transaction between them is not binding until they separate, unless they have chosen to conclude the transaction."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”بیچنے اور خریدنے والے دونوں کے درمیان اس وقت تک بیع پوری نہیں ہوتی جب تک وہ جدا نہ ہو جائیں، سوائے بیع خیار کے“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

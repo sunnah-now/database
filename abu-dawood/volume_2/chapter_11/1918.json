@@ -1,0 +1,41 @@
+{
+  "id": 1918,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+        },
+        "ar": {
+          "text": "كتاب المناسك"
+        },
+        "ur": {
+          "text": "اعمال حج اور اس کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا عَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ، ‏‏‏‏‏‏حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الْمَجِيدِ أَبُو عَمْرٍو، ‏‏‏‏‏‏عَنْ الْعَدَّاءِ، ‏‏‏‏‏‏بِمَعْنَاهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This tradition has also been transmitted by Al Adda bin Khalid through a different chain of narrators to the same effect."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے عباس بن عبدالعظیم نے بیان کیا، ہم سے عثمان بن عمر نے بیان کیا، ہم سے عبدالمجید ابو عمرو نے عداء بن خالد  کی سند سے اسی معنی کے ساتھ بیان کیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

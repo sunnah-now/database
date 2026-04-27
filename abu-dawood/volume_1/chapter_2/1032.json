@@ -1,0 +1,41 @@
+{
+  "id": 1032,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا حَجَّاجٌ، ‏‏‏‏‏‏حَدَّثَنَا يَعْقُوبُ، ‏‏‏‏‏‏أَخْبَرَنَا أَبِي، ‏‏‏‏‏‏عَنْ ابْنِ إِسْحَاقَ، ‏‏‏‏‏‏حَدَّثَنِي مُحَمَّدُ بْنُ مُسْلِمٍ الزُّهْرِيُّ بِإِسْنَادِهِ وَمَعْنَاهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَلْيَسْجُدْ سَجْدَتَيْنِ قَبْلَ أَنْ يُسَلِّمَ، ‏‏‏‏‏‏ثُمَّ لِيُسَلِّمْ ."
+    },
+    "en": {
+      "narrator": "This traditions has also been narrated by Muhammad bin Muslim al-Zuhr through a different chain of transmitters and to the same effect. This version adds:",
+      "text": "He should perform two prostrations before giving the salutation."
+    },
+    "ur": {
+      "narrator": "ہم سے حجاج نے بیان کیا، کہا ہم سے یعقوب نے بیان کیا، ہم سے میرے والد نے بیان کیا، ابن اسحاق کی سند سے محمد بن مسلمہ نے بیان کیا, اس طریق سے بھی محمد بن مسلم زہری سے اسی سند سے اسی مفہوم کی حدیث مروی ہے,اس میں ہے کہ",
+      "text": "پھر وہ سلام پھیرنے سے پہلے دو سجدے کرے پھر سلام پھیرے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

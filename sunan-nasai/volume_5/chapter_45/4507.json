@@ -1,0 +1,41 @@
+{
+  "id": 4507,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،‏‏‏‏ عَنْ مَالِكٍ،‏‏‏‏ وَاللَّيْثُ،‏‏‏‏ وَاللَّفْظُ لَهُ،‏‏‏‏ عَنْ نَافِعٍ،‏‏‏‏ عَنْ ابْنِ عُمَرَ،‏‏‏‏ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ:‏‏‏‏ لَا يَبِيعُ أَحَدُكُمْ عَلَى بَيْعِ أَخِيهِ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Ibn 'Umar that the Prophet said: No one of you should urge someone to cancel a sale he has already agreed upon with his brother so as to sell him his own goods."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن عمر رضی اللہ عنہما روایت کرتے ہیں کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”تم میں سے کوئی اپنے ( مسلمان ) بھائی کی بیع پر بیع نہ کرے“۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

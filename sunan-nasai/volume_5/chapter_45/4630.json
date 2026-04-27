@@ -1,0 +1,41 @@
+{
+  "id": 4630,
+  "metadata": {
+    "volume": {
+      "id": 5
+    },
+    "chapter": {
+      "id": 45,
+      "language": {
+        "en": {
+          "text": "The Book of Financial Transactions"
+        },
+        "ar": {
+          "text": "كتاب البيوع"
+        },
+        "ur": {
+          "text": "خرید و فروخت کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،‏‏‏‏ قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ،‏‏‏‏ عَنْ أَبِي الزُّبَيْرِ،‏‏‏‏ عَنْ جَابِرٍ،‏‏‏‏ قَالَ:‏‏‏‏ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ بَيْعِ السِّنِينَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Jabir said: The Messenger of Allah forbade selling the produce several years in advance."
+    },
+    "ur": {
+      "narrator": "جابر رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے کئی سال کی بیع کرنے سے منع فرمایا ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

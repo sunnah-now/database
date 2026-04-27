@@ -1,0 +1,41 @@
+{
+  "id": 14,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 0,
+      "language": {
+        "en": {
+          "text": "Introduction"
+        },
+        "ar": {
+          "text": "كتاب مُقَدِّمَةٌ"
+        },
+        "ur": {
+          "text": "مقدمہ"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، قَالَا: أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ: أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللهِ بْنِ عَبْدِ اللهِ بْنِ عُتْبَةَ، أَنَّ عَبْدَ اللهِ بْنَ مَسْعُودٍ، قَالَ: «مَا أَنْتَ بِمُحَدِّثٍ قَوْمًا حَدِيثًا لَا تَبْلُغُهُ عُقُولُهُمْ، إِلَّا كَانَ لِبَعْضِهِمْ فِتْنَةً»"
+    },
+    "en": {
+      "narrator": "Abūt-Tāhir and Harmalah bin Yahyā narrated to me, they said Ibn Wahb narrated to us, he said Yūnus informed me, on authority of Ibn Shihāb, on authority of Ubayd Allah bin Abd Allah bin Utbah, that:",
+      "text": "Abdullah bin Mas’ood ‌رضی ‌اللہ ‌عنہ ‌said: \"It is the case that you do not relate to the people a narration which their minds cannot grasp except that it becomes a Fitnah for some of them\"."
+    },
+    "ur": {
+      "narrator": "ابو طاہر ‘ حرملہ بن یحییٰ ‘ ابن وہب ‘ یونس ‘ ابن شہاب ‘ عبیداللہ بن عبداللہ بن عتبہ سے روایت ہے کہ",
+      "text": "حضرت عبد اللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے فرمایا : تم کسی قوم کے سامنے ایسی حدیث بیان نہیں کرتے جس ( کے صحیح مفہوم ) تک ان کی عقلیں نہیں پہنچ سکتیں مگر وہ ان میں سے بعض کے لیے فتنے ( کا موجب ) بن جاتی ہیں ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

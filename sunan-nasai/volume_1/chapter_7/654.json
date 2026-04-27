@@ -1,0 +1,41 @@
+{
+  "id": 654,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book of the Adhan (The Call to Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الأذان"
+        },
+        "ur": {
+          "text": "اذان کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ دِينَارٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ أَوْسٍ، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ أَنْبَأَنَا رَجُلٌ مِنْ ثَقِيفٍ، ‏‏‏‏‏‏أَنَّهُ سَمِعَ مُنَادِيَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَعْنِي فِي لَيْلَةٍ مَطِيرَةٍ فِي السَّفَرِ، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ حَيَّ عَلَى الصَّلَاةِ حَيَّ عَلَى الْفَلَاحِ، ‏‏‏‏‏‏صَلُّوا فِي رِحَالِكُمْ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that 'Amr bin Aws said: A man of Thaqif told us that he heard the caller of the Messenger of Allah (ﷺ) on a rainy night during a journey saying: 'Hayya 'ala as-salah, Hayya 'ala al'falah, sallu fi rihalikum (Come to prayer, come to prosperity, pray in your dwellings).'"
+    },
+    "ur": {
+      "narrator": "عمرو بن اوس کہتے ہیں کہ",
+      "text": "ہمیں قبیلہ ثقیف کے ایک شخص نے خبر دی کہ اس نے نبی اکرم صلی اللہ علیہ وسلم کے منادی کو سفر میں بارش کی رات میں «حى على الصلاة، حى على الفلاح، صلوا في رحالكم»  نماز کے لیے آؤ، فلاح  ( کامیابی )  کے لیے آؤ، اپنے ڈیروں میں نماز پڑھ لو  کہتے سنا ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

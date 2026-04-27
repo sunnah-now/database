@@ -1,0 +1,41 @@
+{
+  "id": 3752,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 35,
+      "language": {
+        "en": {
+          "text": "The Book of `Umra"
+        },
+        "ar": {
+          "text": "كتاب العمرى"
+        },
+        "ur": {
+          "text": "عمریٰ کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أخبرنا محمد بن المثنى عن سفيان عن عمرو عن طاوس عن حجر المدري عن زيد بن ثابت أن النبي صلى الله عليه وسلم قضى بالعمرى للوارث ‏.‏"
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated from Zaid bin Thabit that the Prophet ruled that 'Umra (a gift given for life) belongs to the heir."
+    },
+    "ur": {
+      "narrator": "زید بن ثابت رضی الله عنہ سے روایت ہے کہ",
+      "text": "نبی اکرم صلی اللہ علیہ وسلم نے عمریٰ کا فیصلہ وارث کے حق میں کیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

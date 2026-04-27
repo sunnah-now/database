@@ -1,0 +1,41 @@
+{
+  "id": 768,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 2,
+      "language": {
+        "en": {
+          "text": "Prayer (Kitab Al-Salat)"
+        },
+        "ar": {
+          "text": "كتاب الصلاة"
+        },
+        "ur": {
+          "text": "نماز کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو نُوحٍ قُرَادٌ، ‏‏‏‏‏‏حَدَّثَنَا عِكْرِمَةُ، ‏‏‏‏‏‏بِإِسْنَادِهِ بِلَا إِخْبَارٍ وَمَعْنَاهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ إِذَا قَامَ بِاللَّيْلِ كَبَّرَ، ‏‏‏‏‏‏وَيَقُولُ:‏‏‏‏"
+    },
+    "en": {
+      "narrator": "The above mentioned tradition has been reported by ‘Ikramah with a different chain of narrators. This version adds:",
+      "text": "When he stood up, he said the takbir (Allah is most great) and said. . . ."
+    },
+    "ur": {
+      "narrator": "ہم سے محمد بن رافع نے بیان کیا، ہم سے ابو نوح قراد نے بیان کیا, اس طریق سے بھی عکرمہ سے اسی سند سے اسی معنی کی حدیث مروی ہے، اس میں ہے",
+      "text": "جب آپ رات میں ( نماز کے لیے ) کھڑے ہوتے تو «الله اكبر» کہتے اور یہ دعا پڑھتے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

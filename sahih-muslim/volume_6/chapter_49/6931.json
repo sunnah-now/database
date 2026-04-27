@@ -1,0 +1,41 @@
+{
+  "id": 6931,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 49,
+      "language": {
+        "en": {
+          "text": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness"
+        },
+        "ar": {
+          "text": "كتاب الذِّكْرِ وَالدُّعَاءِ وَالتَّوْبَةِ وَالِاسْتِغْفَارِ"
+        },
+        "ur": {
+          "text": "ذکر الٰہی‘دعا ‘توبہ اور استغفار"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ بِهَذَا الْإِسْنَادِ مِثْلَهُ وَقَالَ عَنْ صَفْوَانَ بْنِ عَبْدِ اللَّهِ بْنِ صَفْوَانَ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "This hadith has been narrated on the authority of Safwan bin 'Abdullah bin Safwan with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "اور ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, یزید بن ہارون نے عبدالملک بن ابی سلیمان سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ، اور کہا : صفوان بن عبداللہ بن صفوان سے روایت ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

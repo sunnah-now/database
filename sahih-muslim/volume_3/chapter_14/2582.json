@@ -1,0 +1,41 @@
+{
+  "id": 2582,
+  "metadata": {
+    "volume": {
+      "id": 3
+    },
+    "chapter": {
+      "id": 14,
+      "language": {
+        "en": {
+          "text": "The Book of Fasting"
+        },
+        "ar": {
+          "text": "كتاب الصِّيَامِ"
+        },
+        "ur": {
+          "text": "روزے کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "وحَدَّثَنَا يَحْيَى بْنُ بِشْرٍ الْحَرِيرِيُّ، حَدَّثَنَا مُعَاوِيَةُ يَعْنِي ابْنَ سَلَّامٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ بِهَذَا الْإِسْنَادِ مِثْلَهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "A hadith like this has been narrated by Yahya bin Abu Kathir with the same chain of transmitters."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "یحییٰ ابن بشر حریری ، معاویہ ، حضرت یحییٰ بن کثیر سے اس سندکے ساتھ اسی طرح روایت نقل کی گئی ہے ۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

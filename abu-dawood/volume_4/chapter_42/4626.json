@@ -1,0 +1,41 @@
+{
+  "id": 4626,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+        },
+        "ar": {
+          "text": "كتاب السنة"
+        },
+        "ur": {
+          "text": "سنتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا هِلَالُ بْنُ بِشْرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عُثْمَانُ بْنُ عُثْمَانَ، ‏‏‏‏‏‏عَنْ عُثْمَانَ الْبَتِّيِّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ مَا فَسَّرَ الْحَسَنُ آيَةً قَطُّ إِلَّا عَنِ الْإِثْبَاتِ ."
+    },
+    "en": {
+      "narrator": "Uthman said:",
+      "text": "Al-Hasan never interpreted any Quranic verse but to establish (Divine decree)."
+    },
+    "ur": {
+      "narrator": "ہلال ابن بشر نے ہمیں بتایا, عثمان ابن عثمان نے ہمیں بتایا, عثمان کہتے ہیں کہ",
+      "text": "حسن نے جب بھی کسی آیت کی تفسیر کی تو تقدیر کا اثبات کیا۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

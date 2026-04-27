@@ -1,0 +1,41 @@
+{
+  "id": 1008,
+  "metadata": {
+    "volume": {
+      "id": 2
+    },
+    "chapter": {
+      "id": 11,
+      "language": {
+        "en": {
+          "text": "The Book of the Commencement of the Prayer"
+        },
+        "ar": {
+          "text": "كتاب الافتتاح"
+        },
+        "ur": {
+          "text": "نماز شروع کرنے کے مسائل و احکام"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا خَالِدٌ، ‏‏‏‏‏‏قال:‏‏‏‏ حَدَّثَنَا ابْنُ جُرَيْجٍ، ‏‏‏‏‏‏قال:‏‏‏‏ أَخْبَرَنِي مُحَمَّدُ بْنُ عَبَّادٍ حَدِيثًا رَفَعَهُ إِلَى ابْنِ سُفْيَانَ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ السَّائِبِ، ‏‏‏‏‏‏قال:‏‏‏‏ حَضَرْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَ الْفَتْحِ فَصَلَّى فِي قُبُلِ الْكَعْبَةِ فَخَلَعَ نَعْلَيْهِ فَوَضَعَهُمَا عَنْ يَسَارِهِ فَافْتَتَحَ بِسُورَةِ الْمُؤْمِنِينَ فَلَمَّا جَاءَ ذِكْرُ مُوسَى أَوْ عِيسَى عَلَيْهِمَا السَّلَام أَخَذَتْهُ سَعْلَةٌ فَرَكَعَ ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrated that Abdullah bin As-Sa'ib said: I was with the Messenger of Allah (ﷺ) on the day of the Conquest (of Makkah). He prayed in front of the Ka'bah. He took off his shoes and placed them to his left, and he started to recite Surat Al-Mu'minun. When he reached the passage that mentions Musa and 'Eisa, peace be upon them both, he started coughing, then he bowed."
+    },
+    "ur": {
+      "narrator": "عبداللہ بن سائب رضی اللہ عنہ کہتے ہیں کہ",
+      "text": "میں فتح مکہ کے دن رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا، تو آپ نے کعبہ کے سامنے نماز پڑھی، اپنے جوتے اتار کر انہیں اپنی بائیں طرف رکھا، اور سورۃ مومنون سے قرأت شروع کی، جب موسیٰ یا عیسیٰ علیہما السلام کا ذکر آیا ۱؎ تو آپ کو کھانسی آ گئی، تو آپ رکوع میں چلے گئے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

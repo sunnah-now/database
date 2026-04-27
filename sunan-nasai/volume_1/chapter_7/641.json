@@ -1,0 +1,41 @@
+{
+  "id": 641,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book of the Adhan (The Call to Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الأذان"
+        },
+        "ur": {
+          "text": "اذان کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏عَنْ هُشَيْمٍ، ‏‏‏‏‏‏قال:‏‏‏‏ أَنْبَأَنَا مَنْصُورٌ، ‏‏‏‏‏‏عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، ‏‏‏‏‏‏عَنْ عَمَّتِهِ أُنَيْسَةَ، ‏‏‏‏‏‏قالت:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ إِذَا أَذَّنَ ابْنُ أُمِّ مَكْتُومٍ فَكُلُوا وَاشْرَبُوا، ‏‏‏‏‏‏وَإِذَا أَذَّنَ بِلَالٌ فَلَا تَأْكُلُوا وَلَا تَشْرَبُوا ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "It was narrtaed from Khubaib bin 'Abdur-Rahman that his paternal aunt Unaisah said: The Messenger of Allah (ﷺ) said: 'When Ibn Umm Maktum calls the Adhan, eat and drink, and when Bilal calls the Adhan, do not eat nor drink."
+    },
+    "ur": {
+      "narrator": "انیسہ رضی اللہ عنہا کہتی ہیں کہ",
+      "text": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:  جب  ( عبداللہ )  ابن ام مکتوم اذان دیں تو کھاؤ پیو، اور جب بلال اذان دیں تو کھانا پینا بند کر دو ۱؎۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

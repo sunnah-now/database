@@ -1,0 +1,41 @@
+{
+  "id": 4724,
+  "metadata": {
+    "volume": {
+      "id": 4
+    },
+    "chapter": {
+      "id": 42,
+      "language": {
+        "en": {
+          "text": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+        },
+        "ar": {
+          "text": "كتاب السنة"
+        },
+        "ur": {
+          "text": "سنتوں کا بیان"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي سُرَيْجٍ،‏‏‏‏أنبأنا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ سَعْدٍ، ‏‏‏‏‏‏وَمُحَمَّدُ بْنُ سَعِيدٍ، ‏‏‏‏‏‏قَالَا:‏‏‏‏ أنبأنا عَمْرُو بْنُ أَبِي قَيْسٍ، ‏‏‏‏‏‏عَنْ سِمَاكٍ بِإِسْنَادِهِ وَمَعْنَاهُ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "The tradition mentioned above has also been transmitted by Simak through a different chain of narrators to the same effect."
+    },
+    "ur": {
+      "narrator": "",
+      "text": "ہم سے احمد بن ابی سریج نے عبدالرحمٰن بن عبداللہ بن سعد اور محمد بن سعید کی سند سے بیان کیا، انہوں نے کہا: ہم سے عمرو بن ابی قیس نے اس سند سے بھی سماک سے اسی مفہوم کی حدیث مروی ہے۔"
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

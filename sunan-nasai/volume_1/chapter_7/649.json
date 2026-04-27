@@ -1,0 +1,41 @@
+{
+  "id": 649,
+  "metadata": {
+    "volume": {
+      "id": 1
+    },
+    "chapter": {
+      "id": 7,
+      "language": {
+        "en": {
+          "text": "The Book of the Adhan (The Call to Prayer)"
+        },
+        "ar": {
+          "text": "كتاب الأذان"
+        },
+        "ur": {
+          "text": "اذان کے احکام و مسائل"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏وَعَبْدُ الرَّحْمَنِ، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏بِهَذَا الْإِسْنَادِ نَحْوَهُ، ‏‏‏‏‏‏قال أَبُو عَبْد الرَّحْمَنِ:‏‏‏‏ وَلَيْسَ بِأَبِي جَعْفَرٍ الْفَرَّاءِ."
+    },
+    "en": {
+      "narrator": "",
+      "text": "Sufyan narrated a similar report with the same chain. (One of the narrators) (Abu) 'Abdur-Rahman (An-Nasai) said: It is not Abu Ja'far Al-Farra'."
+    },
+    "ur": {
+      "narrator": "اس سند سے بھی سفیان سے اسی جیسی حدیث مروی ہے۔",
+      "text": ""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}

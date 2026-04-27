@@ -1,0 +1,41 @@
+{
+  "id": 7472,
+  "metadata": {
+    "volume": {
+      "id": 6
+    },
+    "chapter": {
+      "id": 54,
+      "language": {
+        "en": {
+          "text": "The Book of Zuhd and Softening of Hearts"
+        },
+        "ar": {
+          "text": "كتاب الزُّهْدِ وَالرَّقَائِقِ"
+        },
+        "ur": {
+          "text": "زہد اور رقت انگیز باتیں"
+        },
+        "al": {
+          "text": ""
+        }
+      }
+    }
+  },
+  "language": {
+    "ar": {
+      "text": "و حَدَّثَنَاه إِسْحَقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ وَعَبْدُ الْمَلِكِ بْنُ الصَّبَّاحِ كِلَاهُمَا عَنْ عَبْدِ الْحَمِيدِ بْنِ جَعْفَرٍ بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّ فِي حَدِيثِهِمَا بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ."
+    },
+    "en": {
+      "narrator": "This hadith has been narrated on the authority of Ja'far with the same chain of transmitters with this variation (that the words are):",
+      "text": "Allah would build for him a house in Paradise."
+    },
+    "ur": {
+      "narrator": "اور ہم سے اسے اسحاق بن ابراہیم الحنظَلی نے روایت کیا ہے, ابو بکر حنفی اور عبدالملک بن صباح دونوں نے عبد الحمید بن جعفر سے اسی سند کے ساتھ خبر دی مگر ان دونوں کی حدیث میں ہے",
+      "text": "\" اللہ اس کے لیے جنت میں گھربنائے گا ۔ \""
+    },
+    "al": {
+      "text": ""
+    }
+  }
+}
